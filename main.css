@@ -17,7 +17,7 @@ header {
   text-align: center;
 }
 main {
-  font-size: calc(var(--font-size:) + 10px);
+  font-size: calc(var(--font-size) + 10px);
   max-width: 600px;
   margin: auto
 }
