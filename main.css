@@ -33,3 +33,6 @@ footer {
 .feecting-box.nav .href {
   flex: 1;
 }
+.feecting-box.nav .href:nth-child(2) {
+  text-align:right;
+}
