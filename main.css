@@ -46,3 +46,14 @@ footer {
 .feecting-box.nav .href:nth-child(2) {
   text-align:right;
 }
+
+.item {
+  padding: .25rem;
+  display: flex;
+}
+.item .label {
+  flex: 0 50px
+}
+.item .value {
+  flex: 1 auto;
+}
