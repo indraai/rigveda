@@ -24,7 +24,7 @@ body {
 
 header,
 footer,
-section.share {
+section.twitter {
   text-align: center;
   max-width: var(--max-width);
   margin: auto
