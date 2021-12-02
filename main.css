@@ -27,13 +27,18 @@ footer,
 section.share {
   text-align: center;
   max-width: var(--max-width);
+  margin: auto
 }
+
 main {
   font-size: calc(var(--font-size) + 10px);
   max-width: var(--max-width);
   margin: auto
 }
 
+section.share {
+  padding: 1rem
+}
 
 .feecting-box.nav {
   display: flex;
