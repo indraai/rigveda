@@ -1,6 +1,9 @@
 :root {
   --font-size: 14px;
   --font-family: 'brandon-grotesque', arial, helvetica, serif;
+  --color-baby-blue: #00b4ff;
+  --color-red: #ff4b4b;
+
 }
 body, div, header, main, footer {
   box-sizing: border-box;
@@ -38,6 +41,7 @@ footer {
   text-decoration: none;
   display: block;
   font-size: 1.5rem;
+  color: var(--color-baby-blue);
 }
 .feecting-box.nav .href:nth-child(2) {
   text-align:right;
