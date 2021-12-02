@@ -28,7 +28,8 @@ footer {
 
 .feecting-box.nav {
   display: flex;
+  flex-flow: row nowrap
 }
-.feecting-box.nav.nav .href {
+.feecting-box.nav .href {
   flex: 1;
 }
