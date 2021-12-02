@@ -3,7 +3,7 @@
   --font-family: arial, helvetica, serif;
   --color-baby-blue: #00b4ff;
   --color-red: #ff4b4b;
-
+  --color-grey: #cccccc;
 }
 body, div, header, main, footer {
   box-sizing: border-box;
@@ -36,7 +36,11 @@ footer {
 .feecting-box.nav {
   display: flex;
   flex-flow: row nowrap
+  background-color: var(--color-grey);
+  border-radius: .5rem;
+  padding: .1rem
 }
+
 .feecting-box.nav .href {
   flex: 1;
   padding: .5rem
