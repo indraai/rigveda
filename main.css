@@ -70,10 +70,6 @@ footer {
   padding: 5px 0;
 }
 
-.feecting-box.hymn .number-item .href {
-  font-weight: bold;
-}
-
 .feecting-box.hymn .number-item::before {
   content: attr(data-label);
   display: inline-block;
