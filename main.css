@@ -65,10 +65,12 @@ footer {
   color: var(--color-baby-blue);
   text-shadow: 0 0px 1px rgba(0,0,0,.15);
 }
-.feecting-box .number-item {
+
+.feecting-box.hymn .number-item {
   padding: .5rem 0;
 }
-.feecting-box .number-item::before {
+
+.feecting-box.hymn .number-item::before {
   content: attr(data-label);
   display: inline-block;
   min-width: 50px;
