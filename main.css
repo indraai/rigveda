@@ -70,6 +70,11 @@ footer {
   padding: 5px 0;
 }
 
+.feecting-box.hymn .number-item .href {
+  text-decoration: none;
+  color: var(--color-baby-blue);
+}
+
 .feecting-box.hymn .number-item::before {
   content: attr(data-label);
   display: inline-block;
