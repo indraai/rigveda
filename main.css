@@ -25,3 +25,10 @@ main {
 footer {
   text-align: center;
 }
+
+.nav {
+  display: flex
+}
+.nav .href {
+  flex: 1
+}
