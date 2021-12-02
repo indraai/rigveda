@@ -65,7 +65,9 @@ footer {
   color: var(--color-baby-blue);
   text-shadow: 0 0px 1px rgba(0,0,0,.15);
 }
-
+.feecting-box .number-item {
+  padding: .5rem 0;
+}
 .item {
   padding: .25rem;
   display: flex;
