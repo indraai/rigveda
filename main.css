@@ -62,7 +62,7 @@ footer {
   text-shadow: 0 2px 3px rgba(0,0,0,.5);
 }
 .feecting-box .href:active {
-  color: var(--color-baby-blue);
+  color: var(--color-red);
   text-shadow: 0 0px 1px rgba(0,0,0,.15);
 }
 
