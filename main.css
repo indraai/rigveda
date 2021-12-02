@@ -68,6 +68,11 @@ footer {
 .feecting-box .number-item {
   padding: .5rem 0;
 }
+.feecting-box .number-item::before {
+  content: attr(data-label);
+  display: inline-block;
+  min-width: 50px;
+}
 .item {
   padding: .25rem;
   display: flex;
