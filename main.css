@@ -35,7 +35,7 @@ footer {
 
 .feecting-box.nav {
   display: flex;
-  flex-flow: row nowrap
+  flex-flow: row nowrap;
   background-color: var(--color-grey);
   border-radius: .5rem;
   padding: .1rem
