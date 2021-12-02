@@ -54,14 +54,14 @@ footer {
 .feecting-box.nav .href:nth-child(2) {
   text-align: right;
 }
-.feecting-box.nav .href:visited {
+.feecting-box .href:visited {
   color: var(--color-red);
 }
-.feecting-box.nav .href:hover {
+.feecting-box .href:hover {
   color: var(--color-green);
   text-shadow: 0 2px 3px rgba(0,0,0,.5);
 }
-.feecting-box.nav .href:active {
+.feecting-box .href:active {
   color: var(--color-baby-blue);
   text-shadow: 0 0px 1px rgba(0,0,0,.15);
 }
@@ -71,8 +71,7 @@ footer {
 }
 
 .feecting-box.hymn .number-item .href {
-  text-decoration: none;
-  color: var(--color-baby-blue);
+  font-weight: bold;
 }
 
 .feecting-box.hymn .number-item::before {
