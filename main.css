@@ -32,6 +32,12 @@ footer {
 }
 .feecting-box.nav .href {
   flex: 1;
+  padding: .5rem
+}
+.feecting-box.nav .href a {
+  text-decoration: none;
+  display: block;
+  font-size: 1.25rem;
 }
 .feecting-box.nav .href:nth-child(2) {
   text-align:right;
