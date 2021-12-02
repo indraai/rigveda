@@ -5,6 +5,7 @@
   --color-red: #ff4b4b;
   --color-grey: #9c9c9c;
   --color-green: #93d14a;
+  --max-width: 600px
 }
 body, div, header, main, footer {
   box-sizing: border-box;
@@ -21,18 +22,18 @@ body {
   height: 0
 }
 
-header {
+header,
+footer,
+section.share {
   text-align: center;
+  max-width: var(--max-width);
 }
 main {
   font-size: calc(var(--font-size) + 10px);
-  max-width: 600px;
+  max-width: var(--max-width);
   margin: auto
 }
 
-footer {
-  text-align: center;
-}
 
 .feecting-box.nav {
   display: flex;
