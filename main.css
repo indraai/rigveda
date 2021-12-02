@@ -52,7 +52,9 @@ footer {
   display: flex;
 }
 .item .label {
-  flex: 0 50px
+  flex: 0 50px;
+  text-alight: right;
+  padding-right: .5rem
 }
 .item .value {
   flex: 1 auto;
