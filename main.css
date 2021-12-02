@@ -26,9 +26,9 @@ footer {
   text-align: center;
 }
 
-.nav {
+.feecting-box.nav {
   display: flex;
 }
-.nav .href {
+.feecting-box.nav.nav .href {
   flex: 1;
 }
