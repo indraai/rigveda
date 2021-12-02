@@ -10,6 +10,9 @@ body, div, header, main, footer {
 }
 
 body {
+  background-image: url(background.jpg);
+  background-size: 100% auto;
+  background-position: fixed;
   font-family: var(--font-family);
   font-size: var(--font-size);
   margin: 0
