@@ -83,15 +83,15 @@ section.twitter {
 .feecting-box.nav .href:nth-child(2) {
   flex: 1;
 }
-.feecting-box .href:visited {
+.feecting-box.nav .href:visited {
   color: var(--color-red);
 }
-.feecting-box .href:hover {
+.feecting-box.nav .href:hover {
   color: var(--color-green);
   background-color: var(--color-grey-dark);
   text-shadow: 0 2px 3px rgba(0,0,0,.5);
 }
-.feecting-box .href:active {
+.feecting-box.nav .href:active {
   color: var(--color-red);
   text-shadow: 0 0px 1px rgba(0,0,0,.15);
 }
