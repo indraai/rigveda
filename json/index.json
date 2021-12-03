@@ -1,0 +1,86 @@
+{
+  "title": "RigVeda Books",
+  "describe": "The RigVeda is one of the most ancient texts known to man. Inside are stories, lessons, and knowledge to be found. Where Vamraka, Indu, Indra, Soma, Agni, Yama, and all the best ancient Devas live.",
+  "data": [
+    {
+      "key": "01",
+      "title": "Rig-Veda Book 1",
+      "orig": "https://www.sacred-texts.com/hin/rigveda/rvi01.htm",
+      "link": "rigveda/01.html",
+      "api": "01.json",
+      "created": 1638549611243
+    },
+    {
+      "key": "02",
+      "title": "Rig-Veda, Book 2",
+      "orig": "https://www.sacred-texts.com/hin/rigveda/rvi02.htm",
+      "link": "rigveda/02.html",
+      "api": "02.json",
+      "created": 1638549611243
+    },
+    {
+      "key": "03",
+      "title": "Rig-Veda, Book 3",
+      "orig": "https://www.sacred-texts.com/hin/rigveda/rvi03.htm",
+      "link": "rigveda/03.html",
+      "api": "03.json",
+      "created": 1638549611243
+    },
+    {
+      "key": "04",
+      "title": "Rig-Veda, Book 4",
+      "orig": "https://www.sacred-texts.com/hin/rigveda/rvi04.htm",
+      "link": "rigveda/04.html",
+      "api": "04.json",
+      "created": 1638549611243
+    },
+    {
+      "key": "05",
+      "title": "Rig-Veda, Book 5",
+      "orig": "https://www.sacred-texts.com/hin/rigveda/rvi05.htm",
+      "link": "rigveda/05.html",
+      "api": "05.json",
+      "created": 1638549611243
+    },
+    {
+      "key": "06",
+      "title": "Rig-Veda, Book 6",
+      "orig": "https://www.sacred-texts.com/hin/rigveda/rvi06.htm",
+      "link": "rigveda/06.html",
+      "api": "06.json",
+      "created": 1638549611243
+    },
+    {
+      "key": "07",
+      "title": "Rig-Veda, Book 7",
+      "orig": "https://www.sacred-texts.com/hin/rigveda/rvi07.htm",
+      "link": "rigveda/07.html",
+      "api": "07.json",
+      "created": 1638549611243
+    },
+    {
+      "key": "08",
+      "title": "Rig-Veda, Book 8",
+      "orig": "https://www.sacred-texts.com/hin/rigveda/rvi08.htm",
+      "link": "rigveda/08.html",
+      "api": "08.json",
+      "created": 1638549611243
+    },
+    {
+      "key": "09",
+      "title": "Rig-Veda, Book 9",
+      "orig": "https://www.sacred-texts.com/hin/rigveda/rvi09.htm",
+      "link": "rigveda/09.html",
+      "api": "09.json",
+      "created": 1638549611243
+    },
+    {
+      "key": "10",
+      "title": "Rig-Veda, Book 10",
+      "orig": "https://www.sacred-texts.com/hin/rigveda/rvi10.htm",
+      "link": "rigveda/10.html",
+      "api": "10.json",
+      "created": 1638549611243
+    }
+  ]
+}

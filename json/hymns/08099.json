@@ -1,0 +1,16 @@
+{
+  "key": "08099",
+  "title": "RigVeda Hymn 08099",
+  "orig": "<HTML>\n<HEAD>\n<link rel=\"stylesheet\" type=\"text/css\" href=\"../../css/marg.css\">\n<META HTTP-EQUIV=\"Content-Type\" CONTENT=\"text/html; charset=UTF-8\">\n<META name=\"description\" content=\"Rig Veda, tr. by Ralph T.H. Griffith, [1896], full text etext at sacred-texts.com\">\n<META name=\"keywords\" content=\"Rig Veda Hinduism Vedic Rik\">\n<TITLE>Rig Veda: Rig-Veda, Book 8: HYMN VII. Praska&#7751;va's Gift.</TITLE>\n</HEAD>\n<BODY>\n<CENTER>\n<A HREF=\"../../cdshop/index.htm\"><IMG SRC=\"../../cdshop/cdinfo.jpg\" BORDER=\"0\"></A><BR>\n<A HREF=\"../../index.htm\">Sacred Texts</A>&nbsp;\n<A HREF=\"../index.htm\">Hinduism</A>&nbsp;\n<A HREF=\"index.htm\">Index</A>&nbsp;\n\n<BR>\n<A HREF=\"../rvsan/rv08099.htm\">Sanskrit</A>&nbsp;\n\n<BR>\n<BR><A HREF=\"rvi08.htm\">Rig-Veda, Book 8 Index</A><BR>\n&nbsp;\n<A HREF=\"rv08098.htm\">Previous</A>&nbsp;\n<A HREF=\"rv08100.htm\">Next</A>&nbsp;\n<HR><A HREF=\"http://www.amazon.com/exec/obidos/ASIN/B001VEIA6U/internetsacredte\">Buy this Book at Amazon.com</A></CENTER>\n<HR>\n<P ALIGN=\"CENTER\"><FONT SIZE=\"-1\" COLOR=\"GREEN\"><I>Rig Veda</I>, tr. by Ralph T.H. Griffith, [1896], at sacred-texts.com</FONT></P><HR></p>  <h3 align=\"center\" align=\"center\">HYMN VII. Praska&#7751;va's Gift.</h3>  \n<p>1. GREAT, verily, is Indra's might. I have beheld, and hither comes<br> Thy bounty, Dasyave-vrka!<br> 2 A hundred oxen white of hue are shining like the stars in heaven,<br> So tall, they seem to prop the sky.<br> 3 Bamboos a hundred, a hundred dogs, a hundred skins of beasts well-tanned,<br> A hundred tufts of Balbaja, four hundred red-hued mares are mine.<br> 4 Blest by the Gods, Kinvayanas! be ye who spread through life on life:<br> Like horses have ye stridden forth.<br> 5 Then men extolled the team of seven not yet full-grown, its fame is great.<br> The dark mares rushed along the paths, so that no eye could follow them.</p>  \n<p><HR>\n<CENTER>\n<A HREF=\"rv08100.htm\">Next: HYMN VIII Praska&#7751;va's Go.</A></CENTER>\n</BODY>\n</HTML>\n",
+  "link": "rigveda/hymns/08099.html",
+  "api": "hymns/08099json",
+  "data": {
+    "title": "HYMN VII. Praskaṇva's Gift.",
+    "describe": "GREAT, verily, is Indra's might.",
+    "feecting": "p:GREAT, verily, is Indra's might. I have beheld, and hither comes Thy bounty, Dasyave-vrka!\np:A hundred oxen white of hue are shining like the stars in Heaven, So tall, they seem to prop the sky.\np:Bamboos a hundred, a hundred dogs, a hundred skins of beasts well-tanned, a hundred tufts of Balbaja, four hundred red-hued mares are mine.\np:Blest by the Devas, Kinvayanas! be ye who spread through life on life: Like horses have ye stridden forth.\np:Then men extolled the team of seven not yet full-grown, its fame is great.\np: The dark mares rushed along the paths, so that no eye could follow them.",
+    "next": "08100",
+    "previous": "08098",
+    "book": "08"
+  },
+  "created": 1638556814101
+}

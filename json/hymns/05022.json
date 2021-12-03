@@ -1,0 +1,16 @@
+{
+  "key": "05022",
+  "title": "RigVeda Hymn 05022",
+  "orig": "<HTML>\n<HEAD>\n<link rel=\"stylesheet\" type=\"text/css\" href=\"../../css/marg.css\">\n<META HTTP-EQUIV=\"Content-Type\" CONTENT=\"text/html; charset=UTF-8\">\n<META name=\"description\" content=\"Rig Veda, tr. by Ralph T.H. Griffith, [1896], full text etext at sacred-texts.com\">\n<META name=\"keywords\" content=\"Rig Veda Hinduism Vedic Rik\">\n<TITLE>Rig Veda: Rig-Veda, Book 5: HYMN XXII. Agni.</TITLE>\n</HEAD>\n<BODY>\n<CENTER>\n<A HREF=\"../../cdshop/index.htm\"><IMG SRC=\"../../cdshop/cdinfo.jpg\" BORDER=\"0\"></A><BR>\n<A HREF=\"../../index.htm\">Sacred Texts</A>&nbsp;\n<A HREF=\"../index.htm\">Hinduism</A>&nbsp;\n<A HREF=\"index.htm\">Index</A>&nbsp;\n\n<BR>\n<A HREF=\"../rvsan/rv05022.htm\">Sanskrit</A>&nbsp;\n\n<BR>\n<BR><A HREF=\"rvi05.htm\">Rig-Veda, Book 5 Index</A><BR>\n&nbsp;\n<A HREF=\"rv05021.htm\">Previous</A>&nbsp;\n<A HREF=\"rv05023.htm\">Next</A>&nbsp;\n<HR><A HREF=\"http://www.amazon.com/exec/obidos/ASIN/B001VEIA6U/internetsacredte\">Buy this Book at Amazon.com</A></CENTER>\n<HR>\n<P ALIGN=\"CENTER\"><FONT SIZE=\"-1\" COLOR=\"GREEN\"><I>Rig Veda</I>, tr. by Ralph T.H. Griffith, [1896], at sacred-texts.com</FONT></P><HR></p>  <h3 align=\"center\" align=\"center\">HYMN XXII. Agni.</h3>  \n<p>1. LIKE Atri, Vi&#347;vas&#257;man! sing to him of purifying light,<br> Who must be praised in holy rites, the Priest most welcome in the house.<br> 2 Set J&#257;tavedas in his place, Agni the God and Minister.<br> Let sacrifice proceed to-day duly, comprising all the Gods.<br> 3 All mortals come to thee for aid, the God of most observant mind.<br> Of thine excelling favour we bethink us as we long for it.<br> 4 Mark with attention this our speech, O Agni, thou victorious One.<br> Thee, Strong-jawed! as the homestead's Lord, the Atris with their lauds exalt, the Atris beautify with songs.</p>  \n<p><HR>\n<CENTER>\n<A HREF=\"rv05023.htm\">Next: HYMN XXIII. Agni.</A></CENTER>\n</BODY>\n</HTML>\n",
+  "link": "rigveda/hymns/05022.html",
+  "api": "hymns/05022json",
+  "data": {
+    "title": "HYMN XXII. Agni.",
+    "describe": "LIKE Atri, Viśvasāman!",
+    "feecting": "p:LIKE Atri, Viśvasāman! sing to him of purifying light, who must be praised in holy rites, the Monk most welcome in the house.\np:Set Jātavedas in his place, Agni the Deva and Minister.\np: Let offering proceed to-day duly, comprising all the Devas.\r\np:All mortals come to thee for aid of most observant mind. Of thine excelling favour we bethink us as we long for it.\np:Mark with attention this our speech, O Agni, thou victorious One. Thee, Strong-jawed! as the homestead's Lord, the Atris with their lauds exalt, the Atris beautify with songs.",
+    "next": "05023",
+    "previous": "05021",
+    "book": "05"
+  },
+  "created": 1638555001305
+}
