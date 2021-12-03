@@ -50,11 +50,11 @@ section.twitter {
 
 .feecting-box .href {
   transition: all .5s linear;
-  flex: 0 60px;
+  flex: 0 72px;
   text-align: center;
   padding: .5rem;
   text-decoration: none;
-  font-size: 1.5rem;
+  font-size: 1.25rem;
   color: var(--color-baby-blue);
   text-shadow: 0 1px 2px rgba(0,0,0,.35);
   background-color:var(--color-grey);
