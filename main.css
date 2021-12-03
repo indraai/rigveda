@@ -31,6 +31,9 @@ section.twitter {
   margin: auto
 }
 
+header img {
+  max-width: 100%;
+}
 main {
   font-size: calc(var(--font-size) + 10px);
   max-width: var(--max-width);
