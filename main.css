@@ -58,7 +58,7 @@ section.twitter {
   text-shadow: 0 1px 2px rgba(0,0,0,.35);
 }
 .feecting-box.nav .href:nth-child(2) {
-  flex: 1 auto;
+  flex: 1;
 }
 .feecting-box .href:visited {
   color: var(--color-red);
