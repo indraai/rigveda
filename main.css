@@ -50,7 +50,8 @@ section.twitter {
 
 .feecting-box .href {
   transition: all .5s linear;
-  flex: 0 72px;
+  flex: 0 100px;
+  min-width: 100px;
   text-align: center;
   padding: .5rem;
   text-decoration: none;
