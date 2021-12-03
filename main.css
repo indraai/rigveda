@@ -8,7 +8,7 @@
   --color-green: #93d14a;
   --max-width: 600px
 }
-body, div, header, main, footer {
+body, div, header, main, footer, h1, h2, h3, h4, h5 {
   box-sizing: border-box;
 }
 
@@ -23,6 +23,18 @@ body {
   height: 0
 }
 
+h1 {
+  font-size: 2.5rem
+}
+h2 {
+  font-size: 2.2rem
+}
+h3 {
+  font-size: 1.9rem
+}
+h4 {
+  font-size: 1.5rem
+}
 header,
 footer,
 section.twitter {
