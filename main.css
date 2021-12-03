@@ -4,6 +4,7 @@
   --color-baby-blue: #5aa9f8;
   --color-red: #ff4b4b;
   --color-grey: #9c9c9c;
+  --color-grey-dark: #333333;
   --color-green: #93d14a;
   --max-width: 600px
 }
@@ -68,6 +69,7 @@ section.twitter {
 }
 .feecting-box .href:hover {
   color: var(--color-green);
+  background-color: var(--color-grey-dark);
   text-shadow: 0 2px 3px rgba(0,0,0,.5);
 }
 .feecting-box .href:active {
