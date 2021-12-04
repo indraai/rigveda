@@ -2,6 +2,8 @@
   "key": "09",
   "title": "RigVeda Book 09",
   "describe": "Book 9 of the RigVeda is where you find the stories of Indu",
+  "link": "09.html",
+  "api": "json/09.json",
   "data": [
     {
       "key": "09001",

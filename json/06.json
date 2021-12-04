@@ -2,6 +2,8 @@
   "key": "06",
   "title": "RigVeda Book 06",
   "describe": "Review book 6 for describe.",
+  "link": "06.html",
+  "api": "json/06.json",
   "data": [
     {
       "key": "06001",
