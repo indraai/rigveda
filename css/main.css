@@ -64,6 +64,19 @@ section.twitter {
   padding: 1rem
 }
 
+.feecting-box.books {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  gap: 1px;
+}
+
+.feecting-box.books href {
+  flex: 1 30%;
+  min-height: 720px;
+  background-color: var(--color-baby-blue);
+}
+
 .feecting-box.nav {
   display: flex;
   flex-flow: row nowrap;
