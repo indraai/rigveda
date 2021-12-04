@@ -183,35 +183,39 @@
     },
     {
       "key": "02023",
-      "title": "HYMN XXIII. Brahmaṇaspati.",
+      "title": "HYMN XXIII. Soma.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv02023.htm",
       "link": "hymns/02023.html",
       "api": "json/hymns/02023.json",
-      "created": 1638549617309
+      "created": 1638549617309,
+      "updated": 1638640289301
     },
     {
       "key": "02024",
-      "title": "HYMN XXIV. Brahmaṇaspati.",
+      "title": "HYMN XXIV. Soma.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv02024.htm",
       "link": "hymns/02024.html",
       "api": "json/hymns/02024.json",
-      "created": 1638549617309
+      "created": 1638549617309,
+      "updated": 1638640289301
     },
     {
       "key": "02025",
-      "title": "HYMN XXV. Brahmaṇaspati.",
+      "title": "HYMN XXV. Soma.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv02025.htm",
       "link": "hymns/02025.html",
       "api": "json/hymns/02025.json",
-      "created": 1638549617309
+      "created": 1638549617309,
+      "updated": 1638640289301
     },
     {
       "key": "02026",
-      "title": "HYMN XXVI. Brahmaṇaspati.",
+      "title": "HYMN XXVI. Soma.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv02026.htm",
       "link": "hymns/02026.html",
       "api": "json/hymns/02026.json",
-      "created": 1638549617309
+      "created": 1638549617309,
+      "updated": 1638640289301
     },
     {
       "key": "02027",
@@ -223,35 +227,39 @@
     },
     {
       "key": "02028",
-      "title": "HYMN XXVIII. Varuṇa",
+      "title": "HYMN XXVIII. Indra",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv02028.htm",
       "link": "hymns/02028.html",
       "api": "json/hymns/02028.json",
-      "created": 1638549617309
+      "created": 1638549617309,
+      "updated": 1638640289301
     },
     {
       "key": "02029",
-      "title": "HYMN XXIX. Viśvedevas.",
+      "title": "HYMN XXIX. Devas.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv02029.htm",
       "link": "hymns/02029.html",
       "api": "json/hymns/02029.json",
-      "created": 1638549617309
+      "created": 1638549617309,
+      "updated": 1638640289301
     },
     {
       "key": "02030",
-      "title": "HYMN XXX. Indra and Others.",
+      "title": "HYMN XXX. Indra.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv02030.htm",
       "link": "hymns/02030.html",
       "api": "json/hymns/02030.json",
-      "created": 1638549617309
+      "created": 1638549617309,
+      "updated": 1638640289301
     },
     {
       "key": "02031",
-      "title": "HYMN XXXI. Viśvedevas.",
+      "title": "HYMN XXXI. Devas.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv02031.htm",
       "link": "hymns/02031.html",
       "api": "json/hymns/02031.json",
-      "created": 1638549617309
+      "created": 1638549617309,
+      "updated": 1638640289301
     },
     {
       "key": "02032",
@@ -263,19 +271,21 @@
     },
     {
       "key": "02033",
-      "title": "HYMN XXXIII. Rudra.",
+      "title": "HYMN XXXIII. Soma.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv02033.htm",
       "link": "hymns/02033.html",
       "api": "json/hymns/02033.json",
-      "created": 1638549617309
+      "created": 1638549617309,
+      "updated": 1638640289301
     },
     {
       "key": "02034",
-      "title": "HYMN XXXIV. Maruts",
+      "title": "HYMN XXXIV. Devas",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv02034.htm",
       "link": "hymns/02034.html",
       "api": "json/hymns/02034.json",
-      "created": 1638549617309
+      "created": 1638549617309,
+      "updated": 1638640289301
     },
     {
       "key": "02035",
@@ -303,11 +313,12 @@
     },
     {
       "key": "02038",
-      "title": "HYMN XXXVIII. Savitar.",
+      "title": "HYMN XXXVIII. Indra.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv02038.htm",
       "link": "hymns/02038.html",
       "api": "json/hymns/02038.json",
-      "created": 1638549617309
+      "created": 1638549617309,
+      "updated": 1638640289301
     },
     {
       "key": "02039",

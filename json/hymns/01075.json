@@ -3,14 +3,15 @@
   "title": "RigVeda Hymn 01075",
   "orig": "<HTML>\n<HEAD>\n<link rel=\"stylesheet\" type=\"text/css\" href=\"../../css/marg.css\">\n<META HTTP-EQUIV=\"Content-Type\" CONTENT=\"text/html; charset=UTF-8\">\n<META name=\"description\" content=\"Rig Veda, tr. by Ralph T.H. Griffith, [1896], full text etext at sacred-texts.com\">\n<META name=\"keywords\" content=\"Rig Veda Hinduism Vedic Rik\">\n<TITLE>Rig Veda: Rig-Veda Book 1: HYMN LXXV. Agni.</TITLE>\n</HEAD>\n<BODY>\n<CENTER>\n<A HREF=\"../../cdshop/index.htm\"><IMG SRC=\"../../cdshop/cdinfo.jpg\" BORDER=\"0\"></A><BR>\n<A HREF=\"../../index.htm\">Sacred Texts</A>&nbsp;\n<A HREF=\"../index.htm\">Hinduism</A>&nbsp;\n<A HREF=\"index.htm\">Index</A>&nbsp;\n\n<BR>\n<A HREF=\"../rvsan/rv01075.htm\">Sanskrit</A>&nbsp;\n\n<BR>\n<BR><A HREF=\"rvi01.htm\">Rig-Veda Book 1 Index</A><BR>\n&nbsp;\n<A HREF=\"rv01074.htm\">Previous</A>&nbsp;\n<A HREF=\"rv01076.htm\">Next</A>&nbsp;\n<HR><A HREF=\"http://www.amazon.com/exec/obidos/ASIN/B001VEIA6U/internetsacredte\">Buy this Book at Amazon.com</A></CENTER>\n<HR>\n<P ALIGN=\"CENTER\"><FONT SIZE=\"-1\" COLOR=\"GREEN\"><I>Rig Veda</I>, tr. by Ralph T.H. Griffith, [1896], at sacred-texts.com</FONT></P><HR></p>  <h3 align=\"center\" align=\"center\">HYMN LXXV. Agni.</h3>  \n<p>1. ACCEPT our loudest-sounding hymn, food most delightful to the Gods,<br> Pouring our offerings in thy mouth.<br> 2 Now, Agni, will we say to thee, O wisest and best A&#7749;giras,<br> Our precious, much-availing prayer.<br> 3 Who, Agni, is thy kin, of men? who is thy worthy worshipper?<br> On whom dependent? who art thou?<br> 4 The kinsman, Agni, of mankind, their well beloved Friend art thou,<br> A Friend whom friends may supplicate.<br> 5 Bring to us Mitra, Varu&#7751;a, bring the Gods to mighty sacrifice.<br> Bring them, O Agni, to thine home.</p>  \n<p><HR>\n<CENTER>\n<A HREF=\"rv01076.htm\">Next: HYMN LXXVI. Agni.</A></CENTER>\n</BODY>\n</HTML>\n",
   "link": "hymns/01075.html",
-  "api": "hymns/01075json",
+  "api": "json/hymns/01075.json",
   "data": {
     "title": "HYMN LXXV. Agni.",
     "describe": "ACCEPT our loudest-sounding hymn, food most delightful to the Devas, Pouring our offerings in thy mouth.",
-    "feecting": "p:ACCEPT our loudest-sounding hymn, food most delightful to the Devas, Pouring our offerings in thy mouth.\np:Now, Agni, will we say to thee, O wisest and best Aṅgiras, Our precious, much-availing prayer.\np:Who, Agni, is thy kin, of men? who is thy worthy worshipper? On whom dependent? who art thou?\np:The kinsman, Agni, of mankind, their well beloved Friend art thou, a Friend whom friend. May supplicate.\np:Bring to us Mitra, Indra, bring the Devas to mighty offering.\np: Bring them, O Agni, to thine home.",
+    "feecting": "p:ACCEPT our loudest-sounding hymn, food most delightful to the Devas, Pouring our offerings in thy mouth.\np:Now, Agni, will we say to thee, O wisest and best A&#7749;giras, Our precious, much-availing prayer.\np:Who, Agni, is thy kin, of men? who is thy worthy worshipper? On whom dependent? who art thou?\np:The kinsman, Agni, of mankind, their well beloved Friend art thou, a friend whom friend. May supplicate.\np:Bring to us Mitra, Varu&#7751;a, bring the Devas to mighty offering.\np: Bring them, O Agni, to thine home.",
     "next": "01076",
     "previous": "01074",
     "book": "01"
   },
-  "created": 1638553408783
+  "created": 1638553408783,
+  "updated": 1638642698096
 }

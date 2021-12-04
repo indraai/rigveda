@@ -3,14 +3,15 @@
   "title": "RigVeda Hymn 09035",
   "orig": "<HTML>\n<HEAD>\n<link rel=\"stylesheet\" type=\"text/css\" href=\"../../css/marg.css\">\n<META HTTP-EQUIV=\"Content-Type\" CONTENT=\"text/html; charset=UTF-8\">\n<META name=\"description\" content=\"Rig Veda, tr. by Ralph T.H. Griffith, [1896], full text etext at sacred-texts.com\">\n<META name=\"keywords\" content=\"Rig Veda Hinduism Vedic Rik\">\n<TITLE>Rig Veda: Rig-Veda, Book 9: HYMN XXXV. Soma Pavamana.</TITLE>\n</HEAD>\n<BODY>\n<CENTER>\n<A HREF=\"../../cdshop/index.htm\"><IMG SRC=\"../../cdshop/cdinfo.jpg\" BORDER=\"0\"></A><BR>\n<A HREF=\"../../index.htm\">Sacred Texts</A>&nbsp;\n<A HREF=\"../index.htm\">Hinduism</A>&nbsp;\n<A HREF=\"index.htm\">Index</A>&nbsp;\n\n<BR>\n<A HREF=\"../rvsan/rv09035.htm\">Sanskrit</A>&nbsp;\n\n<BR>\n<BR><A HREF=\"rvi09.htm\">Rig-Veda, Book 9 Index</A><BR>\n&nbsp;\n<A HREF=\"rv09034.htm\">Previous</A>&nbsp;\n<A HREF=\"rv09036.htm\">Next</A>&nbsp;\n<HR><A HREF=\"http://www.amazon.com/exec/obidos/ASIN/B001VEIA6U/internetsacredte\">Buy this Book at Amazon.com</A></CENTER>\n<HR>\n<P ALIGN=\"CENTER\"><FONT SIZE=\"-1\" COLOR=\"GREEN\"><I>Rig Veda</I>, tr. by Ralph T.H. Griffith, [1896], at sacred-texts.com</FONT></P><HR></p>  <h3 align=\"center\" align=\"center\">HYMN XXXV. Soma Pavamana.</h3>  \n<p>1. Pour forth on us abundant wealth, O Pavamana, with thy stream.<br> Wherewith thou mayest find us light<br> 2 O Indu, swayer of the sea, shaker of all things, flow thou on,<br> Bearer of wealth to us with might.<br> 3 With thee for Hero, Valiant One! may we subdue our enemies:<br> Let what is precious flow to us.<br> 4 Indu arouses strength the Sage who strives for victory, winning power,<br> Discovering holy works and means.<br> 5 Mover of speech, we robe him with our songs as he is purified<br> Soma, the Guardian of the folk;<br> 6 On whose way, Lord of Holy Law, most richi as he is purified.<br> The people all have set their hearts.</p>  \n<p><HR>\n<CENTER>\n<A HREF=\"rv09036.htm\">Next: HYMN XXXVI. Soma Pavamana.</A></CENTER>\n</BODY>\n</HTML>\n",
   "link": "hymns/09035.html",
-  "api": "hymns/09035json",
+  "api": "json/hymns/09035.json",
   "data": {
-    "title": "HYMN XXXV. Soma Pavamana.",
+    "title": "HYMN XXXV. Indu.",
     "describe": "Pour forth on us abundant wealth, O Pavamana, with thy stream.",
     "feecting": "p:Pour forth on us abundant wealth, O Pavamana, with thy stream.\np: Wherewith tho. Mayest find us light\r\np:O Indu, swayer of the sea, shaker of all things, flow thou on, bearer of wealth to us with might.\np:With thee for Hero, Valiant One. May we subdue our enemies: Let what is precious flow to us.\np:Indu arouses strength the Sage who strives for victory, winning power, Discovering holy works and means.\np:Mover of speech, we robe him with our songs as he is purified Soma, the Guardian of the folk;\np:On whose way, Lord of Holy Law, most richi as he is purified. The people all have set their hearts.",
     "next": "09036",
     "previous": "09034",
     "book": "09"
   },
-  "created": 1638557019842
+  "created": 1638557019842,
+  "updated": 1638642698899
 }

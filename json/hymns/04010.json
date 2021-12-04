@@ -3,7 +3,7 @@
   "title": "RigVeda Hymn 04010",
   "orig": "<HTML>\n<HEAD>\n<link rel=\"stylesheet\" type=\"text/css\" href=\"../../css/marg.css\">\n<META HTTP-EQUIV=\"Content-Type\" CONTENT=\"text/html; charset=UTF-8\">\n<META name=\"description\" content=\"Rig Veda, tr. by Ralph T.H. Griffith, [1896], full text etext at sacred-texts.com\">\n<META name=\"keywords\" content=\"Rig Veda Hinduism Vedic Rik\">\n<TITLE>Rig Veda: Rig-Veda, Book 4: HYMN X. Agni.</TITLE>\n</HEAD>\n<BODY>\n<CENTER>\n<A HREF=\"../../cdshop/index.htm\"><IMG SRC=\"../../cdshop/cdinfo.jpg\" BORDER=\"0\"></A><BR>\n<A HREF=\"../../index.htm\">Sacred Texts</A>&nbsp;\n<A HREF=\"../index.htm\">Hinduism</A>&nbsp;\n<A HREF=\"index.htm\">Index</A>&nbsp;\n\n<BR>\n<A HREF=\"../rvsan/rv04010.htm\">Sanskrit</A>&nbsp;\n\n<BR>\n<BR><A HREF=\"rvi04.htm\">Rig-Veda, Book 4 Index</A><BR>\n&nbsp;\n<A HREF=\"rv04009.htm\">Previous</A>&nbsp;\n<A HREF=\"rv04011.htm\">Next</A>&nbsp;\n<HR><A HREF=\"http://www.amazon.com/exec/obidos/ASIN/B001VEIA6U/internetsacredte\">Buy this Book at Amazon.com</A></CENTER>\n<HR>\n<P ALIGN=\"CENTER\"><FONT SIZE=\"-1\" COLOR=\"GREEN\"><I>Rig Veda</I>, tr. by Ralph T.H. Griffith, [1896], at sacred-texts.com</FONT></P><HR></p>  <h3 align=\"center\" align=\"center\">HYMN X. Agni.</h3>  \n<p>1. This day with praises, Agni, we bring thee that which thou lovest.<br> Right judgment, like a horse, with our devotions.<br> 2 For thou hast ever been the Car-driver, Agni, of noble<br> Strength, lofty sacrifice, and rightful judgment.<br> 3 Through these our praises come thou to meet us, bright as the sunlight,<br> O Agni, well disposed, with all thine aspects.<br> 4 Now may we serve thee singing these lauds this day to thee, Agni.<br> Loud as the voice of Heaven thy blasts are roaring.<br> 5 Just at this time of the day and the night thy look is the sweetest:<br> It shineth near us even as gold for glory.<br> 6 Spotless thy body, brilliant as gold, like clarified butter:<br> This gleams like gold on thee, O Self. dependent.<br> 7 All hate and mischief, yea, if committed, Agni, thou turnest,<br> Holy One, from the man who rightly worships.<br> 8 Agni, with you Gods, prosperous be our friendships and kinships.<br> Be this our bond here by this place, thine altar.</p>  \n<p><HR>\n<CENTER>\n<A HREF=\"rv04011.htm\">Next: HYMN XI. Agni.</A></CENTER>\n</BODY>\n</HTML>\n",
   "link": "hymns/04010.html",
-  "api": "hymns/04010json",
+  "api": "json/hymns/04010.json",
   "data": {
     "title": "HYMN X. Agni.",
     "describe": "This day with praises, Agni, we bring thee that which thou lovest.",
@@ -12,5 +12,6 @@
     "previous": "04009",
     "book": "04"
   },
-  "created": 1638554631041
+  "created": 1638554631041,
+  "updated": 1638642698340
 }

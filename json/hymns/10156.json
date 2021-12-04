@@ -3,14 +3,15 @@
   "title": "RigVeda Hymn 10156",
   "orig": "<HTML>\n<HEAD>\n<link rel=\"stylesheet\" type=\"text/css\" href=\"../../css/marg.css\">\n<META HTTP-EQUIV=\"Content-Type\" CONTENT=\"text/html; charset=UTF-8\">\n<META name=\"description\" content=\"Rig Veda, tr. by Ralph T.H. Griffith, [1896], full text etext at sacred-texts.com\">\n<META name=\"keywords\" content=\"Rig Veda Hinduism Vedic Rik\">\n<TITLE>Rig Veda: Rig-Veda, Book 10: HYMN CLVI. Agni.</TITLE>\n</HEAD>\n<BODY>\n<CENTER>\n<A HREF=\"../../cdshop/index.htm\"><IMG SRC=\"../../cdshop/cdinfo.jpg\" BORDER=\"0\"></A><BR>\n<A HREF=\"../../index.htm\">Sacred Texts</A>&nbsp;\n<A HREF=\"../index.htm\">Hinduism</A>&nbsp;\n<A HREF=\"index.htm\">Index</A>&nbsp;\n\n<BR>\n<A HREF=\"../rvsan/rv10156.htm\">Sanskrit</A>&nbsp;\n\n<BR>\n<BR><A HREF=\"rvi10.htm\">Rig-Veda, Book 10 Index</A><BR>\n&nbsp;\n<A HREF=\"rv10155.htm\">Previous</A>&nbsp;\n<A HREF=\"rv10157.htm\">Next</A>&nbsp;\n<HR><A HREF=\"http://www.amazon.com/exec/obidos/ASIN/B001VEIA6U/internetsacredte\">Buy this Book at Amazon.com</A></CENTER>\n<HR>\n<P ALIGN=\"CENTER\"><FONT SIZE=\"-1\" COLOR=\"GREEN\"><I>Rig Veda</I>, tr. by Ralph T.H. Griffith, [1896], at sacred-texts.com</FONT></P><HR></p>  <h3 align=\"center\" align=\"center\">HYMN CLVI. Agni.</h3>  \n<p>1. LET songs of ours speed Agni forth like a fleet courser in the race,<br> And we will win each prize through him.<br> 2 Agni the dart whereby we gain kine for ourselves with help from thee,&#151;<br> That send us for the gain of wealth.<br> 3 O Agni, bring us wealth secure, vast wealth in horses and in kine:<br> Oil thou the socket, turn the wheel.<br> 4 O Agni, thou hast made the Sun, Eternal Star, to mount the sky,<br> Bestowing light on living men.<br> 5 Thou, Agni, art the people's light, best, dearest, seated in thy shrine:<br> Watch for the singer, give him life.</p>  \n<p><HR>\n<CENTER>\n<A HREF=\"rv10157.htm\">Next: HYMN CLVII. Vi&#347;vedevas.</A></CENTER>\n</BODY>\n</HTML>\n",
   "link": "hymns/10156.html",
-  "api": "hymns/10156json",
+  "api": "json/hymns/10156.json",
   "data": {
     "title": "HYMN CLVI. Agni.",
     "describe": "LET songs of ours speed Agni forth like a fleet courser in the race, and we will win each prize through him.",
-    "feecting": "p:LET songs of ours speed Agni forth like a fleet courser in the race, and we will win each prize through him.\np:Agni the dart whereby we gain kine for ourselves with help from thee,— That send us for the gain of wealth.\np:O Agni, bring us wealth secure, vast wealth in horses and in kine: Oil thou the socket, turn the wheel.\np:O Agni, thou hast made the Sun, Eternal Star, to mount the sky, bestowing light on living men.\np:Thou, Agni, art the people's light, best, dearest, seated in thy shrine: Watch for the singer, give him life.",
+    "feecting": "p:LET songs of ours speed Agni forth like a fleet courser in the race, and we will win each prize through him.\np:Agni the dart whereby we gain kine for ourselves with help from thee,&#151; That send us for the gain of wealth.\np:O Agni, bring us wealth secure, vast wealth in horses and in kine: Oil thou the socket, turn the wheel.\np:O Agni, thou hast made the Sun, Eternal Star, to mount the sky, bestowing light on living men.\np:Thou, Agni, art the people's light, best, dearest, seated in thy shrine: Watch for the singer, give him life.",
     "next": "10157",
     "previous": "10155",
     "book": "10"
   },
-  "created": 1638558263988
+  "created": 1638558263988,
+  "updated": 1638642699147
 }

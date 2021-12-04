@@ -3,7 +3,7 @@
   "title": "RigVeda Hymn 10179",
   "orig": "<HTML>\n<HEAD>\n<link rel=\"stylesheet\" type=\"text/css\" href=\"../../css/marg.css\">\n<META HTTP-EQUIV=\"Content-Type\" CONTENT=\"text/html; charset=UTF-8\">\n<META name=\"description\" content=\"Rig Veda, tr. by Ralph T.H. Griffith, [1896], full text etext at sacred-texts.com\">\n<META name=\"keywords\" content=\"Rig Veda Hinduism Vedic Rik\">\n<TITLE>Rig Veda: Rig-Veda, Book 10: HYMN CLXXIX. Indra.</TITLE>\n</HEAD>\n<BODY>\n<CENTER>\n<A HREF=\"../../cdshop/index.htm\"><IMG SRC=\"../../cdshop/cdinfo.jpg\" BORDER=\"0\"></A><BR>\n<A HREF=\"../../index.htm\">Sacred Texts</A>&nbsp;\n<A HREF=\"../index.htm\">Hinduism</A>&nbsp;\n<A HREF=\"index.htm\">Index</A>&nbsp;\n\n<BR>\n<A HREF=\"../rvsan/rv10179.htm\">Sanskrit</A>&nbsp;\n\n<BR>\n<BR><A HREF=\"rvi10.htm\">Rig-Veda, Book 10 Index</A><BR>\n&nbsp;\n<A HREF=\"rv10178.htm\">Previous</A>&nbsp;\n<A HREF=\"rv10180.htm\">Next</A>&nbsp;\n<HR><A HREF=\"http://www.amazon.com/exec/obidos/ASIN/B001VEIA6U/internetsacredte\">Buy this Book at Amazon.com</A></CENTER>\n<HR>\n<P ALIGN=\"CENTER\"><FONT SIZE=\"-1\" COLOR=\"GREEN\"><I>Rig Veda</I>, tr. by Ralph T.H. Griffith, [1896], at sacred-texts.com</FONT></P><HR></p>  <h3 align=\"center\" align=\"center\">HYMN CLXXIX. Indra.</h3>  \n<p>1. Now lift ye up yourselves and look on Indra's seasonable share.<br> If it be ready, offer it; unready, ye have been remise.<br> 2 Oblation is prepared: come to us, Indra; the Sun hath travelled over half his journey.<br> Friends with their stores are sitting round thee waiting like lords of clans for the tribe's wandering chieftain.<br> 3 Dressed in the udder and on fire, I fancy; well-dressed, I fancy, is this recent present.<br> Drink, Indra, of the curd of noon's libation with favour, Thunderer, thou whose deeds are mighty.</p>  \n<p><HR>\n<CENTER>\n<A HREF=\"rv10180.htm\">Next: HYMN CLXXX. Indra.</A></CENTER>\n</BODY>\n</HTML>\n",
   "link": "hymns/10179.html",
-  "api": "hymns/10179json",
+  "api": "json/hymns/10179.json",
   "data": {
     "title": "HYMN CLXXIX. Indra.",
     "describe": "Now lift ye up yourselves and look on Indra's seasonable share.",
@@ -12,5 +12,6 @@
     "previous": "10178",
     "book": "10"
   },
-  "created": 1638558385961
+  "created": 1638558385961,
+  "updated": 1638642699161
 }

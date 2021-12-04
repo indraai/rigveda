@@ -3,14 +3,15 @@
   "title": "RigVeda Hymn 10178",
   "orig": "<HTML>\n<HEAD>\n<link rel=\"stylesheet\" type=\"text/css\" href=\"../../css/marg.css\">\n<META HTTP-EQUIV=\"Content-Type\" CONTENT=\"text/html; charset=UTF-8\">\n<META name=\"description\" content=\"Rig Veda, tr. by Ralph T.H. Griffith, [1896], full text etext at sacred-texts.com\">\n<META name=\"keywords\" content=\"Rig Veda Hinduism Vedic Rik\">\n<TITLE>Rig Veda: Rig-Veda, Book 10: HYMN CLXXVIII. T&#257;rk&#7779;ya.</TITLE>\n</HEAD>\n<BODY>\n<CENTER>\n<A HREF=\"../../cdshop/index.htm\"><IMG SRC=\"../../cdshop/cdinfo.jpg\" BORDER=\"0\"></A><BR>\n<A HREF=\"../../index.htm\">Sacred Texts</A>&nbsp;\n<A HREF=\"../index.htm\">Hinduism</A>&nbsp;\n<A HREF=\"index.htm\">Index</A>&nbsp;\n\n<BR>\n<A HREF=\"../rvsan/rv10178.htm\">Sanskrit</A>&nbsp;\n\n<BR>\n<BR><A HREF=\"rvi10.htm\">Rig-Veda, Book 10 Index</A><BR>\n&nbsp;\n<A HREF=\"rv10177.htm\">Previous</A>&nbsp;\n<A HREF=\"rv10179.htm\">Next</A>&nbsp;\n<HR><A HREF=\"http://www.amazon.com/exec/obidos/ASIN/B001VEIA6U/internetsacredte\">Buy this Book at Amazon.com</A></CENTER>\n<HR>\n<P ALIGN=\"CENTER\"><FONT SIZE=\"-1\" COLOR=\"GREEN\"><I>Rig Veda</I>, tr. by Ralph T.H. Griffith, [1896], at sacred-texts.com</FONT></P><HR></p>  <h3 align=\"center\" align=\"center\">HYMN CLXXVIII. T&#257;rk&#7779;ya.</h3>  \n<p>1. THIS very mighty one whom Gods commission, the Conqueror of cars, ever triumphant,<br> Swift, fleet to battle, with uninjured fellies, even T&#257;rk&#7779;ya for our weal will we call hither.<br> 2 As though we offered up our gifts to Indra, may we ascend. him as a ship. for safety.<br> Like the two wide worlds, broad, deep far-extended, may we be safe both when he comes and leaves you.<br> 3 He who with might the Five Lands hath pervaded, like S&#363;rya with his lustre, and the waters&#151;<br> His strength wins hundreds, thousands none avert it, as the young maid repelleth not her lover.</p>  \n<p><HR>\n<CENTER>\n<A HREF=\"rv10179.htm\">Next: HYMN CLXXIX. Indra.</A></CENTER>\n</BODY>\n</HTML>\n",
   "link": "hymns/10178.html",
-  "api": "hymns/10178json",
+  "api": "json/hymns/10178.json",
   "data": {
-    "title": "HYMN CLXXVIII. Tārkṣya.",
-    "describe": "THIS very mighty one whom Devas commission, the Conqueror of cars, ever triumphant, Swift, fleet to battle, with uninjured fellies, even Tārkṣya for our weal will we call hither.",
-    "feecting": "p:THIS very mighty one whom Devas commission, the Conqueror of cars, ever triumphant, Swift, fleet to battle, with uninjured fellies, even Tārkṣya for our weal will we call hither.\np:As though we offered up our gifts to Indra, may we ascend. him as a ship. for safety.\np: Like the two wide worlds, broad, deep far-extended. May we be safe both when he comes and leaves you.\r\np:He who with might the Five Lands hath pervaded, like Sūrya with his lustre, and the waters— His strength wins hundreds, thousands none avert it, as the young maid repelleth not her lover.",
+    "title": "HYMN CLXXVIII. T&#257;rk&#7779;ya.",
+    "describe": "THIS very mighty one whom Devas commission, the Conqueror of cars, ever triumphant, Swift, fleet to battle, with uninjured fellies, even T&#257;",
+    "feecting": "p:THIS very mighty one whom Devas commission, the Conqueror of cars, ever triumphant, Swift, fleet to battle, with uninjured fellies, even T&#257;rk&#7779;ya for our weal will we call hither.\np:As though we offered up our gifts to Indra, may we ascend. him as a ship. for safety.\np: Like the two wide worlds, broad, deep far-extended. May we be safe both when he comes and leaves you.\r\np:He who with might the Five Lands hath pervaded, like S&#363;rya with his lustre, and the waters&#151; His strength wins hundreds, thousands none avert it, as the young maid repelleth not her lover.",
     "next": "10179",
     "previous": "10177",
     "book": "10"
   },
-  "created": 1638558380709
+  "created": 1638558380709,
+  "updated": 1638642699161
 }

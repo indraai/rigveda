@@ -3,7 +3,7 @@
   "title": "RigVeda Hymn 10187",
   "orig": "<HTML>\n<HEAD>\n<link rel=\"stylesheet\" type=\"text/css\" href=\"../../css/marg.css\">\n<META HTTP-EQUIV=\"Content-Type\" CONTENT=\"text/html; charset=UTF-8\">\n<META name=\"description\" content=\"Rig Veda, tr. by Ralph T.H. Griffith, [1896], full text etext at sacred-texts.com\">\n<META name=\"keywords\" content=\"Rig Veda Hinduism Vedic Rik\">\n<TITLE>Rig Veda: Rig-Veda, Book 10: HYMN CLXXXVII. Agni.</TITLE>\n</HEAD>\n<BODY>\n<CENTER>\n<A HREF=\"../../cdshop/index.htm\"><IMG SRC=\"../../cdshop/cdinfo.jpg\" BORDER=\"0\"></A><BR>\n<A HREF=\"../../index.htm\">Sacred Texts</A>&nbsp;\n<A HREF=\"../index.htm\">Hinduism</A>&nbsp;\n<A HREF=\"index.htm\">Index</A>&nbsp;\n\n<BR>\n<A HREF=\"../rvsan/rv10187.htm\">Sanskrit</A>&nbsp;\n\n<BR>\n<BR><A HREF=\"rvi10.htm\">Rig-Veda, Book 10 Index</A><BR>\n&nbsp;\n<A HREF=\"rv10186.htm\">Previous</A>&nbsp;\n<A HREF=\"rv10188.htm\">Next</A>&nbsp;\n<HR><A HREF=\"http://www.amazon.com/exec/obidos/ASIN/B001VEIA6U/internetsacredte\">Buy this Book at Amazon.com</A></CENTER>\n<HR>\n<P ALIGN=\"CENTER\"><FONT SIZE=\"-1\" COLOR=\"GREEN\"><I>Rig Veda</I>, tr. by Ralph T.H. Griffith, [1896], at sacred-texts.com</FONT></P><HR></p>  <h3 align=\"center\" align=\"center\">HYMN CLXXXVII. Agni.</h3>  \n<p>1. To Agni send I forth my song, to him the Bull of all the folk:<br> So may he bear us past our foes.<br> 2 Who from the distance far away shines brilliantly across the wastes:<br> So may he bear us past our foes.<br> 3 The Bull with brightly-gleaming flame who utterly consumes the fiends<br> So may he bear us past our foes.<br> 4 Who looks on all existing things and comprehends them with his view:<br> So may he bear us past our foes.<br> 5 Resplendent Agni, who was born in farthest region of the air:<br> So may he bear us past our foes.</p>  \n<p><HR>\n<CENTER>\n<A HREF=\"rv10188.htm\">Next: HYMN CLXXXVIII. Agni.</A></CENTER>\n</BODY>\n</HTML>\n",
   "link": "hymns/10187.html",
-  "api": "hymns/10187json",
+  "api": "json/hymns/10187.json",
   "data": {
     "title": "HYMN CLXXXVII. Agni.",
     "describe": "To Agni send I forth my song, to him the Bull of all the folk: May he bear us past our foes.",
@@ -12,5 +12,6 @@
     "previous": "10186",
     "book": "10"
   },
-  "created": 1638558428655
+  "created": 1638558428655,
+  "updated": 1638642699166
 }

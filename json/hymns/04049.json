@@ -3,14 +3,15 @@
   "title": "RigVeda Hymn 04049",
   "orig": "<HTML>\n<HEAD>\n<link rel=\"stylesheet\" type=\"text/css\" href=\"../../css/marg.css\">\n<META HTTP-EQUIV=\"Content-Type\" CONTENT=\"text/html; charset=UTF-8\">\n<META name=\"description\" content=\"Rig Veda, tr. by Ralph T.H. Griffith, [1896], full text etext at sacred-texts.com\">\n<META name=\"keywords\" content=\"Rig Veda Hinduism Vedic Rik\">\n<TITLE>Rig Veda: Rig-Veda, Book 4: HYMN XLIX. Indra-B&#7771;haspati.</TITLE>\n</HEAD>\n<BODY>\n<CENTER>\n<A HREF=\"../../cdshop/index.htm\"><IMG SRC=\"../../cdshop/cdinfo.jpg\" BORDER=\"0\"></A><BR>\n<A HREF=\"../../index.htm\">Sacred Texts</A>&nbsp;\n<A HREF=\"../index.htm\">Hinduism</A>&nbsp;\n<A HREF=\"index.htm\">Index</A>&nbsp;\n\n<BR>\n<A HREF=\"../rvsan/rv04049.htm\">Sanskrit</A>&nbsp;\n\n<BR>\n<BR><A HREF=\"rvi04.htm\">Rig-Veda, Book 4 Index</A><BR>\n&nbsp;\n<A HREF=\"rv04048.htm\">Previous</A>&nbsp;\n<A HREF=\"rv04050.htm\">Next</A>&nbsp;\n<HR><A HREF=\"http://www.amazon.com/exec/obidos/ASIN/B001VEIA6U/internetsacredte\">Buy this Book at Amazon.com</A></CENTER>\n<HR>\n<P ALIGN=\"CENTER\"><FONT SIZE=\"-1\" COLOR=\"GREEN\"><I>Rig Veda</I>, tr. by Ralph T.H. Griffith, [1896], at sacred-texts.com</FONT></P><HR></p>  <h3 align=\"center\" align=\"center\">HYMN XLIX. Indra-B&#7771;haspati.</h3>  \n<p>1. DEAR is this offering in your mouth, O Indra and B&#7771;haspati:<br> Famed is the laud, the gladdening draught.<br> 2 This lovely Soma is effused, O Indra and B&#7771;haspati,<br> For you, to drink it and rejoice.<br> 3 As Soma-drinkers to our house come, Indra and B&#7771;haspati-and Indra-to drink Soma juice.<br> 4 Vouchsafe us riches hundredfold, O Indra, and B&#7771;haspati,<br> With store of horses, thousandfold.<br> 5 O Indra. and B&#7771;haspati, we call you when the meath is shed,<br> With songs, to drink the Soma juice.<br> 6 Drink, Indra and B&#7771;haspati, the Soma in the giver's house:<br> Delight yourselves abiding there.</p>  \n<p><HR>\n<CENTER>\n<A HREF=\"rv04050.htm\">Next: HYMN L. B&#7771;haspati.</A></CENTER>\n</BODY>\n</HTML>\n",
   "link": "hymns/04049.html",
-  "api": "hymns/04049json",
+  "api": "json/hymns/04049.json",
   "data": {
-    "title": "HYMN XLIX. Indra-Soma.",
-    "describe": "DEAR is this offering in your mouth, O Indra and Soma: Famed is the laud, the gladdening draught.",
-    "feecting": "p:DEAR is this offering in your mouth, O Indra and Soma: Famed is the laud, the gladdening draught.\np:This lovely Soma is effused, O Indra and Soma, for you, to drink it and rejoice.\np:As Soma-drinkers to our house come, Indra and Soma-and Indra-to drink Soma juice.\np:Vouchsafe us riches hundredfold, O Indra, and Soma, with store of horses, thousandfold.\np:O Indra. and Soma, we call you when the meath is shed, with songs,  juice.\np:Drink, Indra and Soma, the Soma in the giver's house: Delight yourselves abiding there.",
+    "title": "HYMN XLIX. Indra-B&#7771;haspati.",
+    "describe": "DEAR is this offering in your mouth, O Indra and B&#7771;",
+    "feecting": "p:DEAR is this offering in your mouth, O Indra and B&#7771;haspati: Famed is the laud, the gladdening draught.\np:This lovely Soma is effused, O Indra and B&#7771;haspati, for you, to drink it and rejoice.\np:As Soma-drinkers to our house come, Indra and B&#7771;haspati-and Indra-to drink Soma juice.\np:Vouchsafe us riches hundredfold, O Indra, and B&#7771;haspati, with store of horses, thousandfold.\np:O Indra. and B&#7771;haspati, we call you when the meath is shed, with songs,  juice.\np:Drink, Indra and B&#7771;haspati, the Soma in the giver's house: Delight yourselves abiding there.",
     "next": "04050",
     "previous": "04048",
     "book": "04"
   },
-  "created": 1638554836742
+  "created": 1638554836742,
+  "updated": 1638642698381
 }

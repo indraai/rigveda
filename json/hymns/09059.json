@@ -3,14 +3,15 @@
   "title": "RigVeda Hymn 09059",
   "orig": "<HTML>\n<HEAD>\n<link rel=\"stylesheet\" type=\"text/css\" href=\"../../css/marg.css\">\n<META HTTP-EQUIV=\"Content-Type\" CONTENT=\"text/html; charset=UTF-8\">\n<META name=\"description\" content=\"Rig Veda, tr. by Ralph T.H. Griffith, [1896], full text etext at sacred-texts.com\">\n<META name=\"keywords\" content=\"Rig Veda Hinduism Vedic Rik\">\n<TITLE>Rig Veda: Rig-Veda, Book 9: HYMN LIX. Soma Pavamana.</TITLE>\n</HEAD>\n<BODY>\n<CENTER>\n<A HREF=\"../../cdshop/index.htm\"><IMG SRC=\"../../cdshop/cdinfo.jpg\" BORDER=\"0\"></A><BR>\n<A HREF=\"../../index.htm\">Sacred Texts</A>&nbsp;\n<A HREF=\"../index.htm\">Hinduism</A>&nbsp;\n<A HREF=\"index.htm\">Index</A>&nbsp;\n\n<BR>\n<A HREF=\"../rvsan/rv09059.htm\">Sanskrit</A>&nbsp;\n\n<BR>\n<BR><A HREF=\"rvi09.htm\">Rig-Veda, Book 9 Index</A><BR>\n&nbsp;\n<A HREF=\"rv09058.htm\">Previous</A>&nbsp;\n<A HREF=\"rv09060.htm\">Next</A>&nbsp;\n<HR><A HREF=\"http://www.amazon.com/exec/obidos/ASIN/B001VEIA6U/internetsacredte\">Buy this Book at Amazon.com</A></CENTER>\n<HR>\n<P ALIGN=\"CENTER\"><FONT SIZE=\"-1\" COLOR=\"GREEN\"><I>Rig Veda</I>, tr. by Ralph T.H. Griffith, [1896], at sacred-texts.com</FONT></P><HR></p>  <h3 align=\"center\" align=\"center\">HYMN LIX. Soma Pavamana.</h3>  \n<p>1. FLOW onward, Soma, winning kine, and steeds, and all that gives delight:<br> Bring hither wealth with progeny.<br> 2 Flow onward from the waters, flow, inviolable, from the plants:<br> Flow onward from the pressing-boards.<br> 3 Soma, as Pavamana, pass over all trouble and distress:<br> Sit on the sacred grass, a Sage.<br> 4 Thou, Pavamana, foundest light; thou at thy birth becamest great:<br> O Indu, thou art over all.</p>  \n<p><HR>\n<CENTER>\n<A HREF=\"rv09060.htm\">Next: HYMN LX. Soma Pavamana.</A></CENTER>\n</BODY>\n</HTML>\n",
   "link": "hymns/09059.html",
-  "api": "hymns/09059json",
+  "api": "json/hymns/09059.json",
   "data": {
-    "title": "HYMN LIX. Soma Pavamana.",
+    "title": "HYMN LIX. Indu.",
     "describe": "FLOW onward, Soma, winning kine, and steeds, and all that gives delight: Bring hither wealth with progeny.",
     "feecting": "p:FLOW onward, Soma, winning kine, and steeds, and all that gives delight: Bring hither wealth with progeny.\np:Flow onward from the waters, flow, inviolable, from the plants: Flow onward from the pressing-boards.\np:Soma, as Pavamana, pass over all trouble and distress: Sit on the sacred grass, a Sage.\np:Thou, Pavamana, foundest light; thou at thy birth becamest great: O Indu, thou art over all.",
     "next": "09060",
     "previous": "09058",
     "book": "09"
   },
-  "created": 1638557146090
+  "created": 1638557146090,
+  "updated": 1638642698917
 }

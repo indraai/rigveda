@@ -431,35 +431,39 @@
     },
     {
       "key": "03054",
-      "title": "HYMN LIV. Viśvedevas.",
+      "title": "HYMN LIV. Devas.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv03054.htm",
       "link": "hymns/03054.html",
       "api": "json/hymns/03054.json",
-      "created": 1638549618876
+      "created": 1638549618876,
+      "updated": 1638640289302
     },
     {
       "key": "03055",
-      "title": "HYMN LV. Viśvedevas.",
+      "title": "HYMN LV. Devas.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv03055.htm",
       "link": "hymns/03055.html",
       "api": "json/hymns/03055.json",
-      "created": 1638549618876
+      "created": 1638549618876,
+      "updated": 1638640289302
     },
     {
       "key": "03056",
-      "title": "HYMN LVI. Viśvedevas.",
+      "title": "HYMN LVI. Devas.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv03056.htm",
       "link": "hymns/03056.html",
       "api": "json/hymns/03056.json",
-      "created": 1638549618876
+      "created": 1638549618876,
+      "updated": 1638640289302
     },
     {
       "key": "03057",
-      "title": "HYMN LVII. Viśvedevas.",
+      "title": "HYMN LVII. Devas.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv03057.htm",
       "link": "hymns/03057.html",
       "api": "json/hymns/03057.json",
-      "created": 1638549618876
+      "created": 1638549618876,
+      "updated": 1638640289302
     },
     {
       "key": "03058",
@@ -495,11 +499,12 @@
     },
     {
       "key": "03062",
-      "title": "HYMN LXII. Indra and Others.",
+      "title": "HYMN LXII. Indra.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv03062.htm",
       "link": "hymns/03062.html",
       "api": "json/hymns/03062.json",
-      "created": 1638549618876
+      "created": 1638549618876,
+      "updated": 1638640289302
     }
   ]
 }

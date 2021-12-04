@@ -143,11 +143,12 @@
     },
     {
       "key": "04018",
-      "title": "HYMN XVIII. Indra and Others.",
+      "title": "HYMN XVIII. Indra.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv04018.htm",
       "link": "hymns/04018.html",
       "api": "json/hymns/04018.json",
-      "created": 1638549620642
+      "created": 1638549620642,
+      "updated": 1638640289303
     },
     {
       "key": "04019",
@@ -223,11 +224,12 @@
     },
     {
       "key": "04028",
-      "title": "HYMN XXVIII. Indra-Soma.",
+      "title": "HYMN XXVIII. Indra.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv04028.htm",
       "link": "hymns/04028.html",
       "api": "json/hymns/04028.json",
-      "created": 1638549620642
+      "created": 1638549620642,
+      "updated": 1638640289303
     },
     {
       "key": "04029",
@@ -327,19 +329,21 @@
     },
     {
       "key": "04041",
-      "title": "HYMN XLI. Indra-Varuṇa.",
+      "title": "HYMN XLI. Indra.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv04041.htm",
       "link": "hymns/04041.html",
       "api": "json/hymns/04041.json",
-      "created": 1638549620642
+      "created": 1638549620642,
+      "updated": 1638640289303
     },
     {
       "key": "04042",
-      "title": "HYMN XLIL Indra-Varuṇa.",
+      "title": "HYMN XLIL Indra.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv04042.htm",
       "link": "hymns/04042.html",
       "api": "json/hymns/04042.json",
-      "created": 1638549620642
+      "created": 1638549620642,
+      "updated": 1638640289304
     },
     {
       "key": "04043",
@@ -367,43 +371,48 @@
     },
     {
       "key": "04046",
-      "title": "HYMN XLVI. Vāyu. Indra-Vāyu",
+      "title": "HYMN XLVI. Soma. Indra",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv04046.htm",
       "link": "hymns/04046.html",
       "api": "json/hymns/04046.json",
-      "created": 1638549620642
+      "created": 1638549620642,
+      "updated": 1638640360192
     },
     {
       "key": "04047",
-      "title": "HYMN XLVIL Vāyu. Indra-Vāyu.",
+      "title": "HYMN XLVIL Soma. Indra.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv04047.htm",
       "link": "hymns/04047.html",
       "api": "json/hymns/04047.json",
-      "created": 1638549620642
+      "created": 1638549620642,
+      "updated": 1638640360192
     },
     {
       "key": "04048",
-      "title": "HYMN XLVIII. Vāyu.",
+      "title": "HYMN XLVIII. Soma.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv04048.htm",
       "link": "hymns/04048.html",
       "api": "json/hymns/04048.json",
-      "created": 1638549620642
+      "created": 1638549620642,
+      "updated": 1638640289304
     },
     {
       "key": "04049",
-      "title": "HYMN XLIX. Indra-Bṛhaspati.",
+      "title": "HYMN XLIX. Indra.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv04049.htm",
       "link": "hymns/04049.html",
       "api": "json/hymns/04049.json",
-      "created": 1638549620642
+      "created": 1638549620642,
+      "updated": 1638640360192
     },
     {
       "key": "04050",
-      "title": "HYMN L. Bṛhaspati.",
+      "title": "HYMN L. Soma.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv04050.htm",
       "link": "hymns/04050.html",
       "api": "json/hymns/04050.json",
-      "created": 1638549620642
+      "created": 1638549620642,
+      "updated": 1638640289304
     },
     {
       "key": "04051",
@@ -423,27 +432,30 @@
     },
     {
       "key": "04053",
-      "title": "HYMN LIII. Savitar.",
+      "title": "HYMN LIII. Indra.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv04053.htm",
       "link": "hymns/04053.html",
       "api": "json/hymns/04053.json",
-      "created": 1638549620642
+      "created": 1638549620642,
+      "updated": 1638640289304
     },
     {
       "key": "04054",
-      "title": "HYMN LIV. Savitar.",
+      "title": "HYMN LIV. Indra.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv04054.htm",
       "link": "hymns/04054.html",
       "api": "json/hymns/04054.json",
-      "created": 1638549620642
+      "created": 1638549620642,
+      "updated": 1638640289304
     },
     {
       "key": "04055",
-      "title": "HYMN LV. Viśvedevas.",
+      "title": "HYMN LV. Devas.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv04055.htm",
       "link": "hymns/04055.html",
       "api": "json/hymns/04055.json",
-      "created": 1638549620642
+      "created": 1638549620642,
+      "updated": 1638640289304
     },
     {
       "key": "04056",

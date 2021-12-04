@@ -535,19 +535,21 @@
     },
     {
       "key": "10067",
-      "title": "HYMN LXVII. Bṛhaspati.",
+      "title": "HYMN LXVII. Soma.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv10067.htm",
       "link": "hymns/10067.html",
       "api": "json/hymns/10067.json",
-      "created": 1638549635838
+      "created": 1638549635838,
+      "updated": 1638640289318
     },
     {
       "key": "10068",
-      "title": "HYMN LXVIII. Bṛhaspati.",
+      "title": "HYMN LXVIII. Soma.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv10068.htm",
       "link": "hymns/10068.html",
       "api": "json/hymns/10068.json",
-      "created": 1638549635838
+      "created": 1638549635838,
+      "updated": 1638640289318
     },
     {
       "key": "10069",
@@ -615,19 +617,21 @@
     },
     {
       "key": "10077",
-      "title": "HYMN LXXVII. Maruts.",
+      "title": "HYMN LXXVII. Devas.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv10077.htm",
       "link": "hymns/10077.html",
       "api": "json/hymns/10077.json",
-      "created": 1638549635838
+      "created": 1638549635838,
+      "updated": 1638640289318
     },
     {
       "key": "10078",
-      "title": "HYMN LXXVIII. Maruts.",
+      "title": "HYMN LXXVIII. Devas.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv10078.htm",
       "link": "hymns/10078.html",
       "api": "json/hymns/10078.json",
-      "created": 1638549635838
+      "created": 1638549635838,
+      "updated": 1638640289318
     },
     {
       "key": "10079",
@@ -1055,11 +1059,12 @@
     },
     {
       "key": "10132",
-      "title": "HYMN CXXXII. Mitra. Varuṇa.",
+      "title": "HYMN CXXXII. Mitra. Indra.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv10132.htm",
       "link": "hymns/10132.html",
       "api": "json/hymns/10132.json",
-      "created": 1638549635838
+      "created": 1638549635838,
+      "updated": 1638640289319
     },
     {
       "key": "10133",
@@ -1111,11 +1116,12 @@
     },
     {
       "key": "10139",
-      "title": "HYMN CXXXIX. Savitar.",
+      "title": "HYMN CXXXIX. Indra.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv10139.htm",
       "link": "hymns/10139.html",
       "api": "json/hymns/10139.json",
-      "created": 1638549635838
+      "created": 1638549635838,
+      "updated": 1638640289319
     },
     {
       "key": "10140",
@@ -1191,11 +1197,12 @@
     },
     {
       "key": "10149",
-      "title": "HYMN CXLIX. Savitar.",
+      "title": "HYMN CXLIX. Indra.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv10149.htm",
       "link": "hymns/10149.html",
       "api": "json/hymns/10149.json",
-      "created": 1638549635838
+      "created": 1638549635838,
+      "updated": 1638640289319
     },
     {
       "key": "10150",
@@ -1343,11 +1350,12 @@
     },
     {
       "key": "10168",
-      "title": "HYMN CLXVIII. Vāyu.",
+      "title": "HYMN CLXVIII. Soma.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv10168.htm",
       "link": "hymns/10168.html",
       "api": "json/hymns/10168.json",
-      "created": 1638549635838
+      "created": 1638549635838,
+      "updated": 1638640289319
     },
     {
       "key": "10169",
@@ -1455,11 +1463,12 @@
     },
     {
       "key": "10182",
-      "title": "HYMN CLXXXII. Bṛhaspati.",
+      "title": "HYMN CLXXXII. Soma.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv10182.htm",
       "link": "hymns/10182.html",
       "api": "json/hymns/10182.json",
-      "created": 1638549635838
+      "created": 1638549635838,
+      "updated": 1638640289319
     },
     {
       "key": "10183",
@@ -1487,11 +1496,12 @@
     },
     {
       "key": "10186",
-      "title": "HYMN CLXXXVI. Vāyu.",
+      "title": "HYMN CLXXXVI. Soma.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv10186.htm",
       "link": "hymns/10186.html",
       "api": "json/hymns/10186.json",
-      "created": 1638549635838
+      "created": 1638549635838,
+      "updated": 1638640289319
     },
     {
       "key": "10187",

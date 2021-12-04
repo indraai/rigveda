@@ -3,14 +3,15 @@
   "title": "RigVeda Hymn 08030",
   "orig": "<HTML>\n<HEAD>\n<link rel=\"stylesheet\" type=\"text/css\" href=\"../../css/marg.css\">\n<META HTTP-EQUIV=\"Content-Type\" CONTENT=\"text/html; charset=UTF-8\">\n<META name=\"description\" content=\"Rig Veda, tr. by Ralph T.H. Griffith, [1896], full text etext at sacred-texts.com\">\n<META name=\"keywords\" content=\"Rig Veda Hinduism Vedic Rik\">\n<TITLE>Rig Veda: Rig-Veda, Book 8: HYMN XXX. Vi&#347;vedevas.</TITLE>\n</HEAD>\n<BODY>\n<CENTER>\n<A HREF=\"../../cdshop/index.htm\"><IMG SRC=\"../../cdshop/cdinfo.jpg\" BORDER=\"0\"></A><BR>\n<A HREF=\"../../index.htm\">Sacred Texts</A>&nbsp;\n<A HREF=\"../index.htm\">Hinduism</A>&nbsp;\n<A HREF=\"index.htm\">Index</A>&nbsp;\n\n<BR>\n<A HREF=\"../rvsan/rv08030.htm\">Sanskrit</A>&nbsp;\n\n<BR>\n<BR><A HREF=\"rvi08.htm\">Rig-Veda, Book 8 Index</A><BR>\n&nbsp;\n<A HREF=\"rv08029.htm\">Previous</A>&nbsp;\n<A HREF=\"rv08031.htm\">Next</A>&nbsp;\n<HR><A HREF=\"http://www.amazon.com/exec/obidos/ASIN/B001VEIA6U/internetsacredte\">Buy this Book at Amazon.com</A></CENTER>\n<HR>\n<P ALIGN=\"CENTER\"><FONT SIZE=\"-1\" COLOR=\"GREEN\"><I>Rig Veda</I>, tr. by Ralph T.H. Griffith, [1896], at sacred-texts.com</FONT></P><HR></p>  <h3 align=\"center\" align=\"center\">HYMN XXX. Vi&#347;vedevas.</h3>  \n<p>1. NOT one of you, ye Gods, is small, none of you is a feeble child:<br> All of you, verily, are great.<br> 2 Thus be ye lauded, ye destroyers of the foe, ye Three-and-Thirty Deities,<br> The Gods of man, the Holy Ones.<br> 3 As such defend and succour us, with benedictions speak to us:<br> Lead us not from our fathers' and from Manu's path into the distance far away.<br> 4 Ye Deities who stay with us, and all ye Gods of all mankind,<br> Give us your wide protection, give shelter for cattle and for steed.</p>  \n<p><HR>\n<CENTER>\n<A HREF=\"rv08031.htm\">Next: HYMN XXXI. Various Deities.</A></CENTER>\n</BODY>\n</HTML>\n",
   "link": "hymns/08030.html",
-  "api": "hymns/08030json",
+  "api": "json/hymns/08030.json",
   "data": {
-    "title": "HYMN XXX. Devas.",
+    "title": "HYMN XXX. Vi&#347;vedevas.",
     "describe": "NOT one of you, ye Devas, is small, none of you is a feeble child: All of you, verily, are great.",
     "feecting": "p:NOT one of you, ye Devas, is small, none of you is a feeble child: All of you, verily, are great.\np:Thus be ye lauded, ye destroyers of the foe, ye Three-and-Thirty Deitiess of man, the Holy Ones.\np:As such defend and succour us, with benedictions speak to us: Lead us not from our fathers' and from Manu's path into the distance far away.\np:Ye Deities who stay with us, and all ye Devas of all mankind, Give us your wide protection, give shelter for cattle and for steed.",
     "next": "08031",
     "previous": "08029",
     "book": "08"
   },
-  "created": 1638556449581
+  "created": 1638556449581,
+  "updated": 1638642698788
 }

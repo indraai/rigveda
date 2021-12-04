@@ -183,11 +183,12 @@
     },
     {
       "key": "01023",
-      "title": "HYMN XXIII. Soma and Others.",
+      "title": "HYMN XXIII. Soma.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv01023.htm",
       "link": "hymns/01023.html",
       "api": "json/hymns/01023.json",
-      "created": 1638559869751
+      "created": 1638559869751,
+      "updated": 1638640289297
     },
     {
       "key": "01024",
@@ -1079,27 +1080,30 @@
     },
     {
       "key": "01135",
-      "title": "HYMN CXXXV. Soma, Indra-Soma.",
+      "title": "HYMN CXXXV. Soma, Indra.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv01135.htm",
       "link": "hymns/01135.html",
       "api": "json/hymns/01135.json",
-      "created": 1638559869751
+      "created": 1638559869751,
+      "updated": 1638640289297
     },
     {
       "key": "01136",
-      "title": "HYMN CXXXVI. Mitra-Indra.",
+      "title": "HYMN CXXXVI. Indra.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv01136.htm",
       "link": "hymns/01136.html",
       "api": "json/hymns/01136.json",
-      "created": 1638559869751
+      "created": 1638559869751,
+      "updated": 1638640289297
     },
     {
       "key": "01137",
-      "title": "HYMN CXXXVII. Mitra-Indra.",
+      "title": "HYMN CXXXVII. Indra.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv01137.htm",
       "link": "hymns/01137.html",
       "api": "json/hymns/01137.json",
-      "created": 1638559869751
+      "created": 1638559869751,
+      "updated": 1638640289297
     },
     {
       "key": "01138",
@@ -1215,19 +1219,21 @@
     },
     {
       "key": "01152",
-      "title": "HYMN CLII. Mitra-Indra.",
+      "title": "HYMN CLII. Indra.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv01152.htm",
       "link": "hymns/01152.html",
       "api": "json/hymns/01152.json",
-      "created": 1638559869751
+      "created": 1638559869751,
+      "updated": 1638640289297
     },
     {
       "key": "01153",
-      "title": "HYMN CLIII. Mitra-Indra.",
+      "title": "HYMN CLIII. Indra.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv01153.htm",
       "link": "hymns/01153.html",
       "api": "json/hymns/01153.json",
-      "created": 1638559869751
+      "created": 1638559869751,
+      "updated": 1638640289297
     },
     {
       "key": "01154",
@@ -1239,11 +1245,12 @@
     },
     {
       "key": "01155",
-      "title": "HYMN CLV. Indra-Indra.",
+      "title": "HYMN CLV. Indra and IndraDeva.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv01155.htm",
       "link": "hymns/01155.html",
       "api": "json/hymns/01155.json",
-      "created": 1638559869751
+      "created": 1638559869751,
+      "updated": 1638640289297
     },
     {
       "key": "01156",

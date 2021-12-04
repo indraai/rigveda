@@ -1,0 +1,19 @@
+{
+  "key": "links",
+  "title": "Various Veda Links.",
+  "describe": "A collection of hymns from around the RigVeda",
+  "data": {
+    "agni": [
+      {
+        "key": "07006",
+        "title": "Agni takes from Heaven and Earth.",
+        "desribe": "Vaiśvānara the Deva, at the sun's setting, hath taken to himself deep-hidden treasures: Agni hath taken them from Earth and Heaven, from the sea under and the sea above us."
+      },
+      {
+        "key": "06075",
+        "title": "What did Indra and Soma give Agni?",
+        "desribe": "Thy vital parts I cover with thine Armour: with immortality King Soma clothe thee. Indra give thee what is more than ample, and in thy triump. May the Devas be joyful."
+      }
+    ]
+  }
+}

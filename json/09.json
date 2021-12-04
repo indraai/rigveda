@@ -191,11 +191,12 @@
     },
     {
       "key": "09024",
-      "title": "HYMN XXIVṢoma Pavamana.",
+      "title": "HYMN XXIV. Indu.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv09024.htm",
       "link": "hymns/09024.html",
       "api": "json/hymns/09024.json",
-      "created": 1638549634138
+      "created": 1638549634138,
+      "updated": 1638640289317
     },
     {
       "key": "09025",
@@ -271,11 +272,12 @@
     },
     {
       "key": "09034",
-      "title": "HYMN XXXIV. Some Pavamana.",
+      "title": "HYMN XXXIV. Indu.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv09034.htm",
       "link": "hymns/09034.html",
       "api": "json/hymns/09034.json",
-      "created": 1638549634138
+      "created": 1638549634138,
+      "updated": 1638640289317
     },
     {
       "key": "09035",
@@ -503,11 +505,12 @@
     },
     {
       "key": "09063",
-      "title": "HYMN LXIII. Soma Pavanana.",
+      "title": "HYMN LXIII. Indu.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv09063.htm",
       "link": "hymns/09063.html",
       "api": "json/hymns/09063.json",
-      "created": 1638549634138
+      "created": 1638549634138,
+      "updated": 1638640289317
     },
     {
       "key": "09064",
@@ -535,11 +538,12 @@
     },
     {
       "key": "09067",
-      "title": "HYMN LXVII. Soma and Others.",
+      "title": "HYMN LXVII. Soma.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv09067.htm",
       "link": "hymns/09067.html",
       "api": "json/hymns/09067.json",
-      "created": 1638549634138
+      "created": 1638549634138,
+      "updated": 1638640289317
     },
     {
       "key": "09068",

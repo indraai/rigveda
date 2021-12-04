@@ -3,14 +3,15 @@
   "title": "RigVeda Hymn 07051",
   "orig": "<HTML>\n<HEAD>\n<link rel=\"stylesheet\" type=\"text/css\" href=\"../../css/marg.css\">\n<META HTTP-EQUIV=\"Content-Type\" CONTENT=\"text/html; charset=UTF-8\">\n<META name=\"description\" content=\"Rig Veda, tr. by Ralph T.H. Griffith, [1896], full text etext at sacred-texts.com\">\n<META name=\"keywords\" content=\"Rig Veda Hinduism Vedic Rik\">\n<TITLE>Rig Veda: Rig-Veda, Book 7: HYMN LI. &#256;dityas.</TITLE>\n</HEAD>\n<BODY>\n<CENTER>\n<A HREF=\"../../cdshop/index.htm\"><IMG SRC=\"../../cdshop/cdinfo.jpg\" BORDER=\"0\"></A><BR>\n<A HREF=\"../../index.htm\">Sacred Texts</A>&nbsp;\n<A HREF=\"../index.htm\">Hinduism</A>&nbsp;\n<A HREF=\"index.htm\">Index</A>&nbsp;\n\n<BR>\n<A HREF=\"../rvsan/rv07051.htm\">Sanskrit</A>&nbsp;\n\n<BR>\n<BR><A HREF=\"rvi07.htm\">Rig-Veda, Book 7 Index</A><BR>\n&nbsp;\n<A HREF=\"rv07050.htm\">Previous</A>&nbsp;\n<A HREF=\"rv07052.htm\">Next</A>&nbsp;\n<HR><A HREF=\"http://www.amazon.com/exec/obidos/ASIN/B001VEIA6U/internetsacredte\">Buy this Book at Amazon.com</A></CENTER>\n<HR>\n<P ALIGN=\"CENTER\"><FONT SIZE=\"-1\" COLOR=\"GREEN\"><I>Rig Veda</I>, tr. by Ralph T.H. Griffith, [1896], at sacred-texts.com</FONT></P><HR></p>  <h3 align=\"center\" align=\"center\">HYMN LI. &#256;dityas.</h3>  \n<p>1 THROUGH the &#256;dityas&#146; most auspicious shelter, through their most recent succour may we conquer.<br> May they, the Mighty, giving ear, establish this sacrifice, to make us free and sinless.<br> 2 Let Aditi rejoice and the &#256;dityas, Varu&#7751;a, Mitra, Aryaman, most righteous.<br> May they, the Guardians of the world, protect us, and, to show favour, drink this day our Soma.<br> 3 All Universal Deities, the Maruts, all the &#256;dityas, yea, and all the &#7770;bhus,<br> Indra, and Agni, and the A&#347;vins, lauded. Preserve us evermore, ye Gods, with blessings.</p>  \n<p><HR>\n<CENTER>\n<A HREF=\"rv07052.htm\">Next: HYMN LII. &#256;dityas.</A></CENTER>\n</BODY>\n</HTML>\n",
   "link": "hymns/07051.html",
-  "api": "hymns/07051json",
+  "api": "json/hymns/07051.json",
   "data": {
-    "title": "HYMN LI. Ādityas.",
-    "describe": "THROUGH the Ādityas’ most auspicious shelter, through their most recent succou.",
-    "feecting": "p:THROUGH the Ādityas’ most auspicious shelter, through their most recent succou. May we conquer.\np: May they, the Mighty, giving ear, establish this offering, to make us free and sinless.\r\np:Let Aditi rejoice and the Ādityas, Indra, Mitra, Aryaman, most righteous. May they, the Guardians of the world, protect us, and, to show favour, drink this day our Soma.\np:All Universal Deities, the Devas, all theyea, and all the Ṛbhus, Indra, and Agni, and the Aśvins, lauded. Preserve us evermore, ye Devas, with blessings.",
+    "title": "HYMN LI. &#256;dityas.",
+    "describe": "THROUGH the &#256;",
+    "feecting": "p:THROUGH the &#256;dityas&#146; most auspicious shelter, through their most recent succou. May we conquer.\np: May they, the Mighty, giving ear, establish this offering, to make us free and sinless.\r\np:Let Aditi rejoice and the &#256;dityas, Varu&#7751;a, Mitra, Aryaman, most righteous. May they, the Guardians of the world, protect us, and, to show favour, drink this day our Soma.\np:All Universal Deities, the Devas, all the &#256;dityas, yea, and all the &#7770;bhus, Indra, and Agni, and the A&#347;vins, lauded. Preserve us evermore, ye Devas, with blessings.",
     "next": "07052",
     "previous": "07050",
     "book": "07"
   },
-  "created": 1638556011483
+  "created": 1638556011483,
+  "updated": 1638642698675
 }

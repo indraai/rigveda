@@ -3,7 +3,7 @@
   "title": "RigVeda Hymn 06042",
   "orig": "<HTML>\n<HEAD>\n<link rel=\"stylesheet\" type=\"text/css\" href=\"../../css/marg.css\">\n<META HTTP-EQUIV=\"Content-Type\" CONTENT=\"text/html; charset=UTF-8\">\n<META name=\"description\" content=\"Rig Veda, tr. by Ralph T.H. Griffith, [1896], full text etext at sacred-texts.com\">\n<META name=\"keywords\" content=\"Rig Veda Hinduism Vedic Rik\">\n<TITLE>Rig Veda: Rig-Veda, Book 6: HYMN XLII. Indra.</TITLE>\n</HEAD>\n<BODY>\n<CENTER>\n<A HREF=\"../../cdshop/index.htm\"><IMG SRC=\"../../cdshop/cdinfo.jpg\" BORDER=\"0\"></A><BR>\n<A HREF=\"../../index.htm\">Sacred Texts</A>&nbsp;\n<A HREF=\"../index.htm\">Hinduism</A>&nbsp;\n<A HREF=\"index.htm\">Index</A>&nbsp;\n\n<BR>\n<A HREF=\"../rvsan/rv06042.htm\">Sanskrit</A>&nbsp;\n\n<BR>\n<BR><A HREF=\"rvi06.htm\">Rig-Veda, Book 6 Index</A><BR>\n&nbsp;\n<A HREF=\"rv06041.htm\">Previous</A>&nbsp;\n<A HREF=\"rv06043.htm\">Next</A>&nbsp;\n<HR><A HREF=\"http://www.amazon.com/exec/obidos/ASIN/B001VEIA6U/internetsacredte\">Buy this Book at Amazon.com</A></CENTER>\n<HR>\n<P ALIGN=\"CENTER\"><FONT SIZE=\"-1\" COLOR=\"GREEN\"><I>Rig Veda</I>, tr. by Ralph T.H. Griffith, [1896], at sacred-texts.com</FONT></P><HR></p>  <h3 align=\"center\" align=\"center\">HYMN XLII. Indra.</h3>  \n<p>1. BRING sacrificial gifts to him, Omniscient, for he longs to drink,<br> The Wanderer who comes with speed, the Hero ever in the van.<br> 2 With Soma go ye nigh to him chief drinker of the Soma's juice:<br> With beakers to the Impetuous God, to Indra with the drops effused.<br> 3 What time, with Soma, with the juice effused, ye come before the God,<br> Full wise he knows the hope of each, and, Bold One, strikes this foe and that.<br> 4 To him, Adhvaryu! yea, to him give offerings of the juice expressed.<br> Will he not keep us safely from the spiteful curse of each presumptuous high-born foe?</p>  \n<p><HR>\n<CENTER>\n<A HREF=\"rv06043.htm\">Next: HYMN XLIII. Indra</A></CENTER>\n</BODY>\n</HTML>\n",
   "link": "hymns/06042.html",
-  "api": "hymns/06042json",
+  "api": "json/hymns/06042.json",
   "data": {
     "title": "HYMN XLII. Indra.",
     "describe": "BRING sacrificial gifts to him, Omniscient, for he longs to drink, the Wanderer who comes with speed, the Hero ever in the van.",
@@ -12,5 +12,6 @@
     "previous": "06041",
     "book": "06"
   },
-  "created": 1638555567858
+  "created": 1638555567858,
+  "updated": 1638642698553
 }

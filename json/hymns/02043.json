@@ -3,14 +3,15 @@
   "title": "RigVeda Hymn 02043",
   "orig": "<HTML>\n<HEAD>\n<link rel=\"stylesheet\" type=\"text/css\" href=\"../../css/marg.css\">\n<META HTTP-EQUIV=\"Content-Type\" CONTENT=\"text/html; charset=UTF-8\">\n<META name=\"description\" content=\"Rig Veda, tr. by Ralph T.H. Griffith, [1896], full text etext at sacred-texts.com\">\n<META name=\"keywords\" content=\"Rig Veda Hinduism Vedic Rik\">\n<TITLE>Rig Veda: Rig-Veda, Book 2: HYMN XLIII. Kapi&ntilde;jala.</TITLE>\n</HEAD>\n<BODY>\n<CENTER>\n<A HREF=\"../../cdshop/index.htm\"><IMG SRC=\"../../cdshop/cdinfo.jpg\" BORDER=\"0\"></A><BR>\n<A HREF=\"../../index.htm\">Sacred Texts</A>&nbsp;\n<A HREF=\"../index.htm\">Hinduism</A>&nbsp;\n<A HREF=\"index.htm\">Index</A>&nbsp;\n\n<BR>\n<A HREF=\"../rvsan/rv02043.htm\">Sanskrit</A>&nbsp;\n\n<BR>\n<BR><A HREF=\"rvi02.htm\">Rig-Veda, Book 2 Index</A><BR>\n&nbsp;\n<A HREF=\"rv02042.htm\">Previous</A>&nbsp;\n<A HREF=\"rv03001.htm\">Next</A>&nbsp;\n<HR><A HREF=\"http://www.amazon.com/exec/obidos/ASIN/B001VEIA6U/internetsacredte\">Buy this Book at Amazon.com</A></CENTER>\n<HR>\n<P ALIGN=\"CENTER\"><FONT SIZE=\"-1\" COLOR=\"GREEN\"><I>Rig Veda</I>, tr. by Ralph T.H. Griffith, [1896], at sacred-texts.com</FONT></P><HR></p>  <h3 align=\"center\" align=\"center\">HYMN XLIII. Kapi&ntilde;jala.</h3>  \n<p>1. HERE on the right sing forth chanters of hymns of praise, even the winged birds that in due season speak.<br> He, like: a S&#257;ma-chanter utters both the notes, skilled in the mode of T&#7771;&#7779;&#7789;up and of G&#257;yatr&#299;.<br> 2 Thou like the chanter-priest chantest the S&#257;ma, Bird; thou singest at libations like a Brahman's son.<br> Even as a vigorous horse when he comes near the mare, announce to us good fortune, Bird, on every side, proclaim in all directions happy luck, O Bird.<br> 3 When singing here, O Bird. announce good luck to us, and when thou sittest still think on us with kind thoughts.</p>  \n<p></p>  \n<p><HR>\n<CENTER>\n<A HREF=\"rv03001.htm\">Next: HYMN I. Agni.</A></CENTER>\n</BODY>\n</HTML>\n",
   "link": "hymns/02043.html",
-  "api": "hymns/02043json",
+  "api": "json/hymns/02043.json",
   "data": {
-    "title": "HYMN XLIII. Kapiñjala.",
+    "title": "HYMN XLIII. Kapi&ntilde;jala.",
     "describe": "HERE on the right sing forth chanters of hymns of praise, even the winged birds that in due season speak.",
-    "feecting": "p:HERE on the right sing forth chanters of hymns of praise, even the winged birds that in due season speak.\np: He, like: a Sāma-chanter utters both the notes, skilled in the mode of Tṛṣṭup and of Gāyatrī.\r\np:Thou like the chanter-priest chantest the Sāma, Bird; thou singest at libations like a Brahman's son. Even as a vigorous horse when he comes near the mare, announce to us good fortune, Bird, on every side, proclaim in all directions happy luck, O Bird.\np:When singing here, O Bird. announce good luck to us, and when thou sittest still think on us with kind thoughts.",
+    "feecting": "p:HERE on the right sing forth chanters of hymns of praise, even the winged birds that in due season speak.\np: He, like: a S&#257;ma-chanter utters both the notes, skilled in the mode of T&#7771;&#7779;&#7789;up and of G&#257;yatr&#299;.\r\np:Thou like the chanter-priest chantest the S&#257;ma, Bird; thou singest at libations like a Brahman's son. Even as a vigorous horse when he comes near the mare, announce to us good fortune, Bird, on every side, proclaim in all directions happy luck, O Bird.\np:When singing here, O Bird. announce good luck to us, and when thou sittest still think on us with kind thoughts.",
     "next": "03001",
     "previous": "02042",
     "book": "02"
   },
-  "created": 1638554250670
+  "created": 1638554250670,
+  "updated": 1638642698257
 }
