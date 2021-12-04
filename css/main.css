@@ -48,7 +48,7 @@ header img {
   max-width: 100%;
 }
 main {
-  font-size: calc(var(--font-size) + 4px);
+  font-size: calc(var(--font-size) + 6px);
   max-width: var(--max-width);
   margin: auto
 }
