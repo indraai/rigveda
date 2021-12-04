@@ -69,14 +69,13 @@ section.twitter {
   display: flex;
   flex-flow: row wrap;
   justify-content: center;
+  align-items: center;
   gap: 1px;
 }
 
 .feecting-box.books .href {
   flex: 1 30%;
-  min-height: 72px;
-  background-color: var(--color-baby-blue);
-  color: var(--color-white);
+  padding: 1rem 0;
 }
 
 .feecting-box.nav {
@@ -86,6 +85,7 @@ section.twitter {
   padding: .1rem;
 }
 
+.feecting-box.books .href,
 .feecting-box.nav .href {
   flex: 1;
   text-align: center;
@@ -98,16 +98,19 @@ section.twitter {
   margin: 3px;
 }
 
+.feecting-box.books .href:visited,
 .feecting-box.nav .href:visited {
   color: var(--color-red);
 }
 
+.feecting-box.books .href:hover,
 .feecting-box.nav .href:hover {
   color: var(--color-green);
   border-color: var(--color-grey-dark);
   box-shadow: 0 3px 4px rgba(0,0,0,.25);
 }
 
+.feecting-box.books .href:active,
 .feecting-box.nav .href:active {
   color: var(--color-red);
   box-shadow: 0 0px 1px rgba(0,0,0,.5);
