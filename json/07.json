@@ -1,836 +1,838 @@
 {
+  "key": "07",
   "title": "RigVeda Book 07",
+  "describe": "Review book 7 for describe.",
   "data": [
     {
       "key": "07001",
       "title": "HYMN I. Agni.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv07001.htm",
-      "link": "rigveda/hymns/07001.html",
-      "api": "hymns/07001.json",
+      "link": "hymns/07001.html",
+      "api": "json/hymns/07001.json",
       "created": 1638549628374
     },
     {
       "key": "07002",
       "title": "HYMN II. Āprīs.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv07002.htm",
-      "link": "rigveda/hymns/07002.html",
-      "api": "hymns/07002.json",
+      "link": "hymns/07002.html",
+      "api": "json/hymns/07002.json",
       "created": 1638549628374
     },
     {
       "key": "07003",
       "title": "HYMN III. Agni.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv07003.htm",
-      "link": "rigveda/hymns/07003.html",
-      "api": "hymns/07003.json",
+      "link": "hymns/07003.html",
+      "api": "json/hymns/07003.json",
       "created": 1638549628374
     },
     {
       "key": "07004",
       "title": "HYMN IV. Agni.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv07004.htm",
-      "link": "rigveda/hymns/07004.html",
-      "api": "hymns/07004.json",
+      "link": "hymns/07004.html",
+      "api": "json/hymns/07004.json",
       "created": 1638549628374
     },
     {
       "key": "07005",
       "title": "HYMN V. Agni.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv07005.htm",
-      "link": "rigveda/hymns/07005.html",
-      "api": "hymns/07005.json",
+      "link": "hymns/07005.html",
+      "api": "json/hymns/07005.json",
       "created": 1638549628374
     },
     {
       "key": "07006",
       "title": "HYMN VI. Agni.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv07006.htm",
-      "link": "rigveda/hymns/07006.html",
-      "api": "hymns/07006.json",
+      "link": "hymns/07006.html",
+      "api": "json/hymns/07006.json",
       "created": 1638549628374
     },
     {
       "key": "07007",
       "title": "HYMN VII. Agni.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv07007.htm",
-      "link": "rigveda/hymns/07007.html",
-      "api": "hymns/07007.json",
+      "link": "hymns/07007.html",
+      "api": "json/hymns/07007.json",
       "created": 1638549628374
     },
     {
       "key": "07008",
       "title": "HYMN VIII. Agni",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv07008.htm",
-      "link": "rigveda/hymns/07008.html",
-      "api": "hymns/07008.json",
+      "link": "hymns/07008.html",
+      "api": "json/hymns/07008.json",
       "created": 1638549628374
     },
     {
       "key": "07009",
       "title": "HYMN IX. Agni.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv07009.htm",
-      "link": "rigveda/hymns/07009.html",
-      "api": "hymns/07009.json",
+      "link": "hymns/07009.html",
+      "api": "json/hymns/07009.json",
       "created": 1638549628374
     },
     {
       "key": "07010",
       "title": "HYMN X. Agni.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv07010.htm",
-      "link": "rigveda/hymns/07010.html",
-      "api": "hymns/07010.json",
+      "link": "hymns/07010.html",
+      "api": "json/hymns/07010.json",
       "created": 1638549628374
     },
     {
       "key": "07011",
       "title": "HYMN XI. Agni.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv07011.htm",
-      "link": "rigveda/hymns/07011.html",
-      "api": "hymns/07011.json",
+      "link": "hymns/07011.html",
+      "api": "json/hymns/07011.json",
       "created": 1638549628374
     },
     {
       "key": "07012",
       "title": "HYMN XII. Agni.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv07012.htm",
-      "link": "rigveda/hymns/07012.html",
-      "api": "hymns/07012.json",
+      "link": "hymns/07012.html",
+      "api": "json/hymns/07012.json",
       "created": 1638549628374
     },
     {
       "key": "07013",
       "title": "HYMN XIII. Agni.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv07013.htm",
-      "link": "rigveda/hymns/07013.html",
-      "api": "hymns/07013.json",
+      "link": "hymns/07013.html",
+      "api": "json/hymns/07013.json",
       "created": 1638549628374
     },
     {
       "key": "07014",
       "title": "HYMN XIV Agni.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv07014.htm",
-      "link": "rigveda/hymns/07014.html",
-      "api": "hymns/07014.json",
+      "link": "hymns/07014.html",
+      "api": "json/hymns/07014.json",
       "created": 1638549628374
     },
     {
       "key": "07015",
       "title": "HYMN XV. Agni.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv07015.htm",
-      "link": "rigveda/hymns/07015.html",
-      "api": "hymns/07015.json",
+      "link": "hymns/07015.html",
+      "api": "json/hymns/07015.json",
       "created": 1638549628374
     },
     {
       "key": "07016",
       "title": "HYMN XVI. Agni.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv07016.htm",
-      "link": "rigveda/hymns/07016.html",
-      "api": "hymns/07016.json",
+      "link": "hymns/07016.html",
+      "api": "json/hymns/07016.json",
       "created": 1638549628374
     },
     {
       "key": "07017",
       "title": "HYMN XVII. Agni.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv07017.htm",
-      "link": "rigveda/hymns/07017.html",
-      "api": "hymns/07017.json",
+      "link": "hymns/07017.html",
+      "api": "json/hymns/07017.json",
       "created": 1638549628374
     },
     {
       "key": "07018",
       "title": "HYMN XVIII. Indra.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv07018.htm",
-      "link": "rigveda/hymns/07018.html",
-      "api": "hymns/07018.json",
+      "link": "hymns/07018.html",
+      "api": "json/hymns/07018.json",
       "created": 1638549628374
     },
     {
       "key": "07019",
       "title": "HYMN XIX. Indra.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv07019.htm",
-      "link": "rigveda/hymns/07019.html",
-      "api": "hymns/07019.json",
+      "link": "hymns/07019.html",
+      "api": "json/hymns/07019.json",
       "created": 1638549628374
     },
     {
       "key": "07020",
       "title": "HYMN XX. Indra.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv07020.htm",
-      "link": "rigveda/hymns/07020.html",
-      "api": "hymns/07020.json",
+      "link": "hymns/07020.html",
+      "api": "json/hymns/07020.json",
       "created": 1638549628374
     },
     {
       "key": "07021",
       "title": "HYMN XXI. Indra.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv07021.htm",
-      "link": "rigveda/hymns/07021.html",
-      "api": "hymns/07021.json",
+      "link": "hymns/07021.html",
+      "api": "json/hymns/07021.json",
       "created": 1638549628374
     },
     {
       "key": "07022",
       "title": "HYMN XXII Indra.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv07022.htm",
-      "link": "rigveda/hymns/07022.html",
-      "api": "hymns/07022.json",
+      "link": "hymns/07022.html",
+      "api": "json/hymns/07022.json",
       "created": 1638549628374
     },
     {
       "key": "07023",
       "title": "HYMN XXIII. Indra.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv07023.htm",
-      "link": "rigveda/hymns/07023.html",
-      "api": "hymns/07023.json",
+      "link": "hymns/07023.html",
+      "api": "json/hymns/07023.json",
       "created": 1638549628374
     },
     {
       "key": "07024",
       "title": "HYMN XXIV. Indra.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv07024.htm",
-      "link": "rigveda/hymns/07024.html",
-      "api": "hymns/07024.json",
+      "link": "hymns/07024.html",
+      "api": "json/hymns/07024.json",
       "created": 1638549628374
     },
     {
       "key": "07025",
       "title": "HYMN XXV. Indra.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv07025.htm",
-      "link": "rigveda/hymns/07025.html",
-      "api": "hymns/07025.json",
+      "link": "hymns/07025.html",
+      "api": "json/hymns/07025.json",
       "created": 1638549628374
     },
     {
       "key": "07026",
       "title": "HYMN XXVI. Indra.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv07026.htm",
-      "link": "rigveda/hymns/07026.html",
-      "api": "hymns/07026.json",
+      "link": "hymns/07026.html",
+      "api": "json/hymns/07026.json",
       "created": 1638549628374
     },
     {
       "key": "07027",
       "title": "HYMN XXVII. Indra.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv07027.htm",
-      "link": "rigveda/hymns/07027.html",
-      "api": "hymns/07027.json",
+      "link": "hymns/07027.html",
+      "api": "json/hymns/07027.json",
       "created": 1638549628374
     },
     {
       "key": "07028",
       "title": "HYMN XXVIII. Indra.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv07028.htm",
-      "link": "rigveda/hymns/07028.html",
-      "api": "hymns/07028.json",
+      "link": "hymns/07028.html",
+      "api": "json/hymns/07028.json",
       "created": 1638549628374
     },
     {
       "key": "07029",
       "title": "HYMN XXIX Indra.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv07029.htm",
-      "link": "rigveda/hymns/07029.html",
-      "api": "hymns/07029.json",
+      "link": "hymns/07029.html",
+      "api": "json/hymns/07029.json",
       "created": 1638549628374
     },
     {
       "key": "07030",
       "title": "HYMN XXX. Indra.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv07030.htm",
-      "link": "rigveda/hymns/07030.html",
-      "api": "hymns/07030.json",
+      "link": "hymns/07030.html",
+      "api": "json/hymns/07030.json",
       "created": 1638549628374
     },
     {
       "key": "07031",
       "title": "HYMN XXXI. Indra.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv07031.htm",
-      "link": "rigveda/hymns/07031.html",
-      "api": "hymns/07031.json",
+      "link": "hymns/07031.html",
+      "api": "json/hymns/07031.json",
       "created": 1638549628374
     },
     {
       "key": "07032",
       "title": "HYMN XXXII. Indra.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv07032.htm",
-      "link": "rigveda/hymns/07032.html",
-      "api": "hymns/07032.json",
+      "link": "hymns/07032.html",
+      "api": "json/hymns/07032.json",
       "created": 1638549628374
     },
     {
       "key": "07033",
       "title": "HYMN XXXIII Vasiṣṭha.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv07033.htm",
-      "link": "rigveda/hymns/07033.html",
-      "api": "hymns/07033.json",
+      "link": "hymns/07033.html",
+      "api": "json/hymns/07033.json",
       "created": 1638549628374
     },
     {
       "key": "07034",
       "title": "HYMN XXXIV Viśvedevas.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv07034.htm",
-      "link": "rigveda/hymns/07034.html",
-      "api": "hymns/07034.json",
+      "link": "hymns/07034.html",
+      "api": "json/hymns/07034.json",
       "created": 1638549628374
     },
     {
       "key": "07035",
       "title": "HYMN XXXV. Viśvedevas.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv07035.htm",
-      "link": "rigveda/hymns/07035.html",
-      "api": "hymns/07035.json",
+      "link": "hymns/07035.html",
+      "api": "json/hymns/07035.json",
       "created": 1638549628374
     },
     {
       "key": "07036",
       "title": "HYMN XXXVI. Viśvedevas",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv07036.htm",
-      "link": "rigveda/hymns/07036.html",
-      "api": "hymns/07036.json",
+      "link": "hymns/07036.html",
+      "api": "json/hymns/07036.json",
       "created": 1638549628374
     },
     {
       "key": "07037",
       "title": "HYMN XXXVII. Viśvedevas.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv07037.htm",
-      "link": "rigveda/hymns/07037.html",
-      "api": "hymns/07037.json",
+      "link": "hymns/07037.html",
+      "api": "json/hymns/07037.json",
       "created": 1638549628374
     },
     {
       "key": "07038",
       "title": "HYMN XXXVIII. Savitar.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv07038.htm",
-      "link": "rigveda/hymns/07038.html",
-      "api": "hymns/07038.json",
+      "link": "hymns/07038.html",
+      "api": "json/hymns/07038.json",
       "created": 1638549628374
     },
     {
       "key": "07039",
       "title": "HYMN XXXIX Viśvedevas.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv07039.htm",
-      "link": "rigveda/hymns/07039.html",
-      "api": "hymns/07039.json",
+      "link": "hymns/07039.html",
+      "api": "json/hymns/07039.json",
       "created": 1638549628374
     },
     {
       "key": "07040",
       "title": "HYMN XL. Viśvedevas.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv07040.htm",
-      "link": "rigveda/hymns/07040.html",
-      "api": "hymns/07040.json",
+      "link": "hymns/07040.html",
+      "api": "json/hymns/07040.json",
       "created": 1638549628374
     },
     {
       "key": "07041",
       "title": "HYMN XLI. Bhaga.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv07041.htm",
-      "link": "rigveda/hymns/07041.html",
-      "api": "hymns/07041.json",
+      "link": "hymns/07041.html",
+      "api": "json/hymns/07041.json",
       "created": 1638549628374
     },
     {
       "key": "07042",
       "title": "HYMN XLII Viśvedevas.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv07042.htm",
-      "link": "rigveda/hymns/07042.html",
-      "api": "hymns/07042.json",
+      "link": "hymns/07042.html",
+      "api": "json/hymns/07042.json",
       "created": 1638549628374
     },
     {
       "key": "07043",
       "title": "HYMN XLIII Viśvedevas.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv07043.htm",
-      "link": "rigveda/hymns/07043.html",
-      "api": "hymns/07043.json",
+      "link": "hymns/07043.html",
+      "api": "json/hymns/07043.json",
       "created": 1638549628374
     },
     {
       "key": "07044",
       "title": "HYMN XLIV. Dadhikrās.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv07044.htm",
-      "link": "rigveda/hymns/07044.html",
-      "api": "hymns/07044.json",
+      "link": "hymns/07044.html",
+      "api": "json/hymns/07044.json",
       "created": 1638549628374
     },
     {
       "key": "07045",
       "title": "HYMN XLV. Savitar.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv07045.htm",
-      "link": "rigveda/hymns/07045.html",
-      "api": "hymns/07045.json",
+      "link": "hymns/07045.html",
+      "api": "json/hymns/07045.json",
       "created": 1638549628374
     },
     {
       "key": "07046",
       "title": "HYMN XLVI. Rudra.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv07046.htm",
-      "link": "rigveda/hymns/07046.html",
-      "api": "hymns/07046.json",
+      "link": "hymns/07046.html",
+      "api": "json/hymns/07046.json",
       "created": 1638549628374
     },
     {
       "key": "07047",
       "title": "HYMN XLVII. Waters.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv07047.htm",
-      "link": "rigveda/hymns/07047.html",
-      "api": "hymns/07047.json",
+      "link": "hymns/07047.html",
+      "api": "json/hymns/07047.json",
       "created": 1638549628374
     },
     {
       "key": "07048",
       "title": "HYMN XLVIII. Ṛbhus.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv07048.htm",
-      "link": "rigveda/hymns/07048.html",
-      "api": "hymns/07048.json",
+      "link": "hymns/07048.html",
+      "api": "json/hymns/07048.json",
       "created": 1638549628374
     },
     {
       "key": "07049",
       "title": "HYMN XLIX. Waters.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv07049.htm",
-      "link": "rigveda/hymns/07049.html",
-      "api": "hymns/07049.json",
+      "link": "hymns/07049.html",
+      "api": "json/hymns/07049.json",
       "created": 1638549628374
     },
     {
       "key": "07050",
       "title": "HYMN L. Various Deities.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv07050.htm",
-      "link": "rigveda/hymns/07050.html",
-      "api": "hymns/07050.json",
+      "link": "hymns/07050.html",
+      "api": "json/hymns/07050.json",
       "created": 1638549628374
     },
     {
       "key": "07051",
       "title": "HYMN LI. Ādityas.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv07051.htm",
-      "link": "rigveda/hymns/07051.html",
-      "api": "hymns/07051.json",
+      "link": "hymns/07051.html",
+      "api": "json/hymns/07051.json",
       "created": 1638549628374
     },
     {
       "key": "07052",
       "title": "HYMN LII. Ādityas.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv07052.htm",
-      "link": "rigveda/hymns/07052.html",
-      "api": "hymns/07052.json",
+      "link": "hymns/07052.html",
+      "api": "json/hymns/07052.json",
       "created": 1638549628374
     },
     {
       "key": "07053",
       "title": "HYMN LIII. Heaven and Earth.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv07053.htm",
-      "link": "rigveda/hymns/07053.html",
-      "api": "hymns/07053.json",
+      "link": "hymns/07053.html",
+      "api": "json/hymns/07053.json",
       "created": 1638549628374
     },
     {
       "key": "07054",
       "title": "HYMN LIV. Vastospati.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv07054.htm",
-      "link": "rigveda/hymns/07054.html",
-      "api": "hymns/07054.json",
+      "link": "hymns/07054.html",
+      "api": "json/hymns/07054.json",
       "created": 1638549628374
     },
     {
       "key": "07055",
       "title": "HYMN LV. Vastospati.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv07055.htm",
-      "link": "rigveda/hymns/07055.html",
-      "api": "hymns/07055.json",
+      "link": "hymns/07055.html",
+      "api": "json/hymns/07055.json",
       "created": 1638549628374
     },
     {
       "key": "07056",
       "title": "HYMN LVI. Maruts.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv07056.htm",
-      "link": "rigveda/hymns/07056.html",
-      "api": "hymns/07056.json",
+      "link": "hymns/07056.html",
+      "api": "json/hymns/07056.json",
       "created": 1638549628374
     },
     {
       "key": "07057",
       "title": "HYMN LVII. Maruts.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv07057.htm",
-      "link": "rigveda/hymns/07057.html",
-      "api": "hymns/07057.json",
+      "link": "hymns/07057.html",
+      "api": "json/hymns/07057.json",
       "created": 1638549628374
     },
     {
       "key": "07058",
       "title": "HYMN LVIII. Maruts.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv07058.htm",
-      "link": "rigveda/hymns/07058.html",
-      "api": "hymns/07058.json",
+      "link": "hymns/07058.html",
+      "api": "json/hymns/07058.json",
       "created": 1638549628374
     },
     {
       "key": "07059",
       "title": "HYMN LIX. Maruts.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv07059.htm",
-      "link": "rigveda/hymns/07059.html",
-      "api": "hymns/07059.json",
+      "link": "hymns/07059.html",
+      "api": "json/hymns/07059.json",
       "created": 1638549628374
     },
     {
       "key": "07060",
       "title": "HYMN LX. Mitra-Varuṇa.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv07060.htm",
-      "link": "rigveda/hymns/07060.html",
-      "api": "hymns/07060.json",
+      "link": "hymns/07060.html",
+      "api": "json/hymns/07060.json",
       "created": 1638549628374
     },
     {
       "key": "07061",
       "title": "HYMN LXI. Mitra-Varuṇa.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv07061.htm",
-      "link": "rigveda/hymns/07061.html",
-      "api": "hymns/07061.json",
+      "link": "hymns/07061.html",
+      "api": "json/hymns/07061.json",
       "created": 1638549628374
     },
     {
       "key": "07062",
       "title": "HYMN LXII. Mitra-Varuṇa.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv07062.htm",
-      "link": "rigveda/hymns/07062.html",
-      "api": "hymns/07062.json",
+      "link": "hymns/07062.html",
+      "api": "json/hymns/07062.json",
       "created": 1638549628374
     },
     {
       "key": "07063",
       "title": "HYMN LXIII. Mitra-Varuṇa.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv07063.htm",
-      "link": "rigveda/hymns/07063.html",
-      "api": "hymns/07063.json",
+      "link": "hymns/07063.html",
+      "api": "json/hymns/07063.json",
       "created": 1638549628374
     },
     {
       "key": "07064",
       "title": "HYMN LXIV. Mitra-Varuṇa.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv07064.htm",
-      "link": "rigveda/hymns/07064.html",
-      "api": "hymns/07064.json",
+      "link": "hymns/07064.html",
+      "api": "json/hymns/07064.json",
       "created": 1638549628374
     },
     {
       "key": "07065",
       "title": "HYMN LXV. Mitra-Varuṇa.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv07065.htm",
-      "link": "rigveda/hymns/07065.html",
-      "api": "hymns/07065.json",
+      "link": "hymns/07065.html",
+      "api": "json/hymns/07065.json",
       "created": 1638549628374
     },
     {
       "key": "07066",
       "title": "HYMN LXVI Mitra-Varuṇa.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv07066.htm",
-      "link": "rigveda/hymns/07066.html",
-      "api": "hymns/07066.json",
+      "link": "hymns/07066.html",
+      "api": "json/hymns/07066.json",
       "created": 1638549628374
     },
     {
       "key": "07067",
       "title": "HYMN LXVII. Aśvins.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv07067.htm",
-      "link": "rigveda/hymns/07067.html",
-      "api": "hymns/07067.json",
+      "link": "hymns/07067.html",
+      "api": "json/hymns/07067.json",
       "created": 1638549628374
     },
     {
       "key": "07068",
       "title": "HYMN LXVIII. Aśvins.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv07068.htm",
-      "link": "rigveda/hymns/07068.html",
-      "api": "hymns/07068.json",
+      "link": "hymns/07068.html",
+      "api": "json/hymns/07068.json",
       "created": 1638549628374
     },
     {
       "key": "07069",
       "title": "HYMN LXIX. Aśvins.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv07069.htm",
-      "link": "rigveda/hymns/07069.html",
-      "api": "hymns/07069.json",
+      "link": "hymns/07069.html",
+      "api": "json/hymns/07069.json",
       "created": 1638549628374
     },
     {
       "key": "07070",
       "title": "HYMN LXX. Aśvins.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv07070.htm",
-      "link": "rigveda/hymns/07070.html",
-      "api": "hymns/07070.json",
+      "link": "hymns/07070.html",
+      "api": "json/hymns/07070.json",
       "created": 1638549628374
     },
     {
       "key": "07071",
       "title": "HYMN LXXI. Aśvins.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv07071.htm",
-      "link": "rigveda/hymns/07071.html",
-      "api": "hymns/07071.json",
+      "link": "hymns/07071.html",
+      "api": "json/hymns/07071.json",
       "created": 1638549628374
     },
     {
       "key": "07072",
       "title": "HYMN LXXII. Aśvins.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv07072.htm",
-      "link": "rigveda/hymns/07072.html",
-      "api": "hymns/07072.json",
+      "link": "hymns/07072.html",
+      "api": "json/hymns/07072.json",
       "created": 1638549628374
     },
     {
       "key": "07073",
       "title": "HYMN LXXIII. Aśvins.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv07073.htm",
-      "link": "rigveda/hymns/07073.html",
-      "api": "hymns/07073.json",
+      "link": "hymns/07073.html",
+      "api": "json/hymns/07073.json",
       "created": 1638549628374
     },
     {
       "key": "07074",
       "title": "HYMN I.XXIV. Aśvins.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv07074.htm",
-      "link": "rigveda/hymns/07074.html",
-      "api": "hymns/07074.json",
+      "link": "hymns/07074.html",
+      "api": "json/hymns/07074.json",
       "created": 1638549628374
     },
     {
       "key": "07075",
       "title": "HYMN LXXV. Dawn.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv07075.htm",
-      "link": "rigveda/hymns/07075.html",
-      "api": "hymns/07075.json",
+      "link": "hymns/07075.html",
+      "api": "json/hymns/07075.json",
       "created": 1638549628374
     },
     {
       "key": "07076",
       "title": "HYMN LXXVI. Dawn.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv07076.htm",
-      "link": "rigveda/hymns/07076.html",
-      "api": "hymns/07076.json",
+      "link": "hymns/07076.html",
+      "api": "json/hymns/07076.json",
       "created": 1638549628374
     },
     {
       "key": "07077",
       "title": "HYMN LXXVIT. Dawn.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv07077.htm",
-      "link": "rigveda/hymns/07077.html",
-      "api": "hymns/07077.json",
+      "link": "hymns/07077.html",
+      "api": "json/hymns/07077.json",
       "created": 1638549628374
     },
     {
       "key": "07078",
       "title": "HYMN LXXVIII. Dawn.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv07078.htm",
-      "link": "rigveda/hymns/07078.html",
-      "api": "hymns/07078.json",
+      "link": "hymns/07078.html",
+      "api": "json/hymns/07078.json",
       "created": 1638549628374
     },
     {
       "key": "07079",
       "title": "HYMN LXXIX. Dawn.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv07079.htm",
-      "link": "rigveda/hymns/07079.html",
-      "api": "hymns/07079.json",
+      "link": "hymns/07079.html",
+      "api": "json/hymns/07079.json",
       "created": 1638549628374
     },
     {
       "key": "07080",
       "title": "HYMN LXXX. Dawn.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv07080.htm",
-      "link": "rigveda/hymns/07080.html",
-      "api": "hymns/07080.json",
+      "link": "hymns/07080.html",
+      "api": "json/hymns/07080.json",
       "created": 1638549628374
     },
     {
       "key": "07081",
       "title": "HYMN LXXXI. Dawn.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv07081.htm",
-      "link": "rigveda/hymns/07081.html",
-      "api": "hymns/07081.json",
+      "link": "hymns/07081.html",
+      "api": "json/hymns/07081.json",
       "created": 1638549628374
     },
     {
       "key": "07082",
       "title": "HYMN LXXXIT. Indra-Varuṇa",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv07082.htm",
-      "link": "rigveda/hymns/07082.html",
-      "api": "hymns/07082.json",
+      "link": "hymns/07082.html",
+      "api": "json/hymns/07082.json",
       "created": 1638549628374
     },
     {
       "key": "07083",
       "title": "HYMN LXXXIII. Indra-Varuṇa.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv07083.htm",
-      "link": "rigveda/hymns/07083.html",
-      "api": "hymns/07083.json",
+      "link": "hymns/07083.html",
+      "api": "json/hymns/07083.json",
       "created": 1638549628374
     },
     {
       "key": "07084",
       "title": "HYMN LXXXIV. Indra-Varuṇa.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv07084.htm",
-      "link": "rigveda/hymns/07084.html",
-      "api": "hymns/07084.json",
+      "link": "hymns/07084.html",
+      "api": "json/hymns/07084.json",
       "created": 1638549628374
     },
     {
       "key": "07085",
       "title": "HYMN LXXXV. Indra-Varuṇa.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv07085.htm",
-      "link": "rigveda/hymns/07085.html",
-      "api": "hymns/07085.json",
+      "link": "hymns/07085.html",
+      "api": "json/hymns/07085.json",
       "created": 1638549628374
     },
     {
       "key": "07086",
       "title": "HYMN LXXXVI. Varuṇa.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv07086.htm",
-      "link": "rigveda/hymns/07086.html",
-      "api": "hymns/07086.json",
+      "link": "hymns/07086.html",
+      "api": "json/hymns/07086.json",
       "created": 1638549628374
     },
     {
       "key": "07087",
       "title": "HYMN LXXXVII. Varuṇa.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv07087.htm",
-      "link": "rigveda/hymns/07087.html",
-      "api": "hymns/07087.json",
+      "link": "hymns/07087.html",
+      "api": "json/hymns/07087.json",
       "created": 1638549628374
     },
     {
       "key": "07088",
       "title": "HYMN LXXXVIII. Varuṇa.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv07088.htm",
-      "link": "rigveda/hymns/07088.html",
-      "api": "hymns/07088.json",
+      "link": "hymns/07088.html",
+      "api": "json/hymns/07088.json",
       "created": 1638549628374
     },
     {
       "key": "07089",
       "title": "HYMN LXXXIX Varuṇa.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv07089.htm",
-      "link": "rigveda/hymns/07089.html",
-      "api": "hymns/07089.json",
+      "link": "hymns/07089.html",
+      "api": "json/hymns/07089.json",
       "created": 1638549628374
     },
     {
       "key": "07090",
       "title": "HYMN XC. Vāyu.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv07090.htm",
-      "link": "rigveda/hymns/07090.html",
-      "api": "hymns/07090.json",
+      "link": "hymns/07090.html",
+      "api": "json/hymns/07090.json",
       "created": 1638549628374
     },
     {
       "key": "07091",
       "title": "HYMN XCI. Vāyu.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv07091.htm",
-      "link": "rigveda/hymns/07091.html",
-      "api": "hymns/07091.json",
+      "link": "hymns/07091.html",
+      "api": "json/hymns/07091.json",
       "created": 1638549628374
     },
     {
       "key": "07092",
       "title": "HYMN XCII. Vāyu",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv07092.htm",
-      "link": "rigveda/hymns/07092.html",
-      "api": "hymns/07092.json",
+      "link": "hymns/07092.html",
+      "api": "json/hymns/07092.json",
       "created": 1638549628374
     },
     {
       "key": "07093",
       "title": "HYMN XCIII. Indra-Agni.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv07093.htm",
-      "link": "rigveda/hymns/07093.html",
-      "api": "hymns/07093.json",
+      "link": "hymns/07093.html",
+      "api": "json/hymns/07093.json",
       "created": 1638549628374
     },
     {
       "key": "07094",
       "title": "HYMN XCIV. Indra-Agni.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv07094.htm",
-      "link": "rigveda/hymns/07094.html",
-      "api": "hymns/07094.json",
+      "link": "hymns/07094.html",
+      "api": "json/hymns/07094.json",
       "created": 1638549628374
     },
     {
       "key": "07095",
       "title": "HYMN XCV. Sarasvatī.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv07095.htm",
-      "link": "rigveda/hymns/07095.html",
-      "api": "hymns/07095.json",
+      "link": "hymns/07095.html",
+      "api": "json/hymns/07095.json",
       "created": 1638549628374
     },
     {
       "key": "07096",
       "title": "HYMN XCVI. Sarasvatī.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv07096.htm",
-      "link": "rigveda/hymns/07096.html",
-      "api": "hymns/07096.json",
+      "link": "hymns/07096.html",
+      "api": "json/hymns/07096.json",
       "created": 1638549628374
     },
     {
       "key": "07097",
       "title": "HYMN XCVIL Bṛhaspati.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv07097.htm",
-      "link": "rigveda/hymns/07097.html",
-      "api": "hymns/07097.json",
+      "link": "hymns/07097.html",
+      "api": "json/hymns/07097.json",
       "created": 1638549628374
     },
     {
       "key": "07098",
       "title": "HYMN XCVIII. Indra.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv07098.htm",
-      "link": "rigveda/hymns/07098.html",
-      "api": "hymns/07098.json",
+      "link": "hymns/07098.html",
+      "api": "json/hymns/07098.json",
       "created": 1638549628374
     },
     {
       "key": "07099",
       "title": "HYMN XCIX. Viṣṇu.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv07099.htm",
-      "link": "rigveda/hymns/07099.html",
-      "api": "hymns/07099.json",
+      "link": "hymns/07099.html",
+      "api": "json/hymns/07099.json",
       "created": 1638549628374
     },
     {
       "key": "07100",
       "title": "HYMN C. Viṣṇu.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv07100.htm",
-      "link": "rigveda/hymns/07100.html",
-      "api": "hymns/07100.json",
+      "link": "hymns/07100.html",
+      "api": "json/hymns/07100.json",
       "created": 1638549628374
     },
     {
       "key": "07101",
       "title": "HYMN CI. Parjanya.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv07101.htm",
-      "link": "rigveda/hymns/07101.html",
-      "api": "hymns/07101.json",
+      "link": "hymns/07101.html",
+      "api": "json/hymns/07101.json",
       "created": 1638549628374
     },
     {
       "key": "07102",
       "title": "HYMN CII Parjanya.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv07102.htm",
-      "link": "rigveda/hymns/07102.html",
-      "api": "hymns/07102.json",
+      "link": "hymns/07102.html",
+      "api": "json/hymns/07102.json",
       "created": 1638549628374
     },
     {
       "key": "07103",
       "title": "HYMN CIII. Frogs.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv07103.htm",
-      "link": "rigveda/hymns/07103.html",
-      "api": "hymns/07103.json",
+      "link": "hymns/07103.html",
+      "api": "json/hymns/07103.json",
       "created": 1638549628374
     },
     {
       "key": "07104",
       "title": "HYMN CIV. Indra-Soma.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv07104.htm",
-      "link": "rigveda/hymns/07104.html",
-      "api": "hymns/07104.json",
+      "link": "hymns/07104.html",
+      "api": "json/hymns/07104.json",
       "created": 1638549628374
     }
   ]

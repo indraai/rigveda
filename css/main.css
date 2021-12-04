@@ -1,6 +1,6 @@
 :root {
   --font-size: 14px;
-  --font-family: arial, helvetica, serif;
+  --font-family: 'brandon-grotesque', arial, helvetica, serif;
   --color-baby-blue: #5aa9f8;
   --color-red: #ff4b4b;
   --color-grey: #9c9c9c;
@@ -13,9 +13,10 @@ body, div, header, main, footer, h1, h2, h3, h4, h5 {
 }
 
 body {
-  background-image: url(background.jpg);
+  background-image: url(../img/background.jpg);
   background-position: top center;
   background-attachment: fixed;
+  background-size: 600px auto;
   background-repeat: no-repeat;
   font-family: var(--font-family);
   font-size: var(--font-size);
@@ -37,7 +38,7 @@ h4 {
 }
 header,
 footer,
-section.twitter {
+section {
   text-align: center;
   max-width: var(--max-width);
   margin: auto
@@ -47,7 +48,7 @@ header img {
   max-width: 100%;
 }
 main {
-  font-size: calc(var(--font-size) + 10px);
+  font-size: calc(var(--font-size) + 4px);
   max-width: var(--max-width);
   margin: auto
 }
@@ -116,4 +117,13 @@ section.twitter {
 }
 .item .value {
   flex: 1 auto;
+}
+
+section.info p {
+  text-align: left;
+  font-size: 1.25rem;
+}
+
+main .href {
+  display: block;
 }
