@@ -73,29 +73,32 @@ section.twitter {
   gap: 1px;
 }
 
-.feecting-box.books .href {
-  flex: 1 30%;
-  padding: 1rem 0;
-}
 
 .feecting-box.nav {
   display: flex;
   flex-flow: row nowrap;
   border-radius: .5rem;
   padding: .1rem;
+  gap: 3px;
 }
 
-.feecting-box.books .href,
+.feecting-box.books .href {
+  flex: 1 30%;
+  padding: 1rem 0;
+}
 .feecting-box.nav .href {
   flex: 1;
-  text-align: center;
+  padding: 1rem 0;
   padding: .5rem;
   font-size: 1rem;
+}
+.feecting-box.books .href,
+.feecting-box.nav .href {
+  text-align: center;
   border: 1px solid var(--color-grey);
   background-color:transparent;
   border-radius: 3rem;
   box-shadow: 0 1px 1px rgba(0,0,0,.15);
-  margin: 3px;
 }
 
 .feecting-box.books .href:visited,
