@@ -119,6 +119,9 @@ section.twitter {
   flex: 1 auto;
 }
 
+section.share {
+  padding-top: 2rem;
+}
 section.info p {
   text-align: left;
   font-size: 1.25rem;
