@@ -6,6 +6,7 @@
   --color-grey: #9c9c9c;
   --color-grey-dark: #333333;
   --color-green: #93d14a;
+  --color-white: #ffffff;
   --max-width: 600px
 }
 body, div, header, main, footer, h1, h2, h3, h4, h5 {
@@ -73,8 +74,9 @@ section.twitter {
 
 .feecting-box.books .href {
   flex: 1 30%;
-  min-height: 720px;
+  min-height: 72px;
   background-color: var(--color-baby-blue);
+  color: var(--color-white);
 }
 
 .feecting-box.nav {
