@@ -71,7 +71,7 @@ section.twitter {
   gap: 1px;
 }
 
-.feecting-box.books href {
+.feecting-box.books .href {
   flex: 1 30%;
   min-height: 720px;
   background-color: var(--color-baby-blue);
