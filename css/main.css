@@ -120,6 +120,8 @@ section.twitter {
 }
 
 .feecting-box.book .number-item {
+  display: flex;
+  flex: row nowrap;
   padding: 5px 0;
 }
 
