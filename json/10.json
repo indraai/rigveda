@@ -1,7 +1,7 @@
 {
   "key": "10",
   "title": "RigVeda Book 10",
-  "describe": "RigVeda review this book.",
+  "describe": "The RigVeda Book 10 includes stories and adventures about Agni, Yami, Yama, Aśvins, Indra Vaikuntha, and the Waters. The tenth book in the RigVeda is sure to leave your imagination sparkling with wonder. Water or Cows is the question?",
   "link": "10.html",
   "api": "json/10.json",
   "data": [
@@ -135,19 +135,21 @@
     },
     {
       "key": "10017",
-      "title": "HYMN XVII. Various Deities.",
+      "title": "HYMN XVII. Devas.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv10017.htm",
       "link": "hymns/10017.html",
       "api": "json/hymns/10017.json",
-      "created": 1638549635838
+      "created": 1638549635838,
+      "updated": 1638791591125
     },
     {
       "key": "10018",
-      "title": "HYMN XVIII. Various Deities.",
+      "title": "HYMN XVIII. Devas.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv10018.htm",
       "link": "hymns/10018.html",
       "api": "json/hymns/10018.json",
-      "created": 1638549635838
+      "created": 1638549635838,
+      "updated": 1638791591125
     },
     {
       "key": "10019",
@@ -263,11 +265,12 @@
     },
     {
       "key": "10033",
-      "title": "HYMN XXXIII. Various Deities.",
+      "title": "HYMN XXXIII. Devas.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv10033.htm",
       "link": "hymns/10033.html",
       "api": "json/hymns/10033.json",
-      "created": 1638549635838
+      "created": 1638549635838,
+      "updated": 1638791591125
     },
     {
       "key": "10034",

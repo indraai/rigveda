@@ -5,7 +5,7 @@
   "link": "hymns/07050.html",
   "api": "json/hymns/07050.json",
   "data": {
-    "title": "HYMN L. Various Deities.",
+    "title": "HYMN L. Devas.",
     "describe": "O MITRA-VARUNA, guard and protect me here: let not that come to me which nests within and swells.",
     "feecting": "p:O MITRA-VARUNA, guard and protect me here: let not that come to me which nests within and swells.\np: I drive afar the scorpion hateful to the sight: let not the winding worm touch me and wound my foot.\r\np:Eruption that appears upon the twofold joints, and that which overspreads the ankles and the knees, May the refulgent Agni banish far away let not the winding worm touch me and wound my foot.\np:The poison that is formed upon the Salmali, that which is found in streams, that which the plants produce, All thi. May all the Devas banish and drive away: let not the winding worm touch me and wound my foot.\np:The steep declivities, the valleys, and the heights, the channels full of water, and the waterless- May those who swell with water, gracious Goddesses, never afflict us with the Sipada disease. May all the rivers keep us free from Simida.",
     "next": "07051",
@@ -13,5 +13,5 @@
     "book": "07"
   },
   "created": 1638556006201,
-  "updated": 1638791253178
+  "updated": 1638791591789
 }

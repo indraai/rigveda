@@ -1,6 +1,6 @@
 {
   "key": "02",
-  "title": "RigVeda Book 02",
+  "title": "RigVeda Book 2",
   "describe": "RigVeda Book 2 is an adventure into your mind with more stories of Agni, Indra, and various Deities.",
   "link": "02.html",
   "api": "json/02.json",
@@ -264,11 +264,12 @@
     },
     {
       "key": "02032",
-      "title": "HYMN XXXII. Various Deities.",
+      "title": "HYMN XXXII. Devas.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv02032.htm",
       "link": "hymns/02032.html",
       "api": "json/hymns/02032.json",
-      "created": 1638549617309
+      "created": 1638549617309,
+      "updated": 1638791591110
     },
     {
       "key": "02033",
@@ -339,11 +340,12 @@
     },
     {
       "key": "02041",
-      "title": "HYMN XLI. Various Deities.",
+      "title": "HYMN XLI. Devas.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv02041.htm",
       "link": "hymns/02041.html",
       "api": "json/hymns/02041.json",
-      "created": 1638549617309
+      "created": 1638549617309,
+      "updated": 1638791591110
     },
     {
       "key": "02042",
