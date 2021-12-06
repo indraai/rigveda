@@ -561,11 +561,12 @@
     },
     {
       "key": "10070",
-      "title": "HYMN LXX. Āprīs.",
+      "title": "HYMN LXX. Indu.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv10070.htm",
       "link": "hymns/10070.html",
       "api": "json/hymns/10070.json",
-      "created": 1638549635838
+      "created": 1638549635838,
+      "updated": 1638790697457
     },
     {
       "key": "10071",
@@ -883,11 +884,12 @@
     },
     {
       "key": "10110",
-      "title": "HYMN CX. Āprīs.",
+      "title": "HYMN CX. Indu.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv10110.htm",
       "link": "hymns/10110.html",
       "api": "json/hymns/10110.json",
-      "created": 1638549635838
+      "created": 1638549635838,
+      "updated": 1638790697458
     },
     {
       "key": "10111",

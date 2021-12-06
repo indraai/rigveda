@@ -15,11 +15,12 @@
     },
     {
       "key": "07002",
-      "title": "HYMN II. Āprīs.",
+      "title": "HYMN II. Indu.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv07002.htm",
       "link": "hymns/07002.html",
       "api": "json/hymns/07002.json",
-      "created": 1638549628374
+      "created": 1638549628374,
+      "updated": 1638790697451
     },
     {
       "key": "07003",

@@ -1139,11 +1139,12 @@
     },
     {
       "key": "01142",
-      "title": "HYMN CXLII. Āprīs.",
+      "title": "HYMN CXLII. Indu.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv01142.htm",
       "link": "hymns/01142.html",
       "api": "json/hymns/01142.json",
-      "created": 1638559869751
+      "created": 1638559869751,
+      "updated": 1638790697438
     },
     {
       "key": "01143",
@@ -1510,11 +1511,12 @@
     },
     {
       "key": "01188",
-      "title": "HYMN CLXXXVIII. Āprīs.",
+      "title": "HYMN CLXXXVIII. Indu.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv01188.htm",
       "link": "hymns/01188.html",
       "api": "json/hymns/01188.json",
-      "created": 1638559869752
+      "created": 1638559869752,
+      "updated": 1638790697438
     },
     {
       "key": "01189",

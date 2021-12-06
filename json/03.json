@@ -31,11 +31,12 @@
     },
     {
       "key": "03004",
-      "title": "HYMN IV Āprīs.",
+      "title": "HYMN IV Indu.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv03004.htm",
       "link": "hymns/03004.html",
       "api": "json/hymns/03004.json",
-      "created": 1638549618876
+      "created": 1638549618876,
+      "updated": 1638790697444
     },
     {
       "key": "03005",

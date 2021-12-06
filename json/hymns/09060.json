@@ -6,12 +6,12 @@
   "api": "json/hymns/09060.json",
   "data": {
     "title": "HYMN LX. Indu.",
-    "describe": "SING forth and laud with sacred song most active Pavamana, laud Indu who sees with thousand eyes.",
-    "feecting": "p:SING forth and laud with sacred song most active Pavamana, laud Indu who sees with thousand eyes.\np:Thee who hast thousand eyes to see, bearer of thousand burthens, they Have filtered through the fleecy cloth.\np:He, Pavamana, hath streamed through the fleece then he runs into the jars, Finding his way to Indra's heart.\np:That Indr. May be bounteous, flow, most active Soma, for our weal: Bring genial seed with progeny.",
+    "describe": "SING forth and laud with sacred song most active Indu, laud Indu who sees with thousand eyes.",
+    "feecting": "p:SING forth and laud with sacred song most active Indu, laud Indu who sees with thousand eyes.\np:Thee who hast thousand eyes to see, bearer of thousand burthens, they Have filtered through the fleecy cloth.\np:He, indu, hath streamed through the fleece then he runs into the jars, Finding his way to Indra's heart.\np:That Indr. May be bounteous, flow, most active Soma, for our weal: Bring genial seed with progeny.",
     "next": "09061",
     "previous": "09059",
     "book": "09"
   },
   "created": 1638557151335,
-  "updated": 1638647790810
+  "updated": 1638790698402
 }

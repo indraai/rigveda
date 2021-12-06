@@ -39,11 +39,12 @@
     },
     {
       "key": "05005",
-      "title": "HYMN V. Āprīs.",
+      "title": "HYMN V. Indu.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv05005.htm",
       "link": "hymns/05005.html",
       "api": "json/hymns/05005.json",
-      "created": 1638549622058
+      "created": 1638549622058,
+      "updated": 1638790697448
     },
     {
       "key": "05006",

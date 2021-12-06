@@ -23,11 +23,12 @@
     },
     {
       "key": "02003",
-      "title": "HYMN III. Āprīs.",
+      "title": "HYMN III. Indu.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv02003.htm",
       "link": "hymns/02003.html",
       "api": "json/hymns/02003.json",
-      "created": 1638549617309
+      "created": 1638549617309,
+      "updated": 1638790697442
     },
     {
       "key": "02004",
