@@ -5,13 +5,38 @@
   "link": "hymns/03058.html",
   "api": "json/hymns/03058.json",
   "data": {
-    "title": "HYMN LVIII. A&#347;vins.",
-    "describe": "THE Ancient's Milch-cow yields the things we long for: the Son of Dak&#7779;",
-    "feecting": "p:THE Ancient's Milch-cow yields the things we long for: the Son of Dak&#7779;i&#7751;&#257; travels between them.\np: She with the splendid chariot brings refulgence. The praise of U&#7779;as hath awoke the A&#347;vins.\r\np:They bear you hither by well-orderd statute: our sacred offerings rise as if to parents. Destroy in us the counsel of the niggard come hitherward, for we have shown you favour.\np:With lightly-rolling car and well-yoked horses hear this, the press-stone's song, ye Wonder-Workers. Have not the sages of old time, ye A&#347;vins, called you most prompt to come and stay misfortune?\np:Remember us, and come to us, forever men, as their wont is, invocate the A&#347;vins. Friends as it were have offered you these offerings, sweet, blent with milk at the first break of morning.\np:Even through many regions, O ye A&#347;vins high praise is yours among mankind, ye Mighty- Come, helpers, on the paths which Devas have travelled: here your libations of sweet meath are ready.\np:Ancient your home, auspicious is your friendship: Heroes, your wealth is with the house of Jahnu. Forming again with you auspicious friendship, let us rejoice with draughts of meath together.\np:O A&#347;vins, Very Mighty ones, with V&#257;yu and with his steeds, one-minded, ever-youthful, N&#257;satyas, joying in the third day's Soma, drink it, not hostile, Very Bounteous Givers.\np:A&#347;vins, to you are brought abundant offerings in rivalry with sacred songs, unceasing. Sprung from high Law your car, urged on by press-stones, goes round the Earth and Heaven in one brief moment.\np:A&#347;vins, your Soma sheds delicious sweetness: drink ye thereof and come unto our dwelling. Your car, assuming many a shape, most often goes to we's place of meeting.",
-    "next": "03059",
-    "previous": "03057",
-    "book": "03"
+    "key": "03058",
+    "title": "HYMN LVIII. Aśvins.",
+    "describe": "THE Ancient's Milch-cow yields the things we long for: the Son of Dakṣiṇā travels between them.",
+    "feecting": "p:THE Ancient's Milch-cow yields the things we long for: the Son of Dakṣiṇā travels between them.\np: She with the splendid chariot brings refulgence. The praise of Uṣas hath awoke the Aśvins.\r\np:They bear you hither by well-orderd statute: our sacred offerings rise as if to parents. Destroy in us the counsel of the niggard come hitherward, for we have shown you favour.\np:With lightly-rolling car and well-yoked horses hear this, the press-stone's song, ye Wonder-Workers. Have not the sages of old time, ye Aśvins, called you most prompt to come and stay misfortune?\np:Remember us, and come to us, forever men, as their wont is, invocate the Aśvins. Friends as it were have offered you these offerings, sweet, blent with milk at the first break of morning.\np:Even through many regions, O ye Aśvins high praise is yours among mankind, ye Mighty- Come, helpers, on the paths which Devas have travelled: here your libations of sweet meath are ready.\np:Ancient your home, auspicious is your friendship: Heroes, your wealth is with the house of Jahnu. Forming again with you auspicious friendship, let us rejoice with draughts of meath together.\np:O Aśvins, Very Mighty ones, with Soma and with his steeds, one-minded, ever-youthful, Nāsatyas, joying in the third day's Soma, drink it, not hostile, Very Bounteous Givers.\np:Aśvins, to you are brought abundant offerings in rivalry with sacred songs, unceasing. Sprung from high Law your car, urged on by press-stones, goes round the Earth and Heaven in one brief moment.\np:Aśvins, your Soma sheds delicious sweetness: drink ye thereof and come unto our dwelling. Your car, assuming many a shape, most often goes to we's place of meeting.",
+    "meta": {
+      "next": "03059",
+      "previous": "03057",
+      "book": "03",
+      "source": "https://sacred-texts.com/hin/rigveda/rv03058.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv03058.htm"
+    },
+    "deities": [
+      {
+        "name": "O ye ",
+        "hymns": [
+          {
+            "key": "03058",
+            "title": "HYMN LVIII. Aśvins."
+          }
+        ]
+      },
+      {
+        "name": "O Aśvins",
+        "hymns": [
+          {
+            "key": "03058",
+            "title": "HYMN LVIII. Aśvins."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638554557374,
-  "updated": 1638792007662
+  "updated": 1638830292100
 }

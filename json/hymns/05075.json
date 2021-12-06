@@ -5,13 +5,73 @@
   "link": "hymns/05075.html",
   "api": "json/hymns/05075.json",
   "data": {
-    "title": "HYMN LXXV. A&#347;vins.",
-    "describe": "To meet your treasure-bringing car, the mighty car most dear to us, A&#347;",
-    "feecting": "p:To meet your treasure-bringing car, the mighty car most dear to us, A&#347;vins, the &#7770;&#7779;i is prepared, your raiser, with his song of praise. Lovers of sweetness, hear my call.\np:Pass, O ye A&#347;vins, pass away beyond all tribes of selfish men, Wonderful, with your golden paths, most gracious, bringers of the flood. Lovers of sweetness, hear my call.\np:Come to us, O ye A&#347;vin Pair, bringing your precious treasures, come Ye Somas, on your paths of gold, rejoicing, rich in store of wealth. Lovers of sweetness, hear my call.\np:O strong and Good, the voice of him who lauds you well cleaves to your car.\np: And that great beast, your chariot-steed, fair, wonderful, makes dainty food. Lovers of sweetness, hear my call.\r\np:Watchful in spirit, born on cars, impetuous, listing to his cry, A&#347;vins, with winged steeds ye speed down to cyavana void of guile. Lovers of sweetness, hear my call.\np:Hither, O Heroes, let your steeds, of dappled hue, yoked at the thought, Your flying steeds, O A&#347;vins, bring you hitherward, with bliss, to drink. Lovers of sweetness, hear my call.\np:O A&#347;vins, hither come to us; N&#257;satyas, be not disinclined. Through longing for the pious turn out of the way to reach our home. Lovers of sweetness, bear my call.\np:Ye Lords of Splendour, free from guile, come, stand at this our offering. Beside the singer, A&#347;vins, who longs for your grace and lauds you both. Lovers of sweetness, hear my call.\np:Dawn with her white herd hath appeared, and in due time hath fire been placed. Harnessed is your immortal car, O WonderWorkers, strong and kind. Lovers of sweetness, bear my call.",
-    "next": "05076",
-    "previous": "05074",
-    "book": "05"
+    "key": "05075",
+    "title": "HYMN LXXV. Aśvins.",
+    "describe": "To meet your treasure-bringing car, the mighty car most dear to us, Aśvins, the Ṛṣi is prepared, your raiser, with his song of praise.",
+    "feecting": "p:To meet your treasure-bringing car, the mighty car most dear to us, Aśvins, the Ṛṣi is prepared, your raiser, with his song of praise. Lovers of sweetness, hear my call.\np:Pass, O ye Aśvins, pass away beyond all tribes of selfish men, Wonderful, with your golden paths, most gracious, bringers of the flood. Lovers of sweetness, hear my call.\np:Come to us, O ye Aśvin Pair, bringing your precious treasures, come Ye Somas, on your paths of gold, rejoicing, rich in store of wealth. Lovers of sweetness, hear my call.\np:O strong and Good, the voice of him who lauds you well cleaves to your car.\np: And that great beast, your chariot-steed, fair, wonderful, makes dainty food. Lovers of sweetness, hear my call.\r\np:Watchful in spirit, born on cars, impetuous, listing to his cry, Aśvins, with winged steeds ye speed down to cyavana void of guile. Lovers of sweetness, hear my call.\np:Hither, O Heroes, let your steeds, of dappled hue, yoked at the thought, Your flying steeds, O Aśvins, bring you hitherward, with bliss, to drink. Lovers of sweetness, hear my call.\np:O Aśvins, hither come to us; Nāsatyas, be not disinclined. Through longing for the pious turn out of the way to reach our home. Lovers of sweetness, bear my call.\np:Ye Lords of Splendour, free from guile, come, stand at this our offering. Beside the singer, Aśvins, who longs for your grace and lauds you both. Lovers of sweetness, hear my call.\np:Dawn with her white herd hath appeared, and in due time hath fire been placed. Harnessed is your immortal car, O WonderWorkers, strong and kind. Lovers of sweetness, bear my call.",
+    "meta": {
+      "next": "05076",
+      "previous": "05074",
+      "book": "05",
+      "source": "https://sacred-texts.com/hin/rigveda/rv05075.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv05075.htm"
+    },
+    "deities": [
+      {
+        "name": "O ye ",
+        "hymns": [
+          {
+            "key": "05075",
+            "title": "HYMN LXXV. Aśvins."
+          },
+          {
+            "key": "05075",
+            "title": "HYMN LXXV. Aśvins."
+          }
+        ]
+      },
+      {
+        "name": "O strong",
+        "hymns": [
+          {
+            "key": "05075",
+            "title": "HYMN LXXV. Aśvins."
+          }
+        ]
+      },
+      {
+        "name": "O Heroes",
+        "hymns": [
+          {
+            "key": "05075",
+            "title": "HYMN LXXV. Aśvins."
+          }
+        ]
+      },
+      {
+        "name": "O Aśvins",
+        "hymns": [
+          {
+            "key": "05075",
+            "title": "HYMN LXXV. Aśvins."
+          },
+          {
+            "key": "05075",
+            "title": "HYMN LXXV. Aśvins."
+          }
+        ]
+      },
+      {
+        "name": "O WonderWorkers",
+        "hymns": [
+          {
+            "key": "05075",
+            "title": "HYMN LXXV. Aśvins."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638555283088,
-  "updated": 1638792007833
+  "updated": 1638830292319
 }

@@ -5,13 +5,56 @@
   "link": "hymns/06031.html",
   "api": "json/hymns/06031.json",
   "data": {
+    "key": "06031",
     "title": "HYMN XXXI Indra.",
     "describe": "SOLE Lord of wealth art thou, O Lord of riches: thou in thine hands hast held the people, Indra!",
-    "feecting": "p:SOLE Lord of wealth art thou, O Lord of riches: thou in thine hands hast held the people, Indra! Men have invoked thee with contending voices for seed and waters, progeny and sunlight.\np:Through fear of thee, O Indra, all the regions of Earth, though naugh. May move them, shake and tremble.\np: All that is firm is frightened at thy coming, -the Earth, the Heaven, the mountain, and the forest.\r\np:With Kutsa, Indra! thou didst conquer &#346;u&#7779;&#7751;a, voracious, bane of crops, in fight for cattle. In the close fray thou rentest him: thou stolest the Sun's wheel and didst drive away misfortunes.\np:Thou smotest to the ground the hundred castles, impregnable, of &#346;ambara the Dasyu, when, Strong, with might thou holpest Divod&#257;sa who poured libations out, O Soma-buyer, and madest Bharadv&#257;ja rich who praised thee.\np:As such, true Hero, for great joy of battle mount thy terrific car, O Brave and Manly. Come with thine help to me, thou distant Roamer, and, glorious Deva, spread among men my glory.",
-    "next": "06032",
-    "previous": "06030",
-    "book": "06"
+    "feecting": "p:SOLE Lord of wealth art thou, O Lord of riches: thou in thine hands hast held the people, Indra! Men have invoked thee with contending voices for seed and waters, progeny and sunlight.\np:Through fear of thee, O Indra, all the regions of Earth, though naugh. May move them, shake and tremble.\np: All that is firm is frightened at thy coming, -the Earth, the Heaven, the mountain, and the forest.\r\np:With Kutsa, Indra! thou didst conquer Śuṣṇa, voracious, bane of crops, in fight for cattle. In the close fray thou rentest him: thou stolest the Sun's wheel and didst drive away misfortunes.\np:Thou smotest to the ground the hundred castles, impregnable, of Śambara the Dasyu, when, Strong, with might thou holpest Divodāsa who poured libations out, O Soma-buyer, and madest Bharadvāja rich who praised thee.\np:As such, true Hero, for great joy of battle mount thy terrific car, O Brave and Manly. Come with thine help to me, thou distant Roamer, and, glorious Deva, spread among men my glory.",
+    "meta": {
+      "next": "06032",
+      "previous": "06030",
+      "book": "06",
+      "source": "https://sacred-texts.com/hin/rigveda/rv06031.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv06031.htm"
+    },
+    "deities": [
+      {
+        "name": "O Lord",
+        "hymns": [
+          {
+            "key": "06031",
+            "title": "HYMN XXXI Indra."
+          }
+        ]
+      },
+      {
+        "name": "O Indra",
+        "hymns": [
+          {
+            "key": "06031",
+            "title": "HYMN XXXI Indra."
+          }
+        ]
+      },
+      {
+        "name": "O Soma",
+        "hymns": [
+          {
+            "key": "06031",
+            "title": "HYMN XXXI Indra."
+          }
+        ]
+      },
+      {
+        "name": "O Brave",
+        "hymns": [
+          {
+            "key": "06031",
+            "title": "HYMN XXXI Indra."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638555510044,
-  "updated": 1638792007887
+  "updated": 1638830292387
 }

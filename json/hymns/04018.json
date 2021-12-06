@@ -5,13 +5,38 @@
   "link": "hymns/04018.html",
   "api": "json/hymns/04018.json",
   "data": {
+    "key": "04018",
     "title": "HYMN XVIII. Indra.",
     "describe": "THIS is the ancient and accepted pathway by which all Devas have come into existence.",
-    "feecting": "p:THIS is the ancient and accepted pathway by which all Devas have come into existence.\np: Hereby could one be born though waxen mighty. Let him not, otherwise, destroy his Mother.\r\np:Not this way go I forth: hard is the passage. Forth from the side obliquely will I issue. Much that is yet undone must I accomplish; one must I combat and the other question.\np:He bent his eye upon the dying Mother: My word I now withdraw. That way I follow. In Tva&#7779;&#7789;ar's dwelling India drank the Soma, a hundredworth of juice pressed from the mortar.\np:What strange act shall he do, he whom his Mother bore for a thousand months and many autumns? No peer hath he among those born already, nor among those who shall be born hereafter.\np:Deeming him a reproach, his mother hid him, Indra, endowed with all heroic valour. Then up he sprang himself, assumed his vesture, and filled, as soon as born, the Earth and Heaven.\np:With lively motion onward flow these waters, the Holy Ones, shouting, as &#146;twere, together. Ask them to. tell thee what the floods are saying, what girdling rock the waters burst asunder.\np:Are they addressing him with words of welcome? Will the floods take on them the shame of Indra? With his great thunderbolt my Son hath slaughtered V&#7771;tra, and set these rivers free to wander.\np:I cast thee from me, mine,&#151;thy youthful mother: thee, mine own offspring, Kusava hath swallowed. To him, mine infant, were the waters gracious. Indra, my Son, rose up in conquering vigour.\np:Thou art mine own, O Indra, whom Vya&#7745;sa struck to the ground and smote thy jaws in pieces. But, smitten through, the mastery thou wonnest, and with thy bolt the D&#257;sa's head thou crushedst.\np:The Heifer hath brought forth the Strong, the Mighty, the unconquerable Bull, the furious Indra. The Mother left her unlicked Calf to wander, seeking himself, the path that he would follow.\np:Then to her mighty Child the Mother turned her, saying, My son, these Deities forsake thee. Then Indra said, about to slaughter V&#7771;tra, O my friend V&#7771;tra, stride full boldly forward.\np:Who was he then who made thy Mother widow? Who sought to stay thee lying still or moving? What Deva, when by the foot thy Sire thou tookest and slewest, was at hand to give thee comfort?\np:In deep distress I cooked a dog's intestines. Among the Devas I found not one to comfort. My consort I beheld in degradation. The Falcon then brought me the pleasant Soma.",
-    "next": "04019",
-    "previous": "04017",
-    "book": "04"
+    "feecting": "p:THIS is the ancient and accepted pathway by which all Devas have come into existence.\np: Hereby could one be born though waxen mighty. Let him not, otherwise, destroy his Mother.\r\np:Not this way go I forth: hard is the passage. Forth from the side obliquely will I issue. Much that is yet undone must I accomplish; one must I combat and the other question.\np:He bent his eye upon the dying Mother: My word I now withdraw. That way I follow. In Tvaṣṭar's dwelling India drank the Soma, a hundredworth of juice pressed from the mortar.\np:What strange act shall he do, he whom his Mother bore for a thousand months and many autumns? No peer hath he among those born already, nor among those who shall be born hereafter.\np:Deeming him a reproach, his mother hid him, Indra, endowed with all heroic valour. Then up he sprang himself, assumed his vesture, and filled, as soon as born, the Earth and Heaven.\np:With lively motion onward flow these waters, the Holy Ones, shouting, as ’twere, together. Ask them to. tell thee what the floods are saying, what girdling rock the waters burst asunder.\np:Are they addressing him with words of welcome? Will the floods take on them the shame of Indra? With his great thunderbolt my Son hath slaughtered Vṛtra, and set these rivers free to wander.\np:I cast thee from me, mine.thy youthful mother: thee, mine own offspring, Kusava hath swallowed. To him, mine infant, were the waters gracious. Indra, my Son, rose up in conquering vigour.\np:Thou art mine own, O Indra, whom Vyaṁsa struck to the ground and smote thy jaws in pieces. But, smitten through, the mastery thou wonnest, and with thy bolt the Dāsa's head thou crushedst.\np:The Heifer hath brought forth the Strong, the Mighty, the unconquerable Bull, the furious Indra. The Mother left her unlicked Calf to wander, seeking himself, the path that he would follow.\np:Then to her mighty Child the Mother turned her, saying, My son, these Deities forsake thee. Then Indra said, about to slaughter Vṛtra, O my friend Vṛtra, stride full boldly forward.\np:Who was he then who made thy Mother widow? Who sought to stay thee lying still or moving? What Deva, when by the foot thy Sire thou tookest and slewest, was at hand to give thee comfort?\np:In deep distress I cooked a dog's intestines. Among the Devas I found not one to comfort. My consort I beheld in degradation. The Falcon then brought me the pleasant Soma.",
+    "meta": {
+      "next": "04019",
+      "previous": "04017",
+      "book": "04",
+      "source": "https://sacred-texts.com/hin/rigveda/rv04018.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv04018.htm"
+    },
+    "deities": [
+      {
+        "name": "O Indra",
+        "hymns": [
+          {
+            "key": "04018",
+            "title": "HYMN XVIII. Indra."
+          }
+        ]
+      },
+      {
+        "name": "O my ",
+        "hymns": [
+          {
+            "key": "04018",
+            "title": "HYMN XVIII. Indra."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638554673112,
-  "updated": 1638792007692
+  "updated": 1638830292146
 }

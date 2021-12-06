@@ -5,13 +5,19 @@
   "link": "hymns/01107.html",
   "api": "json/hymns/01107.json",
   "data": {
-    "title": "HYMN CVII. Vi&#347;vedevas.",
-    "describe": "THE offering obtains the Devas&#146;",
-    "feecting": "p:THE offering obtains the Devas&#146; acceptance: be graciously inclined to us, &#256;dityas.\np: Hitherward let your favour be directed, and be our best deliverer from trouble.\r\np:By praise-songs of A&#7749;girases exalted. May the Devas come to us with their protection. May Indra with his powers, Devas with Devas, Aditi with &#256;dityas grant us shelter.\np:This laud of our. May Varu&#7751;a and Indra, Aryaman Agni, Indra find pleasant. This prayer of our. May Varu&#7751;a grant, and Mitra, and Aditi and Sindhu, Earth and Heaven.",
-    "next": "01108",
-    "previous": "01106",
-    "book": "01"
+    "key": "01107",
+    "title": "HYMN CVII. Devas.",
+    "describe": "THE offering obtains the Devas’ acceptance: be graciously inclined to us, Ādityas.",
+    "feecting": "p:THE offering obtains the Devas’ acceptance: be graciously inclined to us, Ādityas.\np: Hitherward let your favour be directed, and be our best deliverer from trouble.\r\np:By praise-songs of Aṅgirases exalted. May the Devas come to us with their protection. May Indra with his powers, Devas with Devas, Aditi with Ādityas grant us shelter.\np:This laud of our. May Indra and IndraDeva, Aryaman Agni, Indra find pleasant. This prayer of our. May Indra grant, and Mitra, and Aditi and Sindhu, Earth and Heaven.",
+    "meta": {
+      "next": "01108",
+      "previous": "01106",
+      "book": "01",
+      "source": "https://sacred-texts.com/hin/rigveda/rv01107.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv01107.htm"
+    },
+    "deities": []
   },
   "created": 1638553577806,
-  "updated": 1638792007413
+  "updated": 1638830291763
 }

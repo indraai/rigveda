@@ -5,13 +5,37 @@
   "link": "hymns/01168.html",
   "api": "json/hymns/01168.json",
   "data": {
+    "key": "01168",
     "title": "HYMN CLXVIII. Devas.",
     "describe": "SWIFT gain is his who hath you near at every rite: ye welcome every song of him who serves the Devas.",
-    "feecting": "p:SWIFT gain is his who hath you near at every rite: ye welcome every song of him who serves the Devas.\np: May I turn you hither with fair hymns of praise to give great succour for the weal of both the worlds.\r\np:Surrounding, as it were, self-born, self-powerful, they spring to life the shakers-down of food and light; Like as the countess undulations of the floods, worthy of praise when near, like bullocks and like kine.\np:They who imbibed within the heart, dwell there in friendly wise. Upon their shoulders rests as &#146;twere a warrior's spear and in their hand they hold a dagger and a ring.\np:Self-yoked they have descended lightly from the sky. With your own lash, Immortals, urge yourselves to speed. Unstained by dust the Devas, mighty in their strength, have cast down e&#146;en firm things, armed with their shining spears.\np:Who among you, O Devas armed with lightning-spears, moveth you by himself, as with the tongue his jaws? Ye rush from Heaven's floor as though ye sought for food, on many errands like the Sun's diurnal Steed.\np:Say where, then, is this mighty region's farthest bound, where, Devas, is the lowest depth that ye have reached, when ye cast down like chaff the firmly stablished pile, and from the mountain send the glittering water-flood?\np:Your winning is with strength, dazzling, with heavenly light, with fruit mature, O Devas, fall of plenteousness. Auspicious is your gift like a free giver's meed, victorious, spreading far, as of immortal Devas.\np:The rivers roar before your chariot fellies when they are uttering the voice of rain-clouds. The lightnings laugh upon the Earth beneath them.\np:P&#7771;&#347;ni brought forth, to fight the mighty battle, the glittering army of the restless Devas. Nurtured together they  looked round them for the food that strengthens.\np:May this your laud, may this your song O Devas, sung by the poet M&#257;na's son, M&#257;nd&#257;rya, Bring offspring for ourselves with food to feed us. May we find strengthening food in full abundance.",
-    "next": "01169",
-    "previous": "01167",
-    "book": "01"
+    "feecting": "p:SWIFT gain is his who hath you near at every rite: ye welcome every song of him who serves the Devas.\np: May I turn you hither with fair hymns of praise to give great assist for the weal of both the worlds.\r\np:Surrounding, as it were, self-born, self-powerful, they spring to life the shakers-down of food and light; Like as the countess undulations of the floods, worthy of praise when near, like bullocks and like kine.\np:They who imbibed within the heart, dwell there in friendly wise. Upon their shoulders rests as ’twere a warrior's spear and in their hand they hold a dagger and a ring.\np:Self-yoked they have descended lightly from the sky. With your own lash, Immortals, urge yourselves to speed. Unstained by dust the Devas, mighty in their strength, have cast down e’en firm things, armed with their shining spears.\np:Who among you, O Devas armed with lightning-spears, moveth you by himself, as with the tongue his jaws? Ye rush from Heaven's floor as though ye sought for food, on many errands like the Sun's diurnal Steed.\np:Say where, then, is this mighty region's farthest bound, where, Devas, is the lowest depth that ye have reached, when ye cast down like chaff the firmly stablished pile, and from the mountain send the glittering water-flood?\np:Your winning is with strength, dazzling, with heavenly light, with fruit mature, O Devas, fall of plenteousness. Auspicious is your gift like a free giver's meed, victorious, spreading far, as of immortal Devas.\np:The rivers roar before your chariot fellies when they are uttering the voice of rain-clouds. The lightnings laugh upon the Earth beneath them.\np:The glittering army of the restless Devas. Nurtured together they  looked round them for the food that strengthens.\np:May this your laud, may this your song O Devas bring offering food to feed us. May we find strengthening food in full abundance.",
+    "meta": {
+      "next": "01169",
+      "previous": "01167",
+      "book": "01",
+      "source": "https://sacred-texts.com/hin/rigveda/rv01168.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv01168.htm"
+    },
+    "deities": [
+      {
+        "name": "O Devas",
+        "hymns": [
+          {
+            "key": "01168",
+            "title": "HYMN CLXVIII. Devas."
+          },
+          {
+            "key": "01168",
+            "title": "HYMN CLXVIII. Devas."
+          },
+          {
+            "key": "01168",
+            "title": "HYMN CLXVIII. Devas."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638553900620,
-  "updated": 1638792007496
+  "updated": 1638830291890
 }

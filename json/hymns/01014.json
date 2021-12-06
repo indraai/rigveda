@@ -5,13 +5,47 @@
   "link": "hymns/01014.html",
   "api": "json/hymns/01014.json",
   "data": {
-    "title": "HYMN XIV. Vi&#347;vedevas.",
+    "key": "01014",
+    "title": "HYMN XIV. Devas.",
     "describe": "Soma, Agni, come, to our service and our songs.",
-    "feecting": "p:Soma, Agni, come, to our service and our songs.\np: With all these Devas.\r\np:The Ka&#7751;vas have invoked thee; they, O Singer, sing thee songs of praise Agni, come hither with the Devas;\np:Indra, V&#257;yu, Mitra, Agni, P&#363;&#7779;an, Bhaga, &#256;dityas, and the Marut host.\np:For you these offerings are poured forth that gladden and exhilarate, the meath-drops resting in the cup.\np:The sons of Ka&#7751;va fain for help adore thee, having strewn the grass, with offerings and all things prepared.\np:Let the swift steeds who carry thee, thought-yoked and dropping holy oil. Bring the DevasH.\np:Adored, the strengtheners of Law, unite them, Agni, O bright of tongue.\np:Let them, O Agni, who deserve worship and prase solemn offering.\np:Away, from the Sun's realm of light, the wise invoking Monk shall bring All Devas awaking with the dawn.\np:With all the Devas, with Indra, with V&#257;yu, and Mitra's splendours, drink, Agni, Soma.\np:Hallow thou this our offering.\np:Harness the Red Mares to thy car, the Bays, the flaming ones: With those bring hitherward the Devas.",
-    "next": "01015",
-    "previous": "01013",
-    "book": "01"
+    "feecting": "p:Soma, Agni, come, to our service and our songs.\np: With all these Devas.\r\np:We have invoked thee; they, O Singer, sing thee songs of praise Agni, come hither with the Devas;\np:Indra, Soma, Soma, Mitra, Agni, Pūṣan, Bhaga Devas and the Marut host.\np:For you these offerings are poured forth that gladden and exhilarate, the meath-drops resting in the cup.\np:Having strewn the grass, with offerings and all things prepared.\np:Let the swift steeds who carry thee, thought-yoked and dropping holy oil. Bring the DevasH.\np:Adored, the strengtheners of Law, unite them, Agni, O bright of tongue.\np:Let them, O Agni, who deserve worship and prase solemn offering.\np:Away, from the Sun's realm of light, the wise invoking Monk shall bring All Devas awaking with the dawn.\np:With all the Devas, with Indra, with Soma, and Mitra's splendours, drink, Agni, Soma.\np:Hallow thou this our offering.\np:Harness the Red Mares to thy car, the Bays, the flaming ones: With those bring hitherward the Devas.",
+    "meta": {
+      "next": "01015",
+      "previous": "01013",
+      "book": "01",
+      "source": "https://sacred-texts.com/hin/rigveda/rv01014.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv01014.htm"
+    },
+    "deities": [
+      {
+        "name": "O Singer",
+        "hymns": [
+          {
+            "key": "01014",
+            "title": "HYMN XIV. Devas."
+          }
+        ]
+      },
+      {
+        "name": "O bright",
+        "hymns": [
+          {
+            "key": "01014",
+            "title": "HYMN XIV. Devas."
+          }
+        ]
+      },
+      {
+        "name": "O Agni",
+        "hymns": [
+          {
+            "key": "01014",
+            "title": "HYMN XIV. Devas."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638553086640,
-  "updated": 1638792007289
+  "updated": 1638830291595
 }

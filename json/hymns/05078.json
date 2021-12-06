@@ -5,13 +5,37 @@
   "link": "hymns/05078.html",
   "api": "json/hymns/05078.json",
   "data": {
-    "title": "HYMN LXXVIII. A&#347;vins.",
-    "describe": "YE A&#347;",
-    "feecting": "p:YE A&#347;vins, hither come to us: N&#257;satyas, be not disinclined.\np: Fly hither like two swans unto the juice we shed.\r\np:O A&#347;vins, like a pair of deer, like two wild cattle to the mead: Fly hither like two swans unto the juice we shed.\np:O A&#347;vins rich in gifts, accept our offering to prosper it: Fly hither like two swans unto the juice we shed.\np:As Atri when descending to the cavern called on you loudly like a wailing woman. Ye came to him, O A&#347;vins, with the freshest and most auspicious fleetness of a falcon.\np:Tree, part asunder like the side of her who bringeth forth a child. Ye A&#347;vins, listen to my call: loose Saptavadhri from his bonds.\np:For Saptavadhri, for the seer affrighted when he wept and wailed, Ye, A&#347;vins, with your magic powers rent up the tree and shattered it.\np:Like as the wind on every side ruffles a pool of lotuses, So stir in thee the babe unborn, s. May the ten-month babe descend.\np:Like as the wind, like as the wood, like as the sea is set astir, So also, ten-month babe, descend together with the after-birth.\np:The child who hath for ten months' time been lying in his mother's side,&#151; May he come forth alive, unharmed, yea, living from the living dame.",
-    "next": "05079",
-    "previous": "05077",
-    "book": "05"
+    "key": "05078",
+    "title": "HYMN LXXVIII. Aśvins.",
+    "describe": "YE Aśvins, hither come to us, be not disinclined.",
+    "feecting": "p:YE Aśvins, hither come to us, be not disinclined.\np: Fly hither like two swans unto the juice we shed.\r\np:O Aśvins, like a pair of deer, like two wild cattle to the mead: Fly hither like two swans unto the juice we shed.\np:O Aśvins rich in gifts, accept our offering to prosper it: Fly hither like two swans unto the juice we shed.\np:As Atri when descending to the cavern called on you loudly like a wailing woman. Ye came to him, O Aśvins, with the freshest and most auspicious fleetness of a falcon.\np:Tree, part asunder like the side of her who bringeth forth a child. Ye Aśvins, listen to my call: loose Saptavadhri from his bonds.\np:For Saptavadhri, for the seer affrighted when he wept and wailed, Ye, Aśvins, with your magic powers rent up the tree and shattered it.\np:Like as the wind on every side ruffles a pool of lotuses, So stir in thee the babe unborn, s. May the ten-month babe descend.\np:Like as the wind, like as the wood, like as the sea is set astir, So also, ten-month babe, descend together with the after-birth.\np:The child who hath for ten months' time been lying in his mother's side. May he come forth alive, unharmed, yea, living from the living dame.",
+    "meta": {
+      "next": "05079",
+      "previous": "05077",
+      "book": "05",
+      "source": "https://sacred-texts.com/hin/rigveda/rv05078.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv05078.htm"
+    },
+    "deities": [
+      {
+        "name": "O Aśvins",
+        "hymns": [
+          {
+            "key": "05078",
+            "title": "HYMN LXXVIII. Aśvins."
+          },
+          {
+            "key": "05078",
+            "title": "HYMN LXXVIII. Aśvins."
+          },
+          {
+            "key": "05078",
+            "title": "HYMN LXXVIII. Aśvins."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638555298914,
-  "updated": 1638792007836
+  "updated": 1638830292324
 }

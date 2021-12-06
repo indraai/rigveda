@@ -5,13 +5,19 @@
   "link": "hymns/10056.html",
   "api": "json/hymns/10056.json",
   "data": {
-    "title": "HYMN LVI. Vi&#347;vedevas.",
+    "key": "10056",
+    "title": "HYMN LVI. Devas.",
     "describe": "HERE is one light for thee, another yonder: enter the third and he therewith united.",
-    "feecting": "p:HERE is one light for thee, another yonder: enter the third and he therewith united.\np: Uniting with a body be thou welcome, dear to the Devas in their sublimest birthplace.\r\np:Bearing thy body, Vajin. May thy body afford us blessing and thyself protection. Unswerving, stablish as it were in Heaven thine own light as the mighty Deva's supporter.\np:Strong Steed art thou: go to the yearning Maidens with vigour, happily go to Heaven and praises: Fly happily to the Devas with easy passage, according to the first and faithful statutes.\np:Part of their grandeur have the Fathers also gained: the Devas have seated mental power in them as Devas. They have embraced within themselves all energies, which, issuing forth, again into their bodies pass.\np:They strode through all the region with victorious might, establishing the old immeasurable laws. They compassed in their bodies all existing things, and streamed forth offipring in many successive forms.\np:In two ways have the son established in his place the Devas who finds the light, by the third act, as fathers, they have set their heritage on Earth, their offspring, as a thread continuously spun out.\np:As in a ship through billows, so through regions of air, with blessings, through toils and troubles Hath B&#7771;haduktha brought his seed with glory, and placed it here and in the realms beyond us.",
-    "next": "10057",
-    "previous": "10055",
-    "book": "10"
+    "feecting": "p:HERE is one light for thee, another yonder: enter the third and he therewith united.\np: Uniting with a body be thou welcome, dear to the Devas in their sublimest birthplace.\r\np:Bearing thy body, Vajin. May thy body afford us blessing and thyself protection. Unswerving, stablish as it were in Heaven thine own light as the mighty Deva's supporter.\np:Strong Steed art thou: go to the yearning Maidens with vigour, happily go to Heaven and praises: Fly happily to the Devas with easy passage, according to the first and faithful statutes.\np:Part of their grandeur have the Fathers also gained: the Devas have seated mental power in them as Devas. They have embraced within themselves all energies, which, issuing forth, again into their bodies pass.\np:They strode through all the region with victorious might, establishing the old immeasurable laws. They compassed in their bodies all existing things, and streamed forth offipring in many successive forms.\np:In two ways have the son established in his place the Devas who finds the light, by the third act, as fathers, they have set their heritage on Earth, their offspring, as a thread continuously spun out.\np:As in a ship through billows, so through regions of air, with blessings, through toils and troubles Hath Bṛhaduktha brought his seed with glory, and placed it here and in the realms beyond us.",
+    "meta": {
+      "next": "10057",
+      "previous": "10055",
+      "book": "10",
+      "source": "https://sacred-texts.com/hin/rigveda/rv10056.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv10056.htm"
+    },
+    "deities": []
   },
   "created": 1638557734751,
-  "updated": 1638792008462
+  "updated": 1638830293090
 }

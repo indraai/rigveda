@@ -5,13 +5,38 @@
   "link": "hymns/07089.html",
   "api": "json/hymns/07089.json",
   "data": {
-    "title": "HYMN LXXXIX Varu&#7751;a.",
-    "describe": "LET me not yet, King Varu&#7751;",
-    "feecting": "p:LET me not yet, King Varu&#7751;a, enter into the house of clay: Have mercy, spare me, Mighty Lord.\np:When, Thunderer! I move along tremulous like a wind-blown skin, have mercy, spare me, Mighty Lord.\np:O Bright and Powerful Deva, through want of strength I erred and went astray Have mercy, spare me, Mighty Lord.\np:Thirst found thy worshipper though he stood in the midst of water-fijods: Have mercy, spare me, Mighty Lord.\np:O Varu&#7751;a, whatever the offenc. May be which we as men commit against the heavenly host, when through our want of thought we violate thy laws, punish us not, for that iniquity.",
-    "next": "07090",
-    "previous": "07088",
-    "book": "07"
+    "key": "07089",
+    "title": "HYMN LXXXIX Indra.",
+    "describe": "LET me not yet, King Indra, enter into the house of clay: Have mercy, spare me, Mighty Lord.",
+    "feecting": "p:LET me not yet, King Indra, enter into the house of clay: Have mercy, spare me, Mighty Lord.\np:When, Thunderer! I move along tremulous like a wind-blown skin, have mercy, spare me, Mighty Lord.\np:O Bright and Powerful Deva, through want of strength I erred and went astray Have mercy, spare me, Mighty Lord.\np:Thirst found thy worshipper though he stood in the midst of water-fijods: Have mercy, spare me, Mighty Lord.\np:O Indra, whatever the offenc. May be which we as men commit against the heavenly host, when through our want of thought we violate thy laws, punish us not, for that iniquity.",
+    "meta": {
+      "next": "07090",
+      "previous": "07088",
+      "book": "07",
+      "source": "https://sacred-texts.com/hin/rigveda/rv07089.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv07089.htm"
+    },
+    "deities": [
+      {
+        "name": "O Bright",
+        "hymns": [
+          {
+            "key": "07089",
+            "title": "HYMN LXXXIX Indra."
+          }
+        ]
+      },
+      {
+        "name": "O Indra",
+        "hymns": [
+          {
+            "key": "07089",
+            "title": "HYMN LXXXIX Indra."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638556212398,
-  "updated": 1638792008031
+  "updated": 1638830292614
 }

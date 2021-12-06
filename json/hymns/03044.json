@@ -5,13 +5,29 @@
   "link": "hymns/03044.html",
   "api": "json/hymns/03044.json",
   "data": {
+    "key": "03044",
     "title": "HYMN XLIV. Indra.",
     "describe": "May this delightsome Soma be expressed for thee by tawny stones.",
-    "feecting": "p:May this delightsome Soma be expressed for thee by tawny stones.\np: Joying thereat, O Indra, with thy Bay Steeds come:. ascend thy golden-coloured car.\r\np:In love thou madest U&#7779;as glow, in love thou madest S&#363;rya shine. Thou, Indra, knowing, thinking, Lord of Tawny Steeds, above all glories waxest great.\np:The Heaven with streams of golden hue, Earth with her tints of green and gold- The golden Pair yield Indra plenteous nourishment: between them moves the golden One.\np:When born to life the golden Bull illumines all the realm of light. He takes his golden weapon, Lord of Tawny Steeds, the golden thunder in his arms.\np:The bright, the well-loved thunderbolt, girt with the bright, Indra disclosed, Disclosed the Soma juice pressed out by tawny stones, with tawny steeds drave forth the kine.",
-    "next": "03045",
-    "previous": "03043",
-    "book": "03"
+    "feecting": "p:May this delightsome Soma be expressed for thee by tawny stones.\np: Joying thereat, O Indra, with thy Bay Steeds come:. ascend thy golden-coloured car.\r\np:In love thou madest Uṣas glow, in love thou madest Sūrya shine. Thou, Indra, knowing, thinking, Lord of Tawny Steeds, above all glories waxest great.\np:The Heaven with streams of golden hue, Earth with her tints of green and gold- The golden Pair yield Indra plenteous nourishment: between them moves the golden One.\np:When born to life the golden Bull illumines all the realm of light. He takes his golden weapon, Lord of Tawny Steeds, the golden thunder in his arms.\np:The bright, the well-loved thunderbolt, girt with the bright, Indra disclosed, Disclosed the Soma juice pressed out by tawny stones, with tawny steeds drave forth the kine.",
+    "meta": {
+      "next": "03045",
+      "previous": "03043",
+      "book": "03",
+      "source": "https://sacred-texts.com/hin/rigveda/rv03044.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv03044.htm"
+    },
+    "deities": [
+      {
+        "name": "O Indra",
+        "hymns": [
+          {
+            "key": "03044",
+            "title": "HYMN XLIV. Indra."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638554483429,
-  "updated": 1638792007646
+  "updated": 1638830292071
 }

@@ -5,13 +5,45 @@
   "link": "hymns/09063.html",
   "api": "json/hymns/09063.json",
   "data": {
+    "key": "09063",
     "title": "HYMN LXIII. Indu.",
     "describe": "POUR hitherward, O Indu, wealth in thousands and heroic strength, and keep renown secure for us.",
-    "feecting": "p:POUR hitherward, O Indu, wealth in thousands and heroic strength, and keep renown secure for us.\np:Thou makest food and vigour swell for Indra, best of gladdeners! Within the cups thou seatest thee.\np:For Indra and for Vi&#7779;&#7751;u poured, Soma hath flowed into the jar: May V&#257;yu find it rich in sweets.\np:, in stream of solemn offering Have flowed through twisted obstacles,\np:Performing every noble work, active, augmenting Indra's strength, Driving away the godless ones.\np:Brown Soma-drops, effused that seek Indra, to their appropriate place Flow through the region hitherward.\np:Flow onward with that stream of thine wherewith thou gavest S&#363;rya light, Urging on waters good to men.\np:He, indu, high o&#146;er man yoked the Sun's courser Eta&#347;a To travel through the realm of air.\np:And those ten Coursers, tawny-hued, he harnessed that the Sun might come Indu, he said, is Indra's self.\np:Hence, singers, pour the gladdeningjuice to V&#257;yu and to Indra, pour The drops upon the fleecy cloth.\np:O Indu, find wealth for us not to be assailed, Wealth which the foema. May not win.\np:Send riches hither with thy stream in thousands, both of steeds and kine, Send spoil of war and high renown.\np:Soma the Deva, expressed with stones, like S&#363;rya, floweth on his way, Pouring the juice within the jar.\np:These brilliant drops have poured for us, in stream of solemn offering, worshipful laws and strength in kine.\np:Over the cleansing sieve have flowed the Somas, blent with curdled milk, Effused for Indra Thunder-armed.\np:Soma, do thou most rich in sweets, a gladdening drink most dear to Devas, Flow to the sieve to bring us wealth.\np:For Indra, living men adorn the Tawny Courser in the streams, indu, the giver of delight.\np:Pour for us, Soma, wealth in gold, in horses and heroic sons, Bring hither strength in herds of kine.\np:For Indra pour ye on the fleece him very sweet to taste, who longs.\np: For battle as it were in war.\r\np:The singers, seeking help, adorn the Sage who must be decked with songs: Loud bellowing the Steer comes on,\np:The singers with their thoughts and hymns have, in the stream of offering, Caused Soma, active Steer, to roar.\np:Deva, working with mankind, flow on; to Indra go thy gladdening juice: To V&#257;yu mount as Law commands\np:O Indu, thou pourest out wealth that brings renown: Enter the lake, as one we love.\np:Indu flowsbringing wisdom and delightBring the folk who love the Devas.\np:The Indus have been poured for holy lore of every kind.\np:The Indus have been shed, driving all enemies afar.\np:From Heaven, from out the Firmament, hath Indu been effused upon the summit of the Earth.\np:O Indu, very wise, drive, being purified, with thy stream all foes, all R&#257;k&#7779;asas away.\np:Driving the R&#257;k&#7779;asas afar, O Soma, bellowing, pour for us most excellent and splendid strength.\np:Soma, do thou secure for us the treasures of the earih and Heaven, indu, all boons to be desired.",
-    "next": "09064",
-    "previous": "09062",
-    "book": "09"
+    "feecting": "p:POUR hitherward, O Indu, wealth in thousands and heroic strength, and keep renown secure for us.\np:Thou makest food and vigour swell for Indra, best of gladdeners! Within the cups thou seatest thee.\np:For Indra and for Indra poured, indu hath flowed.\np:, in stream of solemn offering Have flowed through twisted obstacles,\np:Performing every noble work, active, augmenting Indra's strength, Driving away the godless ones.\np:Brown Soma-drops, effused that seek Indra, to their appropriate place Flow through the region hitherward.\np:Flow onward with that stream of thine wherewith thou gavest Sūrya light, Urging on waters good to men.\np:He, indu, high o’er man yoked the Sun's courser Etaśa To travel through the realm of air.\np:And those ten Coursers, tawny-hued, he harnessed that the Sun might come Indu, he said, is Indra's self.\np:Hence, singers, pour the gladdeningjuice to Soma and to Indra, pour The drops upon the fleecy cloth.\np:O Indu, find wealth for us not to be assailed, Wealth which the foema. May not win.\np:Send riches hither with thy stream in thousands, both of steeds and kine, Send spoil of war and high renown.\np:Soma the Deva, expressed with stones, like Sūrya, floweth on his way, Pouring the juice within the jar.\np:These brilliant drops have poured for us, in stream of solemn offering, worshipful laws and strength in kine.\np:Over the cleansing sieve have flowed the Somas, blent with curdled milk, Effused for Indra Thunder-armed.\np:Soma, do thou most rich in sweets, a gladdening drink most dear to Devas, Flow to the sieve to bring us wealth.\np:For Indra, living men adorn the Tawny Courser in the streams, indu, the giver of delight.\np:Pour for us, Soma, wealth in gold, in horses and heroic sons, Bring hither strength in herds of kine.\np:For Indra pour ye on the fleece him very sweet to taste, who longs.\np: For battle as it were in war.\r\np:The singers, seeking help, adorn the Sage who must be decked with songs: Loud bellowing the Steer comes on,\np:The singers with their thoughts and hymns have, in the stream of offering, Caused Soma, active Steer, to roar.\np:Deva, working with mankind, flow on; to Indra go thy gladdening juice: To Soma mount as Law commands\np:O Indu, thou pourest out wealth that brings renown: Enter the lake, as one we love.\np:Indu flowsbringing wisdom and delightBring the folk who love the Devas.\np:The Indus have been poured for holy lore of every kind.\np:The Indus have been shed, driving all enemies afar.\np:From Heaven, from out the Firmament, hath Indu been effused upon the summit of the Earth.\np:O Indu, very wise, drive, being purified, with thy stream all foes, all Rākṣasas away.\np:O Indu, pour for us most excellent and splendid strength.\np:Soma, do thou secure for us the treasures of the earih and Heaven, indu, all boons to be desired.",
+    "meta": {
+      "next": "09064",
+      "previous": "09062",
+      "book": "09",
+      "source": "https://sacred-texts.com/hin/rigveda/rv09063.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv09063.htm"
+    },
+    "deities": [
+      {
+        "name": "O Indu",
+        "hymns": [
+          {
+            "key": "09063",
+            "title": "HYMN LXIII. Indu."
+          },
+          {
+            "key": "09063",
+            "title": "HYMN LXIII. Indu."
+          },
+          {
+            "key": "09063",
+            "title": "HYMN LXIII. Indu."
+          },
+          {
+            "key": "09063",
+            "title": "HYMN LXIII. Indu."
+          },
+          {
+            "key": "09063",
+            "title": "HYMN LXIII. Indu."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638557167109,
-  "updated": 1638792008251
+  "updated": 1638830292881
 }

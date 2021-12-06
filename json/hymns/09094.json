@@ -5,13 +5,19 @@
   "link": "hymns/09094.html",
   "api": "json/hymns/09094.json",
   "data": {
+    "key": "09094",
     "title": "HYMN XCIV. Indu.",
     "describe": "WHEN beauties strive for him as for a charger, then strive the songs like soldiers for the sunlight.",
-    "feecting": "p:WHEN beauties strive for him as for a charger, then strive the songs like soldiers for the sunlight.\np: Acting the Sage, he flows enrobed in waters and song as &#146;twere a stall that kin. May prosper.\r\np:The worlds expand to hirn who from aforetime found light to spread the law of life eternal. The swelling songs, like kine within the stable, in deep devotion call aloud on Indu.\np:When the sage bears his holy wisdom round him, like a car visiting all worlds, the Hero, becoming fame, mid Devas, unto the mortal, wealth to the skilled, worth praise mid the Ever-present,\np:For glory born be hath come forth to glory: he giveth life and glory to the singers. They, clothed in glory, have become immortal. He, measured in his course, makes frays successful.\np:Stream to us food and vigour, kine and horses: give us broad lights and fill thDevas with rapture. All ther are easy things for thee to master thou, indu Soma, quellest foemen.",
-    "next": "09095",
-    "previous": "09093",
-    "book": "09"
+    "feecting": "p:WHEN beauties strive for him as for a charger, then strive the songs like soldiers for the sunlight.\np: Acting the Sage, he flows enrobed in waters and song as ’twere a stall that kin. May prosper.\r\np:The worlds expand to hirn who from aforetime found light to spread the law of life eternal. The swelling songs, like kine within the stable, in deep devotion call aloud on Indu.\np:When the sage bears his holy wisdom round him, like a car visiting all worlds, the Hero, becoming fame, mid Devas, unto the mortal, wealth to the skilled, worth praise mid the Ever-present,\np:For glory born be hath come forth to glory: he giveth life and glory to the singers. They, clothed in glory, have become immortal. He, measured in his course, makes frays successful.\np:Stream to us food and vigour, kine and horses: give us broad lights and fill thDevas with rapture. All ther are easy things for thee to master thou, indu Soma, quellest foemen.",
+    "meta": {
+      "next": "09095",
+      "previous": "09093",
+      "book": "09",
+      "source": "https://sacred-texts.com/hin/rigveda/rv09094.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv09094.htm"
+    },
+    "deities": []
   },
   "created": 1638557330914,
-  "updated": 1638792008292
+  "updated": 1638830292931
 }

@@ -5,13 +5,29 @@
   "link": "hymns/01043.html",
   "api": "json/hymns/01043.json",
   "data": {
+    "key": "01043",
     "title": "HYMN XLIII. Soma.",
     "describe": "WHAT shall we sing to Soma, strong, most bounteous, excellently wise, that shall be dearest to his heart?",
-    "feecting": "p:WHAT shall we sing to Soma, strong, most bounteous, excellently wise, that shall be dearest to his heart?\np:Tha. May grant the grace of Soma to our folk, our kine, Our cattle and our progeny;\np:That Mitra and that Varu&#7751;a, that Som. May remember us, Yea, all the Devas with one accord.\np:To Soma Lord of offerings, of hymns and balmy medicines, We meditate for joy and health and strength.\np:He shines in splendour like the Sun, refulgent as bright gold is he, the good, the best among the Devas.\np:May he grant health into our steeds, wellbeing to our rams and ewes, to men, to women, and to kine.\np:O Soma, set thou upon us the glory of a hundred men, the great renown of mighty chiefs.\np:Let not malignities, nor those who trouble Soma, hinder us.\np: Indu, give us a share of strength.\r\np:Soma! head, central point, love these; Soma! know these as serving thee, Children of thee Immortal, at the highest place of holy law.",
-    "next": "01044",
-    "previous": "01042",
-    "book": "01"
+    "feecting": "p:WHAT shall we sing to Soma, strong, most bounteous, excellently wise, that shall be dearest to his heart?\np:Tha. May grant the grace of Soma to our folk, our kine, Our cattle and our progeny;\np:That Mitra and that Indra, that Som. May remember us, Yea, all the Devas with one accord.\np:To Soma Lord of offerings, of hymns and balmy medicines, We meditate for joy and health and strength.\np:He shines in splendour like the Sun, refulgent as bright gold is he, the good, the best among the Devas.\np:May he grant health into our steeds, wellbeing to our rams and ewes, to men, to women, and to kine.\np:O Soma, set thou upon us the glory of a hundred men, the great renown of mighty chiefs.\np:Let not malignities, nor those who trouble Soma, hinder us.\np: Indu, give us a share of strength.\r\np:Soma! head, central point, love these; Soma! know these as serving thee, Children of thee Immortal, at the highest place of holy law.",
+    "meta": {
+      "next": "01044",
+      "previous": "01042",
+      "book": "01",
+      "source": "https://sacred-texts.com/hin/rigveda/rv01043.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv01043.htm"
+    },
+    "deities": [
+      {
+        "name": "O Soma",
+        "hymns": [
+          {
+            "key": "01043",
+            "title": "HYMN XLIII. Soma."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638553240216,
-  "updated": 1638792007333
+  "updated": 1638830291648
 }

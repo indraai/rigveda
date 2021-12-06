@@ -5,13 +5,56 @@
   "link": "hymns/05084.html",
   "api": "json/hymns/05084.json",
   "data": {
+    "key": "05084",
     "title": "HYMN LXXXIV. Prthivi.",
     "describe": "THOU, of a truth,O Prthivi, bearest the tool that rends the hills: Thou rich in torrents, who with might quickenest Earth, O Mighty One.",
-    "feecting": "p:THOU, of a truth,O Prthivi, bearest the tool that rends the hills: Thou rich in torrents, who with might quickenest Earth, O Mighty One.\np:To thee, O wanderer at will, ring out the lauds with beams of day, who drivest, like a neighing steed, the swelling cloud, O bright of hue.\np:Who graspest with thy might on Earth. e&#146;en the strong sovrans of the wood, when from the lightning of thy cloud the rain-floods of the Heaven descend.",
-    "next": "05085",
-    "previous": "05083",
-    "book": "05"
+    "feecting": "p:THOU, of a truth,O Prthivi, bearest the tool that rends the hills: Thou rich in torrents, who with might quickenest Earth, O Mighty One.\np:To thee, O wanderer at will, ring out the lauds with beams of day, who drivest, like a neighing steed, the swelling cloud, O bright of hue.\np:Who graspest with thy might on Earth. e’en the strong sovrans of the wood, when from the lightning of thy cloud the rain-floods of the Heaven descend.",
+    "meta": {
+      "next": "05085",
+      "previous": "05083",
+      "book": "05",
+      "source": "https://sacred-texts.com/hin/rigveda/rv05084.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv05084.htm"
+    },
+    "deities": [
+      {
+        "name": "O Prthivi",
+        "hymns": [
+          {
+            "key": "05084",
+            "title": "HYMN LXXXIV. Prthivi."
+          }
+        ]
+      },
+      {
+        "name": "O Mighty",
+        "hymns": [
+          {
+            "key": "05084",
+            "title": "HYMN LXXXIV. Prthivi."
+          }
+        ]
+      },
+      {
+        "name": "O wanderer",
+        "hymns": [
+          {
+            "key": "05084",
+            "title": "HYMN LXXXIV. Prthivi."
+          }
+        ]
+      },
+      {
+        "name": "O bright",
+        "hymns": [
+          {
+            "key": "05084",
+            "title": "HYMN LXXXIV. Prthivi."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638555330772,
-  "updated": 1638792007843
+  "updated": 1638830292331
 }

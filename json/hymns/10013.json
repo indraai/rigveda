@@ -5,13 +5,19 @@
   "link": "hymns/10013.html",
   "api": "json/hymns/10013.json",
   "data": {
+    "key": "10013",
     "title": "HYMN XIII Havirdhanas.",
     "describe": "I YOKE with prayer your ancient inspiration.",
-    "feecting": "p:I YOKE with prayer your ancient inspiration. May the laud rise as on the prince's pathway.\np: All Sons of Immortality shall hear it, all the possessors of celestial natures.\r\np:When speeding ye came nigh us like twin sisters, religious-hearted votaries brought you forward. Take your place, ye who know your proper station: be near, be very near unto our Soma.\np:Five paces have I risen from Earth. I follow her who hath four feet with devout observance. This by the Sacred Syllable have I measured: I purify in the central place of Order,\np:He, for Deva's sake, chose death to be his portion. He chose not, for men's good, a life eternal They offered B&#7771;haspati the &#7770;&#7779;i. Yama delivered up his own dear body.\np:The Seven flow to the Youth on whom the Devas wait: the Sons unto the Father brought the offering. Both these are his, as his they are the Lords of both: both toil; belonging unto both they prosper well.",
-    "next": "10014",
-    "previous": "10012",
-    "book": "10"
+    "feecting": "p:I YOKE with prayer your ancient inspiration. May the laud rise as on the prince's pathway.\np: All Sons of Immortality shall hear it, all the possessors of celestial natures.\r\np:When speeding ye came nigh us like twin sisters, religious-hearted votaries brought you forward. Take your place, ye who know your proper station: be near, be very near unto our Soma.\np:Five paces have I risen from Earth. I follow her who hath four feet with devout observance. This by the Sacred Syllable have I measured: I purify in the central place of Order,\np:He, for Deva's sake, chose death to be his portion. He chose not, for men's good, a life eternal They offered Soma the Ṛṣi. Yama delivered up his own dear body.\np:The Seven flow to the Youth on whom the Devas wait: the Sons unto the Father brought the offering. Both these are his, as his they are the Lords of both: both toil; belonging unto both they prosper well.",
+    "meta": {
+      "next": "10014",
+      "previous": "10012",
+      "book": "10",
+      "source": "https://sacred-texts.com/hin/rigveda/rv10013.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv10013.htm"
+    },
+    "deities": []
   },
   "created": 1638557504473,
-  "updated": 1638792008369
+  "updated": 1638830292981
 }

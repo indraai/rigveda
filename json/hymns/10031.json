@@ -5,13 +5,19 @@
   "link": "hymns/10031.html",
   "api": "json/hymns/10031.json",
   "data": {
-    "title": "HYMN XXXI. Vi&#347;vedevas.",
-    "describe": "MAY benediction of the Devas approach us, holy, to aid us with all rapid succours.",
-    "feecting": "p:MAY benediction of the Devas approach us, holy, to aid us with all rapid succours.\np: Therewit. May we be happily befriended, and pass triumphant over all our troubles.\r\np:A man should think on wealth and strive to win it by adoration on the path of Order, Counsel himself with his own mental insight, and grasp still nobler vigour with his spirit.\np:The hymn is formed, poured are the allotted portions: as to a ford friends come unto the Wondrous. We have obtained the power of case and comfort, we haVe become acquainted, with Immortals.\np:Pleased be the Eternal Lord who loves the household with this man whom God Indra created. May Bhaga Aryaman grace him with cattle. May he appear to him, and be, delightful.\np:Like the Dawns' dwelling-place be this assembly, where in their might men rich in food have gathered. Striving to share the praises of this singer. To us come strengthening and effectual riches!\np:This Bull's most gracious far-extended favour existed first of all in full abundance. By his support they are maintained in common who in the Devas's mansion dwell together.\np:What was the tree, what wood, in sooth, produced it, from which they fashioned forth the Earth and Heaven? These Twain stand fast and wax not old forever: these have sung praise to many a day and morning.\np:Not only here is this: more is beyond us. He is the Bull, the Heaven's and Earth's supporter. With power divine he makes his skin a filter, when the Bay Coursers bear him on as S&#363;rya.\np:He passes o&#146;er the broad Earth like a Stega: he penetrates the world as Wind the mist-cloud. He, balmed with oil, near Varu&#7751;a and Mitra, like Agni in the wood, hath shot forth splendour.\np:When suddenly called the cow that erst was barren, she, self-protected, ended all her troubles. Earth, when the first son sprang from sire and mother, cast up the gami, that which men were seeking.\np:To N&#7771;&#7779;ad's son they gave the name of Kainva, and he the brown-hued courser won the treasure. For him dark-coloured streamed the shining udder: none made it swell for him. Thus Order willed it.",
-    "next": "10032",
-    "previous": "10030",
-    "book": "10"
+    "key": "10031",
+    "title": "HYMN XXXI. Devas.",
+    "describe": "MAY benediction of the Devas approach us, holy, to aid us with all rapid assists.",
+    "feecting": "p:MAY benediction of the Devas approach us, holy, to aid us with all rapid assists.\np: Therewit. May we be happily befriended, and pass triumphant over all our troubles.\r\np:A man should think on wealth and strive to win it by adoration on the path of Order, Counsel himself with his own mental insight, and grasp still nobler vigour with his spirit.\np:The hymn is formed, poured are the allotted portions: as to a ford friends come unto the Wondrous. We have obtained the power of case and comfort, we haVe become acquainted, with Immortals.\np:Pleased be the Eternal Lord who loves the household with this man whom God Indra created. May Bhaga Aryaman grace him with cattle. May he appear to him, and be, delightful.\np:Like the Dawns' dwelling-place be this assembly, where in their might men rich in food have gathered. Striving to share the praises of this singer. To us come strengthening and effectual riches!\np:This Bull's most gracious far-extended favour existed first of all in full abundance. By his support they are maintained in common who in the Devas's mansion dwell together.\np:What was the tree, what wood, in sooth, produced it, from which they fashioned forth the Earth and Heaven? These Twain stand fast and wax not old forever: these have sung praise to many a day and morning.\np:Not only here is this: more is beyond us. He is the Bull, the Heaven's and Earth's supporter. With power divine he makes his skin a filter, when the Bay Coursers bear him on as Sūrya.\np:He passes o’er the broad Earth like a Stega: he penetrates the world as Wind the mist-cloud. He, balmed with oil, near Indra and Mitra, like Agni in the wood, hath shot forth splendour.\np:When suddenly called the cow that erst was barren, she, self-protected, ended all her troubles. Earth, when the first son sprang from sire and mother, cast up the gami, that which men were seeking.\np:To Nṛṣad's son they gave the name of Kainva, and he the brown-hued courser won the treasure. For him dark-coloured streamed the shining udder: none made it swell for him. Thus Order willed it.",
+    "meta": {
+      "next": "10032",
+      "previous": "10030",
+      "book": "10",
+      "source": "https://sacred-texts.com/hin/rigveda/rv10031.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv10031.htm"
+    },
+    "deities": []
   },
   "created": 1638557600619,
-  "updated": 1638792008396
+  "updated": 1638830293010
 }

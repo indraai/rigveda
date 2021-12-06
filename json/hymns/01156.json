@@ -5,13 +5,19 @@
   "link": "hymns/01156.html",
   "api": "json/hymns/01156.json",
   "data": {
-    "title": "HYMN CLVI. Vi&#7779;&#7751;u",
+    "key": "01156",
+    "title": "HYMN CLVI. Indra",
     "describe": "FAR-SHINING, widely famed, going thy wonted way, fed with the oil, be helpful.",
-    "feecting": "p:FAR-SHINING, widely famed, going thy wonted way, fed with the oil, be helpful. Mitra-like, to us.\np: So, Vi&#7779;&#7751;u, e&#146;en the wise must swell thy song of praise, and he who hath oblations pay thee solemn rites.\r\np:He who brings gifts to him the Ancient and the Last, to Vi&#7779;&#7751;u who ordains, together with his Spouse, who tells the lofty birth of him the Lofty One, shall verily surpass in glory e&#146;en his peer.\np:Him have ye satisfied, singers, as well as ye know, primeval germ of Order even from his birth. Ye, knowing e&#146;en his name, have told it forth. May we, Vi&#7779;&#7751;u, enjoy the grace of thee the Mighty One.\np:The Sovran Varu&#7751;a and both the A&#347;vins wait on this the will of him who guides the Marut host. Vi&#7779;&#7751;u hath power supreme and might that finds the day, and with his Friend unbars the stable of the kine.\np:Even he the Heavenly One who came for fellowship, Vi&#7779;&#7751;u to Indra, godly to the godlier, who Maker, throned in three worlds, helps the &#256;ryan man, and gives the worshipper his share of Holy Law.",
-    "next": "01157",
-    "previous": "01155",
-    "book": "01"
+    "feecting": "p:FAR-SHINING, widely famed, going thy wonted way, fed with the oil, be helpful. Mitra-like, to us.\np: So, Indra, e’en the wise must swell thy song of praise, and he who hath oblations pay thee solemn rites.\r\np:He who brings gifts to him the Ancient and the Last, to Indra who ordains, together with his Spouse, who tells the lofty birth of him the Lofty One, shall verily surpass in glory e’en his peer.\np:Him have ye satisfied, singers, as well as ye know, primeval germ of Order even from his birth. Ye, knowing e’en his name, have told it forth. May we, Indra, enjoy the grace of thee the Mighty One.\np:The Sovran Indra and both the Aśvins wait on this the will of him who guides the Marut host. Indra hath power supreme and might that finds the day, and with his Friend unbars the stable of the kine.\np:Even he the Heavenly One who came for fellowship, Indra to Indra, godly to the godlier, who Maker, throned in three worlds, helps the Āryan man, and gives the worshipper his share of Holy Law.",
+    "meta": {
+      "next": "01157",
+      "previous": "01155",
+      "book": "01",
+      "source": "https://sacred-texts.com/hin/rigveda/rv01156.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv01156.htm"
+    },
+    "deities": []
   },
   "created": 1638553836816,
-  "updated": 1638792007477
+  "updated": 1638830291866
 }

@@ -5,13 +5,33 @@
   "link": "hymns/07075.html",
   "api": "json/hymns/07075.json",
   "data": {
+    "key": "07075",
     "title": "HYMN LXXV. Dawn.",
     "describe": "BORN in the heavens the Dawn hath flushed, and showing her majesty is come as Law ordaineth.",
-    "feecting": "p:BORN in the heavens the Dawn hath flushed, and showing her majesty is come as Law ordaineth.\np: She hath uncovered fiends and hateful darkness; best of A&#7749;girases, hath waked the pathways.\r\np:Rouse us this day to high and happy fortune: to great felicity, O Dawn, promote us. Vouchsafe us manifold and splendid riches, famed among mortals, man-befriending Goddess!\np:See, lovely Morning's everlasting splendours, bright with their varied colours, have approached us. Filling the region of mid-air, producing the rites of holy worship, they have mounted.\np:She yokes her chariot far away, and swiftly visits the lands where the Five Tribes are settled, Looking upon the works and ways of mortals, Daughter of Heaven, the world's Imperial Lady.\np:She who is rich in spoil, the Spouse of S&#363;rya, wondrously opulent, rules all wealth and treasures. Consumer of our youth, the seers extol her: lauded by monks rich Dawn shines out refulgent.\np:Apparent are the steeds of varied colour, the red steeds carrying resplendent Morning. On her all-lovely car she comes, the Fair One, and brings rich treasure for her faithful servant.\np:True with the True and Mighty with the Mighty, with Devas a Goddess, Holy with the Holy, she brake strong fences down and gave the cattle: the kine were lowing as they greeted Morning.\np:O Dawn, now give us wealth in kine and heroes, and horses, fraught with manifold enjoyment. Protect our sacred grass from man's reproaches. Preserve us evermore, ye Devas, with blessings.",
-    "next": "07076",
-    "previous": "07074",
-    "book": "07"
+    "feecting": "p:BORN in the heavens the Dawn hath flushed, and showing her majesty is come as Law ordaineth.\np: She hath uncovered fiends and hateful darkness; best of Aṅgirases, hath waked the pathways.\r\np:Rouse us this day to high and happy fortune: to great felicity, O Dawn, promote us. Vouchsafe us manifold and splendid riches, famed among mortals, man-befriending Goddess!\np:See, lovely Morning's everlasting splendours, bright with their varied colours, have approached us. Filling the region of mid-air, producing the rites of holy worship, they have mounted.\np:She yokes her chariot far away, and swiftly visits the lands where the Five Tribes are settled, Looking upon the works and ways of mortals, Daughter of Heaven, the world's Imperial Lady.\np:She who is rich in spoil, the Spouse of Sūrya, wondrously opulent, rules all wealth and treasures. Consumer of our youth, the seers extol her: lauded by monks rich Dawn shines out refulgent.\np:Apparent are the steeds of varied colour, the red steeds carrying resplendent Morning. On her all-lovely car she comes, the Fair One, and brings rich treasure for her faithful servant.\np:True with the True and Mighty with the Mighty, with Devas a Goddess, Holy with the Holy, she brake strong fences down and gave the cattle: the kine were lowing as they greeted Morning.\np:O Dawn, now give us wealth in kine and heroes, and horses, fraught with manifold enjoyment. Protect our sacred grass from man's reproaches. Preserve us evermore, ye Devas, with blessings.",
+    "meta": {
+      "next": "07076",
+      "previous": "07074",
+      "book": "07",
+      "source": "https://sacred-texts.com/hin/rigveda/rv07075.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv07075.htm"
+    },
+    "deities": [
+      {
+        "name": "O Dawn",
+        "hymns": [
+          {
+            "key": "07075",
+            "title": "HYMN LXXV. Dawn."
+          },
+          {
+            "key": "07075",
+            "title": "HYMN LXXV. Dawn."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638556138446,
-  "updated": 1638792008018
+  "updated": 1638830292599
 }

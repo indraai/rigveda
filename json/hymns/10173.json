@@ -5,13 +5,19 @@
   "link": "hymns/10173.html",
   "api": "json/hymns/10173.json",
   "data": {
+    "key": "10173",
     "title": "HYMN CLXXIII. The King.",
     "describe": "BE with us;",
-    "feecting": "p:BE with us; I have chosen thee: stand stedfast and immovable.\np: Let all the people wish for thee let not thy kingship fall away.\r\np:Be even here; fall not away be like a mountain unremoved. Stand stedfast here like Indra's self, and hold the kingship in the grasp.\np:This man hath Indra stablished, made secure by strong oblation's power. May Soma speak a benison, and Brahma&#7751;aspati, on him.\np:Firm is the sky and firm the Earth, and stedfast also are these hills. Stedfast is all this living world, and stedfast is this King of men.\np:Stedfast. May Varu&#7751;a the King, stedfast B&#7771;haspati, Stedfast. May Indra, stedfast too. May Agni keep thy stedfast reign.\np:On constant Soma let us think with constant sacrificial gift And the, may Indra make the clans bring tribute unto thee alone.",
-    "next": "10174",
-    "previous": "10172",
-    "book": "10"
+    "feecting": "p:BE with us; I have chosen thee: stand stedfast and immovable.\np: Let all the people wish for thee let not thy kingship fall away.\r\np:Be even here; fall not away be like a mountain unremoved. Stand stedfast here like Indra's self, and hold the kingship in the grasp.\np:This man hath Indra stablished, made secure by strong oblation's power. May Soma speak a benison, and Soma, on him.\np:Firm is the sky and firm the Earth, and stedfast also are these hills. Stedfast is all this living world, and stedfast is this King of men.\np:Stedfast. May Indra the King, stedfast Soma, Stedfast. May Indra, stedfast too. May Agni keep thy stedfast reign.\np:On constant Soma let us think with constant sacrificial gift And the, may Indra make the clans bring tribute unto thee alone.",
+    "meta": {
+      "next": "10174",
+      "previous": "10172",
+      "book": "10",
+      "source": "https://sacred-texts.com/hin/rigveda/rv10173.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv10173.htm"
+    },
+    "deities": []
   },
   "created": 1638558354110,
-  "updated": 1638792008606
+  "updated": 1638830293258
 }

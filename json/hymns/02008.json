@@ -5,13 +5,19 @@
   "link": "hymns/02008.html",
   "api": "json/hymns/02008.json",
   "data": {
+    "key": "02008",
     "title": "HYMN VIII.Agni.",
     "describe": "Now praise, as one who strives for strength, the harnessing of Agni's car, the liberal, the most splendid One;",
     "feecting": "p:Now praise, as one who strives for strength, the harnessing of Agni's car, the liberal, the most splendid One;\np:Who, guiding worshippers aright, withers, untouched by age, the foe: When worshipped fair to look upon;\np:Who for his glory is extolled at eve and morning in our homes, whose statute is inviolate;\np:Who shines refulgent like the Sun, with brilliance and with fiery flame, Decked with imperishable sheen.\np:Him Atri, Agni, have our songs Strengthened according to his sway: All glories hath he made his own.\np:May we with Agni's, Indra's help, with Soma's, yea, of all the Devas, Uninjured dwell together still, and conquer those who fight with us.",
-    "next": "02009",
-    "previous": "02007",
-    "book": "02"
+    "meta": {
+      "next": "02009",
+      "previous": "02007",
+      "book": "02",
+      "source": "https://sacred-texts.com/hin/rigveda/rv02008.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv02008.htm"
+    },
+    "deities": []
   },
   "created": 1638554065095,
-  "updated": 1638792007530
+  "updated": 1638830291935
 }

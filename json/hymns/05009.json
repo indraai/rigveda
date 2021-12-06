@@ -5,13 +5,37 @@
   "link": "hymns/05009.html",
   "api": "json/hymns/05009.json",
   "data": {
+    "key": "05009",
     "title": "HYMN IX. Agni.",
     "describe": "BEARING;",
-    "feecting": "p:BEARING; oblations mortal men, O Agni, worship thee the Deva.\np: I deem thee J&#257;tavedas: bear our offerings unceasingly.\r\np:In the man's home who offers gifts, where grass is trimmed, Agni is Monk, to whom all offers come and strengthenings that win renown.\np:Whom, as an infant newly-born, the kindling-sticks have brought to life, Sustainer of the tribes of men, skilled in well-ordered offering.\np:Yea, very hard art thou to grasp, like offspring of the wriggling snakes, when thou consumest many woods like an ox, Agni, in the mead.\np:Whose flames, when thou art sending forth the smoke, completely reach the mark, when T&#7771;ta in the height of Heaven, like as a smelter fanneth thee, e&#146;en as a smelter sharpeneth thee.\np:O Agni, by thy succour and by Mitra's friendly furtherance, May we, averting hate, subdue the wickedness of mortal men.\np:O Agni, to our heroes bring such riches, thou victorious God. May he protect and nourish us, and help in gaining strength: be thou near us in fight for our success.",
-    "next": "05010",
-    "previous": "05008",
-    "book": "05"
+    "feecting": "p:BEARING; oblations mortal men, O Agni, worship thee the Deva.\np: I deem thee Jātavedas: bear our offerings unceasingly.\r\np:In the man's home who offers gifts, where grass is trimmed, Agni is Monk, to whom all offers come and strengthenings that win renown.\np:Whom, as an infant newly-born, the kindling-sticks have brought to life, Sustainer of the tribes of men, skilled in well-ordered offering.\np:Yea, very hard art thou to grasp, like offspring of the wriggling snakes, when thou consumest many woods like an ox, Agni, in the mead.\np:Whose flames, when thou art sending forth the smoke, completely reach the mark, when Tṛta in the height of Heaven, like as a smelter fanneth thee, e’en as a smelter sharpeneth thee.\np:O Agni, by thy assist and by Mitra's friendly furtherance, may we, averting hate, subdue the wickedness of mortal men.\np:O Agni, to our heroes bring such riches, thou victorious God. May he protect and nourish us, and help in gaining strength: be thou near us in fight for our success.",
+    "meta": {
+      "next": "05010",
+      "previous": "05008",
+      "book": "05",
+      "source": "https://sacred-texts.com/hin/rigveda/rv05009.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv05009.htm"
+    },
+    "deities": [
+      {
+        "name": "O Agni",
+        "hymns": [
+          {
+            "key": "05009",
+            "title": "HYMN IX. Agni."
+          },
+          {
+            "key": "05009",
+            "title": "HYMN IX. Agni."
+          },
+          {
+            "key": "05009",
+            "title": "HYMN IX. Agni."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638554932471,
-  "updated": 1638792007754
+  "updated": 1638830292225
 }

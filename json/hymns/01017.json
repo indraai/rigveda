@@ -5,13 +5,41 @@
   "link": "hymns/01017.html",
   "api": "json/hymns/01017.json",
   "data": {
-    "title": "HYMN XVII. Indra-Varu&#7751;a",
-    "describe": "I CRAVE help from the Imperial Lords, from Indra-Varu&#7751;",
-    "feecting": "p:I CRAVE help from the Imperial Lords, from Indra-Varu&#7751;a. May they Both favour one of us like me.\np:Guardians of men, ye ever come with ready succour at the call Of every singer such as I.\np:Sate you, according to your wish, O Indra-Varu&#7751;a, with wealth: Fain would we have you nearest us.\np:May we be sharers of the powers, sharers of the benevolence. Of you who give strength bounteously.\np:Indra and Varu&#7751;a, among givers of thousands, meet for praise, Are Powers who merit highest laud.\np:Through their protectio. May we gain great store of wealth, and heap it up enough and still to spare, be ours.\np:O Indra-Varu&#7751;a, on you for wealth in many a form I call.\np:O Indra-Varu&#7751;a, through our songs that seek to win you to ourselves, Give us at once your sheltering help.\np:O Indra-Varu&#7751;a, to yo. May fair praise which I offer come, Joint eulogy which ye dignify.",
-    "next": "01018",
-    "previous": "01016",
-    "book": "01"
+    "key": "01017",
+    "title": "HYMN XVII. Indra",
+    "describe": "I CRAVE help from the Imperial Lords, from Indra, may they Both favour one of us like me.",
+    "feecting": "p:I CRAVE help from the Imperial Lords, from Indra, may they Both favour one of us like me.\np:Guardians of men, ye ever come with ready assist at the call Of every singer such as I.\np:Sate you, according to your wish, O Indra, with wealth: Fain would we have you nearest us.\np:May we be sharers of the powers, sharers of the benevolence. Of you who give strength bounteously.\np:Indra and IndraDeva, among givers of thousands, meet for praise, Are Powers who merit highest laud.\np:Through their protectio. May we gain great store of wealth, and heap it up enough and still to spare, be ours.\np:O Indra, on you for wealth in many a form I call.\np:O Indra, through our songs that seek to win you to ourselves, Give us at once your sheltering help.\np:O Indra, to yo. May fair praise which I offer come, Joint eulogy which ye dignify.",
+    "meta": {
+      "next": "01018",
+      "previous": "01016",
+      "book": "01",
+      "source": "https://sacred-texts.com/hin/rigveda/rv01017.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv01017.htm"
+    },
+    "deities": [
+      {
+        "name": "O Indra",
+        "hymns": [
+          {
+            "key": "01017",
+            "title": "HYMN XVII. Indra"
+          },
+          {
+            "key": "01017",
+            "title": "HYMN XVII. Indra"
+          },
+          {
+            "key": "01017",
+            "title": "HYMN XVII. Indra"
+          },
+          {
+            "key": "01017",
+            "title": "HYMN XVII. Indra"
+          }
+        ]
+      }
+    ]
   },
   "created": 1638553102429,
-  "updated": 1638792007292
+  "updated": 1638830291600
 }

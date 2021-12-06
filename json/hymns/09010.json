@@ -5,13 +5,19 @@
   "link": "hymns/09010.html",
   "api": "json/hymns/09010.json",
   "data": {
+    "key": "09010",
     "title": "HYMN X. Indu.",
     "describe": "LIKE cars that thunder on their way, like coursers eager for renown, have drops flowed forth for wealth.",
-    "feecting": "p:LIKE cars that thunder on their way, like coursers eager for renown, have drops flowed forth for wealth.\np:Forth have they rushed from holding hands, like chariots that are urged to speed, like joyful songs of singing-men.\np:The Kings Kings are graced with eulogies, and with seven monks the offering.\np:Pressed for the gladdening draught, the drops flow forth abundantly with song, the juices in a stream.\np:Winning Vivasv&#257;n's glory and producing Morning's light, the Suns Pass through the openings of the cloth.\np:The singing-men of ancient time open the doors of sacred songs,&#151; Men, for the mighty to accept.\np:Combined in close society sit the seven monks, the brother-hood, filling the station of the One.\np:He gives us kinship with the Devas, and with the Sun unites our eye. The Sage's offspring hath appeared.\np:The Sun with his dear eye beholds that quarter of the heavens which monks have placed within the sacred cell.",
-    "next": "09011",
-    "previous": "09009",
-    "book": "09"
+    "feecting": "p:LIKE cars that thunder on their way, like coursers eager for renown, have drops flowed forth for wealth.\np:Forth have they rushed from holding hands, like chariots that are urged to speed, like joyful songs of singing-men.\np:The Kings Kings are graced with eulogies, and with seven monks the offering.\np:Pressed for the gladdening draught, the drops flow forth abundantly with song, the juices in a stream.\np:Producing Morning's light, the Suns Pass through the openings of the cloth.\np:The singing-men of ancient time open the doors of sacred songs. Men, for the mighty to accept.\np:Combined in close society sit the seven monks, the brother-hood, filling the station of the One.\np:He gives us kinship with the Devas, and with the Sun unites our eye. The Sage's offspring hath appeared.\np:The Sun with his dear eye beholds that quarter of the heavens which monks have placed within the sacred cell.",
+    "meta": {
+      "next": "09011",
+      "previous": "09009",
+      "book": "09",
+      "source": "https://sacred-texts.com/hin/rigveda/rv09010.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv09010.htm"
+    },
+    "deities": []
   },
   "created": 1638556887783,
-  "updated": 1638792008207
+  "updated": 1638830292826
 }

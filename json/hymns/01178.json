@@ -5,13 +5,29 @@
   "link": "hymns/01178.html",
   "api": "json/hymns/01178.json",
   "data": {
+    "key": "01178",
     "title": "HYMN CLXXVIII. Indra.",
     "describe": "IF, Indra, thou hast given that gracious hearing where with thou helpest those who sang thy praises.",
     "feecting": "p:IF, Indra, thou hast given that gracious hearing where with thou helpest those who sang thy praises.\np: Blast not the wish that would exalt you. May I gain all from thee, and pay all man's devotions.\r\np: Bring Sovran Indra to our dwelling. To him have run the quickly flowing waters. May Indra come to us with life and friendship.\np:Victorious with the men. Hero in battles, Indra, who hears the singer's  supplication. Will bring his car nigh to the man who offers, if he himself upholds the songs that praise him.\np:Yea, Indra, with the men, through love of glory consumes the sacred food which friends have offered. The ever-strengthening song of him who worships is sung in fight amid the clash of voices.\np:Aided by thee, O Indra, may we subdue our foes who count them mighty. Be our protector, strengthen and increase us. May we find strengthening food in full abundance.",
-    "next": "01179",
-    "previous": "01177",
-    "book": "01"
+    "meta": {
+      "next": "01179",
+      "previous": "01177",
+      "book": "01",
+      "source": "https://sacred-texts.com/hin/rigveda/rv01178.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv01178.htm"
+    },
+    "deities": [
+      {
+        "name": "O Indra",
+        "hymns": [
+          {
+            "key": "01178",
+            "title": "HYMN CLXXVIII. Indra."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638553953840,
-  "updated": 1638792007505
+  "updated": 1638830291902
 }

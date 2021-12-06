@@ -5,13 +5,38 @@
   "link": "hymns/03010.html",
   "api": "json/hymns/03010.json",
   "data": {
+    "key": "03010",
     "title": "HYMN X. Agni.",
     "describe": "THEE Agni, Deva, Imperial Lord of all mankind, do mortal men With understanding kindle at the offering.",
     "feecting": "p:THEE Agni, Deva, Imperial Lord of all mankind, do mortal men With understanding kindle at the offering.\np:They laud thee in their solemn rites, Agni, as Minister and Monk, Shine forth in thine own home as guardian of the Law.\np:He, verily, who honours thee with fuel, Knower of all life. He, Agni! wins heroic might, he prospers well.\np:Ensign of offers, he, Agni, with Devas is come to us, Decked by the seven monks, to him who bringeth gifts.\np:To Agni, the Invoking Monk, offer your best, your lofty speech, to him Ordainer-like who brings the light of songs.\np:Let these our hymns make Agni grow, whence, meet for laud, he springs to life, to mighty strength and great possession, fair to see.\np:Best Offerer, bring the Devas, O Agni, to the pious man: A joyful Monk, thy splendour drive our foes afar\np:As such, O Purifier, shine on us heroic glorious might: Be nearest Friend to those who laud thee, for their weal.\np:So, wakeful, versed in sacred hymns, the holy singers kindly thee.\np: Oblation-bearer, deathless, cherisher of strength.",
-    "next": "03011",
-    "previous": "03009",
-    "book": "03"
+    "meta": {
+      "next": "03011",
+      "previous": "03009",
+      "book": "03",
+      "source": "https://sacred-texts.com/hin/rigveda/rv03010.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv03010.htm"
+    },
+    "deities": [
+      {
+        "name": "O Agni",
+        "hymns": [
+          {
+            "key": "03010",
+            "title": "HYMN X. Agni."
+          }
+        ]
+      },
+      {
+        "name": "O Purifier",
+        "hymns": [
+          {
+            "key": "03010",
+            "title": "HYMN X. Agni."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638554303309,
-  "updated": 1638792007594
+  "updated": 1638830292020
 }

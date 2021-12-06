@@ -5,13 +5,19 @@
   "link": "hymns/10179.html",
   "api": "json/hymns/10179.json",
   "data": {
+    "key": "10179",
     "title": "HYMN CLXXIX. Indra.",
     "describe": "Now lift ye up yourselves and look on Indra's seasonable share.",
     "feecting": "p:Now lift ye up yourselves and look on Indra's seasonable share.\np: If it be ready, offer it; unready, ye have been remise.\r\np:Oblation is prepared: come to us, Indra; the Sun hath travelled over half his journey. Friends with their stores are sitting round thee waiting like lords of clans for the tribe's wandering chieftain.\np:Dressed in the udder and on fire, I fancy; well-dressed, I fancy, is this recent present. Drink, Indra, of the curd of noon's libation with favour, Thunderer, thou whose deeds are mighty.",
-    "next": "10180",
-    "previous": "10178",
-    "book": "10"
+    "meta": {
+      "next": "10180",
+      "previous": "10178",
+      "book": "10",
+      "source": "https://sacred-texts.com/hin/rigveda/rv10179.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv10179.htm"
+    },
+    "deities": []
   },
   "created": 1638558385961,
-  "updated": 1638792008610
+  "updated": 1638830293263
 }

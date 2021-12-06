@@ -5,13 +5,19 @@
   "link": "hymns/02040.html",
   "api": "json/hymns/02040.json",
   "data": {
-    "title": "HYMN XL. Soma and P&#363;&#7779;an.",
-    "describe": "SOMA and P&#363;",
-    "feecting": "p:SOMA and P&#363;&#7779;an, Parents of all riches, Parents of Earth and Parents of high Heaven, You Twain, brought forth as the whole world's protectorss have made centre of life eternal.\np:At birth of these two Devas all Devas are joyful: they have caused darkness, which we hate, to vanish.\np: With these, with Soma and with P&#363;&#7779;an, india generates ripe warm milk in the raw milch-cows.\r\np:Soma and P&#363;&#7779;an, urge your chariot hither, the seven-wheeled car that measures out the region, that stirs not all, that moves to every quarter, five-reined and harnessed by the thought, ye Mighty.\np:One in the Heaven on high hath made his dwelling, on Earth and in the Firmament the other. May they disclose to us great store of treasure, much-longed for, rich in food, source of enjoyment.\np:One of you Twain is Parent of all creatures, the other journeys onward all-beholding. Soma and P&#363;&#7779;an, aid my thought with favour: with yo. May we o&#8217;ercome in all encounters.\np:May P&#363;&#7779;an stir our thought, the all-impelling. May Soma Lord of riches grant us riches. May Aditi the perfect Goddess aid us. Lou. May we speak, with heroes, in assembly.  \n<div class=\"filenav\">",
-    "next": "02041",
-    "previous": "02039",
-    "book": "02"
+    "key": "02040",
+    "title": "HYMN XL. Soma and Pūṣan.",
+    "describe": "SOMA and Pūṣan, Parents of all riches, Parents of Earth and Parents of high Heaven, You Twain, brought forth as the whole world's protectorss have made centre of life eternal.",
+    "feecting": "p:SOMA and Pūṣan, Parents of all riches, Parents of Earth and Parents of high Heaven, You Twain, brought forth as the whole world's protectorss have made centre of life eternal.\np:At birth of these two Devas all Devas are joyful: they have caused darkness, which we hate, to vanish.\np: With these, with Soma and with Pūṣan, india generates ripe warm milk in the raw milch-cows.\r\np:Soma and Pūṣan, urge your chariot hither, the seven-wheeled car that measures out the region, that stirs not all, that moves to every quarter, five-reined and harnessed by the thought, ye Mighty.\np:One in the Heaven on high hath made his dwelling, on Earth and in the Firmament the other. May they disclose to us great store of treasure, much-longed for, rich in food, source of enjoyment.\np:One of you Twain is Parent of all creatures, the other journeys onward all-beholding. Soma and Pūṣan, aid my thought with favour: with yo. May we o’ercome in all encounters.\np:May Pūṣan stir our thought, the all-impelling. May Soma Lord of riches grant us riches. May Aditi the perfect Goddess aid us. Lou. May we speak, with heroes, in assembly.  \n<div class=\"filenav\">",
+    "meta": {
+      "next": "02041",
+      "previous": "02039",
+      "book": "02",
+      "source": "https://sacred-texts.com/hin/rigveda/rv02040.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv02040.htm"
+    },
+    "deities": []
   },
   "created": 1638554234603,
-  "updated": 1638792007574
+  "updated": 1638830291994
 }

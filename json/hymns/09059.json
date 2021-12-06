@@ -5,13 +5,29 @@
   "link": "hymns/09059.html",
   "api": "json/hymns/09059.json",
   "data": {
+    "key": "09059",
     "title": "HYMN LIX. Indu.",
     "describe": "FLOW onward, Soma, winning kine, and steeds, and all that gives delight: Bring hither wealth with progeny.",
     "feecting": "p:FLOW onward, Soma, winning kine, and steeds, and all that gives delight: Bring hither wealth with progeny.\np:Flow onward from the waters, flow, inviolable, from the plants: Flow onward from the pressing-boards.\np:Soma, as Indu, pass over all trouble and distress: Sit on the sacred grass, a Sage.\np:Thou, indu, foundest light; thou at thy birth becamest great: O Indu, thou art over all.",
-    "next": "09060",
-    "previous": "09058",
-    "book": "09"
+    "meta": {
+      "next": "09060",
+      "previous": "09058",
+      "book": "09",
+      "source": "https://sacred-texts.com/hin/rigveda/rv09059.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv09059.htm"
+    },
+    "deities": [
+      {
+        "name": "O Indu",
+        "hymns": [
+          {
+            "key": "09059",
+            "title": "HYMN LIX. Indu."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638557146090,
-  "updated": 1638792008246
+  "updated": 1638830292872
 }

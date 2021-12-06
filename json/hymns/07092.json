@@ -5,13 +5,38 @@
   "link": "hymns/07092.html",
   "api": "json/hymns/07092.json",
   "data": {
-    "title": "HYMN XCII. V&#257;yu",
-    "describe": "O V&#256;",
-    "feecting": "p:O V&#256;YU, drinker of the pure, be near us: a thousand teams are thine, Allbounteous Giver.\np: To thee the rapture-bringing juice is offered, whose first draught, Deva, thou takest as thy portion.\r\np:Prompt at the holy rites forth came the presser with Soma-draughts for Indra and for V&#257;yu, when ministering monks with strong devotion bring to you Twain the first taste of the Soma.\np:The teams wherewith thou seekest him who offers, within his home, O Viyu, to direct him, therewith send wealth: to us with full enjoyment, a hero son and gifts of kine and horses.\np:Near to the Devas and making Indra joyful, devout and ofFering precious gifts to V&#257;yu, Allied with princes, smiting down the hostile. May we with heroes conquer foes in battle.\np:With thy yoked teams in hundreds and in thousands come to our offering and solemn worship. Come, V&#257;yu, make thee glad at this libation. Preserve us evermore, ye Devas, with blessings.",
-    "next": "07093",
-    "previous": "07091",
-    "book": "07"
+    "key": "07092",
+    "title": "HYMN XCII. Soma",
+    "describe": "O VĀYU, drinker of the pure, be near us: a thousand teams are thine, Allbounteous Giver.",
+    "feecting": "p:O VĀYU, drinker of the pure, be near us: a thousand teams are thine, Allbounteous Giver.\np: To thee the rapture-bringing juice is offered, whose first draught, Deva, thou takest as thy portion.\r\np:Prompt at the holy rites forth came the presser with Soma-draughts for Indra and for Soma, when ministering monks with strong devotion bring to you Twain the first taste of the Soma.\np:The teams wherewith thou seekest him who offers, within his home, O Viyu, to direct him, therewith send wealth: to us with full enjoyment, a hero son and gifts of kine and horses.\np:Near to the Devas and making Indra joyful, devout and ofFering precious gifts to Soma, Allied with princes, smiting down the hostile. May we with heroes conquer foes in battle.\np:With thy yoked teams in hundreds and in thousands come to our offering and solemn worship. Come, Soma, make thee glad at this libation. Preserve us evermore, ye Devas, with blessings.",
+    "meta": {
+      "next": "07093",
+      "previous": "07091",
+      "book": "07",
+      "source": "https://sacred-texts.com/hin/rigveda/rv07092.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv07092.htm"
+    },
+    "deities": [
+      {
+        "name": "O VĀYU",
+        "hymns": [
+          {
+            "key": "07092",
+            "title": "HYMN XCII. Soma"
+          }
+        ]
+      },
+      {
+        "name": "O Viyu",
+        "hymns": [
+          {
+            "key": "07092",
+            "title": "HYMN XCII. Soma"
+          }
+        ]
+      }
+    ]
   },
   "created": 1638556228147,
-  "updated": 1638792008033
+  "updated": 1638830292617
 }

@@ -5,13 +5,19 @@
   "link": "hymns/10058.html",
   "api": "json/hymns/10058.json",
   "data": {
-    "title": "HYMN LVIII. M&#257;nas or Spirit.",
-    "describe": "THY spirit, that went far away to Yama to Vivasv&#257;",
-    "feecting": "p:THY spirit, that went far away to Yama to Vivasv&#257;n's Son, We cause to come to thee again that tho. Mayst live and sojourn here.\np:Thy spirit, that went far away, that passed away to Earth and Heaven, We cause to come to thee again that tho. Mayst live and sojourn here.\np:Thy spirit, that went far away, away to the four-cornered Earth, We cause to come to thee again that tho. Mayst live and sojourn here.\np:Thy spirit, that went far away to the four quarters of the world, We cause to come to thee again that tho. Mayst live and sojourn here.\np:Thy spirit, that went far away, away unto the billowy sea, We cause to come to thee again that tho. Mayst live and sojourn here.\np:Thy spirit, that went far away to beams of light that flash and flow, We cause to come to thee again that tho. Mayst live and sojourn here.\np:Thy spirit, that went far away, went to the waters and the plants, We cause to come to thee again that tho. Mayst live and sojourn here.\np:Thy spirit, that went far away, that visited the Sun and Dawn.\np: We cause to come to thee again that tho. Mayst live and sojourn here.\r\np:Thy spirit, that went far away, away to lofty mountain heights, We cause to come to thee again that tho. Mayst live and sojourn here.\np:Thy spirit, that went far away into this All, that lives and moves, We cause to come to thee again that tho. Mayst live and sojourn here.\np:Thy spirit, that went far away to distant realms beyond our ken, We cause to come to thee again that tho. Mayst live and sojourn here.\np:Thy spirit, that went far away to all that is and is to be, We cause to come to thee again that tho. Mayst live and sojourn heie.",
-    "next": "10059",
-    "previous": "10057",
-    "book": "10"
+    "key": "10058",
+    "title": "HYMN LVIII. Mānas or Spirit.",
+    "describe": "THY spirit, that went far away to Yama to Vivasvān's Son, We cause to come to thee again that tho.",
+    "feecting": "p:THY spirit, that went far away to Yama to Vivasvān's Son, We cause to come to thee again that tho. Mayst live and sojourn here.\np:Thy spirit, that went far away, that passed away to Earth and Heaven, We cause to come to thee again that tho. Mayst live and sojourn here.\np:Thy spirit, that went far away, away to the four-cornered Earth, We cause to come to thee again that tho. Mayst live and sojourn here.\np:Thy spirit, that went far away to the four quarters of the world, We cause to come to thee again that tho. Mayst live and sojourn here.\np:Thy spirit, that went far away, away unto the billowy sea, We cause to come to thee again that tho. Mayst live and sojourn here.\np:Thy spirit, that went far away to beams of light that flash and flow, We cause to come to thee again that tho. Mayst live and sojourn here.\np:Thy spirit, that went far away, went to the waters and the plants, We cause to come to thee again that tho. Mayst live and sojourn here.\np:Thy spirit, that went far away, that visited the Sun and Dawn.\np: We cause to come to thee again that tho. Mayst live and sojourn here.\r\np:Thy spirit, that went far away, away to lofty mountain heights, We cause to come to thee again that tho. Mayst live and sojourn here.\np:Thy spirit, that went far away into this All, that lives and moves, We cause to come to thee again that tho. Mayst live and sojourn here.\np:Thy spirit, that went far away to distant realms beyond our ken, We cause to come to thee again that tho. Mayst live and sojourn here.\np:Thy spirit, that went far away to all that is and is to be, We cause to come to thee again that tho. Mayst live and sojourn heie.",
+    "meta": {
+      "next": "10059",
+      "previous": "10057",
+      "book": "10",
+      "source": "https://sacred-texts.com/hin/rigveda/rv10058.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv10058.htm"
+    },
+    "deities": []
   },
   "created": 1638557745266,
-  "updated": 1638792008464
+  "updated": 1638830293092
 }

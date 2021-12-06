@@ -5,13 +5,55 @@
   "link": "hymns/01086.html",
   "api": "json/hymns/01086.json",
   "data": {
+    "key": "01086",
     "title": "HYMN LXXXVI. Devas.",
     "describe": "THE best of guardians hath that man within whose dwelling place ye drink, O Devas, giants of the sky.",
-    "feecting": "p:THE best of guardians hath that man within whose dwelling place ye drink, O Devas, giants of the sky.\np:Honoured with offering or with the worship of the sages&#146; hymns, O Devas, listen to the call.\np:Yea, the strong man to whom ye have vouchsafed to give a sage, shall move Into a stable rich in kine.\np:Upon this hero's sacred grass Soma is poured in daily rites: Praise and delight are sung aloud.\np:Let the strong Devas hear him, him surpassing all men: strength be his That reaches even to the Sun.\np:For, through the swift Devas&#146; loving help, in many an autumn, Devas, we Have offered up our offering.\np:Fortunate shall that mortal be, O Devas most adorable, whose offerings ye bear away.\np:O Heroes truly strong, ye know the toil of him who sings your praise, the heart's desire of him who loves.\np:O ye of true strength, make this thing manifest by your greatness: strike The demon with your thunderbolt.\np:Conceal the horrid darkness, drive far from us each devouring fiend.\np: Create the light for which we long.",
-    "next": "01087",
-    "previous": "01085",
-    "book": "01"
+    "feecting": "p:THE best of guardians hath that man within whose dwelling place ye drink, O Devas, giants of the sky.\np:Honoured with offering or with the worship of the sages’ hymns, O Devas, listen to the call.\np:Yea, the strong man to whom ye have vouchsafed to give a sage, shall move Into a stable rich in kine.\np:Upon this hero's sacred grass Soma is poured in daily rites: Praise and delight are sung aloud.\np:Let the strong Devas hear him, him surpassing all men: strength be his That reaches even to the Sun.\np:For, through the swift Devas’ loving help, in many an autumn, Devas, we Have offered up our offering.\np:Fortunate shall that mortal be, O Devas most adorable, whose offerings ye bear away.\np:O Heroes truly strong, ye know the toil of him who sings your praise, the heart's desire of him who loves.\np:O ye of true strength, make this thing manifest by your greatness: strike The demon with your thunderbolt.\np:Conceal the horrid darkness, drive far from us each devouring fiend.\np: Create the light for which we long.",
+    "meta": {
+      "next": "01087",
+      "previous": "01085",
+      "book": "01",
+      "source": "https://sacred-texts.com/hin/rigveda/rv01086.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv01086.htm"
+    },
+    "deities": [
+      {
+        "name": "O Devas",
+        "hymns": [
+          {
+            "key": "01086",
+            "title": "HYMN LXXXVI. Devas."
+          },
+          {
+            "key": "01086",
+            "title": "HYMN LXXXVI. Devas."
+          },
+          {
+            "key": "01086",
+            "title": "HYMN LXXXVI. Devas."
+          }
+        ]
+      },
+      {
+        "name": "O Heroes",
+        "hymns": [
+          {
+            "key": "01086",
+            "title": "HYMN LXXXVI. Devas."
+          }
+        ]
+      },
+      {
+        "name": "O ye ",
+        "hymns": [
+          {
+            "key": "01086",
+            "title": "HYMN LXXXVI. Devas."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638553466738,
-  "updated": 1638792007388
+  "updated": 1638830291714
 }

@@ -5,13 +5,29 @@
   "link": "hymns/09025.html",
   "api": "json/hymns/09025.json",
   "data": {
+    "key": "09025",
     "title": "HYMN XXV. Indu.",
     "describe": "GREEN-HUED!",
-    "feecting": "p:GREEN-HUED! as one who giveth strength flow on for Devas to drink, a draught For V&#257;yu and the Marut host.\np:O Indu, sent by song, roaring about thy dwelling-place, Pass into V&#257;yu as Law bids.\np:The Steer shines with the Deities, dear Sage in his appointed home, Foe-Slayer, most beloved by Devas.\np:Taking each beauteous form, he goes, desirable, while purified, Thither where- the Immortals sit.\np:To Indra Soma flows, the Red, engendering song, exceeding wise, the visitor of living men.\np:Flow, best exhilarator, Sage, flow to the filter in a stream To seat thee in the place of song.",
-    "next": "09026",
-    "previous": "09024",
-    "book": "09"
+    "feecting": "p:GREEN-HUED! as one who giveth strength flow on for Devas to drink, a draught For Soma and the Marut host.\np:O Indu, sent by song, roaring about thy dwelling-place, Pass into Soma as Law bids.\np:The Steer shines with the Deities, dear Sage in his appointed home, Foe-Slayer, most beloved by Devas.\np:Taking each beauteous form, he goes, desirable, while purified, Thither where- the Immortals sit.\np:To Indra Soma flows, the Red, engendering song, exceeding wise, the visitor of living men.\np:Flow, best exhilarator, Sage, flow to the filter in a stream To seat thee in the place of song.",
+    "meta": {
+      "next": "09026",
+      "previous": "09024",
+      "book": "09",
+      "source": "https://sacred-texts.com/hin/rigveda/rv09025.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv09025.htm"
+    },
+    "deities": [
+      {
+        "name": "O Indu",
+        "hymns": [
+          {
+            "key": "09025",
+            "title": "HYMN XXV. Indu."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638556966633,
-  "updated": 1638792008221
+  "updated": 1638830292839
 }

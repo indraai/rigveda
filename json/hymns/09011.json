@@ -5,13 +5,51 @@
   "link": "hymns/09011.html",
   "api": "json/hymns/09011.json",
   "data": {
+    "key": "09011",
     "title": "HYMN XL Indu.",
     "describe": "SING forth to Indu, O ye men, to him who is purified, fain to make offerings to the Devas.",
-    "feecting": "p:SING forth to Indu, O ye men, to him who is purified, fain to make offerings to the Devas.\np:Together with thy pleasant juice, Divine, devoted to the Deva.\np:Bring, by thy flowing, weal to kine, weal to the people, weal to steeds.\np: Weal, O King, to growing plants.\r\np:Sing a praise-song to Indu, of independent might. The Blue, who reaches up to Heaven.\n\np:With humble homage draw ye nigh. To Indra offer Indu up.\np:Soma, foe-que chief o&#146;er men, doing the will of pour forth prosperity upon our kine.\np:Heart-knower, Sovran of the heart, thou art effused, O Indu, that Indra may drink thee and rejoice.\np:O Indu, give us riches and heroic strength,&#151; Indu! with Indra for his ally.",
-    "next": "09012",
-    "previous": "09010",
-    "book": "09"
+    "feecting": "p:SING forth to Indu, O ye men, to him who is purified, fain to make offerings to the Devas.\np:Together with thy pleasant juice, Divine, devoted to the Deva.\np:Bring, by thy flowing, weal to kine, weal to the people, weal to steeds.\np: Weal, O King, to growing plants.\r\np:Sing a praise-song to Indu, of independent might. The Blue, who reaches up to Heaven.\n\np:With humble homage draw ye nigh. To Indra offer Indu up.\np:Indu, doing the will of pour forth prosperity upon our kine.\np:Heart-knower, Sovran of the heart, thou art effused, O Indu, that Indra may drink thee and rejoice.\np:O Indu, give us riches and heroic strength. Indu! with Indra for his ally.",
+    "meta": {
+      "next": "09012",
+      "previous": "09010",
+      "book": "09",
+      "source": "https://sacred-texts.com/hin/rigveda/rv09011.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv09011.htm"
+    },
+    "deities": [
+      {
+        "name": "O ye ",
+        "hymns": [
+          {
+            "key": "09011",
+            "title": "HYMN XL Indu."
+          }
+        ]
+      },
+      {
+        "name": "O King",
+        "hymns": [
+          {
+            "key": "09011",
+            "title": "HYMN XL Indu."
+          }
+        ]
+      },
+      {
+        "name": "O Indu",
+        "hymns": [
+          {
+            "key": "09011",
+            "title": "HYMN XL Indu."
+          },
+          {
+            "key": "09011",
+            "title": "HYMN XL Indu."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638556893032,
-  "updated": 1638792008208
+  "updated": 1638830292827
 }

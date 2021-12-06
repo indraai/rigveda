@@ -5,13 +5,29 @@
   "link": "hymns/04031.html",
   "api": "json/hymns/04031.json",
   "data": {
+    "key": "04031",
     "title": "HYMN XXXI. Indra.",
     "describe": "WITH what help will he come to us, wonderful, ever-waxing Friend;",
-    "feecting": "p:WITH what help will he come to us, wonderful, ever-waxing Friend; With what most mighty company?\np:What genuine and most liberal draught will spirit thee with juice to burst Open e&#146;en strongly-guarded wealth?\np:Do thou who art Protector of us thy friends who praise thee With hundred aids approach us.\np:Like as a courser's circling wheel, so turn thee hitherward to us, Attracted by the hymns of men.\np:Thou seekest as it were thine own stations with swift descent of powers: I share thee even with the Sun.\np:What time thy courage and his wheels together, Indra, run their course With thee and with the Sun alike,\np:So even, Lord of Power and Might, the people call thee Indra, Giver, who pauses not to think.\np:And verily to him who toils and presses Soma juice for thee Thou quickly givest ample wealth.\np:No, not a hundred hinderers can check thy gracious bounty's flow, Nor thy great deeds when thou wilt act.\np:May thine assistance keep us safe, thy hundred and thy thousand aids: May all thy favours strengthen us.\np:Do thou elect us this place for friendship and prosperity, and great celestial opulence.\np:Favour us, Indra, evermore with overflowing store of wealth: With all thy succours aid thou us.\np:With new protections, Indra, like an archer, open thou for us The stables that are filled with kine.\np:Our chariot, Indra, boldly moves endued with splendour, ne&#146;er repulsed, Winning for us both kine and steeds.\np:O S&#363;rya, make our fame to be most excellent among the Devas, most lofty as the Heaven on high.",
-    "next": "04032",
-    "previous": "04030",
-    "book": "04"
+    "feecting": "p:WITH what help will he come to us, wonderful, ever-waxing Friend; With what most mighty company?\np:What genuine and most liberal draught will spirit thee with juice to burst Open e’en strongly-guarded wealth?\np:Do thou who art Protector of us thy friends who praise thee With hundred aids approach us.\np:Like as a courser's circling wheel, so turn thee hitherward to us, Attracted by the hymns of men.\np:Thou seekest as it were thine own stations with swift descent of powers: I share thee even with the Sun.\np:What time thy courage and his wheels together, Indra, run their course With thee and with the Sun alike,\np:So even, Lord of Power and Might, the people call thee Indra, Giver, who pauses not to think.\np:And verily to him who toils and presses Soma juice for thee Thou quickly givest ample wealth.\np:No, not a hundred hinderers can check thy gracious bounty's flow, Nor thy great deeds when thou wilt act.\np:May thine assistance keep us safe, thy hundred and thy thousand aids: May all thy favours strengthen us.\np:Do thou elect us this place for friendship and prosperity, and great celestial opulence.\np:Favour us, Indra, evermore with overflowing store of wealth: With all thy assists aid thou us.\np:With new protections, Indra, like an archer, open thou for us The stables that are filled with kine.\np:Our chariot, Indra, boldly moves endued with splendour, ne’er repulsed, Winning for us both kine and steeds.\np:O Sūrya, make our fame to be most excellent among the Devas, most lofty as the Heaven on high.",
+    "meta": {
+      "next": "04032",
+      "previous": "04030",
+      "book": "04",
+      "source": "https://sacred-texts.com/hin/rigveda/rv04031.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv04031.htm"
+    },
+    "deities": [
+      {
+        "name": "O Sūrya",
+        "hymns": [
+          {
+            "key": "04031",
+            "title": "HYMN XXXI. Indra."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638554741545,
-  "updated": 1638792007713
+  "updated": 1638830292167
 }

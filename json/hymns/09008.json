@@ -5,13 +5,29 @@
   "link": "hymns/09008.html",
   "api": "json/hymns/09008.json",
   "data": {
+    "key": "09008",
     "title": "HYMN VIII. Indu.",
     "describe": "OBEYING Indra's dear desire, increasing his heroic might.",
-    "feecting": "p:OBEYING Indra's dear desire, increasing his heroic might.\np:Laid in the bowl, pure-flowing on to V&#257;yu and the A&#347;vins. May These give us great heroic strength.\np:Indu, incite to bounty Indra's heart, to sit in place of offering.\np:The ten swift fingers deck thee forth, seven ministers impel thee on. The sages have rejoiced in thee.\np:When through the filter thou art poured to be a gladdening draught for Devas.\n\np:Flow on to us and make us wealthy.\np: O Indu, flow into thy friend, send down the rain from Heaven, a stream of opulence from Earth.\r\np:May we obtain thee, Indra's drink, who viewest men and findest light.",
-    "next": "09009",
-    "previous": "09007",
-    "book": "09"
+    "feecting": "p:OBEYING Indra's dear desire, increasing his heroic might.\np:Laid in the bowl, pure-flowing,  give us great heroic strength.\np:Indu, incite to bounty Indra's heart, to sit in place of offering.\np:The ten swift fingers deck thee forth, seven ministers impel thee on. The sages have rejoiced in thee.\np:When through the filter thou art poured to be a gladdening draught for Devas.\n\np:Flow on to us and make us wealthy.\np: O Indu, flow into thy friend, send down the rain from Heaven, a stream of opulence from Earth.\r\np:May we obtain thee, Indra's drink, who viewest men and findest light.",
+    "meta": {
+      "next": "09009",
+      "previous": "09007",
+      "book": "09",
+      "source": "https://sacred-texts.com/hin/rigveda/rv09008.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv09008.htm"
+    },
+    "deities": [
+      {
+        "name": "O Indu",
+        "hymns": [
+          {
+            "key": "09008",
+            "title": "HYMN VIII. Indu."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638556877271,
-  "updated": 1638792008205
+  "updated": 1638830292824
 }

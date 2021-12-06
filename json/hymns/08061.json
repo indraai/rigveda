@@ -5,13 +5,29 @@
   "link": "hymns/08061.html",
   "api": "json/hymns/08061.json",
   "data": {
+    "key": "08061",
     "title": "HYMN LXI. Agni.",
     "describe": "PREPARE oblation: let him come;",
-    "feecting": "p:PREPARE oblation: let him come; and let the minister serve again Who knows the ordering thereof,\np:Rejoicing in his friendship, let the Monk be seated over man, beside the shoot of active power.\np:Him, glowing bright beyond all thought, they seek among the race of man; With him for tongue they seize the food.\np:He hath inflamed the twofold plain: life-giving, he hath climbed the wood, and with his tongue hath struck the rock.\np:Wandering here the radiant Calf finds none to fetter him, and seeks The Mother to declare his praise.\np:And now that great and mighty team, the team of horses that are his, and traces of his car, are seen.\np:The seven milk a single cow; the two set other five to work, On the stream's loud-resounding bank.\np:Entreated by Vivasv&#257;n's ten, Indra cast down the water-jar With threefold hammer from the sky.\np:Three times the newly-kindled flame proceeds around the offering: The Monks anoint it with the meath.\np:With reverence they drain the fount that circles with its wheel above, Exhaustless, with the mouth below.\np:The pressing-stones are set at work: the meath is poured into the tank, At the out-shedding of the fount.\np:Ye cows, protect the fount: the two Mighty Ones bless the offering.\np: The handles twain are wrought of gold.\r\np:Pour on the juice the ornament which reaches both the Heaven and Earth Supply the liquid to the Bull.\np:These know their own abiding-place: like calves beside the mother cows They meet together with their kin.\np:Devouring in their greedy jaws, they make sustaining food in Heaven, to Indra, Agni light and prayer.\np:The Pious One milked out rich food, sustenance dealt in portions seven, together with the Sun's seven rays.\np:I took some Soma when the Sun rose up, O Mitra, Varu&#7751;a. That is the sick man's medicine.\np:From where oblations must be laid, which is the Well-beloved's home. He with his tongue hath compassed Heaven.",
-    "next": "08062",
-    "previous": "08060",
-    "book": "08"
+    "feecting": "p:PREPARE oblation: let him come; and let the minister serve again Who knows the ordering thereof,\np:Rejoicing in his friendship, let the Monk be seated over man, beside the shoot of active power.\np:Him, glowing bright beyond all thought, they seek among the race of man; With him for tongue they seize the food.\np:He hath inflamed the twofold plain: life-giving, he hath climbed the wood, and with his tongue hath struck the rock.\np:Wandering here the radiant Calf finds none to fetter him, and seeks The Mother to declare his praise.\np:And now that great and mighty team, the team of horses that are his, and traces of his car, are seen.\np:The seven milk a single cow; the two set other five to work, On the stream's loud-resounding bank.\np:Entreated by Vivasvān's ten, Indra cast down the water-jar With threefold hammer from the sky.\np:Three times the newly-kindled flame proceeds around the offering: The Monks anoint it with the meath.\np:With reverence they drain the fount that circles with its wheel above, Exhaustless, with the mouth below.\np:The pressing-stones are set at work: the meath is poured into the tank, At the out-shedding of the fount.\np:Ye cows, protect the fount: the two Mighty Ones bless the offering.\np: The handles twain are wrought of gold.\r\np:Pour on the juice the ornament which reaches both the Heaven and Earth Supply the liquid to the Bull.\np:These know their own abiding-place: like calves beside the mother cows They meet together with their kin.\np:Devouring in their greedy jaws, they make sustaining food in Heaven, to Indra, Agni light and prayer.\np:The Pious One milked out rich food, sustenance dealt in portions seven, together with the Sun's seven rays.\np:I took some Soma when the Sun rose up, O Mitra, Indra. That is the sick man's medicine.\np:From where oblations must be laid, which is the Well-beloved's home. He with his tongue hath compassed Heaven.",
+    "meta": {
+      "next": "08062",
+      "previous": "08060",
+      "book": "08",
+      "source": "https://sacred-texts.com/hin/rigveda/rv08061.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv08061.htm"
+    },
+    "deities": [
+      {
+        "name": "O Mitra",
+        "hymns": [
+          {
+            "key": "08061",
+            "title": "HYMN LXI. Agni."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638556612975,
-  "updated": 1638792008144
+  "updated": 1638830292762
 }

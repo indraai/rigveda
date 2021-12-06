@@ -5,13 +5,19 @@
   "link": "hymns/06069.html",
   "api": "json/hymns/06069.json",
   "data": {
-    "title": "HYMN LXIX. Indra-Vi&#7779;&#7751;u",
-    "describe": "INDRA and Vi&#7779;",
-    "feecting": "p:INDRA and Vi&#7779;&#7751;u, at my task's completion I urge you on with food and sacred service.\np: Accept these offerings, leading us on by unobstructed pathways.\r\np:Ye who inspire all hymns, Indra and Vi&#7779;&#7751;u, ye vessels who contain the Soma juices, May hymns of praise that now are sung address you, the lauds that are recited by the singers.\np:Lords of joy-giving draughts, Indra and Vi&#7779;&#7751;u, come, giving gifts of treasure. With brilliant rays of hymns let chanted praises, repeated with the lauds, adorn and deck you.\np:May yourhorses bring you hither, Indra and Vi&#7779;&#7751;u, sharers of the banquet. Of all our hymns accept the invocations list to my meditations, and hear the songs I sing you.\np:This your deed, Indra-Vi&#7779;&#7751;u, must be lauded. Ye made the Firmament of larger compass, and made the regions broad for our existence.\np:Strengthened with sacred offerings, indraVi&#7779;&#7751;u, first eaters, served with joy ana oblation.\np:Drink of this meath, O Indra and Vi&#7779;&#7751;u; drink ye your fill of Soma, Wonder-Workers.  Hear ye my meditations, give ear unto my calling.\np:Ye Twain have conquered, ne&#146;er have yc been conquered: never hath either of the Twain been vanquished. Ye, Indra-Vi&#7779;&#7751;u, when ye fought the battle, produced this infinite with three divisions.",
-    "next": "06070",
-    "previous": "06068",
-    "book": "06"
+    "key": "06069",
+    "title": "HYMN LXIX. Indra and IndraDeva",
+    "describe": "INDRA and Indra, at my task's completion I urge you on with food and sacred service.",
+    "feecting": "p:INDRA and Indra, at my task's completion I urge you on with food and sacred service.\np: Accept these offerings, leading us on by unobstructed pathways.\r\np:Ye who inspire all hymns, may hymns of praise that now are sung address you, the lauds that are recited by the singers.\np:Lords of joy-giving draughts come, giving gifts of treasure. With brilliant rays of hymns let chanted praises, repeated with the lauds, adorn and deck you.\np:May yourhorses bring you hither sharers of the banquet. Of all our hymns accept the invocations list to my meditations, and hear the songs I sing you.\np:This your deed, Indra and IndraDeva, must be lauded. Ye made the Firmament of larger compass, and made the regions broad for our existence.\np:Strengthened with sacred offerings, first eaters, served with joy ana oblation.\np: Hear ye my meditations, give ear unto my calling.\np:Ye Twain have conquered, ne’er have yc been conquered: never hath either of the Twain been vanquished. Ye, Indra and IndraDeva, when ye fought the battle, produced this infinite with three divisions.",
+    "meta": {
+      "next": "06070",
+      "previous": "06068",
+      "book": "06",
+      "source": "https://sacred-texts.com/hin/rigveda/rv06069.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv06069.htm"
+    },
+    "deities": []
   },
   "created": 1638555710379,
-  "updated": 1638792007931
+  "updated": 1638830292453
 }

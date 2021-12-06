@@ -5,13 +5,38 @@
   "link": "hymns/10009.html",
   "api": "json/hymns/10009.json",
   "data": {
+    "key": "10009",
     "title": "HYMN IX. Waters.",
     "describe": "YE, Waters, are beneficent: so help ye us to energy That we may look on great delight.",
-    "feecting": "p:YE, Waters, are beneficent: so help ye us to energy That we may look on great delight.\np:Give us a portion of the sap, the most auspicious that ye have, like mothers in their longing love.\np:To you we gladly come for him to whose abode ye send us on; And, Waters, give us procreant strength.\np:The Waters. be to us for drink, Goddesses for our aid and bliss: Let them stream to us health and strength.\np:1 beg the Floods to give us balm, these Queens who rule o&#146;er precious things, and have supreme control of men.\np:Within the Waters-Soma thus hath told me-dwell all balms that heal .\np:O Waters, teem with medicine to keep my body safe from harm. So that I lon. May see the Sun.\np:Whatever sin is found in me, whatever evil I have wrought, If I have lied or falsely sworn, Waters, remove it far from me.\np:The Waters I this day have sought, and to their moisture have we come: O Agni, rich in milk, come thou, and with thy splendour cover me.",
-    "next": "10010",
-    "previous": "10008",
-    "book": "10"
+    "feecting": "p:YE, Waters, are beneficent: so help ye us to energy That we may look on great delight.\np:Give us a portion of the sap, the most auspicious that ye have, like mothers in their longing love.\np:To you we gladly come for him to whose abode ye send us on; And, Waters, give us procreant strength.\np:The Waters. be to us for drink, Goddesses for our aid and bliss: Let them stream to us health and strength.\np:1 beg the Floods to give us balm, these Queens who rule o’er precious things, and have supreme control of men.\np:Within the Waters-Soma thus hath told me-dwell all balms that heal .\np:O Waters, teem with medicine to keep my body safe from harm. So that I lon. May see the Sun.\np:Whatever sin is found in me, whatever evil I have wrought, If I have lied or falsely sworn, Waters, remove it far from me.\np:The Waters I this day have sought, and to their moisture have we come: O Agni, rich in milk, come thou, and with thy splendour cover me.",
+    "meta": {
+      "next": "10010",
+      "previous": "10008",
+      "book": "10",
+      "source": "https://sacred-texts.com/hin/rigveda/rv10009.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv10009.htm"
+    },
+    "deities": [
+      {
+        "name": "O Waters",
+        "hymns": [
+          {
+            "key": "10009",
+            "title": "HYMN IX. Waters."
+          }
+        ]
+      },
+      {
+        "name": "O Agni",
+        "hymns": [
+          {
+            "key": "10009",
+            "title": "HYMN IX. Waters."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638557483433,
-  "updated": 1638792008363
+  "updated": 1638830292974
 }

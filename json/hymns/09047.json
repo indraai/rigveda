@@ -5,13 +5,19 @@
   "link": "hymns/09047.html",
   "api": "json/hymns/09047.json",
   "data": {
+    "key": "09047",
     "title": "HYMN XLVII. Indu.",
     "describe": "GREAT as he was, Soma hath gained strength by this high solemnity: joyous he riseth like a bull.",
     "feecting": "p:GREAT as he was, Soma hath gained strength by this high solemnity: joyous he riseth like a bull.\np:His task is done: his crushings of the Dasyus are made manifest: He sternly reckoneth their debts.\np:Soon as his song of praise is born, the Soma, Indra's juice, becomes A thousand-winning thunderbolt.\np:Seer and Sustainer, he himself desireth riches for the sage When he embellisheth his songs.\np:Fain would they both win riches as in races of the steeds. In war Thou art upon the conquerors' side.",
-    "next": "09048",
-    "previous": "09046",
-    "book": "09"
+    "meta": {
+      "next": "09048",
+      "previous": "09046",
+      "book": "09",
+      "source": "https://sacred-texts.com/hin/rigveda/rv09047.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv09047.htm"
+    },
+    "deities": []
   },
   "created": 1638557083001,
-  "updated": 1638792008237
+  "updated": 1638830292863
 }

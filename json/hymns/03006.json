@@ -5,13 +5,51 @@
   "link": "hymns/03006.html",
   "api": "json/hymns/03006.json",
   "data": {
+    "key": "03006",
     "title": "HYMN VI. Agni.",
     "describe": "URGED on by deep devotion, O ye singers, bring, pious ones-approaching ladle.",
-    "feecting": "p:URGED on by deep devotion, O ye singers, bring, pious ones-approaching ladle.\np: Borne onward to the right it travels eastward, and, filled with oil, to Agni bears oblation.\r\np:Thou at thy birth didst fill both Earth and Heaven, yea, most Adorable, thou didst exceed them. Even through the Heaven's and through the Earth's expanses let thy swift seventongued flames roll on, O Agni.\np:Both Heaven and Earth and Devas who should be worshipped establish thee as Monk forevery dwelling, whenever human families, Deva-devoted, bringing oblations; laud thy splendid lustre.\np:Firm in the Devas&#146; home is the Mighty seated, between vast Heaven and Earth the well-beloved- Those Cows who yield, unharmed, their nectar, Spouses of the Far-Strider, everyoung, united.\np:Great are the deeds of thee, the Great, O Agni: thou by thy power hast spread out Earth and Heaven. As soon as thou wast born thou wast an envoy Mighty One, was Leader of the people.\np:Bind to the pole with cords of holy Order the long-maned ruddy steeds who sprinkle fatness. Bring hithier, O thou Deva, all Devas together: provide them noble worship, J&#257;tavedas.\np:Even from the sky thy brilliant lights shone hither: still hast thou beamed through many a radiant morning, that the Devas praised their joyous Herald's labour eagerly burning, Agni, in the forests.\np:The Devas who take delight in air's wide region, or those the dwellers in Heaven's realm of brightness, or those, the Holy, prompt to hear, our helpers, who, carborne, turn their horses hither, Agni&#151;-\np:With these, borne on on ear, Agni, approach us, or borne on many, for thy steeds are able. Bring, witb their Damess, the Three and-Thirty, after thy Godlike nature, and be joyful.\np:He is the Monk at whose repeated worship even wide Heaven and Earth sing out for increase. They fair and true and holy coming forward stand at his offering who springs from Order.\np:As holy food, Agni, to thine invoker give wealth in cattle, lasting, rich in marvels. To us be born a son and spreading offspring. Agni, be this thy gracious will to usward.",
-    "next": "03007",
-    "previous": "03005",
-    "book": "03"
+    "feecting": "p:URGED on by deep devotion, O ye singers, bring, pious ones-approaching ladle.\np: Borne onward to the right it travels eastward, and, filled with oil, to Agni bears oblation.\r\np:Thou at thy birth didst fill both Earth and Heaven, yea, most Adorable, thou didst exceed them. Even through the Heaven's and through the Earth's expanses let thy swift seventongued flames roll on, O Agni.\np:Both Heaven and Earth and Devas who should be worshipped establish thee as Monk forevery dwelling, whenever human families, Deva-devoted, bringing oblations; laud thy splendid lustre.\np:Firm in the Devas’ home is the Mighty seated, between vast Heaven and Earth the well-beloved- Those Cows who yield, unharmed, their nectar, Spouses of the Far-Strider, everyoung, united.\np:Great are the deeds of thee, the Great, O Agni: thou by thy power hast spread out Earth and Heaven. As soon as thou wast born thou wast an envoy Mighty One, was Leader of the people.\np:Bind to the pole with cords of holy Order the long-maned ruddy steeds who sprinkle fatness. Bring hithier, O thou Deva, all Devas together: provide them noble worship, Jātavedas.\np:Even from the sky thy brilliant lights shone hither: still hast thou beamed through many a radiant morning, that the Devas praised their joyous Herald's labour eagerly burning, Agni, in the forests.\np:The Devas who take delight in air's wide region, or those the dwellers in Heaven's realm of brightness, or those, the Holy, prompt to hear, our helpers, who, carborne, turn their horses hither, Agni—-\np:With these, borne on on ear, Agni, approach us, or borne on many, for thy steeds are able. Bring, witb their Damess, the Three and-Thirty, after thy Godlike nature, and be joyful.\np:He is the Monk at whose repeated worship even wide Heaven and Earth sing out for increase. They fair and true and holy coming forward stand at his offering who springs from Order.\np:As holy food, Agni, to thine invoker give wealth in cattle, lasting, rich in marvels. To us be born a son and spreading offspring. Agni, be this thy gracious will to usward.",
+    "meta": {
+      "next": "03007",
+      "previous": "03005",
+      "book": "03",
+      "source": "https://sacred-texts.com/hin/rigveda/rv03006.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv03006.htm"
+    },
+    "deities": [
+      {
+        "name": "O ye ",
+        "hymns": [
+          {
+            "key": "03006",
+            "title": "HYMN VI. Agni."
+          }
+        ]
+      },
+      {
+        "name": "O Agni",
+        "hymns": [
+          {
+            "key": "03006",
+            "title": "HYMN VI. Agni."
+          },
+          {
+            "key": "03006",
+            "title": "HYMN VI. Agni."
+          }
+        ]
+      },
+      {
+        "name": "O thou",
+        "hymns": [
+          {
+            "key": "03006",
+            "title": "HYMN VI. Agni."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638554282254,
-  "updated": 1638792007589
+  "updated": 1638830292012
 }

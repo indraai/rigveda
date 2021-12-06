@@ -5,13 +5,38 @@
   "link": "hymns/01013.html",
   "api": "json/hymns/01013.json",
   "data": {
+    "key": "01013",
     "title": "HYMN XIII. Agni",
     "describe": "AGNI, well-kindled, bring the Devas for him who offers holy gifts.",
-    "feecting": "p:AGNI, well-kindled, bring the Devas for him who offers holy gifts.\np: Worship them, Purifier, Monk.\r\np:Son of Thyself, present, O Sage, our offering to the Devas today. Sweet to the taste, that the, may feast.\np:Dear Nar&#257;&#347;a&#7745;sa, sweet of tongue, the giver of oblations, I Invoke to this our offering.\np:Agni, on thy most easy car, glorified, hither bring the Devas.\np:Strew, O ye wise, the sacred grass that drips with oil, in order due, Where the Immortal is beheld.\np:Thrown open be the Doors Divine, for offering this day and now.\np:I call, to seat them on the holy grass, at this our solemn offering.\np:I invite, the wise, divine and sweet of tongue, to celebrate this our offering.\np:I&#7735;&#257;, Sarasvat&#299;, Mah&#299;, three Goddesses who bring delight, be seated, peaceful, on the grass.\np:Tva&#7779;&#7789;ar I call, the earliest born, the wearer of all forms at will: May he be ours and ours alone.\np:Deva, sovran of the Wood, present this our oblation to the Devas, and let the giver be renowned.\np:With Sv&#257;h&#257; pay the offering to Indra in the offerer's house: We call the Devas.",
-    "next": "01014",
-    "previous": "01012",
-    "book": "01"
+    "feecting": "p:AGNI, well-kindled, bring the Devas for him who offers holy gifts.\np: Worship them, Purifier, Monk.\r\np:Son of Thyself, present, O Sage, our offering to the Devas today. Sweet to the taste, that the, may feast.\np:Dear Agni, sweet of tongue, the giver of oblations, I Invoke to this our offering.\np:Agni, on thy most easy car, glorified, hither bring the Devas.\np:Strew, O ye wise, the sacred grass that drips with oil, in order due, Where the Immortal is beheld.\np:Thrown open be the Doors Divine, for offering this day and now.\np:I call, to seat them on the holy grass, at this our solemn offering.\np:I invite, the wise, divine and sweet of tongue, to celebrate this our offering.\np:Be seated, peaceful, on the grass.\np:May he be ours and ours alone.\np:Deva, sovran of the Wood, present this our oblation to the Devas, and let the giver be renowned.\np:Pay the offering to Indra in the offerer's house: We call the Devas.",
+    "meta": {
+      "next": "01014",
+      "previous": "01012",
+      "book": "01",
+      "source": "https://sacred-texts.com/hin/rigveda/rv01013.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv01013.htm"
+    },
+    "deities": [
+      {
+        "name": "O Sage",
+        "hymns": [
+          {
+            "key": "01013",
+            "title": "HYMN XIII. Agni"
+          }
+        ]
+      },
+      {
+        "name": "O ye ",
+        "hymns": [
+          {
+            "key": "01013",
+            "title": "HYMN XIII. Agni"
+          }
+        ]
+      }
+    ]
   },
   "created": 1638553081366,
-  "updated": 1638792007288
+  "updated": 1638830291593
 }

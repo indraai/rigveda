@@ -5,13 +5,33 @@
   "link": "hymns/02016.html",
   "api": "json/hymns/02016.json",
   "data": {
+    "key": "02016",
     "title": "HYMN XVI. Indra.",
     "describe": "To him, your own, the best among the good, I bring eulogy, like oblation in the kindled fire.",
-    "feecting": "p:To him, your own, the best among the good, I bring eulogy, like oblation in the kindled fire.\np: We invocate for help Indra untouched by eld, who maketh all decay, strengthened, forever young.\r\np:Without whom naught exists, Indra the Lofty One; in whom alone all powers heroic are combined. The Soma is within him, in his frame vast strength, the thunder in his hand and wisdom in his head.\np:Not by both worlds is thine own power to be surpassed, no. May thy car be stayed by mountains or by seas. None cometh near, O Indra, to thy thunderbolt, when with swift steeds thou fliest over many a league.\np:For all men bring their will to him the Resolute, to him the Holy One, to him the Strong they cleave. Pay worship with oblation, strong and passing wise. Drink thou the Soma, Indra, through the mighty blaze.\np:The vessel of the strong flows forth, the flood of meath, unto the Strong who feeds upon the strong, for drink, Strong are the two Adhvaryus, strong are both the stones. They press the Soma that is strong for him the Strong.\np:Strong is thy thunderbolt, yea, and thy car is strong; strong are thy Bay Steeds and thy weapons powerful. Thou, Indra, Bull, art Lord of the strong gladdening drink. with the strong Soma, Indra, satisfy thyself.\np:I, bold by prayer, come near thee in thy sacred rites, thee like a saving ship, thee shouting in the war. Verily he will hear and mark this word of ours: we will pour Indra forth as &#146;twere a spring of wealth.\np:Turn thee unto us ere calamity come nigh, as a cow full of pasture turns her to her calf. Lord of a Hundred Powers. May we once firmly cling to thy fair favours even as husbands to their wives.\np:Now let that wealthy Cow of thine, O Indra, yield in return a boon to him who lauds thee. Give to thy praisers: let not fortune fail us. Lou. May we speak, with heroes, in assembly.",
-    "next": "02017",
-    "previous": "02015",
-    "book": "02"
+    "feecting": "p:To him, your own, the best among the good, I bring eulogy, like oblation in the kindled fire.\np: We invocate for help Indra untouched by eld, who maketh all decay, strengthened, forever young.\r\np:Without whom naught exists, Indra the Lofty One; in whom alone all powers heroic are combined. The Soma is within him, in his frame vast strength, the thunder in his hand and wisdom in his head.\np:Not by both worlds is thine own power to be surpassed, no. May thy car be stayed by mountains or by seas. None cometh near, O Indra, to thy thunderbolt, when with swift steeds thou fliest over many a league.\np:For all men bring their will to him the Resolute, to him the Holy One, to him the Strong they cleave. Pay worship with oblation, strong and passing wise. Drink thou the Soma, Indra, through the mighty blaze.\np:The vessel of the strong flows forth, the flood of meath, unto the Strong who feeds upon the strong, for drink, Strong are the two Adhvaryus, strong are both the stones. They press the Soma that is strong for him the Strong.\np:Strong is thy thunderbolt, yea, and thy car is strong; strong are thy Bay Steeds and thy weapons powerful. Thou, Indra, Bull, art Lord of the strong gladdening drink. with the strong Soma, Indra, satisfy thyself.\np:I, bold by prayer, come near thee in thy sacred rites, thee like a saving ship, thee shouting in the war. Verily he will hear and mark this word of ours: we will pour Indra forth as ’twere a spring of wealth.\np:Turn thee unto us ere calamity come nigh, as a cow full of pasture turns her to her calf. Lord of a Hundred Powers. May we once firmly cling to thy fair favours even as husbands to their wives.\np:Now let that wealthy Cow of thine, O Indra, yield in return a boon to him who lauds thee. Give to thy praisers: let not fortune fail us. Lou. May we speak, with heroes, in assembly.",
+    "meta": {
+      "next": "02017",
+      "previous": "02015",
+      "book": "02",
+      "source": "https://sacred-texts.com/hin/rigveda/rv02016.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv02016.htm"
+    },
+    "deities": [
+      {
+        "name": "O Indra",
+        "hymns": [
+          {
+            "key": "02016",
+            "title": "HYMN XVI. Indra."
+          },
+          {
+            "key": "02016",
+            "title": "HYMN XVI. Indra."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638554107190,
-  "updated": 1638792007540
+  "updated": 1638830291950
 }

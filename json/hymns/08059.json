@@ -5,13 +5,113 @@
   "link": "hymns/08059.html",
   "api": "json/hymns/08059.json",
   "data": {
+    "key": "08059",
     "title": "HYMN LIX. Indra.",
-    "describe": "HE who, as Sovran Lord of men, moves with his chariots unrestrained, the V&#7771;",
-    "feecting": "p:HE who, as Sovran Lord of men, moves with his chariots unrestrained, the V&#7771;tra-slayer vanquisher, of fighting hosts, preeminent, is praised with song.\np:Honour that Indra, Puruhanman! for his aid, in whose sustaining hand of old, the splendid bolt of thunder was deposited, as the great Sun was set in Heaven.\np:No one by deed attains to him who works and strengthens evermore: No, not by offering, to Indra. praised o all, resistless, daring, bold in might.\np:The potent Conqueror, invincible in war, him at whose birth the Mighty Ones, the Kine who spread afar, sent their loud voices out, heavens, earths seat their loud voices out,\np:O Indra, if a hundred heavens and if a hundred earths were thine&#151; No, not a thousand Suns could match thee at thy birth, not both the worlds, O Thunderer.\np:Thou. Hero, hast performed thy hero deeds with might, yea, all with strength, O Strongest One.\np: Indra, help us to a stable full of kine, O Thunderer, with wondrous aids.\r\np:Let not a godless mortal gain this food, O thou whose life is long! But one who yokes the bright-hued steeds, the Etasas, even Indra yoker of the Bays.\np:Urge ye the Conqueror to give, your Indra greatly to be praised, to be invoked in shallow waters and in depths, to be invoked in deeds of might.\np:O Vasu, O thou Hero, raise us up to ample opulence. Raise us to gain of mighty wealth, O Indra, to sublime renown.\np:Indra, thou justifiest us, and tramplest down thy slanderers. Guard thyself, valiant Hero, in thy vital parts: strike down the D&#257;sa with thy blows.\np:The man who brings no offering, inhuman, godless, infidel, him let his friend the mountain cast to rapid death, the mountain cast the Dasyu down.\np:O Mightiest Indra, loving us, gather thou up, as grains of corn, within thine hand, of these their kine, to give away, yea, gather twice as loving us.\np:O my companions, wish for power. Ho. May we perfect Sara's praise, the liberal princely patron, never to be harmed?\np:By many a sage whose grass is trimmed thou art continually praised, that thou, O Sara, hast bestowed here one and here another calf.\np:The noble, Suradeva's son, hath brought a calf, led by the car to three of us. As a chief brings a goat to milk.",
-    "next": "08060",
-    "previous": "08058",
-    "book": "08"
+    "describe": "HE who, as Sovran Lord of men, moves with his chariots unrestrained, vanquisher, of fighting hosts, preeminent, is praised with song.",
+    "feecting": "p:HE who, as Sovran Lord of men, moves with his chariots unrestrained, vanquisher, of fighting hosts, preeminent, is praised with song.\np:Honour that Indra, Puruhanman! for his aid, in whose sustaining hand of old, the splendid bolt of thunder was deposited, as the great Sun was set in Heaven.\np:No one by deed attains to him who works and strengthens evermore: No, not by offering, to Indra. praised o all, resistless, daring, bold in might.\np:The potent Conqueror, invincible in war, him at whose birth the Mighty Ones, the Kine who spread afar, sent their loud voices out, heavens, earths seat their loud voices out,\np:O Indra, if a hundred heavens and if a hundred earths were thine— No, not a thousand Suns could match thee at thy birth, not both the worlds, O Thunderer.\np:Thou. Hero, hast performed thy hero deeds with might, yea, all with strength, O Strongest One.\np: Indra, help us to a stable full of kine, O Thunderer, with wondrous aids.\r\np:Let not a godless mortal gain this food, O thou whose life is long! But one who yokes the bright-hued steeds, the Etasas, even Indra yoker of the Bays.\np:Urge ye the Conqueror to give, your Indra greatly to be praised, to be invoked in shallow waters and in depths, to be invoked in deeds of might.\np:O Vasu, O thou Hero, raise us up to ample opulence. Raise us to gain of mighty wealth, O Indra, to sublime renown.\np:Indra, thou justifiest us, and tramplest down thy slanderers. Guard thyself, valiant Hero, in thy vital parts: strike down the Dāsa with thy blows.\np:The man who brings no offering, inhuman, godless, infidel, him let his friend the mountain cast to rapid death, the mountain cast the Dasyu down.\np:O Mightiest Indra, loving us, gather thou up, as grains of corn, within thine hand, of these their kine, to give away, yea, gather twice as loving us.\np:O my companions, wish for power. Ho. May we perfect Sara's praise, the liberal princely patron, never to be harmed?\np:By many a sage whose grass is trimmed thou art continually praised, that thou, O Sara, hast bestowed here one and here another calf.\np:The noble, Suradeva's son, hath brought a calf, led by the car to three of us. As a chief brings a goat to milk.",
+    "meta": {
+      "next": "08060",
+      "previous": "08058",
+      "book": "08",
+      "source": "https://sacred-texts.com/hin/rigveda/rv08059.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv08059.htm"
+    },
+    "deities": [
+      {
+        "name": "o all",
+        "hymns": [
+          {
+            "key": "08059",
+            "title": "HYMN LIX. Indra."
+          }
+        ]
+      },
+      {
+        "name": "O Indra",
+        "hymns": [
+          {
+            "key": "08059",
+            "title": "HYMN LIX. Indra."
+          },
+          {
+            "key": "08059",
+            "title": "HYMN LIX. Indra."
+          }
+        ]
+      },
+      {
+        "name": "O Thunderer",
+        "hymns": [
+          {
+            "key": "08059",
+            "title": "HYMN LIX. Indra."
+          },
+          {
+            "key": "08059",
+            "title": "HYMN LIX. Indra."
+          }
+        ]
+      },
+      {
+        "name": "O Strongest",
+        "hymns": [
+          {
+            "key": "08059",
+            "title": "HYMN LIX. Indra."
+          }
+        ]
+      },
+      {
+        "name": "O thou",
+        "hymns": [
+          {
+            "key": "08059",
+            "title": "HYMN LIX. Indra."
+          },
+          {
+            "key": "08059",
+            "title": "HYMN LIX. Indra."
+          }
+        ]
+      },
+      {
+        "name": "O Vasu",
+        "hymns": [
+          {
+            "key": "08059",
+            "title": "HYMN LIX. Indra."
+          }
+        ]
+      },
+      {
+        "name": "O Mightiest",
+        "hymns": [
+          {
+            "key": "08059",
+            "title": "HYMN LIX. Indra."
+          }
+        ]
+      },
+      {
+        "name": "O my ",
+        "hymns": [
+          {
+            "key": "08059",
+            "title": "HYMN LIX. Indra."
+          }
+        ]
+      },
+      {
+        "name": "O Sara",
+        "hymns": [
+          {
+            "key": "08059",
+            "title": "HYMN LIX. Indra."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638556602433,
-  "updated": 1638792008141
+  "updated": 1638830292759
 }

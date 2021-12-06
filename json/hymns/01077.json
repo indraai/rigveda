@@ -5,13 +5,19 @@
   "link": "hymns/01077.html",
   "api": "json/hymns/01077.json",
   "data": {
+    "key": "01077",
     "title": "HYMN LXXVII. Agni.",
     "describe": "How shall we pay oblation unto Agni?",
-    "feecting": "p:How shall we pay oblation unto Agni? What hymn, Godloved, is said to him refulgent? Who, deathless, true to Law, mid men a herald, bringeth the Devas as best of creators?\np:Bring him with reverence hither, most propitious in offers, true to Law, the herald; For Agni, when he seeks the Devas for mortals, knows them full well and worships them in spirit.\np:For he is mental power, a man, and perfect; he is the bringer, friend-like, of the wondrous.\np: The pious &#256;ryan tribes at offers address them first to him who doeth marvels.\r\np:May Agni, foe-destroyer, manliest Hero, accept with love our hymns and our devotion. May the liberal lords whose strength is strongest, urged by their riches, stir our thoughts with vigour.\np:Thus Agni J&#257;tavedas, true to Order, hath by the priestly Gotamas been lauded. May he augment in them splendour and vigour: observant, as he lists, he gathers increase.",
-    "next": "01078",
-    "previous": "01076",
-    "book": "01"
+    "feecting": "p:How shall we pay oblation unto Agni? What hymn, Godloved, is said to him refulgent? Who, deathless, true to Law, mid men a herald, bringeth the Devas as best of creators?\np:Bring him with reverence hither, most propitious in offers, true to Law, the herald; For Agni, when he seeks the Devas for mortals, knows them full well and worships them in spirit.\np:For he is mental power, a man, and perfect; he is the bringer, friend-like, of the wondrous.\np: The pious Āryan tribes at offers address them first to him who doeth marvels.\r\np:May Agni, foe-destroyer, manliest Hero, accept with love our hymns and our devotion. May the liberal lords whose strength is strongest, urged by their riches, stir our thoughts with vigour.\np:Thus Agni Jātavedas, true to Order, hath by the priestly Gotamas been lauded. May he augment in them splendour and vigour: observant, as he lists, he gathers increase.",
+    "meta": {
+      "next": "01078",
+      "previous": "01076",
+      "book": "01",
+      "source": "https://sacred-texts.com/hin/rigveda/rv01077.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv01077.htm"
+    },
+    "deities": []
   },
   "created": 1638553419343,
-  "updated": 1638792007377
+  "updated": 1638830291699
 }

@@ -5,13 +5,51 @@
   "link": "hymns/08074.html",
   "api": "json/hymns/08074.json",
   "data": {
-    "title": "HYMN LXXIV. A&#347;vins.",
-    "describe": "To this mine invocation, O ye A&#347;",
-    "feecting": "p:To this mine invocation, O ye A&#347;vins, ye N&#257;satyas, come, to drink the savoury Soma juice.\np:This laud of mine, ye A&#347;vins Twain, and this mine invitation hear, to drink the savoury Soma juice.\np:Here K&#7771;&#7779;&#7751;a is invoking you, O A&#347;vins, Lords of ample wealth.\np: To drink the savoury Soma juice.\r\np:List. Heroes, to the singer's call, the call of K&#7771;&#7779;&#7751;a lauding you, to drink the savoury Soma juice.\np:Chiefs, to the sage who sings your praise grant an inviolable home, to drink the savoury Soma juice.\np:Come to the worshipper's abode, A&#347;vins, who here is lauding you, to drink the savoury Soma juice.\np:Yoke to the firmly jointed car the ass which draws you, Lords of wealth. To drink the savoury Soma juice.\np:Come hither, A&#347;vins, on your car of triple form with triple seat, to drink the savoury Soma juice.\np:O A&#347;vins, O N&#257;satyas, now accept with favouring grace my songs, to drink the savoury Soma juice.",
-    "next": "08075",
-    "previous": "08073",
-    "book": "08"
+    "key": "08074",
+    "title": "HYMN LXXIV. Aśvins.",
+    "describe": "To this mine invocation, O ye Aśvins, come, to drink the savoury Soma juice.",
+    "feecting": "p:To this mine invocation, O ye Aśvins, come, to drink the savoury Soma juice.\np:This laud of mine, ye Aśvins Twain, and this mine invitation hear, to drink the savoury Soma juice.\np:Here Kṛṣṇa is invoking you, O Aśvins, Lords of ample wealth.\np: To drink the savoury Soma juice.\r\np:List. Heroes, to the singer's call, the call of Kṛṣṇa lauding you, to drink the savoury Soma juice.\np:Chiefs, to the sage who sings your praise grant an inviolable home, to drink the savoury Soma juice.\np:Come to the worshipper's abode, Aśvins, who here is lauding you, to drink the savoury Soma juice.\np:Yoke to the firmly jointed car the ass which draws you, Lords of wealth. To drink the savoury Soma juice.\np:Come hither, Aśvins, on your car of triple form with triple seat, to drink the savoury Soma juice.\np:O Aśvins, O Nāsatyas, now accept with favouring grace my songs, to drink the savoury Soma juice.",
+    "meta": {
+      "next": "08075",
+      "previous": "08073",
+      "book": "08",
+      "source": "https://sacred-texts.com/hin/rigveda/rv08074.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv08074.htm"
+    },
+    "deities": [
+      {
+        "name": "O ye ",
+        "hymns": [
+          {
+            "key": "08074",
+            "title": "HYMN LXXIV. Aśvins."
+          }
+        ]
+      },
+      {
+        "name": "O Aśvins",
+        "hymns": [
+          {
+            "key": "08074",
+            "title": "HYMN LXXIV. Aśvins."
+          },
+          {
+            "key": "08074",
+            "title": "HYMN LXXIV. Aśvins."
+          }
+        ]
+      },
+      {
+        "name": "O Nāsatyas",
+        "hymns": [
+          {
+            "key": "08074",
+            "title": "HYMN LXXIV. Aśvins."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638556681949,
-  "updated": 1638792008158
+  "updated": 1638830292776
 }

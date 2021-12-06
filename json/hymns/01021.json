@@ -5,13 +5,29 @@
   "link": "hymns/01021.html",
   "api": "json/hymns/01021.json",
   "data": {
+    "key": "01021",
     "title": "HYMN XXI. Indra-Agni.",
     "describe": "INDRA and Agni I invoke fain are we for their song of praise: Chief Soma-drinkers are they both.",
     "feecting": "p:INDRA and Agni I invoke fain are we for their song of praise: Chief Soma-drinkers are they both.\np:Praise ye, O men, and glorify Indra-Agni in the holy rites: Sing praise to them in sacred songs.\np:Indra and Agni we invite.\np:Strong Devas, we bid them come to this libation that stands ready here: Indra and Agni, come to us.\np:Indra and Agni, mighty Lords of our assembly.\np:Watch ye, through this your truthfulness, there in the place of spacious view Indra and Agni, send us bliss.",
-    "next": "01022",
-    "previous": "01020",
-    "book": "01"
+    "meta": {
+      "next": "01022",
+      "previous": "01020",
+      "book": "01",
+      "source": "https://sacred-texts.com/hin/rigveda/rv01021.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv01021.htm"
+    },
+    "deities": [
+      {
+        "name": "O men",
+        "hymns": [
+          {
+            "key": "01021",
+            "title": "HYMN XXI. Indra-Agni."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638553123450,
-  "updated": 1638792007295
+  "updated": 1638830291606
 }

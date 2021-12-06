@@ -5,13 +5,33 @@
   "link": "hymns/09001.html",
   "api": "json/hymns/09001.json",
   "data": {
+    "key": "09001",
     "title": "HYMN I. Indu.",
     "describe": "In sweetest and most gladdening stream flow pure, O Indu.",
-    "feecting": "p:In sweetest and most gladdening stream flow pure, O Indu.\np:Friend of all men, he hath with the wood attained unto His place, his iron-fashioned home.\np:Be thou best V&#7771;tra-slayer, best granter of bliss, most liberal: Promote our wealthy princes' gifts.\np:Flow onward unto the banquet of the Mighty Devas.\np:O Indu, we draw nigh to thee, with this one object day by day.\np:By means of this eternal fleece. May S&#363;rya's Daughter purify Thy Soma that is foaming forth.\np:The slender form hold him firmly on the final day.\n\np:Inviolable for Indra's drink, the fresh young Indu.\np:In this draught, Indra subdues all the V&#7771;tras: he, the Hero, pours his wealth on us.",
-    "next": "09002",
-    "previous": "08103",
-    "book": "09"
+    "feecting": "p:In sweetest and most gladdening stream flow pure, O Indu.\np:Friend of all men, he hath with the wood attained unto His place, his iron-fashioned home.\np:Best granter of bliss, most liberal: Promote our wealthy princes' gifts.\np:Flow onward unto the banquet of the Mighty Devas.\np:O Indu, we draw nigh to thee, with this one object day by day.\np:By means of this eternal fleece.\np:The slender form hold him firmly on the final day.\n\np:Inviolable for Indra's drink, the fresh young Indu.\np:In this draught, he, the Hero, pours his wealth on us.",
+    "meta": {
+      "next": "09002",
+      "previous": "08103",
+      "book": "09",
+      "source": "https://sacred-texts.com/hin/rigveda/rv09001.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv09001.htm"
+    },
+    "deities": [
+      {
+        "name": "O Indu",
+        "hymns": [
+          {
+            "key": "09001",
+            "title": "HYMN I. Indu."
+          },
+          {
+            "key": "09001",
+            "title": "HYMN I. Indu."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638556840436,
-  "updated": 1638792008196
+  "updated": 1638830292818
 }

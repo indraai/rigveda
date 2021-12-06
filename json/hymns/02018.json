@@ -5,13 +5,41 @@
   "link": "hymns/02018.html",
   "api": "json/hymns/02018.json",
   "data": {
+    "key": "02018",
     "title": "HYMN XVIII. Indra",
     "describe": "THE rich new car hath been equipped at morning;",
-    "feecting": "p:THE rich new car hath been equipped at morning; four yokes it hath, three whips, seven reins to guide it: Ten-sided, friendly to mankind, light-winner, that must be urged to speed with prayers and wishes.\np:This is prepared for him the first, the second, and the third time: he is man's Monk and Herald.\np: Others get offspring of another parent he goeth, as a noble Bull, with others.\r\np:To Indra's car the Bay Steeds have I harnessed, that new well-spoken word. May bring him hither. Here let not other worshippers detain thee, for among us are many holy singers.\np:Indra, come hitherward with two Bay Coursers, come thou with four, with six when invocated. Come thou with eight, with ten, . Here is the juice, brave Warrior: do not scorn it.\np:O Indra, come thou hither having harnessed thy car with twenty, thirty, forty horses. Come thou with fifty well trained coursers, Indra, sixty or seventy, .\np:Come to us hitherward, O Indra, carried by eighty, ninety, or an hundred horses. This Soma juice among the &#346;unahotras hath been poured out, in love, to glad thee, Indra.\np:To this my meditation, O Indra, come thou hither: bind to thy car's pole all thy two Bay Coursers. Thou art to be invoked in many places Hero, rejoice thyself in this libation.\np:Ne&#146;er be my love from Indra disunited stil. May his liberal Milch-cow yield us treasure. May we under his supreme protection, safe in his arms, succeed in each forth-going.\np:No. May that wealthy Cow Of thine, O Indra, give in return a boon to him who lauds thee. Give to thy praisers: let not fortune fail us. Lou. May we speak, with heroes, in assembly.",
-    "next": "02019",
-    "previous": "02017",
-    "book": "02"
+    "feecting": "p:THE rich new car hath been equipped at morning; four yokes it hath, three whips, seven reins to guide it: Ten-sided, friendly to mankind, light-winner, that must be urged to speed with prayers and wishes.\np:This is prepared for him the first, the second, and the third time: he is man's Monk and Herald.\np: Others get offspring of another parent he goeth, as a noble Bull, with others.\r\np:To Indra's car the Bay Steeds have I harnessed, that new well-spoken word. May bring him hither. Here let not other worshippers detain thee, for among us are many holy singers.\np:Indra, come hitherward with two Bay Coursers, come thou with four, with six when invocated. Come thou with eight, with ten, . Here is the juice, brave Warrior: do not scorn it.\np:O Indra, come thou hither having harnessed thy car with twenty, thirty, forty horses. Come thou with fifty well trained coursers, Indra, sixty or seventy, .\np:Come to us hitherward, O Indra, carried by eighty, ninety, or an hundred horses. This Soma juice among the Śunahotras hath been poured out, in love, to glad thee, Indra.\np:To this my meditation, O Indra, come thou hither: bind to thy car's pole all thy two Bay Coursers. Thou art to be invoked in many places Hero, rejoice thyself in this libation.\np:Ne’er be my love from Indra disunited stil. May his liberal Milch-cow yield us treasure. May we under his supreme protection, safe in his arms, succeed in each forth-going.\np:No. May that wealthy Cow Of thine, O Indra, give in return a boon to him who lauds thee. Give to thy praisers: let not fortune fail us. Lou. May we speak, with heroes, in assembly.",
+    "meta": {
+      "next": "02019",
+      "previous": "02017",
+      "book": "02",
+      "source": "https://sacred-texts.com/hin/rigveda/rv02018.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv02018.htm"
+    },
+    "deities": [
+      {
+        "name": "O Indra",
+        "hymns": [
+          {
+            "key": "02018",
+            "title": "HYMN XVIII. Indra"
+          },
+          {
+            "key": "02018",
+            "title": "HYMN XVIII. Indra"
+          },
+          {
+            "key": "02018",
+            "title": "HYMN XVIII. Indra"
+          },
+          {
+            "key": "02018",
+            "title": "HYMN XVIII. Indra"
+          }
+        ]
+      }
+    ]
   },
   "created": 1638554117685,
-  "updated": 1638792007542
+  "updated": 1638830291954
 }

@@ -5,13 +5,29 @@
   "link": "hymns/10052.html",
   "api": "json/hymns/10052.json",
   "data": {
+    "key": "10052",
     "title": "HYMN LII. Gods.",
     "describe": "INSTRUCT me, all ye Devas, how I, elected your Monk, must seat me here, and how address you.",
-    "feecting": "p:INSTRUCT me, all ye Devas, how I, elected your Monk, must seat me here, and how address you.\np: Instruct me how to deal to each his portion, and by what ' path to bring you man's oblation.\r\np:I sit as Monk most skilled in sacrificing: the Devas and all Deities impel me. A&#347;vins, each day yours is the Adhvaryu's duty: Brahman and wood are here: &#146;tis yours to offer.\np:Who is the Monk? Is he the Monk of Yama? On whom is thrust this Deva-appointed honour? He springs to life each month, each day that passes; so Devas have made him their oblation-bearer.\np:The Devas have made me bearer of oblations, who slipped away and passed through many troubles. Wise Agni shall ordain for us the worship, whether five-wayed, threefold, or seven-threaded.\np:So will I win you strength and life forever. O Devas, that . May give you room and freedom. To Indra's arms would I consign the thunder; in all these battles shall he then be victor.\np:The Deities three hundred and thirty-nine, have served and honoured Agni, Strewn sacred grass, anointed him with butter, and seated him as Monks&#146; Invoker.",
-    "next": "10053",
-    "previous": "10051",
-    "book": "10"
+    "feecting": "p:INSTRUCT me, all ye Devas, how I, elected your Monk, must seat me here, and how address you.\np: Instruct me how to deal to each his portion, and by what ' path to bring you man's oblation.\r\np:I sit as Monk most skilled in sacrificing: the Devas and all Deities impel me. Aśvins, each day yours is the Adhvaryu's duty: Brahman and wood are here: ’tis yours to offer.\np:Who is the Monk? Is he the Monk of Yama? On whom is thrust this Deva-appointed honour? He springs to life each month, each day that passes; so Devas have made him their oblation-bearer.\np:The Devas have made me bearer of oblations, who slipped away and passed through many troubles. Wise Agni shall ordain for us the worship, whether five-wayed, threefold, or seven-threaded.\np:So will I win you strength and life forever. O Devas, that . May give you room and freedom. To Indra's arms would I consign the thunder; in all these battles shall he then be victor.\np:The Deities three hundred and thirty-nine, have served and honoured Agni, Strewn sacred grass, anointed him with butter, and seated him as Monks’ Invoker.",
+    "meta": {
+      "next": "10053",
+      "previous": "10051",
+      "book": "10",
+      "source": "https://sacred-texts.com/hin/rigveda/rv10052.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv10052.htm"
+    },
+    "deities": [
+      {
+        "name": "O Devas",
+        "hymns": [
+          {
+            "key": "10052",
+            "title": "HYMN LII. Gods."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638557713731,
-  "updated": 1638792008457
+  "updated": 1638830293085
 }

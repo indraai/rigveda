@@ -5,13 +5,51 @@
   "link": "hymns/05057.html",
   "api": "json/hymns/05057.json",
   "data": {
+    "key": "05057",
     "title": "HYMN LVII. Devas.",
     "describe": "OF one accord, with Indra, O ye Somas, come borne on your golden car for our prosperity.",
-    "feecting": "p:OF one accord, with Indra, O ye Somas, come borne on your golden car for our prosperity.\np: An offering from us, this hymn is brought to you, as, unto one who th irsts for water, heavenly springs.\r\np:Armed with your daggers, full of wisdom, armed with spears, armed with your quivers, armed with arrows, with good bows, Good horses and good cars have ye, O P&#7771;&#347;ni's Sons: ye, Devas, with good weapons go to victory.\np:From hills and Heaven ye shake wealth for the worshipper: in terror at your coming low the woods bow down. Ye make the Earth to tremble, Sons of P&#7771;&#347;ni, when for victory ye have yoked, fierce Ones! your spotted deer.\np:Bright with the blasts of wind, wrapped in their robes of rain, like twins of noble aspect and of lovely form, the Devas, spotless, with steeds tawnyhued and red, strong in their mightiness and spreading wide like Heaven.\np:Rich in adornment, rich in drops, munificent, bright in their aspect, yielding bounties that endure, Noble by birth, adorned with gold upon their breasts, the Singers of the sky have won immortal fame.\np:Borne on both shoulders, O ye Devas, are your spears: within your arms is laid your energy and 3trength. Bold thoughts are in your heads, your weapons in your cars, all glorious majesty is moulded on your forms.\np:Vouchsafe to us, O Devas, splendid bounty in steeds, in cars and heroes. Children of Soma, give us high distinction. May I enjoy your Godlike help and favour.\np:Ho! Devas. Heroes, skilled in Law, immortal, be gracious unto us, ye rich in treasures, Ye hearers of the truth, ye sage and youthful, grown mighty, dwelling on the lofty mountains.",
-    "next": "05058",
-    "previous": "05056",
-    "book": "05"
+    "feecting": "p:OF one accord, with Indra, O ye Somas, come borne on your golden car for our prosperity.\np: An offering from us, this hymn is brought to you, as, unto one who th irsts for water, heavenly springs.\r\np:Armed with your daggers, full of wisdom, armed with spears, armed with your quivers, armed with arrows, with good bows, Good horses and good cars have ye, O Pṛśni's Sons: ye, Devas, with good weapons go to victory.\np:From hills and Heaven ye shake wealth for the worshipper: in terror at your coming low the woods bow down. Ye make the Earth to tremble, Sons of Pṛśni, when for victory ye have yoked, fierce Ones! your spotted deer.\np:Bright with the blasts of wind, wrapped in their robes of rain, like twins of noble aspect and of lovely form, the Devas, spotless, with steeds tawnyhued and red, strong in their mightiness and spreading wide like Heaven.\np:Rich in adornment, rich in drops, munificent, bright in their aspect, yielding bounties that endure, Noble by birth, adorned with gold upon their breasts, the Singers of the sky have won immortal fame.\np:Borne on both shoulders, O ye Devas, are your spears: within your arms is laid your energy and 3trength. Bold thoughts are in your heads, your weapons in your cars, all glorious majesty is moulded on your forms.\np:Vouchsafe to us, O Devas, splendid bounty in steeds, in cars and heroes. Children of Soma, give us high distinction. May I enjoy your Godlike help and favour.\np:Ho! Devas. Heroes, skilled in Law, immortal, be gracious unto us, ye rich in treasures, Ye hearers of the truth, ye sage and youthful, grown mighty, dwelling on the lofty mountains.",
+    "meta": {
+      "next": "05058",
+      "previous": "05056",
+      "book": "05",
+      "source": "https://sacred-texts.com/hin/rigveda/rv05057.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv05057.htm"
+    },
+    "deities": [
+      {
+        "name": "O ye ",
+        "hymns": [
+          {
+            "key": "05057",
+            "title": "HYMN LVII. Devas."
+          },
+          {
+            "key": "05057",
+            "title": "HYMN LVII. Devas."
+          }
+        ]
+      },
+      {
+        "name": "O Pṛś",
+        "hymns": [
+          {
+            "key": "05057",
+            "title": "HYMN LVII. Devas."
+          }
+        ]
+      },
+      {
+        "name": "O Devas",
+        "hymns": [
+          {
+            "key": "05057",
+            "title": "HYMN LVII. Devas."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638555187451,
-  "updated": 1638792007815
+  "updated": 1638830292293
 }

@@ -5,13 +5,19 @@
   "link": "hymns/06009.html",
   "api": "json/hymns/06009.json",
   "data": {
+    "key": "06009",
     "title": "HYMN IX. Agni.",
     "describe": "ONE half of day is dark, and bright the other: both atmospheres move on by sage devices.",
-    "feecting": "p:ONE half of day is dark, and bright the other: both atmospheres move on by sage devices.\np: Agni Vai&#347;v&#257;nara, when born as Sovran, hath with his lustre overcome the darkness.\r\np:I know not either warp or woof, I know not the web they weave when moving to the contest. Whose son shall here speak words that must be spoken without assistance from the Father near him?\np:For both the warp and woof he understandeth, and in due time shall speak what should be spoken, who knoweth as the immortal world's Protector, descending, seeing with no aid from other.\np:He is the Monk, the first of all: behold him. Mid mortal men he is the light immortal. Here was he born, firm-seated in his station Immortal, ever waxing in his body.\np:A firm light hath been set for men to look on: among all things that fly the mind is swiftest. All Devas of one accord, with one intention, move unobstructed to a single purpose.\np:Mine ears unclose to hear, mine eye to see him; the light that harbours in my spirit broadens. Far roams my mind whose thoughts are in the distance. What shall I speak, what shall I now imagine?\np:All the Devas bowed them down in fear before thee, Agni, when thou wast dwelling in the darkness. Vai&#347;v&#257;nara be gracious to assist us. May the Immortal favour us and help us.",
-    "next": "06010",
-    "previous": "06008",
-    "book": "06"
+    "feecting": "p:ONE half of day is dark, and bright the other: both atmospheres move on by sage devices.\np: Agni Vaiśvānara, when born as Sovran, hath with his lustre overcome the darkness.\r\np:I know not either warp or woof, I know not the web they weave when moving to the contest. Whose son shall here speak words that must be spoken without assistance from the Father near him?\np:For both the warp and woof he understandeth, and in due time shall speak what should be spoken, who knoweth as the immortal world's Protector, descending, seeing with no aid from other.\np:He is the Monk, the first of all: behold him. Mid mortal men he is the light immortal. Here was he born, firm-seated in his station Immortal, ever waxing in his body.\np:A firm light hath been set for men to look on: among all things that fly the mind is swiftest. All Devas of one accord, with one intention, move unobstructed to a single purpose.\np:Mine ears unclose to hear, mine eye to see him; the light that harbours in my spirit broadens. Far roams my mind whose thoughts are in the distance. What shall I speak, what shall I now imagine?\np:All the Devas bowed them down in fear before thee, Agni, when thou wast dwelling in the darkness. Vaiśvānara be gracious to assist us. May the Immortal favour us and help us.",
+    "meta": {
+      "next": "06010",
+      "previous": "06008",
+      "book": "06",
+      "source": "https://sacred-texts.com/hin/rigveda/rv06009.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv06009.htm"
+    },
+    "deities": []
   },
   "created": 1638555393921,
-  "updated": 1638792007856
+  "updated": 1638830292348
 }

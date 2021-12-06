@@ -5,13 +5,19 @@
   "link": "hymns/10172.html",
   "api": "json/hymns/10172.json",
   "data": {
+    "key": "10172",
     "title": "HYMN CLXXII. Dawn.",
     "describe": "WITH all thy beauty come: the kine approaching with full udders follow on thy path.",
     "feecting": "p:WITH all thy beauty come: the kine approaching with full udders follow on thy path.\np:Come with kind thoughts, most liberal, rousing the warrior's hymn of praise, with bounteous ones,\np:As nourishers we tie the thread, and, liberal with our bounty, offer offering.\np:Dawn drives away her Sister's gloom, and, through her excellence, makes her retrace her path.",
-    "next": "10173",
-    "previous": "10171",
-    "book": "10"
+    "meta": {
+      "next": "10173",
+      "previous": "10171",
+      "book": "10",
+      "source": "https://sacred-texts.com/hin/rigveda/rv10172.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv10172.htm"
+    },
+    "deities": []
   },
   "created": 1638558348842,
-  "updated": 1638792008606
+  "updated": 1638830293257
 }

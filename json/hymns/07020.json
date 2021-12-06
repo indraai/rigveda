@@ -5,13 +5,60 @@
   "link": "hymns/07020.html",
   "api": "json/hymns/07020.json",
   "data": {
+    "key": "07020",
     "title": "HYMN XX. Indra.",
     "describe": "STRONG, Godly-natured, born for hero exploit, man's Friend, hedoth whatever deed he willeth.",
-    "feecting": "p:STRONG, Godly-natured, born for hero exploit, man's Friend, hedoth whatever deed he willeth.\np: Saving us e&#146;en from great transgression, Indra, the Youthful, visiteth man's home with favour.\r\np:Waxing greatness Indra slayeth V&#7771;tra: the Hero with his aid hath helped the singer. He gave Sud&#257;s wide room and space, and often hath granted wealth to him who brought oblations.\np:Soldier unchecked, war-rousing, battling Hero, unconquered from of old, victorious ever, Indra the very strong hath scattered armies; yea, he hath slain each foe who fought against him.\np:Thou with thy greatness hast filled full, O Indra, even both the worlds with might, O thou Most Mighty. Lord of Bays, Indra, brandishing his thunder, is gratified with Soma at the banquet.\np:A Bull begat the Bull for joy of battle, and a strong Mother brought forth him the manly. He who is Chief of men, their armies' Leader, is strong Hero, bold, and fain for booty.\np:The people falter not, nor suffer sorrow, who win themselves this Deva's terrific spirit. He who with offers worships Indra is lord of wealth, law-born and law's protector.\np:Whene&#146;er the elder fain would help the younger the greater cometh to the lesser's present. Shall the Immortal sit aloof' inactive? O Wondrous Indra, bring us wondrous riches.\np:Thy dear folk, Indra, who present oblations, are, in chief place, thy friends, O Thunder-wielder. May we be best content in this thy favour, sheltered by One who subdues not, but preserves us.\np:To thee the mighty hymn hath clamoured loudly, and, Indra, the eloquent hath besought thee. Desire of wealth hath come upon thy singer: help us then, gakra, to our share of riches.\np:Place us by food which thou hast given, O Indra, us and the wealthy patrons who command us. Let thy great power bring good to him who lauds thee. Ye Devas, preserve us evermore with blessings.",
-    "next": "07021",
-    "previous": "07019",
-    "book": "07"
+    "feecting": "p:STRONG, Godly-natured, born for hero exploit, man's Friend, hedoth whatever deed he willeth.\np: Saving us e’en from great transgression, Indra, the Youthful, visiteth man's home with favour.\r\np:Waxing greatness Indra slayeth Vṛtra: the Hero with his aid hath helped the singer. He gave Sudās wide room and space, and often hath granted wealth to him who brought oblations.\np:Soldier unchecked, war-rousing, battling Hero, unconquered from of old, victorious ever, Indra the very strong hath scattered armies; yea, he hath slain each foe who fought against him.\np:Thou with thy greatness hast filled full, O Indra, even both the worlds with might, O thou Most Mighty. Lord of Bays, Indra, brandishing his thunder, is gratified with Soma at the banquet.\np:A Bull begat the Bull for joy of battle, and a strong Mother brought forth him the manly. He who is Chief of men, their armies' Leader, is strong Hero, bold, and fain for booty.\np:The people falter not, nor suffer sorrow, who win themselves this Deva's terrific spirit. He who with offers worships Indra is lord of wealth, law-born and law's protector.\np:Whene’er the elder fain would help the younger the greater cometh to the lesser's present. Shall the Immortal sit aloof' inactive? O Wondrous Indra, bring us wondrous riches.\np:Thy dear folk, Indra, who present oblations, are, in chief place, thy friends, O Thunder-wielder. May we be best content in this thy favour, sheltered by One who subdues not, but preserves us.\np:To thee the mighty hymn hath clamoured loudly, and, Indra, the eloquent hath besought thee. Desire of wealth hath come upon thy singer: help us then, gakra, to our share of riches.\np:Place us by food which thou hast given, O Indra, us and the wealthy patrons who command us. Let thy great power bring good to him who lauds thee. Ye Devas, preserve us evermore with blessings.",
+    "meta": {
+      "next": "07021",
+      "previous": "07019",
+      "book": "07",
+      "source": "https://sacred-texts.com/hin/rigveda/rv07020.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv07020.htm"
+    },
+    "deities": [
+      {
+        "name": "O Indra",
+        "hymns": [
+          {
+            "key": "07020",
+            "title": "HYMN XX. Indra."
+          },
+          {
+            "key": "07020",
+            "title": "HYMN XX. Indra."
+          }
+        ]
+      },
+      {
+        "name": "O thou",
+        "hymns": [
+          {
+            "key": "07020",
+            "title": "HYMN XX. Indra."
+          }
+        ]
+      },
+      {
+        "name": "O Wondrous",
+        "hymns": [
+          {
+            "key": "07020",
+            "title": "HYMN XX. Indra."
+          }
+        ]
+      },
+      {
+        "name": "O Thunder",
+        "hymns": [
+          {
+            "key": "07020",
+            "title": "HYMN XX. Indra."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638555848063,
-  "updated": 1638792007959
+  "updated": 1638830292510
 }

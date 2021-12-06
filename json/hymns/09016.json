@@ -5,13 +5,19 @@
   "link": "hymns/09016.html",
   "api": "json/hymns/09016.json",
   "data": {
+    "key": "09016",
     "title": "HYMN XVI. Indu.",
     "describe": "THE pressers from the Soma-press send forth thy juice for rapturous joy The speckled sap runs like a flood.",
-    "feecting": "p:THE pressers from the Soma-press send forth thy juice for rapturous joy The speckled sap runs like a flood.\np:With strength we follow through the sieve him who brings might and wins the kine, Enrobed in water with his juice.\np:Pour on the sieve the Soma, ne&#146;er subdued in waters, waterless, and make it pure for Indra's drink.\np:Moved by the purifier's thought, the Soma flows into the sieve: By wisdom it hath gained its home.\np:With humble homage, Indra, have the Soma-drops flowed forth to thee, Contending for the glorious prize.\np:Purified in his fleecy garb, attaining every beauty, he Stands, hero-like, amid the kine.\np:Swelling, as &#146;twere, to heights of Heaven, the stream of the creative juice Falls lightly on the cleansing sieve.\np:Thus, Soma, purifying himwho knoweth song mid living men, Thou wanderest through the cloth of wool.",
-    "next": "09017",
-    "previous": "09015",
-    "book": "09"
+    "feecting": "p:THE pressers from the Soma-press send forth thy juice for rapturous joy The speckled sap runs like a flood.\np:With strength we follow through the sieve him who brings might and wins the kine, Enrobed in water with his juice.\np:Pour on the sieve the Soma, ne’er subdued in waters, waterless, and make it pure for Indra's drink.\np:Moved by the purifier's thought, the Soma flows into the sieve: By wisdom it hath gained its home.\np:With humble homage, Indra, have the Soma-drops flowed forth to thee, Contending for the glorious prize.\np:Purified in his fleecy garb, attaining every beauty, he Stands, hero-like, amid the kine.\np:Swelling, as ’twere, to heights of Heaven, the stream of the creative juice Falls lightly on the cleansing sieve.\np:Thus, Soma, purifying himwho knoweth song mid living men, Thou wanderest through the cloth of wool.",
+    "meta": {
+      "next": "09017",
+      "previous": "09015",
+      "book": "09",
+      "source": "https://sacred-texts.com/hin/rigveda/rv09016.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv09016.htm"
+    },
+    "deities": []
   },
   "created": 1638556919323,
-  "updated": 1638792008213
+  "updated": 1638830292832
 }

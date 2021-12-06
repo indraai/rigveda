@@ -5,13 +5,37 @@
   "link": "hymns/08036.html",
   "api": "json/hymns/08036.json",
   "data": {
+    "key": "08036",
     "title": "HYMN XXXVI. Indra.",
-    "describe": "THOU helpest him whose grass is trimmed, who sheds the juice, O &#346;",
-    "feecting": "p:THOU helpest him whose grass is trimmed, who sheds the juice, O &#346;atakratu, drink Soma to make thee glad.\np: The share which they have fixed for thee Indra, Victor o&#146;er all hosts and space, begirt with Devas, Lord of Heroes, winner of the floods.\r\np:Indra, help thy worshipper: let him help thee. O &#346;atakratu, drink Soma to make thee glad. The share which they have fixed for thee, etc.\np:Thou aidest Devas with food, and that with might aids thee, O &#346;atakratu, drink Soma to make thee glad.\np:Creator of the Heaven, creator of the Earth, O &#346;atakratu, drink Soma to make thee glad.\np:Father of cattle, father of all steeds art thou. O &#346;atakratu, drink Soma to make thee glad.\np:Stone-hurler, glorify the Atris' hymn of praise. O &#346;atakratu, drink Soma to make thee glad.\np:Hear thou &#346;y&#257;v&#257;&#347;va while he pours to thee, as erst thou heardest Atri when he wrought his holy rites. Indra, thou only gavest Trasadasyu aid in the fierce fight with heroes, strengthening his prayers.",
-    "next": "08037",
-    "previous": "08035",
-    "book": "08"
+    "describe": "THOU helpest him whose grass is trimmed, who sheds the juice, drink Soma to make thee glad.",
+    "feecting": "p:THOU helpest him whose grass is trimmed, who sheds the juice, drink Soma to make thee glad.\np: The share which they have fixed for thee Indra, Victor o’er all hosts and space, begirt with Devas, Lord of Heroes, winner of the floods.\r\np:Indra, help thy worshipper: let him help thee. O Śatakratu, drink Soma to make thee glad. The share which they have fixed for thee, etc.\np:Thou aidest Devas with food, and that with might aids thee, drink Soma to make thee glad.\np:Creator of the Heaven, creator of the Earth, drink Soma to make thee glad.\np:Father of cattle, father of all steeds art thou. O Śatakratu, drink Soma to make thee glad.\np:Stone-hurler, glorify the Atris' hymn of praise. O Śatakratu, drink Soma to make thee glad.\np:Hear thou Śyāvāśva while he pours to thee, as erst thou heardest Atri when he wrought his holy rites. Indra, thou only gavest Trasadasyu aid in the fierce fight with heroes, strengthening his prayers.",
+    "meta": {
+      "next": "08037",
+      "previous": "08035",
+      "book": "08",
+      "source": "https://sacred-texts.com/hin/rigveda/rv08036.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv08036.htm"
+    },
+    "deities": [
+      {
+        "name": "O Śatakratu",
+        "hymns": [
+          {
+            "key": "08036",
+            "title": "HYMN XXXVI. Indra."
+          },
+          {
+            "key": "08036",
+            "title": "HYMN XXXVI. Indra."
+          },
+          {
+            "key": "08036",
+            "title": "HYMN XXXVI. Indra."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638556481127,
-  "updated": 1638792008106
+  "updated": 1638830292713
 }

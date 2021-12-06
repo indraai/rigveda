@@ -5,13 +5,42 @@
   "link": "hymns/10026.html",
   "api": "json/hymns/10026.json",
   "data": {
-    "title": "HYMN XXVI. P&#363;&#7779;an.",
+    "key": "10026",
+    "title": "HYMN XXVI. Pūṣan.",
     "describe": "FORWARD upon their way proceed the ready teams, the lovely songs.",
-    "feecting": "p:FORWARD upon their way proceed the ready teams, the lovely songs.\np: Further them glorious P&#363;&#7779;an with yoked chariot, and the Mighty Twain!\r\np:With sacred hymns let this man here, this singer, win the Deva to whom Belong this majesty and might. He hath observed our eulogies.\np:P&#363;&#7779;an the Strong hath knowledge of sweet praises even as Indu hath. He dews our corn with moisture, he bedews the pasture of our kine.\np:We will bethink ourselves of thee, O P&#363;&#7779;an, O thou Deva, as One. Who brings fulfilment of our hymns, and stirs the singer and the sage.\np:joint-sharer of each offering, the driver of the chariot steeds; The &#7770;&#7779;i who is good to man, the singer's Friend and faithful Guard.\np:One who is Lord of Suca, Lord of Suca caring for herself: Weaving the raiment of the sheep and making raiment beautiful.\np:The mighty Lord of spoil and wealth, Strong Friend of all prosperity; He with light movement shakes his beard, lovely and ne&#146;er to be deceived.\np:O P&#363;&#7779;an. May those goats of thine turn hitherward thy chariot-pole. Friend of all suppliants; art thou, born in old time, and arm and sure.\np:May the majestic P&#363;&#7779;an speed our chariot with his power and might. May he increase our store of wealth and listen to this call of ours.",
-    "next": "10027",
-    "previous": "10025",
-    "book": "10"
+    "feecting": "p:FORWARD upon their way proceed the ready teams, the lovely songs.\np: Further them glorious Pūṣan with yoked chariot, and the Mighty Twain!\r\np:With sacred hymns let this man here, this singer, win the Deva to whom Belong this majesty and might. He hath observed our eulogies.\np:Pūṣan the Strong hath knowledge of sweet praises even as Indu hath. He dews our corn with moisture, he bedews the pasture of our kine.\np:We will bethink ourselves of thee, O Pūṣan, O thou Deva, as One. Who brings fulfilment of our hymns, and stirs the singer and the sage.\np:joint-sharer of each offering, the driver of the chariot steeds; The Ṛṣi who is good to man, the singer's Friend and faithful Guard.\np:One who is Lord of Suca, Lord of Suca caring for herself: Weaving the raiment of the sheep and making raiment beautiful.\np:The mighty Lord of spoil and wealth, Strong Friend of all prosperity; He with light movement shakes his beard, lovely and ne’er to be deceived.\np:O Pūṣan. May those goats of thine turn hitherward thy chariot-pole. Friend of all suppliants; art thou, born in old time, and arm and sure.\np:May the majestic Pūṣan speed our chariot with his power and might. May he increase our store of wealth and listen to this call of ours.",
+    "meta": {
+      "next": "10027",
+      "previous": "10025",
+      "book": "10",
+      "source": "https://sacred-texts.com/hin/rigveda/rv10026.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv10026.htm"
+    },
+    "deities": [
+      {
+        "name": "O Pūṣ",
+        "hymns": [
+          {
+            "key": "10026",
+            "title": "HYMN XXVI. Pūṣan."
+          },
+          {
+            "key": "10026",
+            "title": "HYMN XXVI. Pūṣan."
+          }
+        ]
+      },
+      {
+        "name": "O thou",
+        "hymns": [
+          {
+            "key": "10026",
+            "title": "HYMN XXVI. Pūṣan."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638557574321,
-  "updated": 1638792008388
+  "updated": 1638830293001
 }

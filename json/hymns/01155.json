@@ -5,13 +5,19 @@
   "link": "hymns/01155.html",
   "api": "json/hymns/01155.json",
   "data": {
-    "title": "HYMN CLV. Vi&#7779;&#7751;u-Indra.",
-    "describe": "To the great Hero, him who sets his mind thereon, and Vi&#7779;",
-    "feecting": "p:To the great Hero, him who sets his mind thereon, and Vi&#7779;&#7751;u, praise aloud in song your draught of juice,&#151; Devas ne&#146;er beguiled, who borne as &#146;twere by noble steed, have stood upon the lofty ridges of the hills.\np:Your Soma-drinker keeps afar your furious rush, Indra and Vi&#7779;&#7751;u, when ye come with all your might.\np: That which hath been directed well at mortal man, bow-armed K&#7771;&#347;&#257;nu's arrow, ye turn far aside.\r\np:These offerings increase his mighty manly strength: he brings both Parents down to share the genial flow. He lowers, though a son, the Father's highest name; the third is that which is high in the light of Heaven.\np:We laud this manly power of him the Mighty One, preserver, inoffensive, bounteous and benign; His who strode, widely pacing, with three steppings forth over the realms of Earth for freedom and for life.\np:A mortal man, when he beholds two steps of him who looks upon the light, is restless with amaze. But his third step doth no one venture to approach, no, nor the feathered birds of air who fly with wings.\np:He, like a rounded wheel, hath in swift motion set his ninety racing steeds together with the four. Developed, vast in form, with those who sing forth praise, a youth, no more a child, he cometh to our call.",
-    "next": "01156",
-    "previous": "01154",
-    "book": "01"
+    "key": "01155",
+    "title": "HYMN CLV. Indra and IndraDeva.",
+    "describe": "To the great Hero, him who sets his mind thereon, and Indra, praise aloud in song your draught of juice.",
+    "feecting": "p:To the great Hero, him who sets his mind thereon, and Indra, praise aloud in song your draught of juice. Devas ne’er beguiled, who borne as ’twere by noble steed, have stood upon the lofty ridges of the hills.\np:Your Soma-drinker keeps afar your furious rush when ye come with all your might.\np: That which hath been directed well at mortal man, bow-armed Kṛśānu's arrow, ye turn far aside.\r\np:These offerings increase his mighty manly strength: he brings both Parents down to share the genial flow. He lowers, though a son, the Father's highest name; the third is that which is high in the light of Heaven.\np:We laud this manly power of him the Mighty One, preserver, inoffensive, bounteous and benign; His who strode, widely pacing, with three steppings forth over the realms of Earth for freedom and for life.\np:A mortal man, when he beholds two steps of him who looks upon the light, is restless with amaze. But his third step doth no one venture to approach, no, nor the feathered birds of air who fly with wings.\np:He, like a rounded wheel, hath in swift motion set his ninety racing steeds together with the four. Developed, vast in form, with those who sing forth praise, a youth, no more a child, he cometh to our call.",
+    "meta": {
+      "next": "01156",
+      "previous": "01154",
+      "book": "01",
+      "source": "https://sacred-texts.com/hin/rigveda/rv01155.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv01155.htm"
+    },
+    "deities": []
   },
   "created": 1638553831547,
-  "updated": 1638792007476
+  "updated": 1638830291864
 }

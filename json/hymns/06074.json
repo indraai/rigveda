@@ -5,13 +5,33 @@
   "link": "hymns/06074.html",
   "api": "json/hymns/06074.json",
   "data": {
+    "key": "06074",
     "title": "HYMN LXXIV. Soma and SomaDeva.",
     "describe": "HOLD fast your Godlike sway, O Soma and SomaDeva: let these our offerings quickly reach you.",
-    "feecting": "p:HOLD fast your Godlike sway, O Soma and SomaDeva: let these our offerings quickly reach you.\np: Placing in every house your seven great treasures, bring blessing to our quadrupeds and bipeds.\r\np:Soma and Soma, chase to every quarter the sickness that hath visited our dwelling. Drive Nirrti away into the distance, and give us excellent and happy glories.\np:Provide, O Soma and SomaDeva, for our bodies all needful medicines to heal and cure us. Set free and draw away the sin committed which we have still inherent in our persons.\np:Armed with keen shafts and weapons, kind and loving, be gracious unto us, Soma and Soma. Release us from the noose of Varu&#7751;a; keep us from sorrow, in your tender loving-kindness.",
-    "next": "06075",
-    "previous": "06073",
-    "book": "06"
+    "feecting": "p:HOLD fast your Godlike sway, O Soma and SomaDeva: let these our offerings quickly reach you.\np: Placing in every house your seven great treasures, bring blessing to our quadrupeds and bipeds.\r\np:Soma and Soma, chase to every quarter the sickness that hath visited our dwelling. Drive Nirrti away into the distance, and give us excellent and happy glories.\np:Provide, O Soma and SomaDeva, for our bodies all needful medicines to heal and cure us. Set free and draw away the sin committed which we have still inherent in our persons.\np:Armed with keen shafts and weapons, kind and loving, be gracious unto us, Soma and Soma. Release us from the noose of Indra; keep us from sorrow, in your tender loving-kindness.",
+    "meta": {
+      "next": "06075",
+      "previous": "06073",
+      "book": "06",
+      "source": "https://sacred-texts.com/hin/rigveda/rv06074.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv06074.htm"
+    },
+    "deities": [
+      {
+        "name": "O Soma",
+        "hymns": [
+          {
+            "key": "06074",
+            "title": "HYMN LXXIV. Soma and SomaDeva."
+          },
+          {
+            "key": "06074",
+            "title": "HYMN LXXIV. Soma and SomaDeva."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638555737050,
-  "updated": 1638792007936
+  "updated": 1638830292461
 }

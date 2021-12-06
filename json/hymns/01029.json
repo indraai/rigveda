@@ -5,13 +5,103 @@
   "link": "hymns/01029.html",
   "api": "json/hymns/01029.json",
   "data": {
+    "key": "01029",
     "title": "HYMN XXIX. Indra.",
     "describe": "O Indra, ever true, utterly hopeless though we be, Do thou, O Indra, give us hope, in thousands, O most wealthy One.",
     "feecting": "p:O Indra, ever true, utterly hopeless though we be, Do thou, O Indra, give us hope, in thousands, O most wealthy One.\np:O Lord of Strength, O Indra, give us hope, in thousands, O most wealthy One.\np:Lull thou asleep, to wake no more, the pair who on each other look Do thou, O Indra, give us hope, in thousands, O most wealthy One.\np:Hero, let hostile spirits sleep, and every gentler genius wake.\np:Do thou, O Indra, give us hope, in thousands, O most wealthy One.\np:O Indra, who in tones discordant brays to thee: Do thou, O Indra, give us hope, in thousands, O most wealthy One.\np:Far distant on the forest fall the tempest in a circling course! Do thou, O Indra, give us hope, in thousands, O most wealthy One.\np:Destroy him who in secret injures us: Do thou, O Indra, give us hope In thousands, O most wealthy One.",
-    "next": "01030",
-    "previous": "01028",
-    "book": "01"
+    "meta": {
+      "next": "01030",
+      "previous": "01028",
+      "book": "01",
+      "source": "https://sacred-texts.com/hin/rigveda/rv01029.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv01029.htm"
+    },
+    "deities": [
+      {
+        "name": "O Indra",
+        "hymns": [
+          {
+            "key": "01029",
+            "title": "HYMN XXIX. Indra."
+          },
+          {
+            "key": "01029",
+            "title": "HYMN XXIX. Indra."
+          },
+          {
+            "key": "01029",
+            "title": "HYMN XXIX. Indra."
+          },
+          {
+            "key": "01029",
+            "title": "HYMN XXIX. Indra."
+          },
+          {
+            "key": "01029",
+            "title": "HYMN XXIX. Indra."
+          },
+          {
+            "key": "01029",
+            "title": "HYMN XXIX. Indra."
+          },
+          {
+            "key": "01029",
+            "title": "HYMN XXIX. Indra."
+          },
+          {
+            "key": "01029",
+            "title": "HYMN XXIX. Indra."
+          },
+          {
+            "key": "01029",
+            "title": "HYMN XXIX. Indra."
+          }
+        ]
+      },
+      {
+        "name": "O most",
+        "hymns": [
+          {
+            "key": "01029",
+            "title": "HYMN XXIX. Indra."
+          },
+          {
+            "key": "01029",
+            "title": "HYMN XXIX. Indra."
+          },
+          {
+            "key": "01029",
+            "title": "HYMN XXIX. Indra."
+          },
+          {
+            "key": "01029",
+            "title": "HYMN XXIX. Indra."
+          },
+          {
+            "key": "01029",
+            "title": "HYMN XXIX. Indra."
+          },
+          {
+            "key": "01029",
+            "title": "HYMN XXIX. Indra."
+          },
+          {
+            "key": "01029",
+            "title": "HYMN XXIX. Indra."
+          }
+        ]
+      },
+      {
+        "name": "O Lord",
+        "hymns": [
+          {
+            "key": "01029",
+            "title": "HYMN XXIX. Indra."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638553165507,
-  "updated": 1638792007307
+  "updated": 1638830291620
 }

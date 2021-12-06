@@ -5,13 +5,56 @@
   "link": "hymns/10002.html",
   "api": "json/hymns/10002.json",
   "data": {
+    "key": "10002",
     "title": "HYMN II. Agni.",
     "describe": "GLADDEN the yearning Devas, O thou Most Youthful: bring them, O Lord of Seasons, knowing seasons, with all the Monks Celestial, O Agni.",
-    "feecting": "p:GLADDEN the yearning Devas, O thou Most Youthful: bring them, O Lord of Seasons, knowing seasons, with all the Monks Celestial, O Agni. Best worshipper art thou of all Invokers.\np:Thine is the Herald's, thine the Cleanser's office, thinker art thou, wealth-giver, true to Order.\np: Let us with Sv&#257;h&#257; offer up oblations, and Agni, worthy Deva, pay the Devas worship.\r\np:To the Devas&#146; pathway have we travelled, ready to execute what work we may accomplish. Let Agni, for he knows, complete the worship. He is the Monk: let him fix rites and seasons.\np:When we most ignorant neglect the statutes of you, O Deities with whom is knowledge, Wise Agni shall correct our faults and failings, skilled to assign each God his fitting season.\np:When, weak in mind, of feeble understanding, mortals bethink them not of sacrificing, then shall the prudent and discerning Agni worship the Devas, best worshipper, in season.\np:Because the Father hath produced thee, Leader of all our solemn rites, their brilliant Banner: So win by worship pleasant homes abounding in heroes, and rich food to nourish all men.\np:Thou whom the Heaven and Earth, thou whom the Waters, and Tva&#7779;&#7789;ar, maker of fair things, created, well knowing, all along the Fathers' pathway, shine with resplendent light, enkindled, Agni.",
-    "next": "10003",
-    "previous": "10001",
-    "book": "10"
+    "feecting": "p:GLADDEN the yearning Devas, O thou Most Youthful: bring them, O Lord of Seasons, knowing seasons, with all the Monks Celestial, O Agni. Best worshipper art thou of all Invokers.\np:Thine is the Herald's, thine the Cleanser's office, thinker art thou, wealth-giver, true to Order.\np: Let us with Svāhā offer up oblations, and Agni, worthy Deva, pay the Devas worship.\r\np:To the Devas’ pathway have we travelled, ready to execute what work we may accomplish. Let Agni, for he knows, complete the worship. He is the Monk: let him fix rites and seasons.\np:When we most ignorant neglect the statutes of you, O Deities with whom is knowledge, Wise Agni shall correct our faults and failings, skilled to assign each God his fitting season.\np:When, weak in mind, of feeble understanding, mortals bethink them not of sacrificing, then shall the prudent and discerning Agni worship the Devas, best worshipper, in season.\np:Because the Father hath produced thee, Leader of all our solemn rites, their brilliant Banner: So win by worship pleasant homes abounding in heroes, and rich food to nourish all men.\np:Thou whom the Heaven and Earth, thou whom the Waters, and Tvaṣṭar, maker of fair things, created, well knowing, all along the Fathers' pathway, shine with resplendent light, enkindled, Agni.",
+    "meta": {
+      "next": "10003",
+      "previous": "10001",
+      "book": "10",
+      "source": "https://sacred-texts.com/hin/rigveda/rv10002.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv10002.htm"
+    },
+    "deities": [
+      {
+        "name": "O thou",
+        "hymns": [
+          {
+            "key": "10002",
+            "title": "HYMN II. Agni."
+          }
+        ]
+      },
+      {
+        "name": "O Lord",
+        "hymns": [
+          {
+            "key": "10002",
+            "title": "HYMN II. Agni."
+          }
+        ]
+      },
+      {
+        "name": "O Agni",
+        "hymns": [
+          {
+            "key": "10002",
+            "title": "HYMN II. Agni."
+          }
+        ]
+      },
+      {
+        "name": "O Deities",
+        "hymns": [
+          {
+            "key": "10002",
+            "title": "HYMN II. Agni."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638557446599,
-  "updated": 1638792008357
+  "updated": 1638830292966
 }

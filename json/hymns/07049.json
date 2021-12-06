@@ -5,13 +5,19 @@
   "link": "hymns/07049.html",
   "api": "json/hymns/07049.json",
   "data": {
+    "key": "07049",
     "title": "HYMN XLIX. Waters.",
     "describe": "FORTH from the middle of the flood the Waters-their chief the Sea-flow cleansing, never sleeping.",
-    "feecting": "p:FORTH from the middle of the flood the Waters-their chief the Sea-flow cleansing, never sleeping.\np: Indra, the Bull, the Thunderer, dug their channels: here let those Waters protect me.\r\np:Waters which come from Heaven, or those that wander dug from the Earth, or flowing free by nature, Bright, purifying, speeding to the Ocean, here let those Waters. Goddesses, protect me.\np:Those amid whom goes Varu&#7751;a the Sovran, he who discriminates men's truth and falsehood- Distilling meath, the bright, the purifying, here let those Waters protect me.\np:They from whom Varu&#7751;a the King, and Soma, and all the Deities drink strength and vigour, they into whom Vai&#347;v&#257;nara Agni entered, here let those Waters protect Me.",
-    "next": "07050",
-    "previous": "07048",
-    "book": "07"
+    "feecting": "p:FORTH from the middle of the flood the Waters-their chief the Sea-flow cleansing, never sleeping.\np: Indra, the Bull, the Thunderer, dug their channels: here let those Waters protect me.\r\np:Waters which come from Heaven, or those that wander dug from the Earth, or flowing free by nature, Bright, purifying, speeding to the Ocean, here let those Waters. Goddesses, protect me.\np:Those amid whom goes Indra the Sovran, he who discriminates men's truth and falsehood- Distilling meath, the bright, the purifying, here let those Waters protect me.\np:They from whom Indra the King, and Soma, and all the Deities drink strength and vigour, they into whom Vaiśvānara Agni entered, here let those Waters protect Me.",
+    "meta": {
+      "next": "07050",
+      "previous": "07048",
+      "book": "07",
+      "source": "https://sacred-texts.com/hin/rigveda/rv07049.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv07049.htm"
+    },
+    "deities": []
   },
   "created": 1638556000950,
-  "updated": 1638792007992
+  "updated": 1638830292565
 }

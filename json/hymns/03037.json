@@ -5,13 +5,59 @@
   "link": "hymns/03037.html",
   "api": "json/hymns/03037.json",
   "data": {
+    "key": "03037",
     "title": "HYMN XXXVII. Indra.",
-    "describe": "O INDRA, for the strength that subdues V&#7771;",
-    "feecting": "p:O INDRA, for the strength that subdues V&#7771;tra and conquers in the fight, We turn thee hitherward to us.\np:O Indra, Lord of Hundred Powers. May those who praise thee hitherward.\np: Direct thy spirit and thine eye.\r\np:O Indra, Lord of Hundred Powers, with all our songs we invocate Thy names for triumph over foes.\np:We strive for glory through the powers immense of him whom many praise, Of Indra who supports mankind.\np:For V&#7771;tra's slaughter I address Indra whom many invocate, to win us booty in the wars.\np:In battles be victorious. We seek thee, Lord of Hundred Powers, Indra, that V&#7771;tr. May be slain.\np:In splendid combats of the hosts, in glories where the fight is won. Indra, be victor over foes.\np:Drink thou the Soma for our help, bright, vigilant, exceeding strong, O Indra, Lord of Hundred Powers.\np:O &#346;atakratu, powers which thou mid the Five Races hast displayed- These, Indra, do I claim of thee.\np:Indra, great glory hast thou gained. Win splendid fame which non. May mar We make thy might perpetual.\np:Come to us either from anear, or, &#346;akra, come from far away. Indra, wherever be thy home, come to us thence, O Thunder-armed.",
-    "next": "03038",
-    "previous": "03036",
-    "book": "03"
+    "describe": "O INDRA, for the strength that subdues Vṛtra and conquers in the fight, We turn thee hitherward to us.",
+    "feecting": "p:O INDRA, for the strength that subdues Vṛtra and conquers in the fight, We turn thee hitherward to us.\np:O Indra, Lord of Hundred Powers. May those who praise thee hitherward.\np: Direct thy spirit and thine eye.\r\np:O Indra, Lord of Hundred Powers, with all our songs we invocate Thy names for triumph over foes.\np:We strive for glory through the powers immense of him whom many praise, Of Indra who supports mankind.\np:For Vṛtra's slaughter I address Indra whom many invocate, to win us booty in the wars.\np:In battles be victorious. We seek thee, Lord of Hundred Powers, Indra, that Vṛtr. May be slain.\np:In splendid combats of the hosts, in glories where the fight is won. Indra, be victor over foes.\np:Drink thou the Soma for our help, bright, vigilant, exceeding strong, O Indra, Lord of Hundred Powers.\np:O Śatakratu, powers which thou mid the Five Races hast displayed- These, Indra, do I claim of thee.\np:Indra, great glory hast thou gained. Win splendid fame which non. May mar We make thy might perpetual.\np:Come to us either from anear, or, Indra, come from far away. Indra, wherever be thy home, come to us thence, O Thunder-armed.",
+    "meta": {
+      "next": "03038",
+      "previous": "03036",
+      "book": "03",
+      "source": "https://sacred-texts.com/hin/rigveda/rv03037.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv03037.htm"
+    },
+    "deities": [
+      {
+        "name": "O INDRA",
+        "hymns": [
+          {
+            "key": "03037",
+            "title": "HYMN XXXVII. Indra."
+          },
+          {
+            "key": "03037",
+            "title": "HYMN XXXVII. Indra."
+          },
+          {
+            "key": "03037",
+            "title": "HYMN XXXVII. Indra."
+          },
+          {
+            "key": "03037",
+            "title": "HYMN XXXVII. Indra."
+          }
+        ]
+      },
+      {
+        "name": "O Śatakratu",
+        "hymns": [
+          {
+            "key": "03037",
+            "title": "HYMN XXXVII. Indra."
+          }
+        ]
+      },
+      {
+        "name": "O Thunder",
+        "hymns": [
+          {
+            "key": "03037",
+            "title": "HYMN XXXVII. Indra."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638554446504,
-  "updated": 1638792007636
+  "updated": 1638830292058
 }

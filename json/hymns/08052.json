@@ -5,13 +5,19 @@
   "link": "hymns/08052.html",
   "api": "json/hymns/08052.json",
   "data": {
+    "key": "08052",
     "title": "HYMN LII. Indra.",
     "describe": "WITH powers of Mighty Ones hath he, Ancient, beloved, been equipped, Through whom the Father Manu made prayers efficacious with the Devas.",
-    "feecting": "p:WITH powers of Mighty Ones hath he, Ancient, beloved, been equipped, Through whom the Father Manu made prayers efficacious with the Devas.\np:Him, maker of the sky, let stones wet with the Soma ne&#146;er forsake, Nor hymns and prayer that must be said.\np:Indra who knew full well disclosed the kine to the A&#7749;girases.\np: This his great deed must be extolled.\r\np:Indra, promoter of the song, the sage's Strengthener as of old, Shall come to bless and succour us at presentation of this laud.\np:Now after their desire's intent the pious singers with the cry Of Hail! have sung loud hymns to thee, Indra, to gain a stall of kine.\np:With Indra rest all deeds of might, deeds done and yet to be performed, whom singers know devoid of guile.\np:When the Five Tribes with all their men to Indra have sent out their voice, and when the Monk hath strewn much grass, this is the Friend's own dwelling-place.\np:This praise is verily thine own: thou hast performed these manly deeds, and sped the wheel upon its way.\np:At the o&#146;erflowing of this Steer, boldly he strode for life, and took Soma as cattle take their corn.\np:Receiving this and craving help, we, who with you are Dak&#7779;a's sons, Would fain exalt the Devas&#146; Lord.\np:Yea. Hero, with the singers we sing to the duly-coming Band. Allied with the, may we prevail.\np:With us are raining Somas, clouds accordant in call to battle, at the death of V&#7771;tra,  \nThe strong assigned to him who sings and praises. May Devas with Indra at their head protect us.",
-    "next": "08053",
-    "previous": "08051",
-    "book": "08"
+    "feecting": "p:WITH powers of Mighty Ones hath he, Ancient, beloved, been equipped, Through whom the Father Manu made prayers efficacious with the Devas.\np:Him, maker of the sky, let stones wet with the Soma ne’er forsake, Nor hymns and prayer that must be said.\np:Indra who knew full well disclosed the kine to the Aṅgirases.\np: This his great deed must be extolled.\r\np:Indra, promoter of the song, the sage's Strengthener as of old, Shall come to bless and assist us at presentation of this laud.\np:Now after their desire's intent the pious singers with the cry Of Hail! have sung loud hymns to thee, Indra, to gain a stall of kine.\np:With Indra rest all deeds of might, deeds done and yet to be performed, whom singers know devoid of guile.\np:When the Five Tribes with all their men to Indra have sent out their voice, and when the Monk hath strewn much grass, this is the Friend's own dwelling-place.\np:This praise is verily thine own: thou hast performed these manly deeds, and sped the wheel upon its way.\np:At the o’erflowing of this Steer, boldly he strode for life, and took Soma as cattle take their corn.\np:Receiving this and craving help, we, who with you are Dakṣa's sons, Would fain exalt the Devas’ Lord.\np:Yea. Hero, with the singers we sing to the duly-coming Band. Allied with the, may we prevail.\np:With us are raining Somas, clouds accordant in call to battle, at the death of Vṛtra,  \nThe strong assigned to him who sings and praises. May Devas with Indra at their head protect us.",
+    "meta": {
+      "next": "08053",
+      "previous": "08051",
+      "book": "08",
+      "source": "https://sacred-texts.com/hin/rigveda/rv08052.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv08052.htm"
+    },
+    "deities": []
   },
   "created": 1638556565295,
-  "updated": 1638792008131
+  "updated": 1638830292746
 }

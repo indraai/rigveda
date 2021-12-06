@@ -5,13 +5,38 @@
   "link": "hymns/05005.html",
   "api": "json/hymns/05005.json",
   "data": {
-    "title": "HYMN V. &#256;pr&#299;s.",
-    "describe": "To Agni, J&#257;",
-    "feecting": "p:To Agni, J&#257;tavedas, to the flame, the well-enkindled Deva, Offer thick sacrificial oil.\np:He, Nar&#257;&#347;a&#7745;sa, ne&#146;er beguiled, inspiriteth this offering: For sage is he, with sweets in hand.\np:Adored, O Agni, hither bring Indra the Wonderful, the Friend, On lightly-rolling car to aid.\np:Spread thyself out, thou soft as wool The holy hymns have sung to thee.\np: Bring gain to us, O beautiful!\r\np:Open yourselves, ye Doors Divine, easy of access for our aid: Fill, more and more, the offering.\np:Fair strengtheners of vital power, young Mothers of eternal Law, Morning and Night we supplicate.\np:On the wind's flight come, glorified, ye two celestial Monks of man Come ye to this our offering.\np:I&#7735;&#257;, Sarasvat&#299;, Mah&#299;, three Goddesses who bring us weal, be seated harmless on the grass.\np:Rich in all plenty, Tva&#7779;&#7789;ar, come auspicious of thine own accord Help us in every offering.\np:Vanaspati, wherever thou knowest the Devas&#146; mysterious names, Send our oblations thitherward.\np:To Agni and to Varu&#7751;a, Indra, the Devas, and the Devas, with Sv&#257;h&#257; be oblation brought.",
-    "next": "05006",
-    "previous": "05004",
-    "book": "05"
+    "key": "05005",
+    "title": "HYMN V. Indu.",
+    "describe": "To Agni, Jātavedas, to the flame, the well-enkindled Deva, Offer thick sacrificial oil.",
+    "feecting": "p:To Agni, Jātavedas, to the flame, the well-enkindled Deva, Offer thick sacrificial oil.\np:He, Narāśaṁsa, ne’er beguiled, inspiriteth this offering: For sage is he, with sweets in hand.\np:Adored, O Agni, hither bring Indra the Wonderful, the Friend, On lightly-rolling car to aid.\np:Spread thyself out, thou soft as wool The holy hymns have sung to thee.\np: Bring gain to us, O beautiful!\r\np:Open yourselves, ye Doors Divine, easy of access for our aid: Fill, more and more, the offering.\np:Fair strengtheners of vital power, young Mothers of eternal Law, Morning and Night we supplicate.\np:On the wind's flight come, glorified, ye two celestial Monks of man Come ye to this our offering.\np:Iḷā, Sarasvatī, Mahī, three Goddesses who bring us weal, be seated harmless on the grass.\np:Rich in all plenty, Tvaṣṭar, come auspicious of thine own accord Help us in every offering.\np:Vanaspati, wherever thou knowest the Devas’ mysterious names, Send our oblations thitherward.\np:To Agni and to Indra, Indra, the Devas, and the Devas, with Svāhā be oblation brought.",
+    "meta": {
+      "next": "05006",
+      "previous": "05004",
+      "book": "05",
+      "source": "https://sacred-texts.com/hin/rigveda/rv05005.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv05005.htm"
+    },
+    "deities": [
+      {
+        "name": "O Agni",
+        "hymns": [
+          {
+            "key": "05005",
+            "title": "HYMN V. Indu."
+          }
+        ]
+      },
+      {
+        "name": "O beautiful",
+        "hymns": [
+          {
+            "key": "05005",
+            "title": "HYMN V. Indu."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638554911045,
-  "updated": 1638792007748
+  "updated": 1638830292220
 }

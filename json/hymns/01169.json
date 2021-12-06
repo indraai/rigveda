@@ -5,13 +5,41 @@
   "link": "hymns/01169.html",
   "api": "json/hymns/01169.json",
   "data": {
+    "key": "01169",
     "title": "HYMN CLXIX. Indra.",
     "describe": "As, Indra, from great treason thou protectest, yea, from great treachery these who approach us, So, marking well, Controller of the Devas grant us their blessings, for they are thy dearest.",
-    "feecting": "p:As, Indra, from great treason thou protectest, yea, from great treachery these who approach us, So, marking well, Controller of the Devas grant us their blessings, for they are thy dearest.\np:The various doings of all mortal people by thee are ordered, in thy wisdom, Indra.\np: The host of Devas goeth forth exulting to win the light-bestowing spoil of battle.\r\np:O Indra: the Devas set their wole power in motion. E&#146;en Agni shines resplendent in the brush-wood: the offerings hold him as floods hold an island.\np:Vouchsafe us now that opulence, O Indra, as guerdon won by mightiest donation. May hymns that please thee cause the breast of V&#257;yu to swell as with the mead's refreshing sweetness.\np:With thee, O Indra, are most bounteous riches that further every one who lives uprightly. No. May these Devas show us loving-kindness, Devas who of old were ever prompt to help us.\np:Bring forth the Men who rain down boons, O Indra, for their broad-chested speckled deer are standing like a King's armies on the field of battle.\np:Heard is the roar of the advancing Devas, terrific, glittering, and swiftly moving, who with their rush o&#146;erthrow as &#146;twere a sinner the mortal who would fight with those who love him\np:Give to the M&#257;nas, Indra with Devas, gifts universal. Thou, Deva, art praised with Devas who must be lauded. May we find strengthening food in full abundance.",
-    "next": "01170",
-    "previous": "01168",
-    "book": "01"
+    "feecting": "p:As, Indra, from great treason thou protectest, yea, from great treachery these who approach us, So, marking well, Controller of the Devas grant us their blessings, for they are thy dearest.\np:The various doings of all mortal people by thee are ordered, in thy wisdom, Indra.\np: The host of Devas goeth forth exulting to win the light-bestowing spoil of battle.\r\np:O Indra: the Devas set their wole power in motion. E’en Agni shines resplendent in the brush-wood: the offerings hold him as floods hold an island.\np:Vouchsafe us now that opulence, O Indra, as guerdon won by mightiest donation. May hymns that please thee cause the breast of Soma to swell as with the mead's refreshing sweetness.\np:With thee, O Indra, are most bounteous riches that further every one who lives uprightly. No. May these Devas show us loving-kindness, Devas who of old were ever prompt to help us.\np:Bring forth the Men who rain down boons, O Indra, for their broad-chested speckled deer are standing like a King's armies on the field of battle.\np:Heard is the roar of the advancing Devas, terrific, glittering, and swiftly moving.\np:Give to Indra with Devas, gifts universal. Thou, Deva, art praised with Devas who must be lauded. May we find strengthening food in full abundance.",
+    "meta": {
+      "next": "01170",
+      "previous": "01168",
+      "book": "01",
+      "source": "https://sacred-texts.com/hin/rigveda/rv01169.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv01169.htm"
+    },
+    "deities": [
+      {
+        "name": "O Indra",
+        "hymns": [
+          {
+            "key": "01169",
+            "title": "HYMN CLXIX. Indra."
+          },
+          {
+            "key": "01169",
+            "title": "HYMN CLXIX. Indra."
+          },
+          {
+            "key": "01169",
+            "title": "HYMN CLXIX. Indra."
+          },
+          {
+            "key": "01169",
+            "title": "HYMN CLXIX. Indra."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638553905911,
-  "updated": 1638792007497
+  "updated": 1638830291891
 }

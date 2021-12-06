@@ -5,13 +5,51 @@
   "link": "hymns/08094.html",
   "api": "json/hymns/08094.json",
   "data": {
+    "key": "08094",
     "title": "HYMN II. Indra.",
-    "describe": "SAKRA I praise, to win his aid, far-famed, exceeding bountiful, who gives, as &#146;",
-    "feecting": "p:SAKRA I praise, to win his aid, far-famed, exceeding bountiful, who gives, as &#146;twere in thousands, precious wealth to him who sheds the juice and worships him.\np:Arrows with hundred points, unconquerable, are this Indra's n-dghty arms in war.\np: He streams on liberal worshippers like a hill with springs, when juices poured have gladdened him.\r\np:What time the flowing Soma-drops have gladdened with their taste the Friend, like water, gracious Lord! were my libations made, like milch-kine to the worshipper.\np:To him the peerless, who is calling you to give you aid, forth flow the drops of pleasant meath. The Soloa-drops which call on thee, O gracious Lord, have brought thee to our hymn of praise.\np:He rushes hurrying like a steed to Soma that adorns our rite, Which hymns make sweet to thee, lover of pleasant food. The call to Paura thou dost love.\np:Praise the strong, grasping Hero, winner of the spoil, ruling supreme oer mighty wealth. Like a full spring, O Thunderer, from thy store hast thou poured on the worshipper evermore.\np:Now whether thou be far away, or in the heavens, or on the Earth, O Indra, mighty- thoughted, harnessing thy Bays, come Lofty with the Lofty Ones.\np:The Bays who draw thy chariot, Steeds who injure none, surpass the wind's impetuous strength- With whom thou silencest the enemy of man, with whon; thou goest round the sky.\np:O gracious Hero. May we learn anew to know thee as thou art: As in decisive fight thou holpest Eta&#347;a, or Va&#347;a 'gainst Dasavraja,\np:As, Indra, to Ka&#7751;va at the sacred feast, to Dirghanitha thine home-friend, as to Gosarya thou, Stone-darter, gavest wealth, give me a gold-bright stall of kine.",
-    "next": "08095",
-    "previous": "08093",
-    "book": "08"
+    "describe": "SAKRA I praise, to win his aid, far-famed, exceeding bountiful, who gives, as ’twere in thousands, precious wealth to him who sheds the juice and worships him.",
+    "feecting": "p:SAKRA I praise, to win his aid, far-famed, exceeding bountiful, who gives, as ’twere in thousands, precious wealth to him who sheds the juice and worships him.\np:Arrows with hundred points, unconquerable, are this Indra's n-dghty arms in war.\np: He streams on liberal worshippers like a hill with springs, when juices poured have gladdened him.\r\np:What time the flowing Soma-drops have gladdened with their taste the Friend, like water, gracious Lord! were my libations made, like milch-kine to the worshipper.\np:To him the peerless, who is calling you to give you aid, forth flow the drops of pleasant meath. The Soloa-drops which call on thee, O gracious Lord, have brought thee to our hymn of praise.\np:He rushes hurrying like a steed to Soma that adorns our rite, Which hymns make sweet to thee, lover of pleasant food. The call to Paura thou dost love.\np:Praise the strong, grasping Hero, winner of the spoil, ruling supreme oer mighty wealth. Like a full spring, O Thunderer, from thy store hast thou poured on the worshipper evermore.\np:Now whether thou be far away, or in the heavens, or on the Earth, O Indra, mighty- thoughted, harnessing thy Bays, come Lofty with the Lofty Ones.\np:The Bays who draw thy chariot, Steeds who injure none, surpass the wind's impetuous strength- With whom thou silencest the enemy of man, with whon; thou goest round the sky.\np:O gracious Hero. May we learn anew to know thee as thou art: As in decisive fight thou holpest Etaśa, or Vaśa 'gainst Dasavraja,\np:As, Indra, to Kaṇva at the sacred feast, to Dirghanitha thine home-friend, as to Gosarya thou, Stone-darter, gavest wealth, give me a gold-bright stall of kine.",
+    "meta": {
+      "next": "08095",
+      "previous": "08093",
+      "book": "08",
+      "source": "https://sacred-texts.com/hin/rigveda/rv08094.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv08094.htm"
+    },
+    "deities": [
+      {
+        "name": "O gracious",
+        "hymns": [
+          {
+            "key": "08094",
+            "title": "HYMN II. Indra."
+          },
+          {
+            "key": "08094",
+            "title": "HYMN II. Indra."
+          }
+        ]
+      },
+      {
+        "name": "O Thunderer",
+        "hymns": [
+          {
+            "key": "08094",
+            "title": "HYMN II. Indra."
+          }
+        ]
+      },
+      {
+        "name": "O Indra",
+        "hymns": [
+          {
+            "key": "08094",
+            "title": "HYMN II. Indra."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638556787518,
-  "updated": 1638792008185
+  "updated": 1638830292808
 }

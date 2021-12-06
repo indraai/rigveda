@@ -5,13 +5,29 @@
   "link": "hymns/05017.html",
   "api": "json/hymns/05017.json",
   "data": {
+    "key": "05017",
     "title": "HYMN XVII. Agni.",
     "describe": "GOD.",
-    "feecting": "p:GOD. May a mortal call the Strong hither, with solemn rites, to aid, a man call Agni to protect when offering is well prepared.\np:Near him thou seemest mightier still in native glory, set to hold Apart yon flame-hued vault of Heaven, lovely beyond the thought of man.\np:Yea, this is by the light of him whom powerful song hath bound to act, whose beams of splendour flash on high as though they sprang from heavenly seed.\np:Wealth loads the Wonder-Worker's car through his, the very wise One's power.\np: Then, meet to be invoked among all tribes, is Agni glorified.\r\np:Now, too, the princes shall obtain excellent riches by our lips. Protect us for our welfare: lend thy succour, O thou Son of Strength. Be near in fight to prosper us.",
-    "next": "05018",
-    "previous": "05016",
-    "book": "05"
+    "feecting": "p:GOD. May a mortal call the Strong hither, with solemn rites, to aid, a man call Agni to protect when offering is well prepared.\np:Near him thou seemest mightier still in native glory, set to hold Apart yon flame-hued vault of Heaven, lovely beyond the thought of man.\np:Yea, this is by the light of him whom powerful song hath bound to act, whose beams of splendour flash on high as though they sprang from heavenly seed.\np:Wealth loads the Wonder-Worker's car through his, the very wise One's power.\np: Then, meet to be invoked among all tribes, is Agni glorified.\r\np:Now, too, the princes shall obtain excellent riches by our lips. Protect us for our welfare: lend thy assist, O thou Son of Strength. Be near in fight to prosper us.",
+    "meta": {
+      "next": "05018",
+      "previous": "05016",
+      "book": "05",
+      "source": "https://sacred-texts.com/hin/rigveda/rv05017.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv05017.htm"
+    },
+    "deities": [
+      {
+        "name": "O thou",
+        "hymns": [
+          {
+            "key": "05017",
+            "title": "HYMN XVII. Agni."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638554974952,
-  "updated": 1638792007763
+  "updated": 1638830292233
 }

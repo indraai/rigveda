@@ -5,13 +5,29 @@
   "link": "hymns/06036.html",
   "api": "json/hymns/06036.json",
   "data": {
+    "key": "06036",
     "title": "HYMN XXXVI. Indra.",
     "describe": "THY raptures ever were for all men's profit: so evermore have been thine earthly riches.",
-    "feecting": "p:THY raptures ever were for all men's profit: so evermore have been thine earthly riches.\np: Thou still hast been the dealer-forth of vigour, since among Devas thou hast had power and Godhead.\r\np:Men have obtained his strength by sacrificing, and ever urged him, on to hero valour. For the rein-seizing, the impetuous Charger they furnished power even for V&#7771;tra's slaughter.\np:Associate with him, as teams of horses, help, manly might, and vigour follow Indra. As rivers reach the sea, so, strong with praises, our holy songs reach him the Comprehensive.\np:Lauded by us, let flow the spring, O Indra, of excellent and brightly-shining riches. For thou art Lord of men, without an equal: of all the world thou art the only Sovran.\np:Hear what tho. Mayst hear, thou who, fain for worship, as Heaven girds Earth, guardest thy servant's treasure; Tlat tho. Mayst be our own, joying in power, famed through thy might in every generation.",
-    "next": "06037",
-    "previous": "06035",
-    "book": "06"
+    "feecting": "p:THY raptures ever were for all men's profit: so evermore have been thine earthly riches.\np: Thou still hast been the dealer-forth of vigour, since among Devas thou hast had power and Godhead.\r\np:Men have obtained his strength by sacrificing, and ever urged him, on to hero valour. For the rein-seizing, the impetuous Charger they furnished power even for Vṛtra's slaughter.\np:Associate with him, as teams of horses, help, manly might, and vigour follow Indra. As rivers reach the sea, so, strong with praises, our holy songs reach him the Comprehensive.\np:Lauded by us, let flow the spring, O Indra, of excellent and brightly-shining riches. For thou art Lord of men, without an equal: of all the world thou art the only Sovran.\np:Hear what tho. Mayst hear, thou who, fain for worship, as Heaven girds Earth, guardest thy servant's treasure; Tlat tho. Mayst be our own, joying in power, famed through thy might in every generation.",
+    "meta": {
+      "next": "06037",
+      "previous": "06035",
+      "book": "06",
+      "source": "https://sacred-texts.com/hin/rigveda/rv06036.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv06036.htm"
+    },
+    "deities": [
+      {
+        "name": "O Indra",
+        "hymns": [
+          {
+            "key": "06036",
+            "title": "HYMN XXXVI. Indra."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638555536299,
-  "updated": 1638792007891
+  "updated": 1638830292392
 }

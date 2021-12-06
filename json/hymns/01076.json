@@ -5,13 +5,38 @@
   "link": "hymns/01076.html",
   "api": "json/hymns/01076.json",
   "data": {
+    "key": "01076",
     "title": "HYMN LXXVI. Agni.",
     "describe": "Ho.",
-    "feecting": "p:Ho. May the mind draw nigh to please thee, Agni? What hymn of praise shall bring us greatest blessing? Or who hath gained thy power by offers? or with what mind shall we bring thee oblations?\np:Come hither, sit thee down as Hotar; be thou who never wast deceived our leader.\np: May Heaven and Earth, the all-pervading, love thee: worship the Devas to win for us their favour.\r\np:Burn thou up all the R&#257;k&#7779;asas, O Agni; ward thou off curses from our offerings. Bring hither with his Bays the Lord of Soma: here is glad welcome for the Bounteous Giver.\np:Thou Monk with lip and voice that bring us children hast been invoked. Here with the Devas be seated. Thine is the task of Cleanser and Presenter: waken us, Wealth-bestower and Producer.\np:As with oblations of the priestly Manus thou worshippedst the Devas, a Sage with sages, So now, O truthfullest Invoker Agni, worship this day with joy-bestowing ladle.",
-    "next": "01077",
-    "previous": "01075",
-    "book": "01"
+    "feecting": "p:Ho. May the mind draw nigh to please thee, Agni? What hymn of praise shall bring us greatest blessing? Or who hath gained thy power by offers? or with what mind shall we bring thee oblations?\np:Come hither, sit thee down as Hotar; be thou who never wast deceived our leader.\np: May Heaven and Earth, the all-pervading, love thee: worship the Devas to win for us their favour.\r\np:Burn thou up all the Rākṣasas, O Agni; ward thou off curses from our offerings. Bring hither with his Bays the Lord of Soma: here is glad welcome for the Bounteous Giver.\np:Thou Monk with lip and voice that bring us children hast been invoked. Here with the Devas be seated. Thine is the task of Cleanser and Presenter: waken us, Wealth-bestower and Producer.\np:As with oblations of the priestly Manus thou worshippedst the Devas, a Sage with sages, So now, O truthfullest Invoker Agni, worship this day with joy-bestowing ladle.",
+    "meta": {
+      "next": "01077",
+      "previous": "01075",
+      "book": "01",
+      "source": "https://sacred-texts.com/hin/rigveda/rv01076.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv01076.htm"
+    },
+    "deities": [
+      {
+        "name": "O Agni",
+        "hymns": [
+          {
+            "key": "01076",
+            "title": "HYMN LXXVI. Agni."
+          }
+        ]
+      },
+      {
+        "name": "O truthfullest",
+        "hymns": [
+          {
+            "key": "01076",
+            "title": "HYMN LXXVI. Agni."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638553414048,
-  "updated": 1638792007376
+  "updated": 1638830291698
 }

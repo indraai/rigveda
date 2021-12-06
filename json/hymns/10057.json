@@ -5,13 +5,38 @@
   "link": "hymns/10057.html",
   "api": "json/hymns/10057.json",
   "data": {
-    "title": "HYMN LVIL Vi&#347;vedevas.",
+    "key": "10057",
+    "title": "HYMN LVIL Devas.",
     "describe": "LET us not, Indra, leave the path, we's offering: Let no malignity dwell with us.",
-    "feecting": "p:LET us not, Indra, leave the path, we's offering: Let no malignity dwell with us.\np:May we obtain, completely wrought, the thread spun out to reach the Devas, that perfecteth the offering.\np:We call the spirit hither with the Soma of our parted sires, Yea, with the Fathers' holy hymns.\np:Thy spirit come to thee again for wisdom, energy, and lire, that tho. Mayst long behold the sun!\np:O Fathers. May the Heavenly Folk give us our spirit once again, that we may be with those who live.\np:O Soma with the spirit still within us, blest with progeny, May we be busied in the law.",
-    "next": "10058",
-    "previous": "10056",
-    "book": "10"
+    "feecting": "p:LET us not, Indra, leave the path, we's offering: Let no malignity dwell with us.\np:May we obtain, completely wrought, the thread spun out to reach the Devas, that perfecteth the offering.\np:We call the spirit hither with the Soma of our parted sires, Yea, with the Fathers' holy hymns.\np:Thy spirit come to thee again for wisdom, energy, and lire, that tho. Mayst long behold the sun!\np:O Fathers. May the Heavenly Folk give us our spirit once again, that we may be with those who live.\np:O Soma with the spirit still within us, blest with progeny, may we be busied in the law.",
+    "meta": {
+      "next": "10058",
+      "previous": "10056",
+      "book": "10",
+      "source": "https://sacred-texts.com/hin/rigveda/rv10057.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv10057.htm"
+    },
+    "deities": [
+      {
+        "name": "O Fathers",
+        "hymns": [
+          {
+            "key": "10057",
+            "title": "HYMN LVIL Devas."
+          }
+        ]
+      },
+      {
+        "name": "O Soma",
+        "hymns": [
+          {
+            "key": "10057",
+            "title": "HYMN LVIL Devas."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638557740006,
-  "updated": 1638792008463
+  "updated": 1638830293091
 }

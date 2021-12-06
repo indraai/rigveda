@@ -5,13 +5,42 @@
   "link": "hymns/03022.html",
   "api": "json/hymns/03022.json",
   "data": {
+    "key": "03022",
     "title": "HYMN XXII. Agni.",
     "describe": "THIS is that Agni whence the longing Indra took the pressed Soma deep within his body.",
-    "feecting": "p:THIS is that Agni whence the longing Indra took the pressed Soma deep within his body.\np: Winner of spoils in thousands, like a courser, with praise art thou exalted, J&#257;tavedas.\r\np:That light of thine in Heaven and Earth, O Agni, in plants, O Holy One, and in the waters, Wherewith thou hast spread wide the air's mid-region-bright is that splendour, wavy, man-beholding.\np:O Agni, to the sea of Heaven thou goest: thou hast called hither Devas beheld in spirit. The waters, too, come hither, those up yonder in the Sun's realm of light, and those beneath it.\np:Let fires that dwell in mist, combined with those that have their home in floods, Guileless accept our offering, great offerings free from all disease.\np:Agni, as holy food to thine invoker give wealth in cattle, lasting, rich in marvels. To us be born a son and spreading offspring. Agni, be this thy gracious will to us-ward.",
-    "next": "03023",
-    "previous": "03021",
-    "book": "03"
+    "feecting": "p:THIS is that Agni whence the longing Indra took the pressed Soma deep within his body.\np: Winner of spoils in thousands, like a courser, with praise art thou exalted, Jātavedas.\r\np:That light of thine in Heaven and Earth, O Agni, in plants, O Holy One, and in the waters, Wherewith thou hast spread wide the air's mid-region-bright is that splendour, wavy, man-beholding.\np:O Agni, to the sea of Heaven thou goest: thou hast called hither Devas beheld in spirit. The waters, too, come hither, those up yonder in the Sun's realm of light, and those beneath it.\np:Let fires that dwell in mist, combined with those that have their home in floods, Guileless accept our offering, great offerings free from all disease.\np:Agni, as holy food to thine invoker give wealth in cattle, lasting, rich in marvels. To us be born a son and spreading offspring. Agni, be this thy gracious will to us-ward.",
+    "meta": {
+      "next": "03023",
+      "previous": "03021",
+      "book": "03",
+      "source": "https://sacred-texts.com/hin/rigveda/rv03022.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv03022.htm"
+    },
+    "deities": [
+      {
+        "name": "O Agni",
+        "hymns": [
+          {
+            "key": "03022",
+            "title": "HYMN XXII. Agni."
+          },
+          {
+            "key": "03022",
+            "title": "HYMN XXII. Agni."
+          }
+        ]
+      },
+      {
+        "name": "O Holy",
+        "hymns": [
+          {
+            "key": "03022",
+            "title": "HYMN XXII. Agni."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638554366555,
-  "updated": 1638792007607
+  "updated": 1638830292034
 }

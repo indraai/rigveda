@@ -5,13 +5,47 @@
   "link": "hymns/03027.html",
   "api": "json/hymns/03027.json",
   "data": {
+    "key": "03027",
     "title": "HYMN XXVII. Agni.",
     "describe": "IN ladle dropping oil your food goes in oblation up to Heaven, Goes to the Devas in search of bliss.",
     "feecting": "p:IN ladle dropping oil your food goes in oblation up to Heaven, Goes to the Devas in search of bliss.\np:Agni I laud, the Sage inspired, crowner of offering through song, who listens and gives bounteous gifts.\np:O Agni, if we might obtain control of thee the potent Deva, then should we overcome our foes.\np:Kindled at offers he is Agni, hallower, meet for praise, with flame for hair: to him we seek.\np:Immortal Agni, shining far, enrobed with oil, well worshipped, bears The gifts of offering away.\np:The Monks with ladles lifted up, worshipping here with holy thought, have brought this Agni for our aid.\np:Immortal, Offerer, Deva, with wondrous power he leads the way, Urging the great assembly on.\np:Strong, he is set on deeds ofstrength. In offerings led in front, as Singer he completes the rite.\np:Excellent, he was made by thought. The Germ of beings have I gained, Yea, and die Sire of active strength.\np:Thee have I stablished, Excellent, O strengthened by the sage's prayer, thee, Agni, longing, nobly bright.\np:Agni, the swift and active One, singers, at time of offering, Eagerly kindle with their food.\np:Agni the Son of Strength who shines up to the Heaven in solemn rites, the wise of heart, I glorify.\np:Meet to be lauded and adored, showing in beauty through the dark, Agni, the Strong, is kindled well.\np:Agni is kindled as a bull, like a horsebearer of the Devas: Men with oblations worship him.\np:Thee will we kindle as a bull, we who are Bulls ourselves, O Bull.\np: Thee, Agni, shining mightily.",
-    "next": "03028",
-    "previous": "03026",
-    "book": "03"
+    "meta": {
+      "next": "03028",
+      "previous": "03026",
+      "book": "03",
+      "source": "https://sacred-texts.com/hin/rigveda/rv03027.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv03027.htm"
+    },
+    "deities": [
+      {
+        "name": "O Agni",
+        "hymns": [
+          {
+            "key": "03027",
+            "title": "HYMN XXVII. Agni."
+          }
+        ]
+      },
+      {
+        "name": "O strengthened",
+        "hymns": [
+          {
+            "key": "03027",
+            "title": "HYMN XXVII. Agni."
+          }
+        ]
+      },
+      {
+        "name": "O Bull",
+        "hymns": [
+          {
+            "key": "03027",
+            "title": "HYMN XXVII. Agni."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638554393142,
-  "updated": 1638792007611
+  "updated": 1638830292040
 }

@@ -5,13 +5,19 @@
   "link": "hymns/07044.html",
   "api": "json/hymns/07044.json",
   "data": {
-    "title": "HYMN XLIV. Dadhikr&#257;s.",
-    "describe": "I CALL on Dadhikr&#257;",
-    "feecting": "p:I CALL on Dadhikr&#257;s, the first, to give you aid, the A&#347;vins, Bhaga, Dawn, and Agni kindled well, Indra, and Vi&#7779;&#7751;u, P&#363;&#7779;an, Brahma&#7751;aspati, &#256;dityas. Heaven and Earth, the Waters, and the Light.\np:When, rising, to the offering we hasten, awaking Dadhikr&#257;s with adorations.\np: Seating on sacred grass the Goddess I&#7735;&#257;. let us invoke the sage swift-hearing A&#347;vins.\r\np:While I am thus arousing Dadhikr&#257;van I speak to Agni, Earth, and Dawn, and S&#363;rya, the red, the brown of Varu&#7751;a ever mindful. May they ward off from us all grief and trouble.\np:Foremost is Dadhikr&#257;van, vigorous courser; in forefront of the cars, his way he knoweth, Closely allied with S&#363;rya and with Morning, &#256;dityas, and A&#7749;girases, and Devas.\np:May Dadhikr&#257;s prepare the way we travel that we may pass along the path of Order. May Agni bear us, and the Heavenly Army: hear us all Mighty Ones whom none deceiveth.",
-    "next": "07045",
-    "previous": "07043",
-    "book": "07"
+    "key": "07044",
+    "title": "HYMN XLIV. Dadhikrās.",
+    "describe": "I CALL on Dadhikrās, the first, to give you aid, the Aśvins, Bhaga, Dawn, and Agni kindled well, Indra, and Indra, Pūṣan, Soma Devas Heaven and Earth, the Waters, and the Light.",
+    "feecting": "p:I CALL on Dadhikrās, the first, to give you aid, the Aśvins, Bhaga, Dawn, and Agni kindled well, Indra, and Indra, Pūṣan, Soma Devas Heaven and Earth, the Waters, and the Light.\np:When, rising, to the offering we hasten, awaking Dadhikrās with adorations.\np: Seating on sacred grass the Goddess Iḷā. let us invoke the sage swift-hearing Aśvins.\r\np:While I am thus arousing Dadhikrāvan I speak to Agni, Earth, and Dawn, and Sūrya, the red, the brown of Indra ever mindful. May they ward off from us all grief and trouble.\np:Foremost is Dadhikrāvan, vigorous courser; in forefront of the cars, his way he knoweth, Closely allied with Sūrya and with Morning Devas and Aṅgirases, and Devas.\np:May Dadhikrās prepare the way we travel that we may pass along the path of Order. May Agni bear us, and the Heavenly Army: hear us all Mighty Ones whom none deceiveth.",
+    "meta": {
+      "next": "07045",
+      "previous": "07043",
+      "book": "07",
+      "source": "https://sacred-texts.com/hin/rigveda/rv07044.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv07044.htm"
+    },
+    "deities": []
   },
   "created": 1638555974447,
-  "updated": 1638792007986
+  "updated": 1638830292556
 }

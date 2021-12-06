@@ -5,13 +5,68 @@
   "link": "hymns/06046.html",
   "api": "json/hymns/06046.json",
   "data": {
+    "key": "06046",
     "title": "HYMN XLVI. Indra.",
     "describe": "THAT we may win us wealth and power we poets, verily, call on thee: In war men call on thee, Indra, the hero's Lord, in the steed's race-course call on thee.",
-    "feecting": "p:THAT we may win us wealth and power we poets, verily, call on thee: In war men call on thee, Indra, the hero's Lord, in the steed's race-course call on thee.\np:As such, O Wonderful, whose hand holds thunder, praised as mighty, Caster of the Stone! Pour on us boldly, Indra, kine and chariotsteeds, ever to be the conqueror's strength.\np:We call upon that Indra, who, most active, ever subdues the foe: Lord of the brave, most Manly, with a thousand powers, help thou and prosper us in fight.\np:Rcisama, thou forcest men as with a bull, with anger, in the furious fray.\np: Be thou our Helper in the mighty battle fought for sunlight, water, and for life.\r\np:O Indra, bring us name and fame, enriching, mightiest, excellent, Wherewith, O Wondrous Deva, fair-visored, thunder-armed, thou hast filled full this Earth and Heaven.\np:We call on thee, O King, Mighty amid the Devas, Ruler of men, to succour us. All that is weak in us, Excellent Deva, make firm: make our foes easy to subdue.\np:All strength and valour that is found, Indra, in tribes of Nahusas, and all the splendid fame that the Five Tribes enjoy Bring, yea, all manly powers at once.\np:Or, Indra, what vigorous strength in Trksi lay, in Druhyus or in Paru's folk, Fully bestow on us, that, in the conquering fray, we may subdue our foes in fight.\np:O Indra, grant a happy home, a triple refuge triply strong. Bestow a dwelling-place on the rich lords and me, and keep thy dart afar from these.\np:They who with minds intent on spoil subdue the foe, boldly attack and smite him down,&#151; From these, O Indra Indra who lovest song, be closest guardian of our lives.\np:And now, O Indra, strengthen us: come near and aid us in the fight, what time the feathered shafts are flying in the air, the arrows with their sharpened points.\np:Give us, where heroes strain their bodies in the fight, the shelter that our fathers loved. To us and to our sons give refuge: keep afar all unobserved hostility.\np:When, Indra, in the mighty fray thou urgest chargers to their speed, On the uneven road and on a toilsome path, like falcons, eager for renown,\np:Speeding like rivers rushing down a steep descent, responsive to the urging call, that come like birds attracted to the bait, held in by reins in both the driver's hands.",
-    "next": "06047",
-    "previous": "06045",
-    "book": "06"
+    "feecting": "p:THAT we may win us wealth and power we poets, verily, call on thee: In war men call on thee, Indra, the hero's Lord, in the steed's race-course call on thee.\np:As such, O Wonderful, whose hand holds thunder, praised as mighty, Caster of the Stone! Pour on us boldly, Indra, kine and chariotsteeds, ever to be the conqueror's strength.\np:We call upon that Indra, who, most active, ever subdues the foe: Lord of the brave, most Manly, with a thousand powers, help thou and prosper us in fight.\np:Rcisama, thou forcest men as with a bull, with anger, in the furious fray.\np: Be thou our Helper in the mighty battle fought for sunlight, water, and for life.\r\np:O Indra, bring us name and fame, enriching, mightiest, excellent, Wherewith, O Wondrous Deva, fair-visored, thunder-armed, thou hast filled full this Earth and Heaven.\np:We call on thee, O King, Mighty amid the Devas, Ruler of men, to assist us. All that is weak in us, Excellent Deva, make firm: make our foes easy to subdue.\np:All strength and valour that is found, Indra, in tribes of Nahusas, and all the splendid fame that the Five Tribes enjoy Bring, yea, all manly powers at once.\np:Or, Indra, what vigorous strength in Trksi lay, in Druhyus or in Paru's folk, Fully bestow on us, that, in the conquering fray, we may subdue our foes in fight.\np:O Indra, grant a happy home, a triple refuge triply strong. Bestow a dwelling-place on the rich lords and me, and keep thy dart afar from these.\np:They who with minds intent on spoil subdue the foe, boldly attack and smite him down. From these, O Indra Indra who lovest song, be closest guardian of our lives.\np:And now, O Indra, strengthen us: come near and aid us in the fight, what time the feathered shafts are flying in the air, the arrows with their sharpened points.\np:Give us, where heroes strain their bodies in the fight, the shelter that our fathers loved. To us and to our sons give refuge: keep afar all unobserved hostility.\np:When, Indra, in the mighty fray thou urgest chargers to their speed, On the uneven road and on a toilsome path, like falcons, eager for renown,\np:Speeding like rivers rushing down a steep descent, responsive to the urging call, that come like birds attracted to the bait, held in by reins in both the driver's hands.",
+    "meta": {
+      "next": "06047",
+      "previous": "06045",
+      "book": "06",
+      "source": "https://sacred-texts.com/hin/rigveda/rv06046.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv06046.htm"
+    },
+    "deities": [
+      {
+        "name": "O Wonderful",
+        "hymns": [
+          {
+            "key": "06046",
+            "title": "HYMN XLVI. Indra."
+          }
+        ]
+      },
+      {
+        "name": "O Indra",
+        "hymns": [
+          {
+            "key": "06046",
+            "title": "HYMN XLVI. Indra."
+          },
+          {
+            "key": "06046",
+            "title": "HYMN XLVI. Indra."
+          },
+          {
+            "key": "06046",
+            "title": "HYMN XLVI. Indra."
+          },
+          {
+            "key": "06046",
+            "title": "HYMN XLVI. Indra."
+          }
+        ]
+      },
+      {
+        "name": "O Wondrous",
+        "hymns": [
+          {
+            "key": "06046",
+            "title": "HYMN XLVI. Indra."
+          }
+        ]
+      },
+      {
+        "name": "O King",
+        "hymns": [
+          {
+            "key": "06046",
+            "title": "HYMN XLVI. Indra."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638555588906,
-  "updated": 1638792007903
+  "updated": 1638830292405
 }

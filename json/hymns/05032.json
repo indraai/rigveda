@@ -5,13 +5,29 @@
   "link": "hymns/05032.html",
   "api": "json/hymns/05032.json",
   "data": {
+    "key": "05032",
     "title": "HYMN XXXII. Indra.",
-    "describe": "&#7788;",
-    "feecting": "p:&#7788;HE well thou clavest, settest free the fountains, and gavest rest to floods that were obstructed.\np: Thou, Indra, laying the great mountain open, subduing the D&#257;nava, didst loose the torrents.\r\np:The fountain-depths obstructed in their seasons Thunderer! madest flow, the mountain's udder. Strong Indra, thou by subduing e&#146;en the Dragon that lay extended there hast shown thy vigour.\np:Indra with violence smote down the weapon, yea, even of that wild and mighty creature. Although he deemed himself alone unequalled, another had been born e&#146;en yet more potent.\np:Him, whom the heavenly food of these delighted, child of the mist, strong waxing, couched in darkness, him the bolt-hurling Thunderer with his lightning smote down and slew, the D&#257;nava's wrath-fire, &#346;u&#7779;&#7751;a.\np:Though he might ne&#146;er be wounded still his vitals felt that's bolt, which his powers supported, when, after offered draughts, Strong Lord, thou laidest him, fain to battle, in the pit in darkness.\np:Him as he lay there huge in length extended, still waxing in the gloom which no sun lightened, him, after loud-voiced threats, the Hero Indra, rejoicing in the poured libation, slaughtered.\np:When 'gainst the mighty D&#257;nava his weapon Indra uplifted, power which none could combat, when at the hurling of his bolt he smote him, he made him lower than all living creatures.\np:The fierce God seized that huge and restless coiler, insatiate, drinker of the sweets, recumbent, and with his mighty weapon in his dwelling smote down the footless evil-speaking ogre.\np:Wh. May arrest his strength or cheek his vigour? Alone, resistless, he bears off all riches. Even these Twain, these Goddesses, through terror of Indra's might, retire from his dominion.\np:E&#146;en the Celestial Axe bows down before him, and the Earth, lover-like, gives way to Indra. As he imparts all vigour to these people, straightway the folk bend them to him the Godlike.\np:I hear that thou wast born sole Lord of heroes of the Five Races, famed among the people. As such my wishes have most lately grasped him, invoking Indra both at eve and morning.\np:So, too, I hear of thee as in due season urging to action and enriching singers. What have thy friends received from thee, the Brahmans who, faithful, rest their hopes on thee, O Indra?",
-    "next": "05033",
-    "previous": "05031",
-    "book": "05"
+    "describe": "ṬHE well thou clavest, settest free the fountains, and gavest rest to floods that were obstructed.",
+    "feecting": "p:ṬHE well thou clavest, settest free the fountains, and gavest rest to floods that were obstructed.\np: Thou, Indra, laying the great mountain open, subduing the Dānava, didst loose the torrents.\r\np:The fountain-depths obstructed in their seasons Thunderer! madest flow, the mountain's udder. Strong Indra, thou by subduing e’en the Dragon that lay extended there hast shown thy vigour.\np:Indra with violence smote down the weapon, yea, even of that wild and mighty creature. Although he deemed himself alone unequalled, another had been born e’en yet more potent.\np:Him, whom the heavenly food of these delighted, child of the mist, strong waxing, couched in darkness, him the bolt-hurling Thunderer with his lightning smote down and slew, the Dānava's wrath-fire, Śuṣṇa.\np:Though he might ne’er be wounded still his vitals felt that's bolt, which his powers supported, when, after offered draughts, Strong Lord, thou laidest him, fain to battle, in the pit in darkness.\np:Him as he lay there huge in length extended, still waxing in the gloom which no sun lightened, him, after loud-voiced threats, the Hero Indra, rejoicing in the poured libation, slaughtered.\np:When 'gainst the mighty Dānava his weapon Indra uplifted, power which none could combat, when at the hurling of his bolt he smote him, he made him lower than all living creatures.\np:The fierce God seized that huge and restless coiler, insatiate, drinker of the sweets, recumbent, and with his mighty weapon in his dwelling smote down the footless evil-speaking ogre.\np:Wh. May arrest his strength or cheek his vigour? Alone, resistless, he bears off all riches. Even these Twain, these Goddesses, through terror of Indra's might, retire from his dominion.\np:E’en the Celestial Axe bows down before him, and the Earth, lover-like, gives way to Indra. As he imparts all vigour to these people, straightway the folk bend them to him the Godlike.\np:I hear that thou wast born sole Lord of heroes of the Five Races, famed among the people. As such my wishes have most lately grasped him, invoking Indra both at eve and morning.\np:So, too, I hear of thee as in due season urging to action and enriching singers. What have thy friends received from thee, the Brahmans who, faithful, rest their hopes on thee, O Indra?",
+    "meta": {
+      "next": "05033",
+      "previous": "05031",
+      "book": "05",
+      "source": "https://sacred-texts.com/hin/rigveda/rv05032.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv05032.htm"
+    },
+    "deities": [
+      {
+        "name": "O Indra",
+        "hymns": [
+          {
+            "key": "05032",
+            "title": "HYMN XXXII. Indra."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638555054261,
-  "updated": 1638792007784
+  "updated": 1638830292251
 }

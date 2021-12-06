@@ -5,13 +5,38 @@
   "link": "hymns/09056.html",
   "api": "json/hymns/09056.json",
   "data": {
+    "key": "09056",
     "title": "HYMN LVI. Indu.",
     "describe": "SWIFT to the purifying sieve flows Soma as exalted Law, Slaying the fiends, loving the Devas.",
-    "feecting": "p:SWIFT to the purifying sieve flows Soma as exalted Law, Slaying the fiends, loving the Devas.\np:When Soma pours the strengthening food a hundred ever-active streams To Indra's friendship win theirway.\np:Ten Dames have sung to welcome thee, even as a maiden greets her love: O Soma, thou art decked to win.\np:Flow hitherward, O Indu, sweet to Indra and to Vi&#7779;&#7751;u: guard The men, the singers, from distress.",
-    "next": "09057",
-    "previous": "09055",
-    "book": "09"
+    "feecting": "p:SWIFT to the purifying sieve flows Soma as exalted Law, Slaying the fiends, loving the Devas.\np:When Soma pours the strengthening food a hundred ever-active streams To Indra's friendship win theirway.\np:Ten Dames have sung to welcome thee, even as a maiden greets her love: O Soma, thou art decked to win.\np:Flow hitherward, O Indu, sweet to Indra and to Indra: guard The men, the singers, from distress.",
+    "meta": {
+      "next": "09057",
+      "previous": "09055",
+      "book": "09",
+      "source": "https://sacred-texts.com/hin/rigveda/rv09056.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv09056.htm"
+    },
+    "deities": [
+      {
+        "name": "O Soma",
+        "hymns": [
+          {
+            "key": "09056",
+            "title": "HYMN LVI. Indu."
+          }
+        ]
+      },
+      {
+        "name": "O Indu",
+        "hymns": [
+          {
+            "key": "09056",
+            "title": "HYMN LVI. Indu."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638557130326,
-  "updated": 1638792008244
+  "updated": 1638830292870
 }

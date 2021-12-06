@@ -5,13 +5,19 @@
   "link": "hymns/10163.html",
   "api": "json/hymns/10163.json",
   "data": {
+    "key": "10163",
     "title": "HYMN CLXIII",
     "describe": "FROM both thy nostrils, from thine eyes, from both thine ears and from thy chin, forth from thy head and brain and tongue I drive thy malady away.",
     "feecting": "p:FROM both thy nostrils, from thine eyes, from both thine ears and from thy chin, forth from thy head and brain and tongue I drive thy malady away.\np:From the neck-tendons and the neck, from the breast-bones and from the spine, From shoulders, upper, lower arms, I drive thy malady away.\np:From viscera and all within, forth from the rectum, from the heart, From kidneys, liver, and from spleen, I drive thy malady away.\np:From thighs, from knee-caps, and from heels, and from the forepart of the feet, From hips from stomach, and from groin I drive thy malady away.\np:From what is voided from within, and from thy hair, and from they nails, From all thyself from top to toe, I drive thy malady away.\np:From every member, every hair, disease that comes in every joint, From all thyself, from top to toe, I drive thy malady away.",
-    "next": "10164",
-    "previous": "10162",
-    "book": "10"
+    "meta": {
+      "next": "10164",
+      "previous": "10162",
+      "book": "10",
+      "source": "https://sacred-texts.com/hin/rigveda/rv10163.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv10163.htm"
+    },
+    "deities": []
   },
   "created": 1638558300876,
-  "updated": 1638792008599
+  "updated": 1638830293250
 }

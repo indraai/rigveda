@@ -5,13 +5,19 @@
   "link": "hymns/01096.html",
   "api": "json/hymns/01096.json",
   "data": {
+    "key": "01096",
     "title": "HYMN XCVI. Agni.",
     "describe": "HE in the ancient way by strength engendered, lo!",
-    "feecting": "p:HE in the ancient way by strength engendered, lo! straight hath taken to himself all wisdom.\np: The waters and the bowl have made him friendly. The Devas possessed the wealth bestowing Agni.\r\np:At &#256;yu's ancient call he by his wisdom gave all this progeny of men their being, and, by refulgent light. Heaven and the waters. The Devas possessed the wealth. bestowing Agni.\np:Praise him, ye &#256;ryan folk, as chief performer of offering adored and ever toiling, well-tended, Son of Strength, the Constant Giver. The Devas possessed the wealth bestowing Agni.\np:That M&#257;tari&#347;van rich in wealth and treasure, light-winner, finds a pathway for his offspring. Guard of our folk, Father of Earth and Heaven. The Devas possessed the wealth bestowing Agni.\np:Night and Dawn, changing each the other's colour, meeting together suckle one same Infant: Golden between the Heaven and Earth he shineth. The Devas possessed the wealth bestowing Agni.\np:Root of wealth, gathering-place of treasures, banner of offering, who grants the suppliant's wishes: Preserving him as their own life immortals possessed the wealth-bestowing Agni.\np:Now and of old the home of wealth, the mansion of what is born and what was born aforetime, Guard of what is and what will be hereafter,&#151;the Devas possessed the wealth bestowing Agni.\np:May the Wealth-Giver grant us conquering riches. May the Wealth-Giver grant us wealth with heroes. May the Wealth-Giver grant us food with offspring, and length of day. May the Wealth-Giver send us.\np:Fed with our fuel, purifying Agni, so blaze to us auspiciously for glory. This prayer of our. May Varu&#7751;a grant, and Mitra, and Aditi and Sindhu, Earth and Heaven.",
-    "next": "01097",
-    "previous": "01095",
-    "book": "01"
+    "feecting": "p:HE in the ancient way by strength engendered, lo! straight hath taken to himself all wisdom.\np: The waters and the bowl have made him friendly. The Devas possessed the wealth bestowing Agni.\r\np:At Āyu's ancient call he by his wisdom gave all this progeny of men their being, and, by refulgent light. Heaven and the waters. The Devas possessed the wealth. bestowing Agni.\np:Praise him, ye Āryan folk, as chief performer of offering adored and ever toiling, well-tended, Son of Strength, the Constant Giver. The Devas possessed the wealth bestowing Agni.\np:That Mātariśvan rich in wealth and treasure, light-winner, finds a pathway for his offspring. Guard of our folk, Father of Earth and Heaven. The Devas possessed the wealth bestowing Agni.\np:Night and Dawn, changing each the other's colour, meeting together suckle one same Infant: Golden between the Heaven and Earth he shineth. The Devas possessed the wealth bestowing Agni.\np:Root of wealth, gathering-place of treasures, banner of offering, who grants the suppliant's wishes: Preserving him as their own life immortals possessed the wealth-bestowing Agni.\np:Now and of old the home of wealth, the mansion of what is born and what was born aforetime, Guard of what is and what will be hereafter.the Devas possessed the wealth bestowing Agni.\np:May the Wealth-Giver grant us conquering riches. May the Wealth-Giver grant us wealth with heroes. May the Wealth-Giver grant us food with offspring, and length of day. May the Wealth-Giver send us.\np:Fed with our fuel, purifying Agni, so blaze to us auspiciously for glory. This prayer of our. May Indra grant, and Mitra, and Aditi and Sindhu, Earth and Heaven.",
+    "meta": {
+      "next": "01097",
+      "previous": "01095",
+      "book": "01",
+      "source": "https://sacred-texts.com/hin/rigveda/rv01096.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv01096.htm"
+    },
+    "deities": []
   },
   "created": 1638553519634,
-  "updated": 1638792007401
+  "updated": 1638830291736
 }

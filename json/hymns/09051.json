@@ -5,13 +5,29 @@
   "link": "hymns/09051.html",
   "api": "json/hymns/09051.json",
   "data": {
+    "key": "09051",
     "title": "HYMN LI. Indu.",
     "describe": "ADHVARYU, on the filter pour the Soma juice expressed with stones, and make it pure for Indra's drink.",
     "feecting": "p:ADHVARYU, on the filter pour the Soma juice expressed with stones, and make it pure for Indra's drink.\np:Pour out for Indra, Thunder-armed, the milk of Heaven, the Soma's juice, most excellent, most rich in sweets.\np:These Devas and all the Marut host, indu enjoy this juice of thine, This Indu's flowing meath.\np:For, Soma, thou hast been effused, strengthening for the wild carouse, O Steer, the singer, for our help.\np:Flow with thy stream, Far-sighted One, effused, into the cleansing sieve: Flow on to give us strength and fame.",
-    "next": "09052",
-    "previous": "09050",
-    "book": "09"
+    "meta": {
+      "next": "09052",
+      "previous": "09050",
+      "book": "09",
+      "source": "https://sacred-texts.com/hin/rigveda/rv09051.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv09051.htm"
+    },
+    "deities": [
+      {
+        "name": "O Steer",
+        "hymns": [
+          {
+            "key": "09051",
+            "title": "HYMN LI. Indu."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638557104074,
-  "updated": 1638792008241
+  "updated": 1638830292866
 }

@@ -5,13 +5,46 @@
   "link": "hymns/01180.html",
   "api": "json/hymns/01180.json",
   "data": {
-    "title": "HYMN CLXXX. A&#347;vins.",
+    "key": "01180",
+    "title": "HYMN CLXXX. Aśvins.",
     "describe": "LIGHTLY your coursers travel through the regions when round the sea of air your car is flying.",
-    "feecting": "p:LIGHTLY your coursers travel through the regions when round the sea of air your car is flying.\np: Your golden fellies scatter drops of moisture: drinking the sweetness ye attend the Mornings.\r\np:Ye as ye travel overtake the Courser who flies apart, the Friend of man, most holy. May convey you to support and strengthen.\np:Ye have deposited in the raw cow the first milk of the milch-cow. Which the bright offerer presents to you.\np:Ye made the fierce heat to be full of sweetness, like streaming water. Fire-offering thence is yours, O A&#347;vins. Heroes: your car-wheels speed to us like springs of honey.\np:May I, ye Mighty, bring you to give your gifts with milk-oblations. Your greatness compasseth Earth. Heaven, and Waters, ye Holy.\np:When, Bounteous Ones, ye drive your yoked team downward, ye send, by your own natures, understanding. Swift as the wind let the prince please and feast you.\np:For verily we truthful singers praise you the niggard trafficker is here excluded. Now, even now do ye O blameless A&#347;vins, ye Mighty, guard the man whose Deva is near him.\np:You of a truth day after day, O A&#347;vins, that he might win the very plenteous torrent famous among mortal heroes, roused with a thousand lauds like sounds of music.\np:When with the glory of your car ye travel, when we go speeding like the Monk of mortals. May we, N&#257;satyas! gain our share of riches.\np:With songs of praise we call to-day, O A&#347;vins, that your new chariot, for our own well-being, that circles Heaven with never-injured fellies. May we find strengthening food in full abundance.",
-    "next": "01181",
-    "previous": "01179",
-    "book": "01"
+    "feecting": "p:LIGHTLY your coursers travel through the regions when round the sea of air your car is flying.\np: Your golden fellies scatter drops of moisture: drinking the sweetness ye attend the Mornings.\r\np:Ye as ye travel overtake the Courser who flies apart, the Friend of man, most holy. May convey you to support and strengthen.\np:Ye have deposited in the raw cow the first milk of the milch-cow. Which the bright offerer presents to you.\np:Ye made the fierce heat to be full of sweetness, like streaming water. Fire-offering thence is yours, O Aśvins. Heroes: your car-wheels speed to us like springs of honey.\np:May I, ye Mighty, bring you to give your gifts with milk-oblations. Your greatness compasseth Earth. Heaven, and Waters, ye Holy.\np:When, Bounteous Ones, ye drive your yoked team downward, ye send, by your own natures, understanding. Swift as the wind let the prince please and feast you.\np:For verily we truthful singers praise you the niggard trafficker is here excluded. Now, even now do ye O blameless Aśvins, ye Mighty, guard the man whose Deva is near him.\np:You of a truth day after day, O Aśvins, that he might win the very plenteous torrent famous among mortal heroes, roused with a thousand lauds like sounds of music.\np:When with the glory of your car ye travel, when we go speeding like the Monk of mortals. May we gain our share of riches.\np:With songs of praise we call to-day, O Aśvins, that your new chariot, for our own well-being, that circles Heaven with never-injured fellies. May we find strengthening food in full abundance.",
+    "meta": {
+      "next": "01181",
+      "previous": "01179",
+      "book": "01",
+      "source": "https://sacred-texts.com/hin/rigveda/rv01180.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv01180.htm"
+    },
+    "deities": [
+      {
+        "name": "O Aśvins",
+        "hymns": [
+          {
+            "key": "01180",
+            "title": "HYMN CLXXX. Aśvins."
+          },
+          {
+            "key": "01180",
+            "title": "HYMN CLXXX. Aśvins."
+          },
+          {
+            "key": "01180",
+            "title": "HYMN CLXXX. Aśvins."
+          }
+        ]
+      },
+      {
+        "name": "O blameless",
+        "hymns": [
+          {
+            "key": "01180",
+            "title": "HYMN CLXXX. Aśvins."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638553964362,
-  "updated": 1638792007507
+  "updated": 1638830291906
 }

@@ -5,13 +5,42 @@
   "link": "hymns/08076.html",
   "api": "json/hymns/08076.json",
   "data": {
-    "title": "HYMN LXXVI. A&#347;vins.",
-    "describe": "SPLENDID, O A&#347;",
-    "feecting": "p:SPLENDID, O A&#347;vins, is your praise. Come fountain-like, to pour the stream.\np: Of the sweet juice effused-dear is it, Chiefs, in Heaven-drink like two wild bulls at a pool.\r\np:Drink the libation rich in sweets, O A&#347;vins Twain: sit. Heroes, on the sacred grass. Do ye with joyful heart in the abode of man preserve his life by means of wealth.\np:The Priyamedhas bid you come with all the succours that are yours. Come to his house whose holy grass is trimmed, to dear offering at the morning rites.\np:Drink ye the Soma rich in meath, ye A&#347;vins Twain: sit gladly on the sacred grass. So, waxen mighty, to our eulogy from Heaven come ye as wild-bulls to the pool.\np:Come to us, O ye A&#347;vins, now with steeds of many a varied hue, Ye Lords of splendour, wondrous, borne on paths of gold, drink Soma, ye who strengthen Law.\np:For we the priestly singers, fain tohymn your praise, invoke you for the gain of strength. So, wondrous, fair, and famed for great deeds come to us, through our hymn, A&#347;vins, when ye hear.",
-    "next": "08077",
-    "previous": "08075",
-    "book": "08"
+    "key": "08076",
+    "title": "HYMN LXXVI. Aśvins.",
+    "describe": "SPLENDID, O Aśvins, is your praise.",
+    "feecting": "p:SPLENDID, O Aśvins, is your praise. Come fountain-like, to pour the stream.\np: Of the sweet juice effused-dear is it, Chiefs, in Heaven-drink like two wild bulls at a pool.\r\np:Drink the libation rich in sweets, O Aśvins Twain: sit. Heroes, on the sacred grass. Do ye with joyful heart in the abode of man preserve his life by means of wealth.\np:The Priyamedhas bid you come with all the assists that are yours. Come to his house whose holy grass is trimmed, to dear offering at the morning rites.\np:Drink ye the Soma rich in meath, ye Aśvins Twain: sit gladly on the sacred grass. So, waxen mighty, to our eulogy from Heaven come ye as wild-bulls to the pool.\np:Come to us, O ye Aśvins, now with steeds of many a varied hue, Ye Lords of splendour, wondrous, borne on paths of gold, drink Soma, ye who strengthen Law.\np:For we the priestly singers, fain tohymn your praise, invoke you for the gain of strength. So, wondrous, fair, and famed for great deeds come to us, through our hymn, Aśvins, when ye hear.",
+    "meta": {
+      "next": "08077",
+      "previous": "08075",
+      "book": "08",
+      "source": "https://sacred-texts.com/hin/rigveda/rv08076.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv08076.htm"
+    },
+    "deities": [
+      {
+        "name": "O Aśvins",
+        "hymns": [
+          {
+            "key": "08076",
+            "title": "HYMN LXXVI. Aśvins."
+          },
+          {
+            "key": "08076",
+            "title": "HYMN LXXVI. Aśvins."
+          }
+        ]
+      },
+      {
+        "name": "O ye ",
+        "hymns": [
+          {
+            "key": "08076",
+            "title": "HYMN LXXVI. Aśvins."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638556692453,
-  "updated": 1638792008160
+  "updated": 1638830292778
 }

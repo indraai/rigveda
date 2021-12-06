@@ -5,13 +5,60 @@
   "link": "hymns/08079.html",
   "api": "json/hymns/08079.json",
   "data": {
+    "key": "08079",
     "title": "HYMN LXXIX. Indra.",
     "describe": "MAY Indra, who in every fight must be invoked, be near to us.",
-    "feecting": "p:MAY Indra, who in every fight must be invoked, be near to us.\np: May the most mighty V&#7771;tra-slayer, meet for praise, come to libations and to hymns.\r\np:Thou art the best of all in sending bounteous gifts, true art thou, lordly in thine act. We claim alliance with the very Glorious One, yea, with the Mighty Son of Strength.\np:Prayers unsurpassed are offered up to thee the Lover of the Song. Indra, Lord of Bay Steeds, accept these fitting hymns, hymns which we have thought out for thee.\np:For thou, O Indra, art truthful, ne&#146;er subdued and bringest many a V&#7771;tra low. As such, O Mightiest Lord, Wielder of Thunder, send wealth hither to the worshipper.\np:O Indra, thou art far-renowned, impetuous, O Lord of Strength. Alone thou slayest with the guardian of mankind resistless never-conquered foes.\np:As such we seek thee now, O Devas, thee most wise, craving thy bounty as our share. Thy sheltering defence is like a mighty cloak. May thy glories reach to us.",
-    "next": "08080",
-    "previous": "08078",
-    "book": "08"
+    "feecting": "p:MAY Indra, who in every fight must be invoked, be near to us.\np: May the most mighty Vṛtra-slayer, meet for praise, come to libations and to hymns.\r\np:Thou art the best of all in sending bounteous gifts, true art thou, lordly in thine act. We claim alliance with the very Glorious One, yea, with the Mighty Son of Strength.\np:Prayers unsurpassed are offered up to thee the Lover of the Song. Indra, Lord of Bay Steeds, accept these fitting hymns, hymns which we have thought out for thee.\np:For thou, O Indra, art truthful, ne’er subdued and bringest many a Vṛtra low. As such, O Mightiest Lord, Wielder of Thunder, send wealth hither to the worshipper.\np:O Indra, thou art far-renowned, impetuous, O Lord of Strength. Alone thou slayest with the guardian of mankind resistless never-conquered foes.\np:As such we seek thee now, O Devas, thee most wise, craving thy bounty as our share. Thy sheltering defence is like a mighty cloak. May thy glories reach to us.",
+    "meta": {
+      "next": "08080",
+      "previous": "08078",
+      "book": "08",
+      "source": "https://sacred-texts.com/hin/rigveda/rv08079.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv08079.htm"
+    },
+    "deities": [
+      {
+        "name": "O Indra",
+        "hymns": [
+          {
+            "key": "08079",
+            "title": "HYMN LXXIX. Indra."
+          },
+          {
+            "key": "08079",
+            "title": "HYMN LXXIX. Indra."
+          }
+        ]
+      },
+      {
+        "name": "O Mightiest",
+        "hymns": [
+          {
+            "key": "08079",
+            "title": "HYMN LXXIX. Indra."
+          }
+        ]
+      },
+      {
+        "name": "O Lord",
+        "hymns": [
+          {
+            "key": "08079",
+            "title": "HYMN LXXIX. Indra."
+          }
+        ]
+      },
+      {
+        "name": "O Devas",
+        "hymns": [
+          {
+            "key": "08079",
+            "title": "HYMN LXXIX. Indra."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638556708253,
-  "updated": 1638792008163
+  "updated": 1638830292780
 }

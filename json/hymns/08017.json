@@ -5,13 +5,46 @@
   "link": "hymns/08017.html",
   "api": "json/hymns/08017.json",
   "data": {
+    "key": "08017",
     "title": "HYMN XVII Indra.",
     "describe": "COME, we have pressed the juice for thee;",
-    "feecting": "p:COME, we have pressed the juice for thee; O Indra, drink this Soma here Sit thou on this my sacred grass.\np:O Indra, let thy long-maned Bays, yoked by prayer, bring thee hitherward Give car and listen to our meditations.\np:We Soma-bearing Brahmans call thee Soma-drinker with thy friend, We, Indra, bringing Soma juice.\np:Come unto us who bring the juice, come unto this our eulogy, Fair-visored! drink thou of the juice.\np:I pour it down within thee, so through all thy members let it spread: Take with. thy tongue the pleasant drink.\np:Sweet to thy body let it be, delicious be the savoury juice: Sweet be the Soma to thine heart.\np:Like women, let this Soma-draught, invested with its robe, approach, O active Indra, close to thee.\np:Indra, transported with the juice, vast in his bulk, strong in his neck And stout arms, smites the V&#7771;tras down.\np:O Indra, go thou forward, thou who rulest over all by might: Thou V&#7771;tra-slayer subdue the fiends,\np:Long be thy grasping-hook wherewith thou givest ample wealth to him Who sheds the juice and worships thee.\np:Here, Indra, is thy Soma-draught, made pure upon the sacred grass: Run hither, come and drink thereof.\np:Famed for thy radiance, worshipped well this juice is shed for thy delight Thou art invoked, Akhandala!\np:To Kundapayya, grandson's son, grandson of Srngavrs! to thee, to him have I addressed my thought.\np:Strong pillar thou, Lord of the home armour of Soma-offerers: The drop of Soma breaketh all the strongholds down, and Indra is the &#7770;&#7779;is&#146; Friend.\np:Holy Prdikusanu, winner of the spoil, on eminent o&#146;er many men, Lead on the wild horse Indra with his vigorous grasp forward  juice.",
-    "next": "08018",
-    "previous": "08016",
-    "book": "08"
+    "feecting": "p:COME, we have pressed the juice for thee; O Indra, drink this Soma here Sit thou on this my sacred grass.\np:O Indra, let thy long-maned Bays, yoked by prayer, bring thee hitherward Give car and listen to our meditations.\np:We Soma-bearing Brahmans call thee Soma-drinker with thy friend, We, Indra, bringing Soma juice.\np:Come unto us who bring the juice, come unto this our eulogy, Fair-visored! drink thou of the juice.\np:I pour it down within thee, so through all thy members let it spread: Take with. thy tongue the pleasant drink.\np:Sweet to thy body let it be, delicious be the savoury juice: Sweet be the Soma to thine heart.\np:Like women, let this Soma-draught, invested with its robe, approach, O active Indra, close to thee.\np:Indra, transported with the juice, vast in his bulk, strong in his neck And stout arms, smites the Vṛtras down.\np:O Indra, go thou forward, thou who rulest over all by might: Thou Vṛtra-slayer subdue the fiends,\np:Long be thy grasping-hook wherewith thou givest ample wealth to him Who sheds the juice and worships thee.\np:Here, Indra, is thy Soma-draught, made pure upon the sacred grass: Run hither, come and drink thereof.\np:Famed for thy radiance, worshipped well this juice is shed for thy delight Thou art invoked, Akhandala!\np:To Kundapayya, grandson's son, grandson of Srngavrs! to thee, to him have I addressed my thought.\np:Strong pillar thou, Lord of the home armour of Soma-offerers: The drop of Soma breaketh all the strongholds down, and Indra is the Ṛṣis’ Friend.\np:Holy Prdikusanu, winner of the spoil, on eminent o’er many men, Lead on the wild horse Indra with his vigorous grasp forward  juice.",
+    "meta": {
+      "next": "08018",
+      "previous": "08016",
+      "book": "08",
+      "source": "https://sacred-texts.com/hin/rigveda/rv08017.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv08017.htm"
+    },
+    "deities": [
+      {
+        "name": "O Indra",
+        "hymns": [
+          {
+            "key": "08017",
+            "title": "HYMN XVII Indra."
+          },
+          {
+            "key": "08017",
+            "title": "HYMN XVII Indra."
+          },
+          {
+            "key": "08017",
+            "title": "HYMN XVII Indra."
+          }
+        ]
+      },
+      {
+        "name": "O active",
+        "hymns": [
+          {
+            "key": "08017",
+            "title": "HYMN XVII Indra."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638556381175,
-  "updated": 1638792008077
+  "updated": 1638830292672
 }

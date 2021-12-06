@@ -5,13 +5,60 @@
   "link": "hymns/07036.html",
   "api": "json/hymns/07036.json",
   "data": {
-    "title": "HYMN XXXVI. Vi&#347;vedevas",
-    "describe": "LET the prayer issue from the seat of Order, for S&#363;",
-    "feecting": "p:LET the prayer issue from the seat of Order, for S&#363;rya with his beams hath loosed the cattle.\np: With lofty ridges Earth is far extended, and Agni's flame hath lit the spacious surface.\r\np:O Devass, O Varu&#7751;a and Mitra, this hymn to you, like food, anew I offer. One of you is a strong unerring Leader, and Mitra, speaking, stirreth men to labour.\np:The movements of the gliding wind come hither: like cows, the springs are filled to overflowing. Born in the station e&#146;en of lofty Heaven the Bull hath loudly bellowed in this region.\np:May I bring hither with my song, O Indra, wise Aryaman who yokes thy dear Bay Horses, Voracious, with thy noble car, O Hero, him who defeats the wrath of the malicious.\np:In their own place of offering adorers worship to gain long life and win his friendship. He hath poured food on men when they have praised him; be this, the dearest reverence, paid to Soma.\np:Coming together, glorious, loudly roaring - Sarasvat&#299;, Mother of Floods, the seventh- With copious milk, with fair streams, strongly flowing, full swelling with the volume of their water;\np:An. May the mighty Devas, too, rejoicing, aid our devotion and protect our offspring. Let not swift-moving Aksara neglect us: they have increased our own appropriate riches,\np:Bring ye the great Aramati before you, and P&#363;&#7779;an as the Hero of the synod, Bhaga who looks upon this hymn with favour, and, as our strength, the bountiful Purandbi.\np:May this our song of praise reach you, O Devas, and Vi&#7779;&#7751;u guardian of the future infant. May they vouchsafe the singer strength for offspring. Preserve us evermore, ye Devas, with blessings.",
-    "next": "07037",
-    "previous": "07035",
-    "book": "07"
+    "key": "07036",
+    "title": "HYMN XXXVI. Devas",
+    "describe": "LET the prayer issue from the seat of Order, for Sūrya with his beams hath loosed the cattle.",
+    "feecting": "p:LET the prayer issue from the seat of Order, for Sūrya with his beams hath loosed the cattle.\np: With lofty ridges Earth is far extended, and Agni's flame hath lit the spacious surface.\r\np:O Devass, O Indra and Mitra, this hymn to you, like food, anew I offer. One of you is a strong unerring Leader, and Mitra, speaking, stirreth men to labour.\np:The movements of the gliding wind come hither: like cows, the springs are filled to overflowing. Born in the station e’en of lofty Heaven the Bull hath loudly bellowed in this region.\np:May I bring hither with my song, O Indra, wise Aryaman who yokes thy dear Bay Horses, Voracious, with thy noble car, O Hero, him who defeats the wrath of the malicious.\np:In their own place of offering adorers worship to gain long life and win his friendship. He hath poured food on men when they have praised him; be this, the dearest reverence, paid to Soma.\np:Coming together, glorious, loudly roaring - Sarasvatī, Mother of Floods, the seventh- With copious milk, with fair streams, strongly flowing, full swelling with the volume of their water;\np:An. May the mighty Devas, too, rejoicing, aid our devotion and protect our offspring. Let not swift-moving Aksara neglect us: they have increased our own appropriate riches,\np:Bring ye the great Aramati before you, and Pūṣan as the Hero of the synod, Bhaga who looks upon this hymn with favour, and, as our strength, the bountiful Purandbi.\np:May this our song of praise reach you, O Devas, and Indra guardian of the future infant. May they vouchsafe the singer strength for offspring. Preserve us evermore, ye Devas, with blessings.",
+    "meta": {
+      "next": "07037",
+      "previous": "07035",
+      "book": "07",
+      "source": "https://sacred-texts.com/hin/rigveda/rv07036.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv07036.htm"
+    },
+    "deities": [
+      {
+        "name": "O Devass",
+        "hymns": [
+          {
+            "key": "07036",
+            "title": "HYMN XXXVI. Devas"
+          }
+        ]
+      },
+      {
+        "name": "O Indra",
+        "hymns": [
+          {
+            "key": "07036",
+            "title": "HYMN XXXVI. Devas"
+          },
+          {
+            "key": "07036",
+            "title": "HYMN XXXVI. Devas"
+          }
+        ]
+      },
+      {
+        "name": "O Hero",
+        "hymns": [
+          {
+            "key": "07036",
+            "title": "HYMN XXXVI. Devas"
+          }
+        ]
+      },
+      {
+        "name": "O Devas",
+        "hymns": [
+          {
+            "key": "07036",
+            "title": "HYMN XXXVI. Devas"
+          }
+        ]
+      }
+    ]
   },
   "created": 1638555932382,
-  "updated": 1638792007978
+  "updated": 1638830292540
 }

@@ -5,13 +5,49 @@
   "link": "hymns/08037.html",
   "api": "json/hymns/08037.json",
   "data": {
+    "key": "08037",
     "title": "HYMN XXXVII. Indra.",
-    "describe": "THIS prayer, and those who shed the juice, in wars with V&#7771;",
-    "feecting": "p:THIS prayer, and those who shed the juice, in wars with V&#7771;tra thou holpest, Indra, Lord of Strength, with all thy succours.\np: O V&#7771;tra-slayer, from libation poured at noon, drink of the Soma juice, thou blameless Thunderer.\r\np:Thou mighty Conqueror of hostile armaments, O Indra, Lord of Strength, with all thy saving help.\np:Sole Ruler, thou art Sovran of this world of life, O Indra, Lord of Strength, with all thy saving help.\np:Thou only sunderest these two consistent worlds, O Indra, Lord of Strength, with all thy saving help.\np:Thou art the Lord supreme o&#146;er rest and energy, O Indra, Lord of Strength, with all thy saving help.\np:Thou helpest one to power, and one thou hast not helped, O Indra, Lord of Strength, with all thy saving aid.\np:Hear thou &#346;y&#257;v&#257;&#347;va while he sings to thee, as erst thou heardest Atri when he wrought his holy rites. Indra, thou only gavest Trasadasyu aid in the fierce fight with heroes, strengthening his powers.",
-    "next": "08038",
-    "previous": "08036",
-    "book": "08"
+    "describe": "THIS prayer, and those who shed the juice, in wars with Vṛtra thou holpest, Indra, Lord of Strength, with all thy assists.",
+    "feecting": "p:THIS prayer, and those who shed the juice, in wars with Vṛtra thou holpest, Indra, Lord of Strength, with all thy assists.\np: O Indra, from libation poured at noon, drink of the Soma juice, thou blameless Thunderer.\r\np:Thou mighty Conqueror of hostile armaments, O Indra, Lord of Strength, with all thy saving help.\np:Sole Ruler, thou art Sovran of this world of life, O Indra, Lord of Strength, with all thy saving help.\np:Thou only sunderest these two consistent worlds, O Indra, Lord of Strength, with all thy saving help.\np:Thou art the Lord supreme o’er rest and energy, O Indra, Lord of Strength, with all thy saving help.\np:Thou helpest one to power, and one thou hast not helped, O Indra, Lord of Strength, with all thy saving aid.\np:Hear thou Śyāvāśva while he sings to thee, as erst thou heardest Atri when he wrought his holy rites. Indra, thou only gavest Trasadasyu aid in the fierce fight with heroes, strengthening his powers.",
+    "meta": {
+      "next": "08038",
+      "previous": "08036",
+      "book": "08",
+      "source": "https://sacred-texts.com/hin/rigveda/rv08037.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv08037.htm"
+    },
+    "deities": [
+      {
+        "name": "O Indra",
+        "hymns": [
+          {
+            "key": "08037",
+            "title": "HYMN XXXVII. Indra."
+          },
+          {
+            "key": "08037",
+            "title": "HYMN XXXVII. Indra."
+          },
+          {
+            "key": "08037",
+            "title": "HYMN XXXVII. Indra."
+          },
+          {
+            "key": "08037",
+            "title": "HYMN XXXVII. Indra."
+          },
+          {
+            "key": "08037",
+            "title": "HYMN XXXVII. Indra."
+          },
+          {
+            "key": "08037",
+            "title": "HYMN XXXVII. Indra."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638556486383,
-  "updated": 1638792008107
+  "updated": 1638830292715
 }

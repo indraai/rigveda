@@ -5,13 +5,29 @@
   "link": "hymns/03023.html",
   "api": "json/hymns/03023.json",
   "data": {
+    "key": "03023",
     "title": "HYMN XXIII. Agni.",
     "describe": "RUBBED into life, well stablished in the dwelling, Leader of offering, the Sage, the youthful.",
-    "feecting": "p:RUBBED into life, well stablished in the dwelling, Leader of offering, the Sage, the youthful. Here in the wasting fuel J&#257;tavedas, eternal, hath assumed immortal being.\np:Both Bharatas, Deva&#347;ravas, Dev&#257;vata, have strongly rubbed to life effectual Agni.\np: O Agni, look thou forth with ample riches: be, every day, bearer of food to feed us.\r\np:Him nobly born of old the fingers ten produced, him whom his Mothers counted dear. Praise Dev&#257;vata's Agni, thou Deva&#347;ravas, him who shall be the people's Lord.\np:He set thee in the Earth's most lovely station, in I&#7735;&#257;'s place, in days of fair bright weather. On man, on &#256;pay&#257;, Agni! on the rivers D&#7771;&#7779;advati, Sarasvat&#299;, shine richly.\np:Agni, as holy food to thine invoker give wealth in cattle, lasting, rich in marvels. To us be born a son and spreading offspring Agni, be this thy gracious will to us-ward",
-    "next": "03024",
-    "previous": "03022",
-    "book": "03"
+    "feecting": "p:RUBBED into life, well stablished in the dwelling, Leader of offering, the Sage, the youthful. Here in the wasting fuel Jātavedas, eternal, hath assumed immortal being.\np:Both Bharatas, Devaśravas, Devāvata, have strongly rubbed to life effectual Agni.\np: O Agni, look thou forth with ample riches: be, every day, bearer of food to feed us.\r\np:Him nobly born of old the fingers ten produced, him whom his Mothers counted dear. Praise Devāvata's Agni, thou Devaśravas, him who shall be the people's Lord.\np:He set thee in the Earth's most lovely station, in Iḷā's place, in days of fair bright weather. On man, on Āpayā, Agni! on the rivers Dṛṣadvati, Sarasvatī, shine richly.\np:Agni, as holy food to thine invoker give wealth in cattle, lasting, rich in marvels. To us be born a son and spreading offspring Agni, be this thy gracious will to us-ward",
+    "meta": {
+      "next": "03024",
+      "previous": "03022",
+      "book": "03",
+      "source": "https://sacred-texts.com/hin/rigveda/rv03023.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv03023.htm"
+    },
+    "deities": [
+      {
+        "name": "O Agni",
+        "hymns": [
+          {
+            "key": "03023",
+            "title": "HYMN XXIII. Agni."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638554371810,
-  "updated": 1638792007608
+  "updated": 1638830292035
 }

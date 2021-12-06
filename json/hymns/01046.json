@@ -5,13 +5,56 @@
   "link": "hymns/01046.html",
   "api": "json/hymns/01046.json",
   "data": {
-    "title": "HYMN XLVI. A&#347;vins.",
-    "describe": "Now Morning with her earliest light shines forth, dear Daughter of the Sky: High, A&#347;",
-    "feecting": "p:Now Morning with her earliest light shines forth, dear Daughter of the Sky: High, A&#347;vins, I extol your praise,\np:Sons of the Sea, mighty to save discoverers of riches, ye Devas with deep thought who find out wealth.\np:Your giant coursers hasten on over the region all in flames,  When your car flies with winged steeds.\np:He, liberal, lover of the flood, Lord of the House, the vigilant, Chiefs! with oblations feeds you full.\np:Ye have regard unto our hymns, N&#257;satyas, thinking of our words: Drink boldly of the Soma juice.\np:Vouchsafe to us, O A&#347;vin Pair, such strength as, with attendant light, May through the darkness carry us.\np:Come in the ship of these our hymns to bear you to the hither shore O A&#347;vins, harness ye the car.\np:The Heaven's wide vessel is your own on the flood's shore your chariot waits Drops, with the hymn, have been prepared.\np:Ka&#7751;vas, the drops are in the Heaven; the wealth is at the waters' place: Where will ye manifest your form?\np:Light came to lighten up the branch, the Sun appeared as it were gold: And with its tongue shone forth the dark.\np:The path of offering was made to travel to the farther goal: The road of Heaven was manifest.\np:The singer of their praise awaits whatever grace the A&#347;vins givepath of offering.\np:Ye dwellers with Vivasv&#257;n come, auspicious come to our offering.\np:O circumambient A&#347;vins, Dawn follows the brightness of your way: Approve with beams our solemn rites.\np:Drink ye of our libations, grant protection, O ye A&#347;vins Twain, with aids which non. May interrupt.",
-    "next": "01047",
-    "previous": "01045",
-    "book": "01"
+    "key": "01046",
+    "title": "HYMN XLVI. Aśvins.",
+    "describe": false,
+    "feecting": "p:Now Morning with her earliest light shines forth, dear Daughter of the Sky: High, Aśvins, I extol your praise,\np:Sons of the Sea, mighty to save discoverers of riches, ye Devas with deep thought who find out wealth.\np:Your giant coursers hasten on over the region all in flames,  When your car flies with winged steeds.\np:He, liberal, lover of the flood, Lord of the House, the vigilant, Chiefs! with oblations feeds you full.\np:Ye have regard unto our hymns, Nāsatyas, thinking of our words: Drink boldly of the Soma juice.\np:Vouchsafe to us, O Aśvin Pair, such strength as, with attendant light, may through the darkness carry us.\np:Come in the ship of these our hymns to bear you to the hither shore O Aśvins, harness ye the car.\np:The Heaven's wide vessel is your own on the flood's shore your chariot waits Drops, with the hymn, have been prepared.\np:Kaṇvas, the drops are in the Heaven; the wealth is at the waters' place: Where will ye manifest your form?\np:Light came to lighten up the branch, the Sun appeared as it were gold: And with its tongue shone forth the dark.\np:The path of offering was made to travel to the farther goal: The road of Heaven was manifest.\np:The singer of their praise awaits whatever grace the Aśvins givepath of offering.\np:Ye dwellers with Vivasvān come, auspicious come to our offering.\np:O circumambient Aśvins, Dawn follows the brightness of your way: Approve with beams our solemn rites.\np:Drink ye of our libations, grant protection, O ye Aśvins Twain, with aids which non. May interrupt.",
+    "meta": {
+      "next": "01047",
+      "previous": "01045",
+      "book": "01",
+      "source": "https://sacred-texts.com/hin/rigveda/rv01046.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv01046.htm"
+    },
+    "deities": [
+      {
+        "name": "O Aśvin",
+        "hymns": [
+          {
+            "key": "01046",
+            "title": "HYMN XLVI. Aśvins."
+          }
+        ]
+      },
+      {
+        "name": "O Aśvins",
+        "hymns": [
+          {
+            "key": "01046",
+            "title": "HYMN XLVI. Aśvins."
+          }
+        ]
+      },
+      {
+        "name": "O circumambient",
+        "hymns": [
+          {
+            "key": "01046",
+            "title": "HYMN XLVI. Aśvins."
+          }
+        ]
+      },
+      {
+        "name": "O ye ",
+        "hymns": [
+          {
+            "key": "01046",
+            "title": "HYMN XLVI. Aśvins."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638553255993,
-  "updated": 1638792007337
+  "updated": 1638830291652
 }

@@ -5,13 +5,29 @@
   "link": "hymns/10135.html",
   "api": "json/hymns/10135.json",
   "data": {
+    "key": "10135",
     "title": "HYMN CXXXV. Yama.",
     "describe": "IN the Tree clothed with goodly leaves where Yama drinketh with the Devas, the Father, Master of the house, tendeth with love our ancient Sires.",
-    "feecting": "p:IN the Tree clothed with goodly leaves where Yama drinketh with the Devas, the Father, Master of the house, tendeth with love our ancient Sires.\np:I looked reluctantly on him who cherishes those men of old, On him who treads that evil path, and then I yearned for this again.\np:Thou mountest, though thou dost not see, O Child, the new and wheel-less car Which thou hast fashioned mentally, onepoled but turning every way.\np:The car which thou hast made to roll hitherward from the Sages, Child! This hath the S&#257;man followed close, hence, laid together on a ship.\np:Who was the father of the child? Who made the chariot roll away? Who will this day declare to us how the funeral gift was made?\np:When the funeral gift was placed, straightway the point of flame appeared.\np: A depth extended in the front: a passage out was made behind.\r\np:Here is the seat where Yama dwells, that which is called the Home of Devas: Here minstrels blow the flute for him here he is glorified with songs.",
-    "next": "10136",
-    "previous": "10134",
-    "book": "10"
+    "feecting": "p:IN the Tree clothed with goodly leaves where Yama drinketh with the Devas, the Father, Master of the house, tendeth with love our ancient Sires.\np:I looked reluctantly on him who cherishes those men of old, On him who treads that evil path, and then I yearned for this again.\np:Thou mountest, though thou dost not see, O Child, the new and wheel-less car Which thou hast fashioned mentally, onepoled but turning every way.\np:The car which thou hast made to roll hitherward from the Sages, Child! This hath the Sāman followed close, hence, laid together on a ship.\np:Who was the father of the child? Who made the chariot roll away? Who will this day declare to us how the funeral gift was made?\np:When the funeral gift was placed, straightway the point of flame appeared.\np: A depth extended in the front: a passage out was made behind.\r\np:Here is the seat where Yama dwells, that which is called the Home of Devas: Here minstrels blow the flute for him here he is glorified with songs.",
+    "meta": {
+      "next": "10136",
+      "previous": "10134",
+      "book": "10",
+      "source": "https://sacred-texts.com/hin/rigveda/rv10135.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv10135.htm"
+    },
+    "deities": [
+      {
+        "name": "O Child",
+        "hymns": [
+          {
+            "key": "10135",
+            "title": "HYMN CXXXV. Yama."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638558152544,
-  "updated": 1638792008573
+  "updated": 1638830293220
 }

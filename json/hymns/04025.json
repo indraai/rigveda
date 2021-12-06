@@ -5,13 +5,19 @@
   "link": "hymns/04025.html",
   "api": "json/hymns/04025.json",
   "data": {
+    "key": "04025",
     "title": "HYMN XXV. Indra.",
     "describe": "WHAT friend of man, God-loving, hath delighted, yearning therefor, this day in Indra's friendship?",
-    "feecting": "p:WHAT friend of man, God-loving, hath delighted, yearning therefor, this day in Indra's friendship? Who with enkindled flame and flowing Soma laudeth him for his great protecting favour?\np:Who hath with prayer bowed to the Soma-lover? What pious man endues the beams of morning? Who seeks bond, friendship, brotherhood with Indra? Who hath recourse unto the Sage for succour?\np:Who claims to-day the Deities' protection, asks Aditi for light, or the &#256;dityas? Of whose pressed stalk of Soma drink the A&#347;vins, Indra, and Agni, well-inclined in spirit?\np:To him shall Agni Bh&#257;rata give shelter: long shall he look upon the Sun up-rising, who sayeth, Let us press the juice for Indra, man's Friend, the Hero manliest of heroes.\np:Him neither few men overcome, nor many to him shall Aditi give spacious shelter.\np: Dear is the pious, the devout, to Indra dear is the zealous, dear the Soma-bringer.\r\np:This Hero curbs the mighty for the zealous: the presser's brew Indra possesses solely: No brother, kin, or friend to him who pours not, destroyer of the dumb who would resist him.\np:Not with the wealthy churl who pours no Soma doth Indra, Soma-drinker, bind alliance. He draws away his wealth and subdues him naked, own Friend to him who offers, for oblation.\np:Highest and lowest, men who stand between diem, going, returning, dwelling in contentment, Those who show forth their strength when urged to battle-these are the men who call for aid on Indra.",
-    "next": "04026",
-    "previous": "04024",
-    "book": "04"
+    "feecting": "p:WHAT friend of man, God-loving, hath delighted, yearning therefor, this day in Indra's friendship? Who with enkindled flame and flowing Soma laudeth him for his great protecting favour?\np:Who hath with prayer bowed to the Soma-lover? What pious man endues the beams of morning? Who seeks bond, friendship, brotherhood with Indra? Who hath recourse unto the Sage for assist?\np:Who claims to-day the Deities' protection, asks Aditi for light, or the Ādityas? Of whose pressed stalk of Soma drink the Aśvins, Indra, and Agni, well-inclined in spirit?\np:To him shall Agni Bhārata give shelter: long shall he look upon the Sun up-rising, who sayeth, Let us press the juice for Indra, man's Friend, the Hero manliest of heroes.\np:Him neither few men overcome, nor many to him shall Aditi give spacious shelter.\np: Dear is the pious, the devout, to Indra dear is the zealous, dear the Soma-bringer.\r\np:This Hero curbs the mighty for the zealous: the presser's brew Indra possesses solely: No brother, kin, or friend to him who pours not, destroyer of the dumb who would resist him.\np:Not with the wealthy churl who pours no Soma doth Indra, Soma-drinker, bind alliance. He draws away his wealth and subdues him naked, own Friend to him who offers, for oblation.\np:Highest and lowest, men who stand between diem, going, returning, dwelling in contentment, Those who show forth their strength when urged to battle-these are the men who call for aid on Indra.",
+    "meta": {
+      "next": "04026",
+      "previous": "04024",
+      "book": "04",
+      "source": "https://sacred-texts.com/hin/rigveda/rv04025.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv04025.htm"
+    },
+    "deities": []
   },
   "created": 1638554709949,
-  "updated": 1638792007704
+  "updated": 1638830292159
 }

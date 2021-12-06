@@ -5,13 +5,38 @@
   "link": "hymns/03025.html",
   "api": "json/hymns/03025.json",
   "data": {
+    "key": "03025",
     "title": "HYMN XXV. Agni.",
     "describe": "THOU art the sapient Son of Devas, O Agni, yes and the Child of Earth, who knowest all things.",
-    "feecting": "p:THOU art the sapient Son of Devas, O Agni, yes and the Child of Earth, who knowest all things.\np: Bring the Devas specially, thou Sage, for worship.\r\np:Agni the wise bestows the might of heroes grants strengthening food, preparing it for nectar. Thou who art rich in food bring the Devas hither.\np:Agni, infallible, lights Earth and Heaven, immortal Goddesses gracious to all men,&#151; Lord through his strength, splendid through adorations.\np:Come to the offering, Agni and Indra come to the offerer's house who hath the Soma. Come, friendly-minded, Devas, .\np:In the floods' home art thou enkindled, Agni, O J&#257;tavedas, Son of Strength, eternal, Exalting with thine help the gathering-places.",
-    "next": "03026",
-    "previous": "03024",
-    "book": "03"
+    "feecting": "p:THOU art the sapient Son of Devas, O Agni, yes and the Child of Earth, who knowest all things.\np: Bring the Devas specially, thou Sage, for worship.\r\np:Agni the wise bestows the might of heroes grants strengthening food, preparing it for nectar. Thou who art rich in food bring the Devas hither.\np:Agni, infallible, lights Earth and Heaven, immortal Goddesses gracious to all men. Lord through his strength, splendid through adorations.\np:Come to the offering, Agni and Indra come to the offerer's house who hath the Soma. Come, friendly-minded, Devas, .\np:In the floods' home art thou enkindled, Agni, O Jātavedas, Son of Strength, eternal, Exalting with thine help the gathering-places.",
+    "meta": {
+      "next": "03026",
+      "previous": "03024",
+      "book": "03",
+      "source": "https://sacred-texts.com/hin/rigveda/rv03025.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv03025.htm"
+    },
+    "deities": [
+      {
+        "name": "O Agni",
+        "hymns": [
+          {
+            "key": "03025",
+            "title": "HYMN XXV. Agni."
+          }
+        ]
+      },
+      {
+        "name": "O Jātavedas",
+        "hymns": [
+          {
+            "key": "03025",
+            "title": "HYMN XXV. Agni."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638554382637,
-  "updated": 1638792007609
+  "updated": 1638830292037
 }

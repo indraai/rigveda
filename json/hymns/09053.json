@@ -5,13 +5,29 @@
   "link": "hymns/09053.html",
   "api": "json/hymns/09053.json",
   "data": {
+    "key": "09053",
     "title": "HYMN LIII. Indu.",
     "describe": "O THOU with stones for arms, thy powers, crushing the fiends, have raised themselves: Chase thou the foes who compass us.",
     "feecting": "p:O THOU with stones for arms, thy powers, crushing the fiends, have raised themselves: Chase thou the foes who compass us.\np:Thou conquerest thus with might when car meets car, and when the prize is staked: With fearless heart will I sing praise.\np:No one with evil thought assails this Indu's holy laws: Crush him who fain would fight with thee.\np:For Indra to the streams they drive the tawny rapture-dropping Steed, indu the bringer of delight.",
-    "next": "09054",
-    "previous": "09052",
-    "book": "09"
+    "meta": {
+      "next": "09054",
+      "previous": "09052",
+      "book": "09",
+      "source": "https://sacred-texts.com/hin/rigveda/rv09053.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv09053.htm"
+    },
+    "deities": [
+      {
+        "name": "O THOU",
+        "hymns": [
+          {
+            "key": "09053",
+            "title": "HYMN LIII. Indu."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638557114578,
-  "updated": 1638792008242
+  "updated": 1638830292868
 }

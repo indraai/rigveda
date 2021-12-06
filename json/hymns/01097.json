@@ -5,13 +5,38 @@
   "link": "hymns/01097.html",
   "api": "json/hymns/01097.json",
   "data": {
+    "key": "01097",
     "title": "HYMN XCVII. Agni.",
     "describe": "CHASING with light our sin away, O Agni, shine thou wealth on us.",
-    "feecting": "p:CHASING with light our sin away, O Agni, shine thou wealth on us.\np: May his light chase our sin away.\r\np:For goodly fields, for pleasant homes, for wealth we offering to thee. May his light chase our sin away.\np:Best praiser of all these be he; foremost, our chiefs who offering. May his light chase our sin away.\np:So that thy worshippers and we, thine, Agni, in our son. May live. May his light chase our sin away.\np:As ever-conquering Agni's beams of splendour go to every side, May his light chase our sin away.\np:To every side thy face is turned, thou art triumphant everywhere. May his light chase our sin away.\np:O thou whose face looks every way, bear us past foes as in a ship. May his light chase our sin away.\np:As in a ship, convey thou us for our advantage o&#146;er the flood. May his light chase our sin away.",
-    "next": "01098",
-    "previous": "01096",
-    "book": "01"
+    "feecting": "p:CHASING with light our sin away, O Agni, shine thou wealth on us.\np: May his light chase our sin away.\r\np:For goodly fields, for pleasant homes, for wealth we offering to thee. May his light chase our sin away.\np:Best praiser of all these be he; foremost, our chiefs who offering. May his light chase our sin away.\np:So that thy worshippers and we, thine, Agni, in our son. May live. May his light chase our sin away.\np:As ever-conquering Agni's beams of splendour go to every side, may his light chase our sin away.\np:To every side thy face is turned, thou art triumphant everywhere. May his light chase our sin away.\np:O thou whose face looks every way, bear us past foes as in a ship. May his light chase our sin away.\np:As in a ship, convey thou us for our advantage o’er the flood. May his light chase our sin away.",
+    "meta": {
+      "next": "01098",
+      "previous": "01096",
+      "book": "01",
+      "source": "https://sacred-texts.com/hin/rigveda/rv01097.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv01097.htm"
+    },
+    "deities": [
+      {
+        "name": "O Agni",
+        "hymns": [
+          {
+            "key": "01097",
+            "title": "HYMN XCVII. Agni."
+          }
+        ]
+      },
+      {
+        "name": "O thou",
+        "hymns": [
+          {
+            "key": "01097",
+            "title": "HYMN XCVII. Agni."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638553524900,
-  "updated": 1638792007401
+  "updated": 1638830291738
 }

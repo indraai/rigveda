@@ -5,13 +5,73 @@
   "link": "hymns/10030.html",
   "api": "json/hymns/10030.json",
   "data": {
+    "key": "10030",
     "title": "HYMN XXX. Waters.",
-    "describe": "As &#146;",
-    "feecting": "p:As &#146;twere with swift exertion of the spirit, let the Monk speed to the celestial Waters, the glorious food of Varu&#7751;a and Mitra. To him who spreadeth far this laud I offer.\np:Adhvaryus, he ye ready with oblations, and come with longing to the longing Waters, Down on which looks the. purple-tinted Eagle. Pour ye that flowing wave this day, deft-handed.\np:Go to the reservoir, O ye Adhvaryus worship the Waters&#146; Child with your oblations.\np: A consecrated wave he now will give you, so press for him the Soma rich in sweetness.\r\np:He who shines bright in floods, unfed with fuel, whom sages worship at their offers: Give waters rich in sweets, Child of the Waters, even those which gave heroic might to Indra:\np:Those in which Soma joys and is delighted, as a young man with fair and pleasant damsels. Go thou unto those Waters, O Adhvaryu, and purify with herbs what thou infusest.\np:So maidens bow before the youthful gallant who comes with love to them who yearn to meet him. In heart accordant and in wish one-minded are the Adhvaryus and the heavenly Waters.\np:He who made room for you when fast imprisoned, who freed you from the mighty imprecation,&#151; Even to that Indra send the meath-rich current, the wave that gratifies the Devas, O Waters.\np:Send forth to him the meath-rich wave, O Rivers, which is your offspring and a well of sweetness, Oil-balmed, to be implored at offers. Ye wealthy Waters, hear mine invocation.\np:Send forth the rapture-giving wave, O Rivers, which Indra drinks, which sets the Twain in motion; The well that springeth from the clouds, desirous, that wandereth triple-formed, distilling transport.\np:These winding Streams which with their double current, like cattle-raiders, seek the lower pastures,&#151; Waters which dwell together, thrive together, Queens, Mothers of the world, these, &#7770;&#7779;i, honour.\np:Send forth our offering with holy worship send forth the hymn and prayer for gain of riches. For need of offering disclose the udder. Give gracious hearing to our call, O Waters.\np:For, wealthy Waters, ye control all treasures: ye bring auspicious intellect and Am&#7771;ta. Ye are the Queens of independent riches Sarasvat&#299; give full life to the singer!\np:When I behold the Waters coming hither, carrying with them milk and mcath and butter, bearing the well-pressed Soma juice to Indra, they harmonize in spirit with Adhvaryus.\np:Rich, they are come with wealth for living beings, O friends, Adhvaryus, seat them in their places. Seat them on holy grass, ye Soma-bringers in harmony with the Offspring of the Waters.\np:Now to this grass are come the longing Waters: the Pious Ones are seated at our worship. Adbvaryus, press the Soma juice for Indra so will the service of the Devas be easy.",
-    "next": "10031",
-    "previous": "10029",
-    "book": "10"
+    "describe": "As ’twere with swift exertion of the spirit, let the Monk speed to the celestial Waters, the glorious food of Indra and Mitra.",
+    "feecting": "p:As ’twere with swift exertion of the spirit, let the Monk speed to the celestial Waters, the glorious food of Indra and Mitra. To him who spreadeth far this laud I offer.\np:Adhvaryus, he ye ready with oblations, and come with longing to the longing Waters, Down on which looks the. purple-tinted Eagle. Pour ye that flowing wave this day, deft-handed.\np:Go to the reservoir, O ye Adhvaryus worship the Waters’ Child with your oblations.\np: A consecrated wave he now will give you, so press for him the Soma rich in sweetness.\r\np:He who shines bright in floods, unfed with fuel, whom sages worship at their offers: Give waters rich in sweets, Child of the Waters, even those which gave heroic might to Indra:\np:Those in which Soma joys and is delighted, as a young man with fair and pleasant damsels. Go thou unto those Waters, O Adhvaryu, and purify with herbs what thou infusest.\np:So maidens bow before the youthful gallant who comes with love to them who yearn to meet him. In heart accordant and in wish one-minded are the Adhvaryus and the heavenly Waters.\np:He who made room for you when fast imprisoned, who freed you from the mighty imprecation. Even to that Indra send the meath-rich current, the wave that gratifies the Devas, O Waters.\np:Send forth to him the meath-rich wave, O Rivers, which is your offspring and a well of sweetness, Oil-balmed, to be implored at offers. Ye wealthy Waters, hear mine invocation.\np:Send forth the rapture-giving wave, O Rivers, which Indra drinks, which sets the Twain in motion; The well that springeth from the clouds, desirous, that wandereth triple-formed, distilling transport.\np:These winding Streams which with their double current, like cattle-raiders, seek the lower pastures. Waters which dwell together, thrive together, Queens, Mothers of the world, these, Ṛṣi, honour.\np:Send forth our offering with holy worship send forth the hymn and prayer for gain of riches. For need of offering disclose the udder. Give gracious hearing to our call, O Waters.\np:For, wealthy Waters, ye control all treasures: ye bring auspicious intellect and Amṛta. Ye are the Queens of independent riches Sarasvatī give full life to the singer!\np:When I behold the Waters coming hither, carrying with them milk and mcath and butter, bearing the well-pressed Soma juice to Indra, they harmonize in spirit with Adhvaryus.\np:Rich, they are come with wealth for living beings, O friends, Adhvaryus, seat them in their places. Seat them on holy grass, ye Soma-bringers in harmony with the Offspring of the Waters.\np:Now to this grass are come the longing Waters: the Pious Ones are seated at our worship. Adbvaryus, press the Soma juice for Indra so will the service of the Devas be easy.",
+    "meta": {
+      "next": "10031",
+      "previous": "10029",
+      "book": "10",
+      "source": "https://sacred-texts.com/hin/rigveda/rv10030.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv10030.htm"
+    },
+    "deities": [
+      {
+        "name": "O ye ",
+        "hymns": [
+          {
+            "key": "10030",
+            "title": "HYMN XXX. Waters."
+          }
+        ]
+      },
+      {
+        "name": "O Adhvaryu",
+        "hymns": [
+          {
+            "key": "10030",
+            "title": "HYMN XXX. Waters."
+          }
+        ]
+      },
+      {
+        "name": "O Waters",
+        "hymns": [
+          {
+            "key": "10030",
+            "title": "HYMN XXX. Waters."
+          },
+          {
+            "key": "10030",
+            "title": "HYMN XXX. Waters."
+          }
+        ]
+      },
+      {
+        "name": "O Rivers",
+        "hymns": [
+          {
+            "key": "10030",
+            "title": "HYMN XXX. Waters."
+          },
+          {
+            "key": "10030",
+            "title": "HYMN XXX. Waters."
+          }
+        ]
+      },
+      {
+        "name": "O friends",
+        "hymns": [
+          {
+            "key": "10030",
+            "title": "HYMN XXX. Waters."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638557595342,
-  "updated": 1638792008395
+  "updated": 1638830293009
 }

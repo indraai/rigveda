@@ -5,13 +5,51 @@
   "link": "hymns/01119.html",
   "api": "json/hymns/01119.json",
   "data": {
-    "title": "HYMN CXIX. A&#347;vins.",
+    "key": "01119",
+    "title": "HYMN CXIX. Aśvins.",
     "describe": "HITHER, that .",
-    "feecting": "p:HITHER, that . May live, I call unto the feast your wondrous car, thought-swift, borne on by rapid steeds.\np: With thousand banners, hundred treasures, pouring gifts, promptly obedient, bestowing ample room.\r\np:Even as it moveth near my hymn is lifted up, and all the regions come together to sing praise. I sweeten the oblations; now the helpers come. &#362;rj&#257;n&#299; hath, O A&#347;vins, mounted on your car.\np:When striving man with man for glory they have met, brisk, measureless, eager for victory in fight, then verily your car is seen upon the slope when ye, O A&#347;vins, bring some choice boon to the prince.\np:Ye came to Bhujyu while he struggled in the flood, with flying birds, self-yoked, ye bore him to his sires. Ye went to the far-distant home, O Mighty Ones; and famed is your great aid to Divod&#257;sa given.\np:A&#347;vins, the car which you had yoked for glorious show your own two voices urged directed to its goal. Then she who came for friendship, Maid of noble birth, elected you as Husbands, you to be her Lords.\np:Rebha ye saved from tyranny; for Atri's sake ye quenched with cold the fiery pit that compassed him. Ye made the cow of &#346;ayu stream refreshing milk, and Vandana was holpen to extended life.\np:Doers of marvels, skilful workers, ye restored Vandana, like a car, worn out with length of days. From Earth ye brought the sage to life in wondrous mode; be your great deeds done here for him who honours you.\np:Ye went to him who mourned in a far distant place, him who was left forlorn by treachery of his sire. Rich with the light of Heaven was then the help ye gave, and marvellous your succour when ye stood by him.\np:To you in praise of sweetness sang the honey-bee: Au&#347;ija calleth you in Soma's rapturous joy. Ye drew unto yourselves the spirit of Dadhyac, and then the horse's head uttered his words to you.\np:A horse did ye provide for Pedu, excellent, white, O ye A&#347;vins, conqueror of combatants, invincible in war by arrows, seeking Heaven worthy of fame, like Indra, vanquisher of men.",
-    "next": "01120",
-    "previous": "01118",
-    "book": "01"
+    "feecting": "p:HITHER, that . May live, I call unto the feast your wondrous car, thought-swift, borne on by rapid steeds.\np: With thousand banners, hundred treasures, pouring gifts, promptly obedient, bestowing ample room.\r\np:Even as it moveth near my hymn is lifted up, and all the regions come together to sing praise. I sweeten the oblations; now the helpers come. Ūrjānī hath, O Aśvins, mounted on your car.\np:When striving man with man for glory they have met, brisk, measureless, eager for victory in fight, then verily your car is seen upon the slope when ye, O Aśvins, bring some choice boon to the prince.\np:Ye came to Bhujyu while he struggled in the flood, with flying birds, self-yoked, ye bore him to his sires. Ye went to the far-distant home, O Mighty Ones; and famed is your great aid to Divodāsa given.\np:Aśvins, the car which you had yoked for glorious show your own two voices urged directed to its goal. Then she who came for friendship, Maid of noble birth, elected you as Husbands, you to be her Lords.\np:Rebha ye saved from tyranny; for Atri's sake ye quenched with cold the fiery pit that compassed him. Ye made the cow of Śayu stream refreshing milk, and Vandana was holpen to extended life.\np:Doers of marvels, skilful workers, ye restored Vandana, like a car, worn out with length of days. From Earth ye brought the sage to life in wondrous mode; be your great deeds done here for him who honours you.\np:Ye went to him who mourned in a far distant place, him who was left forlorn by treachery of his sire. Rich with the light of Heaven was then the help ye gave, and marvellous your assist when ye stood by him.\np:To you in praise of sweetness sang the honey-bee: Auśija calleth you in Soma's rapturous joy. Ye drew unto yourselves the spirit of Dadhyac, and then the horse's head uttered his words to you.\np:A horse did ye provide for Pedu, excellent, white, O ye Aśvins, conqueror of combatants, invincible in war by arrows, seeking Heaven worthy of fame, like Indra, vanquisher of men.",
+    "meta": {
+      "next": "01120",
+      "previous": "01118",
+      "book": "01",
+      "source": "https://sacred-texts.com/hin/rigveda/rv01119.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv01119.htm"
+    },
+    "deities": [
+      {
+        "name": "O Aśvins",
+        "hymns": [
+          {
+            "key": "01119",
+            "title": "HYMN CXIX. Aśvins."
+          },
+          {
+            "key": "01119",
+            "title": "HYMN CXIX. Aśvins."
+          }
+        ]
+      },
+      {
+        "name": "O Mighty",
+        "hymns": [
+          {
+            "key": "01119",
+            "title": "HYMN CXIX. Aśvins."
+          }
+        ]
+      },
+      {
+        "name": "O ye ",
+        "hymns": [
+          {
+            "key": "01119",
+            "title": "HYMN CXIX. Aśvins."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638553641133,
-  "updated": 1638792007432
+  "updated": 1638830291797
 }

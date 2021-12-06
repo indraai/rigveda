@@ -5,13 +5,29 @@
   "link": "hymns/08073.html",
   "api": "json/hymns/08073.json",
   "data": {
+    "key": "08073",
     "title": "HYMN LXXIII. Agni.",
     "describe": "AGNI, your dearest Guest, I laud, him who is loving as a friend, who brings us riches like a car.",
-    "feecting": "p:AGNI, your dearest Guest, I laud, him who is loving as a friend, who brings us riches like a car.\np:Whom as a far-foreseeing Sage the Devas have, from the olden time, Established among mortal men.\np:Do thou, most Youthful Deva, protect the men who offer, hear their songs, and of thyself preserve their seed.\np:What is the praise wherewith, A&#7749;giras, Agni, Son of Strength, We, after thine own wish and thought,\np:May serve thee, O thou Child of Power, and with what offering's plan? What prayer shall I now speak to thee?\np:Our Deva, make all of us to dwell in happy habitations, and Reward our songs with spoil and wealth.\np:Lord of the house, what plenty fills the songs which thou inspirest now, Thou whose hymn helps to win the kine?\np:Hirn Wise and Strong they glorify, the foremost Champion in the fray, and mighty in his dwelling-place.\np:Agni, he dwells in rest and peace who smites and no one smites again: With hero sons he prospers well",
-    "next": "08074",
-    "previous": "08072",
-    "book": "08"
+    "feecting": "p:AGNI, your dearest Guest, I laud, him who is loving as a friend, who brings us riches like a car.\np:Whom as a far-foreseeing Sage the Devas have, from the olden time, Established among mortal men.\np:Do thou, most Youthful Deva, protect the men who offer, hear their songs, and of thyself preserve their seed.\np:What is the praise wherewith, Aṅgiras, Agni, Son of Strength, We, after thine own wish and thought,\np:May serve thee, O thou Child of Power, and with what offering's plan? What prayer shall I now speak to thee?\np:Our Deva, make all of us to dwell in happy habitations, and Reward our songs with spoil and wealth.\np:Lord of the house, what plenty fills the songs which thou inspirest now, Thou whose hymn helps to win the kine?\np:Hirn Wise and Strong they glorify, the foremost Champion in the fray, and mighty in his dwelling-place.\np:Agni, he dwells in rest and peace who smites and no one smites again: With hero sons he prospers well",
+    "meta": {
+      "next": "08074",
+      "previous": "08072",
+      "book": "08",
+      "source": "https://sacred-texts.com/hin/rigveda/rv08073.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv08073.htm"
+    },
+    "deities": [
+      {
+        "name": "O thou",
+        "hymns": [
+          {
+            "key": "08073",
+            "title": "HYMN LXXIII. Agni."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638556676700,
-  "updated": 1638792008158
+  "updated": 1638830292775
 }

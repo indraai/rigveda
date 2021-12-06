@@ -5,13 +5,46 @@
   "link": "hymns/09110.html",
   "api": "json/hymns/09110.json",
   "data": {
+    "key": "09110",
     "title": "HYMN CX. Indu.",
-    "describe": "O'ERPOWERING V&#7771;",
-    "feecting": "p:O'ERPOWERING V&#7771;tras, forward run to win great strength: Thou speedest to subdue like on exacting debts.\np:In thee, effused, O Soma, we rejoice ourselves for great supremacy in fight.\np: Thou, indu, enterest into mighty deeds,\r\np:O Indu, thou didst generate the Sun, and spread the moisture out with power, Hasting to us with plenty vivified with milk.\np:Thou didst produce him, Deathless God mid mortal men for maintenance of Law and lovely Am&#7771;ta: Thou evermore hast moved making strength flow to us.\np:All round about hast thou with glory pierced for us as &#146;twere a never-failing well for men to drink, Borne on thy way in fragments from the presser's arms.\np:Then, beautifully radiant, certain Heavenly Ones, have sung to him their kinship as they looked thereon, and Indra the Deva opens as &#146;twere a stall.\np:Soma, the men of old whose grass was trimmed addressed the hymn to thee for mighty strength and for renown: So. Hero, urge us onward to heroic power.\np:They have drained forth from out the great depth of the sky the old primeval milk of Heaven that claims the laud: They lifted up their voice to Indra athis birth.\np:As long as thou, O Indu, art above this Earth and Heaven and all existence in thy might, Thou standest like a Bull the chief amid the herd.\np:In the sheep's wool hath Indu flowed, while they cleanse him, like a playful infant, indu with hundred powers and hundred currents.\np:Holy and sweet, while purified, this Indu flows on, a wave of pleasant taste, to Indra,&#151; Strength-winner, Treasure-finder, Life. bestower.\np:So flow thou on, subduing our assailants, chasing the demons hard to beencountered, well-armed and conquering our . O Soma.",
-    "next": "09111",
-    "previous": "09109",
-    "book": "09"
+    "describe": "O'ERPOWERING Vṛtras, forward run to win great strength: Thou speedest to subdue like on exacting debts.",
+    "feecting": "p:O'ERPOWERING Vṛtras, forward run to win great strength: Thou speedest to subdue like on exacting debts.\np:In thee, effused, O Soma, we rejoice ourselves for great supremacy in fight.\np: Thou, indu, enterest into mighty deeds,\r\np:O Indu, thou didst generate the Sun, and spread the moisture out with power, Hasting to us with plenty vivified with milk.\np:Thou didst produce him, Deathless God mid mortal men for maintenance of Law and lovely Amṛta: Thou evermore hast moved making strength flow to us.\np:All round about hast thou with glory pierced for us as ’twere a never-failing well for men to drink, Borne on thy way in fragments from the presser's arms.\np:Then, beautifully radiant, certain Heavenly Ones, have sung to him their kinship as they looked thereon, and Indra the Deva opens as ’twere a stall.\np:Soma, the men of old whose grass was trimmed addressed the hymn to thee for mighty strength and for renown: So. Hero, urge us onward to heroic power.\np:They have drained forth from out the great depth of the sky the old primeval milk of Heaven that claims the laud: They lifted up their voice to Indra athis birth.\np:As long as thou, O Indu, art above this Earth and Heaven and all existence in thy might, Thou standest like a Bull the chief amid the herd.\np:In the sheep's wool hath Indu flowed, while they cleanse him, like a playful infant, indu with hundred powers and hundred currents.\np:Holy and sweet, while purified, this Indu flows on, a wave of pleasant taste, to Indra. Strength-winner, Treasure-finder, Life. bestower.\np:So flow thou on, subduing our assailants, chasing the demons hard to beencountered, well-armed and conquering our . O Soma.",
+    "meta": {
+      "next": "09111",
+      "previous": "09109",
+      "book": "09",
+      "source": "https://sacred-texts.com/hin/rigveda/rv09110.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv09110.htm"
+    },
+    "deities": [
+      {
+        "name": "O Soma",
+        "hymns": [
+          {
+            "key": "09110",
+            "title": "HYMN CX. Indu."
+          },
+          {
+            "key": "09110",
+            "title": "HYMN CX. Indu."
+          }
+        ]
+      },
+      {
+        "name": "O Indu",
+        "hymns": [
+          {
+            "key": "09110",
+            "title": "HYMN CX. Indu."
+          },
+          {
+            "key": "09110",
+            "title": "HYMN CX. Indu."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638557415028,
-  "updated": 1638792008318
+  "updated": 1638830292959
 }

@@ -5,13 +5,19 @@
   "link": "hymns/09037.html",
   "api": "json/hymns/09037.json",
   "data": {
+    "key": "09037",
     "title": "HYMN XXXVII. Indu.",
     "describe": "SOMA, the Steer, effused for draught, flows to the purifying sieve, Slaying the fiends, loving the Devas.",
-    "feecting": "p:SOMA, the Steer, effused for draught, flows to the purifying sieve, Slaying the fiends, loving the Devas.\np:Far-sighted, tawny-coloured, he flows to the sieve, intelligent, bellowing, to his place of rest.\np:This vigorous Indu runs forth to the luminous realm of Heaven, Fiend-slayer, through the fleecy sieve.\np:This Payamana up above Trita's high ridge hath made the Sun, together with the Sisters, shine.\np:This V&#7771;tra-subduing Steer, effused, Soma room-giver, ne&#146;er deceived, Hath gone, as &#146;twere, to win the spoil.\np:Urged onward by the sage speeds forward to the casks of wood, indu to Indra willingly.",
-    "next": "09038",
-    "previous": "09036",
-    "book": "09"
+    "feecting": "p:SOMA, the Steer, effused for draught, flows to the purifying sieve, Slaying the fiends, loving the Devas.\np:Far-sighted, tawny-coloured, he flows to the sieve, intelligent, bellowing, to his place of rest.\np:This vigorous Indu runs forth to the luminous realm of Heaven, Fiend-slayer, through the fleecy sieve.\np:This Payamana up above Trita's high ridge hath made the Sun, together with the Sisters, shine.\np:This Vṛtra-subduing Steer, effused, Soma room-giver, ne’er deceived, Hath gone, as ’twere, to win the spoil.\np:Urged onward by the sage speeds forward to the casks of wood, indu to Indra willingly.",
+    "meta": {
+      "next": "09038",
+      "previous": "09036",
+      "book": "09",
+      "source": "https://sacred-texts.com/hin/rigveda/rv09037.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv09037.htm"
+    },
+    "deities": []
   },
   "created": 1638557030378,
-  "updated": 1638792008230
+  "updated": 1638830292854
 }

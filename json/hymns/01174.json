@@ -5,13 +5,59 @@
   "link": "hymns/01174.html",
   "api": "json/hymns/01174.json",
   "data": {
+    "key": "01174",
     "title": "HYMN CLXXIV. Indra.",
     "describe": "THOU art the King of all the Devas, O Indra: protect the men, O Devas, preserve us.",
-    "feecting": "p:THOU art the King of all the Devas, O Indra: protect the men, O Devas, preserve us.\np: Thou Lord of Heroes, Indra, our saver, art faithful, very rich, the victory-giver.\r\np:Indra, thou humbledst tribes that spake with insult by breaking down seven autumn forts, their refuge. Thou stirredst, billowy floods, and gavest his foe a prey to youthful Purukutsa.\np:With whom thou drivest troops whose lords are heroes, and bringest daylight now, much worshipped Indra, with them guard lion-like wasting active Agni to dwell in our tilled fields and in our homestead.\np:They through the greatness of thy spear, O Indra, shall, to thy praise, rest in this earthly station. To loose the floods, to seek, for kine, the battle, his Bays he mounted boldly seized the booty.\np:Indra, him in whom thou joyest: the dark-red horses of the Wind are docile. Let the Sun roll his chariot wheel anear us, and let the Thunderer go to meet the foemen.\np:Thou Indra, Lord of Bays, made strong by impulse. They who beheld the Friend beside the living were cast aside by thee as they rode onward.\np:Indra, the bard sang forth in inspiration: thou madest Earth a covering for the D&#257;sa. Indra made the three that gleam with moisture, and to his home brought Kuyav&#257;c to subdue him.\np:These thine old deeds new bards have sung, O Indra. Thou conqueredst, boundest many tribes forever. Like castles thou hast crushed the godless races, and bowed the godless scorner's deadly weapon.\np:A Stormer thou hast made the stormy waters flow down, O Indra, like the running rivers. When o&#146;er the flood thou broughtest them, O Hero, thou keptest Turva&#347;a and Yadu safely.\np:Indra, mayst thou be ours in all occasions, protector of the men, most gentle-hearted, giving us victory over all our rivals. May we find strengthening food in full abundance.",
-    "next": "01175",
-    "previous": "01173",
-    "book": "01"
+    "feecting": "p:THOU art the King of all the Devas, O Indra: protect the men, O Devas, preserve us.\np: Thou Lord of Heroes, Indra, our saver, art faithful, very rich, the victory-giver.\r\np:Indra, thou humbledst tribes that spake with insult by breaking down seven autumn forts, their refuge. Thou stirredst, billowy floods, and gavest his foe a prey to youthful Purukutsa.\np:With whom thou drivest troops whose lords are heroes, and bringest daylight now, much worshipped Indra, with them guard lion-like wasting active Agni to dwell in our tilled fields and in our homestead.\np:They through the greatness of thy spear, O Indra, shall, to thy praise, rest in this earthly station. To loose the floods, to seek, for kine, the battle, his Bays he mounted boldly seized the booty.\np:Indra, him in whom thou joyest: the dark-red horses of the Wind are docile. Let the Sun roll his chariot wheel anear us, and let the Thunderer go to meet the foemen.\np:Thou Indra, Lord of Bays, made strong by impulse. They who beheld the Friend beside the living were cast aside by thee as they rode onward.\np:Indra, the bard sang forth in inspiration: thou madest Earth a covering for the Dāsa. Indra made the three that gleam with moisture.\np:These thine old deeds new bards have sung, O Indra. Thou conqueredst, boundest many tribes forever. Like castles thou hast crushed the godless races, and bowed the godless scorner's deadly weapon.\np:A Stormer thou hast made the stormy waters flow down, O Indra, like the running rivers. When o’er the flood thou broughtest them, O Hero.\np:Indra, mayst thou be ours in all occasions, protector of the men, most gentle-hearted, giving us victory over all our rivals. May we find strengthening food in full abundance.",
+    "meta": {
+      "next": "01175",
+      "previous": "01173",
+      "book": "01",
+      "source": "https://sacred-texts.com/hin/rigveda/rv01174.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv01174.htm"
+    },
+    "deities": [
+      {
+        "name": "O Indra",
+        "hymns": [
+          {
+            "key": "01174",
+            "title": "HYMN CLXXIV. Indra."
+          },
+          {
+            "key": "01174",
+            "title": "HYMN CLXXIV. Indra."
+          },
+          {
+            "key": "01174",
+            "title": "HYMN CLXXIV. Indra."
+          },
+          {
+            "key": "01174",
+            "title": "HYMN CLXXIV. Indra."
+          }
+        ]
+      },
+      {
+        "name": "O Devas",
+        "hymns": [
+          {
+            "key": "01174",
+            "title": "HYMN CLXXIV. Indra."
+          }
+        ]
+      },
+      {
+        "name": "O Hero",
+        "hymns": [
+          {
+            "key": "01174",
+            "title": "HYMN CLXXIV. Indra."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638553932517,
-  "updated": 1638792007501
+  "updated": 1638830291898
 }

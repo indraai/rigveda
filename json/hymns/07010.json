@@ -5,13 +5,19 @@
   "link": "hymns/07010.html",
   "api": "json/hymns/07010.json",
   "data": {
+    "key": "07010",
     "title": "HYMN X. Agni.",
     "describe": "HE hath sent forth, bright, radiant, and refulgent his far-spreading lustre.",
-    "feecting": "p:HE hath sent forth, bright, radiant, and refulgent his far-spreading lustre.\np: Pure in his splendour shines the golden Hero: our longing thoughts hath he aroused and wakened.\r\np:He, like the Sun, hath shone while Morn is breaking, and monks who weave the offering sing praises, Agni, who knows their generations and visits Devas, most bounteous, rapid envoy.\np:Our songs and holy hymns go forth to Agni, seeking the Deva, him fair to see, of heroic nature, mighty, men's messenger who carries their oblations.\np:Joined with the Devas, Agni, bring thou Indra bring hither mighty Soma with the Somas, Aditi good to all men with &#256;dityas, B&#7771;haspati All-bounteous, with the Singers.\np:Men eagerly implore at offers Agni, most Youthful Deva, the joyous Herald. For he is Lord and Ruler over riches, and for Devas&#146; praise and adoration.",
-    "next": "07011",
-    "previous": "07009",
-    "book": "07"
+    "feecting": "p:HE hath sent forth, bright, radiant, and refulgent his far-spreading lustre.\np: Pure in his splendour shines the golden Hero: our longing thoughts hath he aroused and wakened.\r\np:He, like the Sun, hath shone while Morn is breaking, and monks who weave the offering sing praises, Agni, who knows their generations and visits Devas, most bounteous, rapid envoy.\np:Our songs and holy hymns go forth to Agni, seeking the Deva, him fair to see, of heroic nature, mighty, men's messenger who carries their oblations.\np:Joined with the Devas, Agni, bring thou Indra bring hither mighty Soma with the Somas, Aditi good to all men with Ādityas.\np:Men eagerly implore at offers Agni, most Youthful Deva, the joyous Herald. For he is Lord and Ruler over riches, and for Devas’ praise and adoration.",
+    "meta": {
+      "next": "07011",
+      "previous": "07009",
+      "book": "07",
+      "source": "https://sacred-texts.com/hin/rigveda/rv07010.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv07010.htm"
+    },
+    "deities": []
   },
   "created": 1638555795147,
-  "updated": 1638792007949
+  "updated": 1638830292488
 }

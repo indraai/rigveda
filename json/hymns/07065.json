@@ -5,13 +5,29 @@
   "link": "hymns/07065.html",
   "api": "json/hymns/07065.json",
   "data": {
-    "title": "HYMN LXV. Mitra-Varu&#7751;a.",
-    "describe": "WITH hymns I call you, when the Sun hath risen, Mitra, and Varu&#7751;",
-    "feecting": "p:WITH hymns I call you, when the Sun hath risen, Mitra, and Varu&#7751;a whose thoughts are holy, whose Power Divine, supreme and everlasting, comes with good heed at each man's supplication.\np:For they are Devass of Devas, the friendly make, both of you, our lands exceeding fruitful.\np: May we obtain you, Varu&#7751;a and Mitra, wherever Heaven and Earth and day. May bless us.\r\np:Bonds of the sinner, they bear many nooses: the wicked mortal hardl. May escape them. Varu&#7751;a-Mitra. May your path of Order bear us o&#146;er trouble as a boat o&#146;er waters.\np:Come, taste our offering, Varu&#7751;a and Mitra: bedew our pasture wil sweet food and fatness. Pour down in plenty here upon the people the choicest of your fair celestial water.\np:To you this laud, O Varu&#7751;a and Mitra, is offered, like bright Soma juice to V&#257;yu. Favour our songs of praise, wake thought and spirit. Preserve us evermore, ye Devas, with blessings.",
-    "next": "07066",
-    "previous": "07064",
-    "book": "07"
+    "key": "07065",
+    "title": "HYMN LXV. Mitra-Indra.",
+    "describe": "WITH hymns I call you, when the Sun hath risen, Mitra, and Indra whose thoughts are holy, whose Power Divine, supreme and everlasting, comes with good heed at each man's supplication.",
+    "feecting": "p:WITH hymns I call you, when the Sun hath risen, Mitra, and Indra whose thoughts are holy, whose Power Divine, supreme and everlasting, comes with good heed at each man's supplication.\np:For they are Devass of Devas, the friendly make, both of you, our lands exceeding fruitful.\np: May we obtain you, Indra and Mitra, wherever Heaven and Earth and day. May bless us.\r\np:Bonds of the sinner, they bear many nooses: the wicked mortal hardl. May escape them. Indra-Mitra. May your path of Order bear us o’er trouble as a boat o’er waters.\np:Come, taste our offering, Indra and Mitra: bedew our pasture wil sweet food and fatness. Pour down in plenty here upon the people the choicest of your fair celestial water.\np:To you this laud, O Indra and Mitra, is offered, like bright Soma juice to Soma. Favour our songs of praise, wake thought and spirit. Preserve us evermore, ye Devas, with blessings.",
+    "meta": {
+      "next": "07066",
+      "previous": "07064",
+      "book": "07",
+      "source": "https://sacred-texts.com/hin/rigveda/rv07065.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv07065.htm"
+    },
+    "deities": [
+      {
+        "name": "O Indra",
+        "hymns": [
+          {
+            "key": "07065",
+            "title": "HYMN LXV. Mitra-Indra."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638556085561,
-  "updated": 1638792008008
+  "updated": 1638830292585
 }

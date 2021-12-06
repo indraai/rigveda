@@ -5,13 +5,37 @@
   "link": "hymns/10047.html",
   "api": "json/hymns/10047.json",
   "data": {
+    "key": "10047",
     "title": "HYMN XLVII. Indra Vaikuntha.",
     "describe": "THY right hand have we grasped in ours, O Indra, longing for treasure, Treasure-Lord of treasures!",
-    "feecting": "p:THY right hand have we grasped in ours, O Indra, longing for treasure, Treasure-Lord of treasures! Because we know thee. Hero, Lord of cattle: vouchsafe us mighty and resplendent riches.\np:Wealth, fully armed, good guard and kind protector, sprung from four seas, the prop and stay of treasures, Fraught with great bounties, meet for praise and glory; vouchsafe us mighty and resplendent riches.\np:Wealth, with good Brahmans, Indra! God-attended, high, wide, and deep, arid based on broad foundations, Strong, with famed &#7770;&#7779;is, conquering our foemen: vouchsafe us mighty and resplendent riches.\np:Victorious, winning strength, with hero sages, confirmed in power, most useful, wealth-attracting, True, Indra! crushing forts and subduing Dasyus: vouchsafe us mighty and resplendent riches.\np:Wealthy in heroes and in cars and horses, strength hundredfold and thousandfold, O Indra, with manly sages, happy troops, Iight-winning: vouchsafe us mighty and resplentdent riches.\np:To Saptagu the sage, the holy-minded, to him, the song approaches, A&#7749;giras' Son who must be met with homage: vouchsafe us mighty and reslendent riches.\np:My lauds, like envoys, craving loving-kindness, go forth to Indra with their stron entreaty, Moving his heart and uttered by my spirit: vouchsafe us mighty and resplendent riches.\np:Grant us the boon for which I pray, O Indra, a spacious home unmatched among the people.\np: To thi. May Heaven and Earth accord approval: vouchsafe us mighty and resplendent riches.",
-    "next": "10048",
-    "previous": "10046",
-    "book": "10"
+    "feecting": "p:THY right hand have we grasped in ours, O Indra, longing for treasure, Treasure-Lord of treasures! Because we know thee. Hero, Lord of cattle: vouchsafe us mighty and resplendent riches.\np:Wealth, fully armed, good guard and kind protector, sprung from four seas, the prop and stay of treasures, Fraught with great bounties, meet for praise and glory; vouchsafe us mighty and resplendent riches.\np:Wealth, with good Brahmans, Indra! God-attended, high, wide, and deep, arid based on broad foundations, Strong, with famed Ṛṣis, conquering our foemen: vouchsafe us mighty and resplendent riches.\np:Victorious, winning strength, with hero sages, confirmed in power, most useful, wealth-attracting, True, Indra! crushing forts and subduing Dasyus: vouchsafe us mighty and resplendent riches.\np:Wealthy in heroes and in cars and horses, strength hundredfold and thousandfold, O Indra, with manly sages, happy troops, Iight-winning: vouchsafe us mighty and resplentdent riches.\np:To Saptagu the sage, the holy-minded, to him, Soma, the song approaches, Aṅgiras' Son who must be met with homage: vouchsafe us mighty and reslendent riches.\np:My lauds, like envoys, craving loving-kindness, go forth to Indra with their stron entreaty, Moving his heart and uttered by my spirit: vouchsafe us mighty and resplendent riches.\np:Grant us the boon for which I pray, O Indra, a spacious home unmatched among the people.\np: To thi. May Heaven and Earth accord approval: vouchsafe us mighty and resplendent riches.",
+    "meta": {
+      "next": "10048",
+      "previous": "10046",
+      "book": "10",
+      "source": "https://sacred-texts.com/hin/rigveda/rv10047.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv10047.htm"
+    },
+    "deities": [
+      {
+        "name": "O Indra",
+        "hymns": [
+          {
+            "key": "10047",
+            "title": "HYMN XLVII. Indra Vaikuntha."
+          },
+          {
+            "key": "10047",
+            "title": "HYMN XLVII. Indra Vaikuntha."
+          },
+          {
+            "key": "10047",
+            "title": "HYMN XLVII. Indra Vaikuntha."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638557686667,
-  "updated": 1638792008451
+  "updated": 1638830293038
 }

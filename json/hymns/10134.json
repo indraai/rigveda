@@ -5,13 +5,68 @@
   "link": "hymns/10134.html",
   "api": "json/hymns/10134.json",
   "data": {
+    "key": "10134",
     "title": "HYMN CXXXIV. Indra.",
     "describe": "As, like the Morning, thou hast filled, O Indra, both the Earth and Heaven.",
-    "feecting": "p:As, like the Morning, thou hast filled, O Indra, both the Earth and Heaven.\np: So as the Mighty One, great King of all the mighty world of mendess Mother brought thee forth, the Blessed Mother gave thee life.\r\np:Relax that mortal's stubborn strength whose heart is bent on wickedness. Trample him down beneath thy feet who watches for and aims at us. The Goddess Mother brought thee forth, the Blessed Mother gave thee life.\np:Shake down, O Slayer of the foe, those great all splendid enemies. With all thy powers, O &#346;akra, all thine helps, O Indra, shake them down:\np:As thou, O &#346;atakratu O Indrv, shakest all things down As wealth for him who sheds the juice, with thine assistance thousandfold.\np:Around, on every side like drops of sweat let lightning-flashes fall. Let all malevolence pass away from us like threads of Darva grass.\np:Thou bearest in thine hand a lance like a long hook, great Counsellor! As with his foremost foot a goat, draw down the branch, O Indra.\np:Never, O Devas, do we offend, nor are we ever obstinate: we walk as holy texts command. Closely we clasp and cling to you, cling to your sides, beneath your arms.",
-    "next": "10135",
-    "previous": "10133",
-    "book": "10"
+    "feecting": "p:As, like the Morning, thou hast filled, O Indra, both the Earth and Heaven.\np: So as the Mighty One, great King of all the mighty world of mendess Mother brought thee forth, the Blessed Mother gave thee life.\r\np:Relax that mortal's stubborn strength whose heart is bent on wickedness. Trample him down beneath thy feet who watches for and aims at us. The Goddess Mother brought thee forth, the Blessed Mother gave thee life.\np:Shake down, O Slayer of the foe, those great all splendid enemies. With all thy powers, O Indra, all thine helps, O Indra, shake them down:\np:As thou O Indrv, shakest all things down As wealth for him who sheds the juice, with thine assistance thousandfold.\np:Around, on every side like drops of sweat let lightning-flashes fall. Let all malevolence pass away from us like threads of Darva grass.\np:Thou bearest in thine hand a lance like a long hook, great Counsellor! As with his foremost foot a goat, draw down the branch, O Indra.\np:Never, O Devas, do we offend, nor are we ever obstinate: we walk as holy texts command. Closely we clasp and cling to you, cling to your sides, beneath your arms.",
+    "meta": {
+      "next": "10135",
+      "previous": "10133",
+      "book": "10",
+      "source": "https://sacred-texts.com/hin/rigveda/rv10134.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv10134.htm"
+    },
+    "deities": [
+      {
+        "name": "O Indra",
+        "hymns": [
+          {
+            "key": "10134",
+            "title": "HYMN CXXXIV. Indra."
+          },
+          {
+            "key": "10134",
+            "title": "HYMN CXXXIV. Indra."
+          },
+          {
+            "key": "10134",
+            "title": "HYMN CXXXIV. Indra."
+          },
+          {
+            "key": "10134",
+            "title": "HYMN CXXXIV. Indra."
+          }
+        ]
+      },
+      {
+        "name": "O Slayer",
+        "hymns": [
+          {
+            "key": "10134",
+            "title": "HYMN CXXXIV. Indra."
+          }
+        ]
+      },
+      {
+        "name": "O Indrv",
+        "hymns": [
+          {
+            "key": "10134",
+            "title": "HYMN CXXXIV. Indra."
+          }
+        ]
+      },
+      {
+        "name": "O Devas",
+        "hymns": [
+          {
+            "key": "10134",
+            "title": "HYMN CXXXIV. Indra."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638558147273,
-  "updated": 1638792008572
+  "updated": 1638830293219
 }

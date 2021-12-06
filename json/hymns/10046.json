@@ -5,13 +5,19 @@
   "link": "hymns/10046.html",
   "api": "json/hymns/10046.json",
   "data": {
+    "key": "10046",
     "title": "HYMN XLVI. Agni.",
     "describe": "STABLISHED for thee, to lend thee vital forces, Giver of wealth, Guard of his servant's body.",
-    "feecting": "p:STABLISHED for thee, to lend thee vital forces, Giver of wealth, Guard of his servant's body.\np: The Great Monk, born, who knows the clouds, Abider with men, is seated in the lap of waters.\r\np:Worshipping, seeking him with adoration like some lost creature followed by its footprints, Wise Bh&#7771;gus, yearning in their hearts, pursued him, and found him lurking where the floods are gathered.\np:On the Cow's forehead, with laborious searching, Trita, the offspring of Vibhiavas, found him. Born in our houses, Youthful, joy-bestower, he now becomes the central point of brightness.\np:Yearning, with homage, they have set and made him blithe Monk among mankind, oblation-bearer, Leader of rites and Purifier, envoy of men, as offering that still advances.\np:The foolish brought the ne&#146;er-bewildered forward, great, Victor, Song-inspirer, fort-destroyer. Leading the Youth gold-bearded, like a courser gleaming with wealth, they turned their hymn to profit.\np:Holding his station firmly in the houses, Trita sat down within his home surrounded Thence, as Law bids, departs the Tribes' Companion having collected men with no compulsion.\np:His are the fires, eternal, purifying, that make the houses move, whose smoke is shining, White, waxing in their strength, forever stirring, and sitting in the wood; like winds are Somas.\np:The tongue of Agni bears away the praisesong, and, through his care for Earth, her operations. Him, bright and radiant, living men have stablished as their blithe Monk, the Chief of Creators.\np:That Agni, him whom Heaven and Earth engendered, the Waters. Tva&#7779;&#7789;ar, and with might, the Bh&#7771;gus, him M&#257;tari&#347;van and the Devas have fashioned holy for man and first to be entreated.\np:Agni, whom Devas have made oblationbearer, and much-desiring men regard as holy, Give life to him who lauds thee when he worships, and then shall glorious men in troops adore thee.",
-    "next": "10047",
-    "previous": "10045",
-    "book": "10"
+    "feecting": "p:STABLISHED for thee, to lend thee vital forces, Giver of wealth, Guard of his servant's body.\np: The Great Monk, born, who knows the clouds, Abider with men, is seated in the lap of waters.\r\np:Worshipping, seeking him with adoration like some lost creature followed by its footprints, Wise Bhṛgus, yearning in their hearts, pursued him, and found him lurking where the floods are gathered.\np:On the Cow's forehead, with laborious searching, Trita, the offspring of Vibhiavas, found him. Born in our houses, Youthful, joy-bestower, he now becomes the central point of brightness.\np:Yearning, with homage, they have set and made him blithe Monk among mankind, oblation-bearer, Leader of rites and Purifier, envoy of men, as offering that still advances.\np:The foolish brought the ne’er-bewildered forward, great, Victor, Song-inspirer, fort-destroyer. Leading the Youth gold-bearded, like a courser gleaming with wealth, they turned their hymn to profit.\np:Holding his station firmly in the houses, Trita sat down within his home surrounded Thence, as Law bids, departs the Tribes' Companion having collected men with no compulsion.\np:His are the fires, eternal, purifying, that make the houses move, whose smoke is shining, White, waxing in their strength, forever stirring, and sitting in the wood; like winds are Somas.\np:The tongue of Agni bears away the praisesong, and, through his care for Earth, her operations. Him, bright and radiant, living men have stablished as their blithe Monk, the Chief of Creators.\np:That Agni, him whom Heaven and Earth engendered, the Waters. Tvaṣṭar, and with might, the Bhṛgus, him Mātariśvan and the Devas have fashioned holy for man and first to be entreated.\np:Agni, whom Devas have made oblationbearer, and much-desiring men regard as holy, Give life to him who lauds thee when he worships, and then shall glorious men in troops adore thee.",
+    "meta": {
+      "next": "10047",
+      "previous": "10045",
+      "book": "10",
+      "source": "https://sacred-texts.com/hin/rigveda/rv10046.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv10046.htm"
+    },
+    "deities": []
   },
   "created": 1638557681404,
-  "updated": 1638792008450
+  "updated": 1638830293036
 }

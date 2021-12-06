@@ -5,13 +5,77 @@
   "link": "hymns/08056.html",
   "api": "json/hymns/08056.json",
   "data": {
-    "title": "HYMN LVI. &#256;dityas.",
-    "describe": "Now pray we to these Ksatriyas, to the &#256;",
-    "feecting": "p:Now pray we to these Ksatriyas, to the &#256;dityas for their aid, these who are gracious to assist.\np:May Mitra bear us o&#146;er distress, and Varu&#7751;a and Aryaman, Yea, the &#256;dityas, as they know.\np:For wonderful and meet for praise is these &#256;dityas&#146; saving help To him who offers and prepares.\np:The mighty aid of you, the Great, Varu&#7751;a, Mitra, Aryaman, We claim to be our sure defence.\np:Guard us, &#256;dityas, still alive, before the deadly weapon strike: Are yc not they who hear our call?\np:What sheltering defence ye have for him who toils in pouring gifts, Graciously bless ye us therewith.\np:&#256;dityas, Devas, from sorrow there is freedom; for the sinless, wealth, O ye in whom no fault is seen.\np:Let not this fetter bind us fast. May he release us for success; For strong is Indra and renowned.\np:O Devas who fain would lend your aid, destroy not us as ye destroy Your enemies who go astray.\np:And thee too, O Great Aditi, thee also, Goddess, I address, thee very gracious to assist.\np:Save us in depth and shallow from the foe, thou Mother of Strong Sons Let no one of our seed be harmed.\np:Far-spread! wide-ruling! grant that we, unharmed by envy. May expand Grant that our progen. May live.\np:Those who, the Princes of the folk, in native glory, ne&#146;er deceived, Maintain their statutes, void of guile&#151;\np:As such, from mouth of ravening wolves, O ye &#256;dityas, rescue us, like a bound thief, O Aditi.\np:&#256;dityas, let this arrow, yea, let this malignity depart From us or e&#146;er it strike us dead.\np:For, Bountiful &#256;dityas, we have evermore enjoyed your help, Both now and in die days of old.\np:To every one, O ye Most Wise, who turneth even from sin to you, Ye Devas vouchsafe that h. May live.\np:May this new mercy profit us, which, ye &#256;dityas, frees like one, Bound from his bonds, O Aditi.\np:O ye &#256;dityas, this your might is not to be despised by us: So be ye graciously inclined.\np:Let not Vivasv&#257;n's weapon nor the shaft, &#256;dityas, wrought with skill, Destroy us ere old age be nigh.\np:On every side dispel all sin, &#256;dityas, all hostility, indigence, and combined attack.",
-    "next": "08057",
-    "previous": "08055",
-    "book": "08"
+    "key": "08056",
+    "title": "HYMN LVI. Ādityas.",
+    "describe": "Now pray we to these Ksatriyas, to the Ādityas for their aid, these who are gracious to assist.",
+    "feecting": "p:Now pray we to these Ksatriyas, to the Ādityas for their aid, these who are gracious to assist.\np:May Mitra bear us o’er distress, and Indra and Aryaman, Yea, the Ādityas, as they know.\np:For wonderful and meet for praise is these Ādityas’ saving help To him who offers and prepares.\np:The mighty aid of you, the Great, Indra, Mitra, Aryaman, We claim to be our sure defence.\np:Guard us Devas still alive, before the deadly weapon strike: Are yc not they who hear our call?\np:What sheltering defence ye have for him who toils in pouring gifts, Graciously bless ye us therewith.\np:Ādityas, Devas, from sorrow there is freedom; for the sinless, wealth, O ye in whom no fault is seen.\np:Let not this fetter bind us fast. May he release us for success; For strong is Indra and renowned.\np:O Devas who fain would lend your aid, destroy not us as ye destroy Your enemies who go astray.\np:And thee too, O Great Aditi, thee also, Goddess, I address, thee very gracious to assist.\np:Save us in depth and shallow from the foe, thou Mother of Strong Sons Let no one of our seed be harmed.\np:Far-spread! wide-ruling! grant that we, unharmed by envy. May expand Grant that our progen. May live.\np:Those who, the Princes of the folk, in native glory, ne’er deceived, Maintain their statutes, void of guile—\np:As such, from mouth of ravening wolves, O ye Ādityas, rescue us, like a bound thief, O Aditi.\np:Ādityas, let this arrow, yea, let this malignity depart From us or e’er it strike us dead.\np:For, Bountiful Ādityas, we have evermore enjoyed your help, Both now and in die days of old.\np:To every one, O ye Most Wise, who turneth even from sin to you, Ye Devas vouchsafe that h. May live.\np:May this new mercy profit us, which, ye Ādityas, frees like one, Bound from his bonds, O Aditi.\np:O ye Ādityas, this your might is not to be despised by us: So be ye graciously inclined.\np:Let not Vivasvān's weapon nor the shaft Devas wrought with skill, Destroy us ere old age be nigh.\np:On every side dispel all sin Devas all hostility, indigence, and combined attack.",
+    "meta": {
+      "next": "08057",
+      "previous": "08055",
+      "book": "08",
+      "source": "https://sacred-texts.com/hin/rigveda/rv08056.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv08056.htm"
+    },
+    "deities": [
+      {
+        "name": "O ye ",
+        "hymns": [
+          {
+            "key": "08056",
+            "title": "HYMN LVI. Ādityas."
+          },
+          {
+            "key": "08056",
+            "title": "HYMN LVI. Ādityas."
+          }
+        ]
+      },
+      {
+        "name": "O Devas",
+        "hymns": [
+          {
+            "key": "08056",
+            "title": "HYMN LVI. Ādityas."
+          }
+        ]
+      },
+      {
+        "name": "O Great",
+        "hymns": [
+          {
+            "key": "08056",
+            "title": "HYMN LVI. Ādityas."
+          }
+        ]
+      },
+      {
+        "name": "O ye Ā",
+        "hymns": [
+          {
+            "key": "08056",
+            "title": "HYMN LVI. Ādityas."
+          },
+          {
+            "key": "08056",
+            "title": "HYMN LVI. Ādityas."
+          }
+        ]
+      },
+      {
+        "name": "O Aditi",
+        "hymns": [
+          {
+            "key": "08056",
+            "title": "HYMN LVI. Ādityas."
+          },
+          {
+            "key": "08056",
+            "title": "HYMN LVI. Ādityas."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638556586657,
-  "updated": 1638792008136
+  "updated": 1638830292754
 }

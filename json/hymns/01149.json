@@ -5,13 +5,19 @@
   "link": "hymns/01149.html",
   "api": "json/hymns/01149.json",
   "data": {
+    "key": "01149",
     "title": "HYMN CXLIX. Agni.",
     "describe": "HITHER he hastens to give, Lord of great riches, King of the mighty, to the place of treasure.",
     "feecting": "p:HITHER he hastens to give, Lord of great riches, King of the mighty, to the place of treasure.\np: The pressing-stones shall serve him speeding near us.\r\np:As Steer of men so Steer of Earth and Heaven by glory, he whose streams all life hath drunken, who hasting forward rests upon the altar.\np:He who hath lighted up the joyous castle, wise Courser like the Steed of cloudy Heaven, Bright like the Sun, with hundredfold existence.\np:He, doubly born, hath spread in his effulgence through the three luminous realms, through all the regions, best sacrificing Monk where waters gather.\np:Monk doubly born, he through his love of glory hath in his keeping all things worth the choosing, the man who brings him gifts hath noble offspring.",
-    "next": "01150",
-    "previous": "01148",
-    "book": "01"
+    "meta": {
+      "next": "01150",
+      "previous": "01148",
+      "book": "01",
+      "source": "https://sacred-texts.com/hin/rigveda/rv01149.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv01149.htm"
+    },
+    "deities": []
   },
   "created": 1638553799579,
-  "updated": 1638792007471
+  "updated": 1638830291857
 }

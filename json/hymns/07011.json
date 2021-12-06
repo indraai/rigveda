@@ -5,13 +5,41 @@
   "link": "hymns/07011.html",
   "api": "json/hymns/07011.json",
   "data": {
+    "key": "07011",
     "title": "HYMN XI. Agni.",
     "describe": "GREAT art thou, Agni, offering's Herald: not without thee are deathless Devas made joyful.",
     "feecting": "p:GREAT art thou, Agni, offering's Herald: not without thee are deathless Devas made joyful.\np: Come hither with all Deities about thee here take thy seat, the first, as Monk, O Agni.\r\np:Men with oblation evermore entreat thee, the swift, to undertake an envoy's duty. He on whose sacred grass with Devas thou sittest, to him, O Agni, are the days propitious.\np:Three times a day in thee are shown the treasures sent for the mortal who presents oblation. Bring the Devas hither like a man, O Agni: be thou our envoy, guarding us from curses.\np:Lord of the lofty offering is Agni, Agni is Lord of every gift presented. The Devas were contented with his wisdom, so the Devas made him their oblationbearer.\np:O Agni, bring the Devas to taste our presents, with Indra leading, here let them be joyful. Convey this offering to Devas in Heaven. Ye Devas, preserve us evermore with blessings.",
-    "next": "07012",
-    "previous": "07010",
-    "book": "07"
+    "meta": {
+      "next": "07012",
+      "previous": "07010",
+      "book": "07",
+      "source": "https://sacred-texts.com/hin/rigveda/rv07011.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv07011.htm"
+    },
+    "deities": [
+      {
+        "name": "O Agni",
+        "hymns": [
+          {
+            "key": "07011",
+            "title": "HYMN XI. Agni."
+          },
+          {
+            "key": "07011",
+            "title": "HYMN XI. Agni."
+          },
+          {
+            "key": "07011",
+            "title": "HYMN XI. Agni."
+          },
+          {
+            "key": "07011",
+            "title": "HYMN XI. Agni."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638555800668,
-  "updated": 1638792007950
+  "updated": 1638830292491
 }

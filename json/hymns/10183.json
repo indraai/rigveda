@@ -5,13 +5,19 @@
   "link": "hymns/10183.html",
   "api": "json/hymns/10183.json",
   "data": {
+    "key": "10183",
     "title": "HYMN CLXXXIII. The Sacrificer, Etc.",
     "describe": "I SAW thee meditating in thy spirit what sprang from Fervour and hath thence developed.",
     "feecting": "p:I SAW thee meditating in thy spirit what sprang from Fervour and hath thence developed.\np: Bestowing offspring here, bestowing riches, spread in thine offspring, thou who cravest children.\r\np:I saw thee pondering in thine heart, and praying that in due time thy body might be fruitful. Come as a youthful woman, rise to meet me: spread in thine offspring, thou who cravest children.\np:In plants and herbs, in all existent beings I have deposited the germ of increase. All progeny on Earth have I engendered, and sons in women who will be hereafter.",
-    "next": "10184",
-    "previous": "10182",
-    "book": "10"
+    "meta": {
+      "next": "10184",
+      "previous": "10182",
+      "book": "10",
+      "source": "https://sacred-texts.com/hin/rigveda/rv10183.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv10183.htm"
+    },
+    "deities": []
   },
   "created": 1638558407072,
-  "updated": 1638792008613
+  "updated": 1638830293266
 }

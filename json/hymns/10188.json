@@ -5,13 +5,19 @@
   "link": "hymns/10188.html",
   "api": "json/hymns/10188.json",
   "data": {
+    "key": "10188",
     "title": "HYMN CLXXXVIII. Agni.",
-    "describe": "Now send ye J&#257;",
-    "feecting": "p:Now send ye J&#257;tavedas forth, send hitherward the vigorous Steed To seat him on our sacred grass.\np:I raise the lofty eulogy of J&#257;tavedas, raining boons, with sages for his hero band.\np:With flames of J&#257;tavedas which carry oblation to the Devas, May he promote our offering.",
-    "next": "10189",
-    "previous": "10187",
-    "book": "10"
+    "describe": "Now send ye Jātavedas forth, send hitherward the vigorous Steed To seat him on our sacred grass.",
+    "feecting": "p:Now send ye Jātavedas forth, send hitherward the vigorous Steed To seat him on our sacred grass.\np:I raise the lofty eulogy of Jātavedas, raining boons, with sages for his hero band.\np:With flames of Jātavedas which carry oblation to the Devas, may he promote our offering.",
+    "meta": {
+      "next": "10189",
+      "previous": "10187",
+      "book": "10",
+      "source": "https://sacred-texts.com/hin/rigveda/rv10188.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv10188.htm"
+    },
+    "deities": []
   },
   "created": 1638558433911,
-  "updated": 1638792008616
+  "updated": 1638830293269
 }

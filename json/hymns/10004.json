@@ -5,13 +5,65 @@
   "link": "hymns/10004.html",
   "api": "json/hymns/10004.json",
   "data": {
+    "key": "10004",
     "title": "HYMN IV. Agni.",
     "describe": "To thee will send praise and bring oblation, as thou hast merited lauds when we invoked thee.",
-    "feecting": "p:To thee will send praise and bring oblation, as thou hast merited lauds when we invoked thee.\np: A fountain in the desert art thou, Agni, O Ancient King, to man who fain would worship,\r\np:Thou unto whom resort the gathered people, as the kine seek the warm stall, O Most Youthful. Thou art the messenger of Devas and mortals, and goest glorious with thy light between them.\np:Making thee grow as &#146;twere some noble infant, thy Mother nurtures thee with sweet affection. Over the desert slopes thou passest longing, and seekest, like some beast set free, thy fodder.\np:Foolish are we, O Wise and free from error: verily, Agni, thou dost know thy grandeur. There lies the form: he moves and licks, and swallows, and, as House-Lord, kisses the Youthful Maiden.\np:He rises ever fresh in ancient fuel: smoke-bannered, gray, he makes the wood his dwelling. No swimmer, Steer, he presses through the waters, and to his place accordant mortals bear him.\np:Like thieves who risk their lives and haunt the forest, the twain with their ten girdles have secured him. This is a new hymn meant for thee, O Agni: yoke as it were thy car with parts that glitter.\np:Homage and prayer are thine, O J&#257;tavedas, and this my song shall evermore exalt thee. Agni, protect our children and descendants, and guard with ever-watcliful care our bodies.",
-    "next": "10005",
-    "previous": "10003",
-    "book": "10"
+    "feecting": "p:To thee will send praise and bring oblation, as thou hast merited lauds when we invoked thee.\np: A fountain in the desert art thou, Agni, O Ancient King, to man who fain would worship,\r\np:Thou unto whom resort the gathered people, as the kine seek the warm stall, O Most Youthful. Thou art the messenger of Devas and mortals, and goest glorious with thy light between them.\np:Making thee grow as ’twere some noble infant, thy Mother nurtures thee with sweet affection. Over the desert slopes thou passest longing, and seekest, like some beast set free, thy fodder.\np:Foolish are we, O Wise and free from error: verily, Agni, thou dost know thy grandeur. There lies the form: he moves and licks, and swallows, and, as House-Lord, kisses the Youthful Maiden.\np:He rises ever fresh in ancient fuel: smoke-bannered, gray, he makes the wood his dwelling. No swimmer, Steer, he presses through the waters, and to his place accordant mortals bear him.\np:Like thieves who risk their lives and haunt the forest, the twain with their ten girdles have secured him. This is a new hymn meant for thee, O Agni: yoke as it were thy car with parts that glitter.\np:Homage and prayer are thine, O Jātavedas, and this my song shall evermore exalt thee. Agni, protect our children and descendants, and guard with ever-watcliful care our bodies.",
+    "meta": {
+      "next": "10005",
+      "previous": "10003",
+      "book": "10",
+      "source": "https://sacred-texts.com/hin/rigveda/rv10004.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv10004.htm"
+    },
+    "deities": [
+      {
+        "name": "O Ancient",
+        "hymns": [
+          {
+            "key": "10004",
+            "title": "HYMN IV. Agni."
+          }
+        ]
+      },
+      {
+        "name": "O Most",
+        "hymns": [
+          {
+            "key": "10004",
+            "title": "HYMN IV. Agni."
+          }
+        ]
+      },
+      {
+        "name": "O Wise",
+        "hymns": [
+          {
+            "key": "10004",
+            "title": "HYMN IV. Agni."
+          }
+        ]
+      },
+      {
+        "name": "O Agni",
+        "hymns": [
+          {
+            "key": "10004",
+            "title": "HYMN IV. Agni."
+          }
+        ]
+      },
+      {
+        "name": "O Jātavedas",
+        "hymns": [
+          {
+            "key": "10004",
+            "title": "HYMN IV. Agni."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638557457102,
-  "updated": 1638792008359
+  "updated": 1638830292969
 }

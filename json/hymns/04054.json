@@ -5,13 +5,37 @@
   "link": "hymns/04054.html",
   "api": "json/hymns/04054.json",
   "data": {
+    "key": "04054",
     "title": "HYMN LIV. Indra.",
     "describe": "Now must we praise and honour Indra the Deva: at this time of the day the men must call to him, him who distributes wealth to Manu's progeny, that h.",
-    "feecting": "p:Now must we praise and honour Indra the Deva: at this time of the day the men must call to him, him who distributes wealth to Manu's progeny, that h. May grant us here riches most excellent.\np:For thou at first producest for the holy Devas the noblest of all portions, immortality: Thereafter as a gift to men, O Indra, thou openest existence, life succeeding life.\np:If we, men as we are, have sinned against the Devas through want of thought, in weakness, or through insolence, Absolve us from the guilt and make us free from sin, O Indra, alike among both Devas and men.\np:Non. May impede that power of Indra the Deva whereby he will maintain the universal world.\np: What the fair-fingered God brings forth on Earth's expanse or in the height of Heaven, that work of his stands sure.\r\np:To lofty hills thou sendest those whom Indra leads, and givest fixed abodes with houses unto these. However the, may fly and draw themselves apart, still, Indra, they stand obeying thy behest.\np:May the libations poured to thee thrice daily, day after day, O Indra, bring us blessing. May Indra. Heaven, Earth, Sindhu with the Waters, Aditi with &#256;dityas, give us shelter.",
-    "next": "04055",
-    "previous": "04053",
-    "book": "04"
+    "feecting": "p:Now must we praise and honour Indra the Deva: at this time of the day the men must call to him, him who distributes wealth to Manu's progeny, that h. May grant us here riches most excellent.\np:For thou at first producest for the holy Devas the noblest of all portions, immortality: Thereafter as a gift to men, O Indra, thou openest existence, life succeeding life.\np:If we, men as we are, have sinned against the Devas through want of thought, in weakness, or through insolence, Absolve us from the guilt and make us free from sin, O Indra, alike among both Devas and men.\np:Non. May impede that power of Indra the Deva whereby he will maintain the universal world.\np: What the fair-fingered God brings forth on Earth's expanse or in the height of Heaven, that work of his stands sure.\r\np:To lofty hills thou sendest those whom Indra leads, and givest fixed abodes with houses unto these. However the, may fly and draw themselves apart, still, Indra, they stand obeying thy behest.\np:May the libations poured to thee thrice daily, day after day, O Indra, bring us blessing. May Indra. Heaven, Earth, Sindhu with the Waters, Aditi with Ādityas, give us shelter.",
+    "meta": {
+      "next": "04055",
+      "previous": "04053",
+      "book": "04",
+      "source": "https://sacred-texts.com/hin/rigveda/rv04054.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv04054.htm"
+    },
+    "deities": [
+      {
+        "name": "O Indra",
+        "hymns": [
+          {
+            "key": "04054",
+            "title": "HYMN LIV. Indra."
+          },
+          {
+            "key": "04054",
+            "title": "HYMN LIV. Indra."
+          },
+          {
+            "key": "04054",
+            "title": "HYMN LIV. Indra."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638554863335,
-  "updated": 1638792007738
+  "updated": 1638830292203
 }

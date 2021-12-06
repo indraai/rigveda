@@ -5,13 +5,42 @@
   "link": "hymns/01172.html",
   "api": "json/hymns/01172.json",
   "data": {
+    "key": "01172",
     "title": "HYMN CLXXII. Devas.",
     "describe": "WONDERFUL let your coming be, wondrous with help, ye Bounteous Ones, Devas, who gleam as diamonds gleam.",
-    "feecting": "p:WONDERFUL let your coming be, wondrous with help, ye Bounteous Ones, Devas, who gleam as diamonds gleam.\np:Far be from us, O Devas, ye free givers, your impetuous shaft; Far from us be the stone ye hurl.\np:O Bounteous Givers, touch ye not, O Devas, T&#7771;&#7751;skanda's folk; Lift ye us up that we may live.",
-    "next": "01173",
-    "previous": "01171",
-    "book": "01"
+    "feecting": "p:WONDERFUL let your coming be, wondrous with help, ye Bounteous Ones, Devas, who gleam as diamonds gleam.\np:Far be from us, O Devas, ye free givers, your impetuous shaft; Far from us be the stone ye hurl.\np:O Bounteous Givers, touch ye not, O Devas lift us up that we may live.",
+    "meta": {
+      "next": "01173",
+      "previous": "01171",
+      "book": "01",
+      "source": "https://sacred-texts.com/hin/rigveda/rv01172.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv01172.htm"
+    },
+    "deities": [
+      {
+        "name": "O Devas",
+        "hymns": [
+          {
+            "key": "01172",
+            "title": "HYMN CLXXII. Devas."
+          },
+          {
+            "key": "01172",
+            "title": "HYMN CLXXII. Devas."
+          }
+        ]
+      },
+      {
+        "name": "O Bounteous",
+        "hymns": [
+          {
+            "key": "01172",
+            "title": "HYMN CLXXII. Devas."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638553921967,
-  "updated": 1638792007499
+  "updated": 1638830291894
 }

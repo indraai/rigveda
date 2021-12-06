@@ -5,13 +5,19 @@
   "link": "hymns/06030.html",
   "api": "json/hymns/06030.json",
   "data": {
+    "key": "06030",
     "title": "HYMN XXX. Indra.",
     "describe": "INDRA hath waxed yet more for hero prowess, alone, Eternal, he bestoweth treasures.",
-    "feecting": "p:INDRA hath waxed yet more for hero prowess, alone, Eternal, he bestoweth treasures.\np: Indra transcendeth both the worlds in greatness: one half of him equalleth Earth and Heaven.\r\np:Yea, mighty I esteem his Godlike nature: none hindereth what he hath once determined. Near and afar he spread and set the regions, and every day the Sun became apparent.\np:E&#146;en now endures thine exploit of the Rivers, when, Indra, for their floods thou clavest passage. Like men who sit at meat the mountains settled: by thee, most Wise! the regions were made steadfast.\np:This is the truth, non else is like thee, Indra, no God superior to thee, no mortal. Thou slewest Ahi who besieged the waters, and lettest loose the streams to hurry seaward.\np:Indra, thou breakest up the floods and portals on all sides, and the firmness of the mountain. Thou art the King of men, of all that liveth, engendering at once Sun. Heaven, and Morning.",
-    "next": "06031",
-    "previous": "06029",
-    "book": "06"
+    "feecting": "p:INDRA hath waxed yet more for hero prowess, alone, Eternal, he bestoweth treasures.\np: Indra transcendeth both the worlds in greatness: one half of him equalleth Earth and Heaven.\r\np:Yea, mighty I esteem his Godlike nature: none hindereth what he hath once determined. Near and afar he spread and set the regions, and every day the Sun became apparent.\np:E’en now endures thine exploit of the Rivers, when, Indra, for their floods thou clavest passage. Like men who sit at meat the mountains settled: by thee, most Wise! the regions were made steadfast.\np:This is the truth, non else is like thee, Indra, no God superior to thee, no mortal. Thou slewest Ahi who besieged the waters, and lettest loose the streams to hurry seaward.\np:Indra, thou breakest up the floods and portals on all sides, and the firmness of the mountain. Thou art the King of men, of all that liveth, engendering at once Sun. Heaven, and Morning.",
+    "meta": {
+      "next": "06031",
+      "previous": "06029",
+      "book": "06",
+      "source": "https://sacred-texts.com/hin/rigveda/rv06030.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv06030.htm"
+    },
+    "deities": []
   },
   "created": 1638555504776,
-  "updated": 1638792007886
+  "updated": 1638830292386
 }

@@ -5,13 +5,38 @@
   "link": "hymns/10168.html",
   "api": "json/hymns/10168.json",
   "data": {
-    "title": "HYMN CLXVIII. V&#257;yu.",
+    "key": "10168",
+    "title": "HYMN CLXVIII. Soma.",
     "describe": "O THE Wind's chariot, O its power and glory!",
-    "feecting": "p:O THE Wind's chariot, O its power and glory! Crashing it goes and hath a voice of thunder.\np: It makes the regions red and touches Heaven, and as it moves the dust of Earth is scattered.\r\np:Along the traces of the Wind they hurry, they come to him as dames to an assembly. Borne on his car with these for his attendants speeds forth, the universe's Monarch.\np:Travelling on the paths of air's mid-region, no single day doth he take rest or slumber. Holy and earliest-born, Friend of the waters, where did he spring and from what region came he?\np:Germ of the world, the Deities&#146; vital spirit, this Deva moves ever as his will inclines him. His voice is heard, his shape is ever viewless. Let us adore this Wind with our oblation.",
-    "next": "10169",
-    "previous": "10167",
-    "book": "10"
+    "feecting": "p:O THE Wind's chariot, O its power and glory! Crashing it goes and hath a voice of thunder.\np: It makes the regions red and touches Heaven, and as it moves the dust of Earth is scattered.\r\np:Along the traces of the Wind they hurry, they come to him as dames to an assembly. Borne on his car with these for his attendants speeds forth, the universe's Monarch.\np:Travelling on the paths of air's mid-region, no single day doth he take rest or slumber. Holy and earliest-born, Friend of the waters, where did he spring and from what region came he?\np:Germ of the world, the Deities’ vital spirit, this Deva moves ever as his will inclines him. His voice is heard, his shape is ever viewless. Let us adore this Wind with our oblation.",
+    "meta": {
+      "next": "10169",
+      "previous": "10167",
+      "book": "10",
+      "source": "https://sacred-texts.com/hin/rigveda/rv10168.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv10168.htm"
+    },
+    "deities": [
+      {
+        "name": "O THE",
+        "hymns": [
+          {
+            "key": "10168",
+            "title": "HYMN CLXVIII. Soma."
+          }
+        ]
+      },
+      {
+        "name": "O its",
+        "hymns": [
+          {
+            "key": "10168",
+            "title": "HYMN CLXVIII. Soma."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638558327192,
-  "updated": 1638792008603
+  "updated": 1638830293254
 }

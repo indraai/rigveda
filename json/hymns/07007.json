@@ -5,13 +5,29 @@
   "link": "hymns/07007.html",
   "api": "json/hymns/07007.json",
   "data": {
+    "key": "07007",
     "title": "HYMN VII. Agni.",
     "describe": "I SEND forth even your Deva, victorious Agni, like a strong courser, with mine adoration.",
-    "feecting": "p:I SEND forth even your Deva, victorious Agni, like a strong courser, with mine adoration.\np: Herald of offering be he hath reached Devas, himself, with measured motion.\r\np:By paths that are thine own come hither, Agni, joyous, delighting in the Devas&#146; alliance, Making the heights of Earth roar with thy fury, burning with eager teeth the woods and forests.\np:The grass is strewn; the offering advances adored as Monk, Agni is made propitious, invoking both All-boon-bestowing Mothers of whom, most Youthful! thou wast born to help us.\np:Forthwith the men, the best of these for wisdom, have made him leader in the solemn worship. As Lord in homes of men is Agni stablished, the Holy One, the joyous, sweetly speaking.\np:He hath come, chosen bearer, and is seated in man's home, Agni, the Supporter. He whom both Heaven and Earth exalt and strengthen whom the Hotar worships.\np:These have passed all in glory, who, the manly, have wrought with skill the hymn of adoration. Who, listening, have advanced the people's welfare, and set their thoughts on this my holy statute.\np:We now implore thee, Agni, O Son of Strength, the Lord of wealth and treasure. Thou hast brought food to us. Ye Devas, preserve us evermore with blessings.",
-    "next": "07008",
-    "previous": "07006",
-    "book": "07"
+    "feecting": "p:I SEND forth even your Deva, victorious Agni, like a strong courser, with mine adoration.\np: Herald of offering be he hath reached Devas, himself, with measured motion.\r\np:By paths that are thine own come hither, Agni, joyous, delighting in the Devas’ alliance, Making the heights of Earth roar with thy fury, burning with eager teeth the woods and forests.\np:The grass is strewn; the offering advances adored as Monk, Agni is made propitious, invoking both All-boon-bestowing Mothers of whom, most Youthful! thou wast born to help us.\np:Forthwith the men, the best of these for wisdom, have made him leader in the solemn worship. As Lord in homes of men is Agni stablished, the Holy One, the joyous, sweetly speaking.\np:He hath come, chosen bearer, and is seated in man's home, Agni, the Supporter. He whom both Heaven and Earth exalt and strengthen whom the Hotar worships.\np:These have passed all in glory, who, the manly, have wrought with skill the hymn of adoration. Who, listening, have advanced the people's welfare, and set their thoughts on this my holy statute.\np:We now implore thee, Agni, O Son of Strength, the Lord of wealth and treasure. Thou hast brought food to us. Ye Devas, preserve us evermore with blessings.",
+    "meta": {
+      "next": "07008",
+      "previous": "07006",
+      "book": "07",
+      "source": "https://sacred-texts.com/hin/rigveda/rv07007.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv07007.htm"
+    },
+    "deities": [
+      {
+        "name": "O Son",
+        "hymns": [
+          {
+            "key": "07007",
+            "title": "HYMN VII. Agni."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638555779382,
-  "updated": 1638792007947
+  "updated": 1638830292480
 }

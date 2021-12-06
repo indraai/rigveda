@@ -5,13 +5,29 @@
   "link": "hymns/01160.html",
   "api": "json/hymns/01160.json",
   "data": {
+    "key": "01160",
     "title": "HYMN CLX. Heaven and Earth.",
     "describe": "THESE.",
-    "feecting": "p:THESE. Heaven and Earth, bestow prosperity on all, sustainers of the region, Holy Ones and wise, Two Bowls of noble kind: between these Goddesses the Deva, the fulgent Sun, travels by fixed decree.\np:Widely-capacious Pair, mighty, that never fail, the Father and the Mother keep all creatures safe: The two world-halves, the spirited, the beautiful, because the Father hath clothed them in goodly forms.\np:Son of these Parents, he the Monk with power to cleanse, Sage, sanctifies the worlds with his surpassing power.\np: Thereto for his bright milk he milked through all the days the party-coloured Cow and the prolific Bull.\r\np:Among the skilful Devas most skilled is he, who made the two world-halves which bring prosperity to all. Who with great wisdom measured both the regions out, and stablished them with pillars that shall ne&#146;er decay.\np:Extolled in song, O Heaven and Earth, bestow on us, ye mighty Pair, great glory and high lordly sway, Whereby we may extend ourselves ever over the folk; and send us strength that shall deserve the praise of men.",
-    "next": "01161",
-    "previous": "01159",
-    "book": "01"
+    "feecting": "p:THESE. Heaven and Earth, bestow prosperity on all, sustainers of the region, Holy Ones and wise, Two Bowls of noble kind: between these Goddesses the Deva, the fulgent Sun, travels by fixed decree.\np:Widely-capacious Pair, mighty, that never fail, the Father and the Mother keep all creatures safe: The two world-halves, the spirited, the beautiful, because the Father hath clothed them in goodly forms.\np:Son of these Parents, he the Monk with power to cleanse, Sage, sanctifies the worlds with his surpassing power.\np: Thereto for his bright milk he milked through all the days the party-coloured Cow and the prolific Bull.\r\np:Among the skilful Devas most skilled is he, who made the two world-halves which bring prosperity to all. Who with great wisdom measured both the regions out, and stablished them with pillars that shall ne’er decay.\np:Extolled in song, O Heaven and Earth, bestow on us, ye mighty Pair, great glory and high lordly sway, Whereby we may extend ourselves ever over the folk; and send us strength that shall deserve the praise of men.",
+    "meta": {
+      "next": "01161",
+      "previous": "01159",
+      "book": "01",
+      "source": "https://sacred-texts.com/hin/rigveda/rv01160.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv01160.htm"
+    },
+    "deities": [
+      {
+        "name": "O Heaven",
+        "hymns": [
+          {
+            "key": "01160",
+            "title": "HYMN CLX. Heaven and Earth."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638553857900,
-  "updated": 1638792007481
+  "updated": 1638830291870
 }

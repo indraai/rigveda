@@ -5,13 +5,29 @@
   "link": "hymns/09091.html",
   "api": "json/hymns/09091.json",
   "data": {
+    "key": "09091",
     "title": "HYMN XCI. Indu.",
     "describe": "As for a chariot-race, the skilful Speaker, Chief, Sage, inventor, hath, with song, been started.",
-    "feecting": "p:As for a chariot-race, the skilful Speaker, Chief, Sage, inventor, hath, with song, been started.\np: The sisters ten upon the fleecy summit drive on the Car-horse to the resting places.\r\np:The drop of Soma, pressed by wise Nahusyas, becomes the banquet of the Heavenly People- Indu, by hands of mortal men made beauteous, immortal, with the sheep and cows and waters.\np:Steer roaring unto Steer, this Indu, this juice runs to the white milk of the milch-cow. Through thousand fine hairs goes the tuneful Singer, like S&#363;ra by his fair and open pathways.\np:Break down the, strong seats even of the demons: cleansing thee, indu, robd thyself in vigour. Rend with thy swift bolt, coming from above them, those who are near and those who yet are distant.\np:Prepare the forward paths in ancient manner for the new bymn, thou Giver of all bounties. Those which are high and hard for foes to conque. May we gain from thee, Active! Food-bestower!\np:So purifying thee vouchsafe us waters. Heaven's light, and cows, offipring and many children. Give us health, ample land, and lights, O Soma, and grant us long to look upon the sunshine.",
-    "next": "09092",
-    "previous": "09090",
-    "book": "09"
+    "feecting": "p:As for a chariot-race, the skilful Speaker, Chief, Sage, inventor, hath, with song, been started.\np: The sisters ten upon the fleecy summit drive on the Car-horse to the resting places.\r\np:The drop of Soma, pressed by wise Nahusyas, becomes the banquet of the Heavenly People- Indu, by hands of mortal men made beauteous, immortal, with the sheep and cows and waters.\np:Steer roaring unto Steer, this Indu, this juice runs to the white milk of the milch-cow. Through thousand fine hairs goes the tuneful Singer, like Sūra by his fair and open pathways.\np:Break down the, strong seats even of the demons: cleansing thee, indu, robd thyself in vigour. Rend with thy swift bolt, coming from above them, those who are near and those who yet are distant.\np:Prepare the forward paths in ancient manner for the new bymn, thou Giver of all bounties. Those which are high and hard for foes to conque. May we gain from thee, Active! Food-bestower!\np:So purifying thee vouchsafe us waters. Heaven's light, and cows, offipring and many children. Give us health, ample land, and lights, O Soma, and grant us long to look upon the sunshine.",
+    "meta": {
+      "next": "09092",
+      "previous": "09090",
+      "book": "09",
+      "source": "https://sacred-texts.com/hin/rigveda/rv09091.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv09091.htm"
+    },
+    "deities": [
+      {
+        "name": "O Soma",
+        "hymns": [
+          {
+            "key": "09091",
+            "title": "HYMN XCI. Indu."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638557314940,
-  "updated": 1638792008289
+  "updated": 1638830292928
 }

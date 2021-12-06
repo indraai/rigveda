@@ -5,13 +5,19 @@
   "link": "hymns/01069.html",
   "api": "json/hymns/01069.json",
   "data": {
+    "key": "01069",
     "title": "HYMN LXIX. Agni.",
     "describe": "BRIGHT, splendid, like Dawn's lover, he hath filled the two joined worlds as with the light of Heaven.",
     "feecting": "p:BRIGHT, splendid, like Dawn's lover, he hath filled the two joined worlds as with the light of Heaven.\np: When born, with might thou hast encompassed them: Father of Devas, and yet their Son wast thou.\r\np:Agni, the Sage, the humble, who discerns like the cow's udder, the sweet taste of food, like a bliss-giver to be drawn to men, sits gracious in the middle of the house.\np:Born in the dwelling like a lovely son, pleased, like a strong steed, he bears on the folk. What time the men and I, with heroes, call. May Agni then gain all through Godlike power.\np:None breaks these holy laws of thine when thou hast granted audience to these chieftains here. This is thy boast, thou smotest with thy peers, and joined with heroes dravest off disgrace.\np:Like the Dawn's lover, spreading light, well-known as hued like morn. May he remember me. They, bearing of themselves, unbar the doors: they all ascend to the fair place of Heaven.",
-    "next": "01070",
-    "previous": "01068",
-    "book": "01"
+    "meta": {
+      "next": "01070",
+      "previous": "01068",
+      "book": "01",
+      "source": "https://sacred-texts.com/hin/rigveda/rv01069.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv01069.htm"
+    },
+    "deities": []
   },
   "created": 1638553377221,
-  "updated": 1638792007369
+  "updated": 1638830291689
 }

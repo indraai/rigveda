@@ -5,13 +5,29 @@
   "link": "hymns/10159.html",
   "api": "json/hymns/10159.json",
   "data": {
+    "key": "10159",
     "title": "HYMN CLIX. Saci Paulomi.",
     "describe": "YON Sun hath mounted up, and this my happy fate hate mounted high.",
-    "feecting": "p:YON Sun hath mounted up, and this my happy fate hate mounted high.\np: I knowing this, as conqueror have won my husband for mine own.\r\np:I am the banner and the head, a mighty arbitress am I: I am victorious, and my Lord shall be submissive to my will.\np:My Sons are slayers of the foe, my Daughter is a ruling Queen: I am victorious: o&#146;er my Lord my song of triumph is supreme.\np:Oblation, that which Indra gave and thus grew glorious and most high,&#151; This have I offered, O ye Devas, and rid me of each rival wife.\np:Destroyer of the rival wife, Sole Spouse, victorious, conqueror, the others' glory have I seized as &#146;twere the wealth of weaker Dames.\np:I have subdued as conqueror these rivals, these my fellow-wives, that . May hold imperial sway over this Hero and the folk.",
-    "next": "10160",
-    "previous": "10158",
-    "book": "10"
+    "feecting": "p:YON Sun hath mounted up, and this my happy fate hate mounted high.\np: I knowing this, as conqueror have won my husband for mine own.\r\np:I am the banner and the head, a mighty arbitress am I: I am victorious, and my Lord shall be submissive to my will.\np:My Sons are slayers of the foe, my Daughter is a ruling Queen: I am victorious: o’er my Lord my song of triumph is supreme.\np:Oblation, that which Indra gave and thus grew glorious and most high. This have I offered, O ye Devas, and rid me of each rival wife.\np:Destroyer of the rival wife, Sole Spouse, victorious, conqueror, the others' glory have I seized as ’twere the wealth of weaker Dames.\np:I have subdued as conqueror these rivals, these my fellow-wives, that . May hold imperial sway over this Hero and the folk.",
+    "meta": {
+      "next": "10160",
+      "previous": "10158",
+      "book": "10",
+      "source": "https://sacred-texts.com/hin/rigveda/rv10159.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv10159.htm"
+    },
+    "deities": [
+      {
+        "name": "O ye ",
+        "hymns": [
+          {
+            "key": "10159",
+            "title": "HYMN CLIX. Saci Paulomi."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638558279826,
-  "updated": 1638792008595
+  "updated": 1638830293245
 }

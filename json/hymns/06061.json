@@ -5,13 +5,29 @@
   "link": "hymns/06061.html",
   "api": "json/hymns/06061.json",
   "data": {
-    "title": "HYMN LXI. Sarasvat&#299;.",
+    "key": "06061",
+    "title": "HYMN LXI. Sarasvatī.",
     "describe": "To Vadhryasva when.",
-    "feecting": "p:To Vadhryasva when. be worshipped her with gifts she gave fierce Divod&#257;sa, canceller of debts.\np: Consumer of the churlish niggard, one and all, thine, O Sarasvat&#299;, are these effectual boons.\r\np:She with her might, like one who digs for lotus-stems, hath burst with her strong waves the ridges of the hills. Let us invite with songs and holy hymns for help Sarasvat&#299; who slayeth the Paravatas.\np:Thou castest down, Sarasvat&#299;, those who scorned the Devas, the brood of every B&#7771;saya skilled in magic arts. Thou hast discovered rivers for the tribes of men, and, rich in wealth! made poison flow away from them.\np:May the divine Sarasvat&#299;, rich in her wealth, protect us well, Furthering all our thoughts with might\np:Whoso, divine Sarasvat&#299;, invokes thee where the prize is set, like Indra when he smites the foe.\np:Aid us, divine Sarasvad, thou who art strong in wealth and power Like P&#363;&#7779;an, give us opulence.\np:Yea, this divine Sarasvat&#299;, terrible with her golden path, Foe-slayer, claims our eulogy.\np:Whose limitless unbroken flood, swift-moving with a rapid rush, Comes onward with tempestuous roar.\np:She hath spread us beyond all foes, beyond her Sisters, Holy One, as S&#363;rya spreadeth out the days.\np:Yea, she most dear amid dear stream, Seven-sistered, graciously inclined, Sarasvat&#299; hath earned our praise.\np:Guard us from hate Sarasvat&#299;, she who hath filled the realms of Earth, and that wide tract, the Firmament!\np:Seven-sistered, sprung from threefold source, the Five Tribes' prosperer, she must be Invoked in every deed of might.\np:Marked out by majesty among the Mighty Ones, in glory swifter than the other rapid Streams, Created vast for victory like a chariot, Sarasvat&#299; must be extolled by every sage.\np:Guide us, Sarasvat&#299;, to glorious treasure: refuse us not thy milk, nor spurn us from thee. Gladly accept our friendship and obedience: let us not go from thee to distant countries.  &nbsp;",
-    "next": "06062",
-    "previous": "06060",
-    "book": "06"
+    "feecting": "p:To Vadhryasva when. be worshipped her with gifts she gave fierce Divodāsa, canceller of debts.\np: Consumer of the churlish niggard, one and all, thine, O Sarasvatī, are these effectual boons.\r\np:She with her might, like one who digs for lotus-stems, hath burst with her strong waves the ridges of the hills. Let us invite with songs and holy hymns for help Sarasvatī who slayeth the Paravatas.\np:Thou castest down, Sarasvatī, those who scorned the Devas, the brood of every Bṛsaya skilled in magic arts. Thou hast discovered rivers for the tribes of men, and, rich in wealth! made poison flow away from them.\np:May the divine Sarasvatī, rich in her wealth, protect us well, Furthering all our thoughts with might\np:Whoso, divine Sarasvatī, invokes thee where the prize is set, like Indra when he smites the foe.\np:Aid us, divine Sarasvad, thou who art strong in wealth and power Like Pūṣan, give us opulence.\np:Yea, this divine Sarasvatī, terrible with her golden path, Foe-slayer, claims our eulogy.\np:Whose limitless unbroken flood, swift-moving with a rapid rush, Comes onward with tempestuous roar.\np:She hath spread us beyond all foes, beyond her Sisters, Holy One, as Sūrya spreadeth out the days.\np:Yea, she most dear amid dear stream, Seven-sistered, graciously inclined, Sarasvatī hath earned our praise.\np:Guard us from hate Sarasvatī, she who hath filled the realms of Earth, and that wide tract, the Firmament!\np:Seven-sistered, sprung from threefold source, the Five Tribes' prosperer, she must be Invoked in every deed of might.\np:Marked out by majesty among the Mighty Ones, in glory swifter than the other rapid Streams, Created vast for victory like a chariot, Sarasvatī must be extolled by every sage.\np:Guide us, Sarasvatī, to glorious treasure: refuse us not thy milk, nor spurn us from thee. Gladly accept our friendship and obedience: let us not go from thee to distant countries.",
+    "meta": {
+      "next": "06062",
+      "previous": "06060",
+      "book": "06",
+      "source": "https://sacred-texts.com/hin/rigveda/rv06061.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv06061.htm"
+    },
+    "deities": [
+      {
+        "name": "O Sarasvat",
+        "hymns": [
+          {
+            "key": "06061",
+            "title": "HYMN LXI. Sarasvatī."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638555667992,
-  "updated": 1638792007922
+  "updated": 1638830292436
 }

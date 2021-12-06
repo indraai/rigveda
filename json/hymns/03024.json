@@ -5,13 +5,19 @@
   "link": "hymns/03024.html",
   "api": "json/hymns/03024.json",
   "data": {
+    "key": "03024",
     "title": "HYMN XXIV. Agni.",
     "describe": "AGNI, subdue opposing bands, and drive our enemies away.",
     "feecting": "p:AGNI, subdue opposing bands, and drive our enemies away.\np: Invincible, subdue godless foes: give splendour to the worshipper.\r\np:Lit with libation, Agni deathless, who callest Devas to feast, accept our offering with joy.\np:With splendour, Agni, Son of Strength, thou who art worshipped, wakeful One. Seat thee on this my sacred grass.\np:With all thy fires, with all the Devas, Agni, exalt the songs we sing. And living men in holy rites.\np:Grant, Agni, to the worshipper wealth rich in heroes, plenteous store, make thou us rich with many sons.",
-    "next": "03025",
-    "previous": "03023",
-    "book": "03"
+    "meta": {
+      "next": "03025",
+      "previous": "03023",
+      "book": "03",
+      "source": "https://sacred-texts.com/hin/rigveda/rv03024.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv03024.htm"
+    },
+    "deities": []
   },
   "created": 1638554377104,
-  "updated": 1638792007608
+  "updated": 1638830292036
 }

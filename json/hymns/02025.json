@@ -5,13 +5,19 @@
   "link": "hymns/02025.html",
   "api": "json/hymns/02025.json",
   "data": {
-    "title": "HYMN XXV. Brahma&#7751;aspati.",
+    "key": "02025",
+    "title": "HYMN XXV. Soma.",
     "describe": "HE lighting up the flame shall conquer enemies: strong shall he be who offers prayer and brings his gift.",
-    "feecting": "p:HE lighting up the flame shall conquer enemies: strong shall he be who offers prayer and brings his gift.\np: He with his seed spreads forth beyond another's seed, whomever Brahma&#7751;aspati takes for his friend.\r\np:With heroes he shall overcome his hero foes, and spread his wealth by kine wise by himself is be. His children and his children's children grow in strength, whomever Brahma&#7751;aspati takes for his friend.\np:He, mighty like a raving river's billowy flood, as a bull conquers oxen, overcomes with strength. Like Agni's blazing rush h. May not be restrained, whomever Brahma&#7751;aspati takes for his friend.\np:For him the floods of Heaven flow never failing down: first with the heroes he goes forth to war for kine. He subdues in unabated vigour with great might, whomever Brahma&#7751;aspati takes for his friend.\np:All roaring rivers pour their waters down for him, and many a flawless shelter hath been granted him. Blest with the happiness of Devas he prospers well, whomever Brahma&#7751;aspati takes for his friend.",
-    "next": "02026",
-    "previous": "02024",
-    "book": "02"
+    "feecting": "p:HE lighting up the flame shall conquer enemies: strong shall he be who offers prayer and brings his gift.\np: He with his seed spreads forth beyond another's seed, whomever Soma takes for his friend.\r\np:With heroes he shall overcome his hero foes, and spread his wealth by kine wise by himself is be. His children and his children's children grow in strength, whomever Soma takes for his friend.\np:He, mighty like a raving river's billowy flood, as a bull conquers oxen, overcomes with strength. Like Agni's blazing rush h. May not be restrained, whomever Soma takes for his friend.\np:For him the floods of Heaven flow never failing down: first with the heroes he goes forth to war for kine. He subdues in unabated vigour with great might, whomever Soma takes for his friend.\np:All roaring rivers pour their waters down for him, and many a flawless shelter hath been granted him. Blest with the happiness of Devas he prospers well, whomever Soma takes for his friend.",
+    "meta": {
+      "next": "02026",
+      "previous": "02024",
+      "book": "02",
+      "source": "https://sacred-texts.com/hin/rigveda/rv02025.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv02025.htm"
+    },
+    "deities": []
   },
   "created": 1638554154513,
-  "updated": 1638792007552
+  "updated": 1638830291968
 }

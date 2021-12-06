@@ -5,13 +5,59 @@
   "link": "hymns/07082.html",
   "api": "json/hymns/07082.json",
   "data": {
-    "title": "HYMN LXXXIT. Indra-Varu&#7751;a",
-    "describe": "GRANT us your strong protection, indraVaru&#7751;",
-    "feecting": "p:GRANT us your strong protection, indraVaru&#7751;a, our people, and our family, for offering.\np: May we subdue in fight our evil-hearted foes, him who attacks the man steadfast in lengthened rites.\r\np:O Indra-Varu&#7751;a, mighty and very rich One of you is called Monarch and One Autocrat. All Devas in the most lofty region of the air have, O ye Steers, combined all power and might in you.\np:Ye with your strength have pierced the fountains of the floods: the Sun have ye brought forward as the Lord in Heaven. Cheered by this magic draught ye, Indra-Varu&#7751;a, made the dry places stream, made songs of praise flow forth.\np:In battels and in frays we ministering monks, kneeling upon our knees for furtherance of our weal, invoke you, only you, the Lords of twofold wealth, you prompt to hear, we bards, O Indra-Varu&#7751;a.\np:O Indra-Varu&#7751;a, as ye created all these creatures of the world by your surpassing might, in peace and quiet Mitra waits on Varu&#7751;a, the Other, awful, with the Maruis seeks renown.\np:That Varu&#7751;a's high wort. May shine preeminent, these Twain have measured each his proper power and might. The One subdueth the destructive enemy; the Other with a few furthereth many a man.\np:No trouble, no misfortune, Indra-Varu&#7751;a, no woe from any side assails the mortal man Whose offering, O Devas, ye visit and enjoy: ne&#146;er doth the crafty guile of mortal injure him.\np:With your divine protection. Heroes, come to us: mine invncation hear, if ye be pleased therewith. Bestow ye upon us, O Indra-Varu&#7751;a, your friendship and your kinship and your favouring grace.\np:In battle after battle, Indra-Varu&#7751;a, be ye our Champions, ye who are the peoples' strength, when both opposing bands invoke you for the fight, and men that the, may gain offspring and progeny.\np:May Indra, Varu&#7751;a, Mitra, and Aryaman vouchsafe us glory and great shelter spreading far. We think of the beneficent light of Aditi, and Indra's song of praise who strengthens Law.",
-    "next": "07083",
-    "previous": "07081",
-    "book": "07"
+    "key": "07082",
+    "title": "HYMN LXXXIT. Indra",
+    "describe": "GRANT us your strong protection, our people, and our family, for offering.",
+    "feecting": "p:GRANT us your strong protection, our people, and our family, for offering.\np: May we subdue in fight our evil-hearted foes, him who attacks the man steadfast in lengthened rites.\r\np:O Indra, mighty and very rich One of you is called Monarch and One Autocrat. All Devas in the most lofty region of the air have, O ye Steers, combined all power and might in you.\np:Ye with your strength have pierced the fountains of the floods: the Sun have ye brought forward as the Lord in Heaven. Cheered by this magic draught ye, Indra, made the dry places stream, made songs of praise flow forth.\np:In battels and in frays we ministering monks, kneeling upon our knees for furtherance of our weal, invoke you, only you, the Lords of twofold wealth, you prompt to hear, we bards, O Indra.\np:O Indra, as ye created all these creatures of the world by your surpassing might, in peace and quiet Mitra waits on Indra, the Other, awful, with the Maruis seeks renown.\np:That Indra's high wort. May shine preeminent, these Twain have measured each his proper power and might. The One subdueth the destructive enemy; the Other with a few furthereth many a man.\np:No trouble, no misfortune, Indra, no woe from any side assails the mortal man Whose offering, O Devas, ye visit and enjoy: ne’er doth the crafty guile of mortal injure him.\np:With your divine protection. Heroes, come to us: mine invncation hear, if ye be pleased therewith. Bestow ye upon us, O Indra, your friendship and your kinship and your favouring grace.\np:In battle after battle, Indra, be ye our Champions, ye who are the peoples' strength, when both opposing bands invoke you for the fight, and men that the, may gain offspring and progeny.\np:May Indra, Indra, Mitra, and Aryaman vouchsafe us glory and great shelter spreading far. We think of the beneficent light of Aditi, and Indra's song of praise who strengthens Law.",
+    "meta": {
+      "next": "07083",
+      "previous": "07081",
+      "book": "07",
+      "source": "https://sacred-texts.com/hin/rigveda/rv07082.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv07082.htm"
+    },
+    "deities": [
+      {
+        "name": "O Indra",
+        "hymns": [
+          {
+            "key": "07082",
+            "title": "HYMN LXXXIT. Indra"
+          },
+          {
+            "key": "07082",
+            "title": "HYMN LXXXIT. Indra"
+          },
+          {
+            "key": "07082",
+            "title": "HYMN LXXXIT. Indra"
+          },
+          {
+            "key": "07082",
+            "title": "HYMN LXXXIT. Indra"
+          }
+        ]
+      },
+      {
+        "name": "O ye ",
+        "hymns": [
+          {
+            "key": "07082",
+            "title": "HYMN LXXXIT. Indra"
+          }
+        ]
+      },
+      {
+        "name": "O Devas",
+        "hymns": [
+          {
+            "key": "07082",
+            "title": "HYMN LXXXIT. Indra"
+          }
+        ]
+      }
+    ]
   },
   "created": 1638556175301,
-  "updated": 1638792008025
+  "updated": 1638830292606
 }

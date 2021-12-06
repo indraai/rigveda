@@ -5,13 +5,29 @@
   "link": "hymns/10174.html",
   "api": "json/hymns/10174.json",
   "data": {
+    "key": "10174",
     "title": "HYMN CLXXIV. The King.",
     "describe": "WITH offering for success in fight whence Indra was victorious.",
-    "feecting": "p:WITH offering for success in fight whence Indra was victorious.\np: With this, O Brahma&#7751;aspati, let us attain to royal sway.\r\np:Subduing those who rival us, subduing all malignities, withstand the man who menaces, withstand the man who angers us.\np:Soma and Indra the Deva have made thee a victorious King All elements have aided thee, to make thee general conqueror.\np:Oblation, that which Indra. gave and thus grew glorious and most high,&#151; This have I offered, Devas! and hence now, verily, am rivalless.\np:Slayer of rivals, rivalless, victorious, with royal sway, Over these being. May I rule. May I be Sovran of the folk.",
-    "next": "10175",
-    "previous": "10173",
-    "book": "10"
+    "feecting": "p:WITH offering for success in fight whence Indra was victorious.\np: With this, O Soma, let us attain to royal sway.\r\np:Subduing those who rival us, subduing all malignities, withstand the man who menaces, withstand the man who angers us.\np:Soma and Indra the Deva have made thee a victorious King All elements have aided thee, to make thee general conqueror.\np:Oblation, that which Indra. gave and thus grew glorious and most high. This have I offered, Devas! and hence now, verily, am rivalless.\np:Slayer of rivals, rivalless, victorious, with royal sway, Over these being. May I rule. May I be Sovran of the folk.",
+    "meta": {
+      "next": "10175",
+      "previous": "10173",
+      "book": "10",
+      "source": "https://sacred-texts.com/hin/rigveda/rv10174.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv10174.htm"
+    },
+    "deities": [
+      {
+        "name": "O Soma",
+        "hymns": [
+          {
+            "key": "10174",
+            "title": "HYMN CLXXIV. The King."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638558359368,
-  "updated": 1638792008607
+  "updated": 1638830293259
 }

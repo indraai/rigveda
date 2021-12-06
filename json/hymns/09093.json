@@ -5,13 +5,33 @@
   "link": "hymns/09093.html",
   "api": "json/hymns/09093.json",
   "data": {
+    "key": "09093",
     "title": "HYMN XCIII. Indu.",
     "describe": "TEN sisters, pouring out the rain together, swift-moving thinkers of the sage, adorn him.",
-    "feecting": "p:TEN sisters, pouring out the rain together, swift-moving thinkers of the sage, adorn him.\np: Hither hath run the gold-hued Child of S&#363;rya and reached the vat like a fleet vigorous courser.\r\np:Even as a youngling crying to his mothers, the bounteous Steer hath flowed along to waters. As youth to damsel, so with milk he hastens on to the. chose meeting-place, the beaker.\np:Yea, swollen is the udder of the milch-cow: thither in streams goes very sapient Indu. The kine make ready, as with new-washed treasures, the Head and Chief with milk within the vessels.\np:With all the Devas, O Indu Indu, while thou art roaring send us wealth in horses. Hither upon her car come willing Plenty, inclined to us, to give us of her treasures.\np:Now unto us mete riches, while they cleansethee, all-glorious, swelling wealth, with store of heroes. Long be his life who worships, thee, O Indu. May he, enriched with meditation, come soon and early.",
-    "next": "09094",
-    "previous": "09092",
-    "book": "09"
+    "feecting": "p:TEN sisters, pouring out the rain together, swift-moving thinkers of the sage, adorn him.\np: Hither hath run the gold-hued Child of Sūrya and reached the vat like a fleet vigorous courser.\r\np:Even as a youngling crying to his mothers, the bounteous Steer hath flowed along to waters. As youth to damsel, so with milk he hastens on to the. chose meeting-place, the beaker.\np:Yea, swollen is the udder of the milch-cow: thither in streams goes very sapient Indu. The kine make ready, as with new-washed treasures, the Head and Chief with milk within the vessels.\np:With all the Devas, O Indu Indu, while thou art roaring send us wealth in horses. Hither upon her car come willing Plenty, inclined to us, to give us of her treasures.\np:Now unto us mete riches, while they cleansethee, all-glorious, swelling wealth, with store of heroes. Long be his life who worships, thee, O Indu. May he, enriched with meditation, come soon and early.",
+    "meta": {
+      "next": "09094",
+      "previous": "09092",
+      "book": "09",
+      "source": "https://sacred-texts.com/hin/rigveda/rv09093.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv09093.htm"
+    },
+    "deities": [
+      {
+        "name": "O Indu",
+        "hymns": [
+          {
+            "key": "09093",
+            "title": "HYMN XCIII. Indu."
+          },
+          {
+            "key": "09093",
+            "title": "HYMN XCIII. Indu."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638557325647,
-  "updated": 1638792008291
+  "updated": 1638830292930
 }

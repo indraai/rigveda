@@ -5,13 +5,19 @@
   "link": "hymns/07051.html",
   "api": "json/hymns/07051.json",
   "data": {
-    "title": "HYMN LI. &#256;dityas.",
-    "describe": "THROUGH the &#256;",
-    "feecting": "p:THROUGH the &#256;dityas&#146; most auspicious shelter, through their most recent succou. May we conquer.\np: May they, the Mighty, giving ear, establish this offering, to make us free and sinless.\r\np:Let Aditi rejoice and the &#256;dityas, Varu&#7751;a, Mitra, Aryaman, most righteous. May they, the Guardians of the world, protect us, and, to show favour, drink this day our Soma.\np:All Universal Deities, the Devas, all the &#256;dityas, yea, and all the &#7770;bhus, Indra, and Agni, and the A&#347;vins, lauded. Preserve us evermore, ye Devas, with blessings.",
-    "next": "07052",
-    "previous": "07050",
-    "book": "07"
+    "key": "07051",
+    "title": "HYMN LI. Ādityas.",
+    "describe": "THROUGH the Ādityas’ most auspicious shelter, through their most recent succou.",
+    "feecting": "p:THROUGH the Ādityas’ most auspicious shelter, through their most recent succou. May we conquer.\np: May they, the Mighty, giving ear, establish this offering, to make us free and sinless.\r\np:Let Aditi rejoice and the Ādityas, Indra, Mitra, Aryaman, most righteous. May they, the Guardians of the world, protect us, and, to show favour, drink this day our Soma.\np:All Universal Deities, the Devas, all theyea, and all the Ṛbhus, Indra, and Agni, and the Aśvins, lauded. Preserve us evermore, ye Devas, with blessings.",
+    "meta": {
+      "next": "07052",
+      "previous": "07050",
+      "book": "07",
+      "source": "https://sacred-texts.com/hin/rigveda/rv07051.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv07051.htm"
+    },
+    "deities": []
   },
   "created": 1638556011483,
-  "updated": 1638792007993
+  "updated": 1638830292567
 }

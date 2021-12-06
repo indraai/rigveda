@@ -5,13 +5,38 @@
   "link": "hymns/10041.html",
   "api": "json/hymns/10041.json",
   "data": {
-    "title": "HYMN XLI. A&#347;vins.",
+    "key": "10041",
+    "title": "HYMN XLI. Aśvins.",
     "describe": "THAT general Car of yours, invoked by many a man, that comes to our libations, three-wheeled, meet for lauds, that circumambient Car, worthy of offering, we call with our pure hymns at earliest flush of dawn.",
-    "feecting": "p:THAT general Car of yours, invoked by many a man, that comes to our libations, three-wheeled, meet for lauds, that circumambient Car, worthy of offering, we call with our pure hymns at earliest flush of dawn.\np:Ye, O N&#257;satyas, mount that early-harnessed Car, that travels early, laden with its freight of balm, Wherewith ye. Heroes, visit clans who offering, even the poor man's worship where the Monk attends.\np:If to the deft Adhvaryu with the meath in hand, or to the Kindler firm in strength, the household friend, or to the sage's poured libations ye approach, come thence, O A&#347;vins, now to drink the offered meath.",
-    "next": "10042",
-    "previous": "10040",
-    "book": "10"
+    "feecting": "p:THAT general Car of yours, invoked by many a man, that comes to our libations, three-wheeled, meet for lauds, that circumambient Car, worthy of offering, we call with our pure hymns at earliest flush of dawn.\np:Ye, O Nāsatyas, mount that early-harnessed Car, that travels early, laden with its freight of balm, Wherewith ye. Heroes, visit clans who offering, even the poor man's worship where the Monk attends.\np:If to the deft Adhvaryu with the meath in hand, or to the Kindler firm in strength, the household friend, or to the sage's poured libations ye approach, come thence, O Aśvins, now to drink the offered meath.",
+    "meta": {
+      "next": "10042",
+      "previous": "10040",
+      "book": "10",
+      "source": "https://sacred-texts.com/hin/rigveda/rv10041.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv10041.htm"
+    },
+    "deities": [
+      {
+        "name": "O Nāsatyas",
+        "hymns": [
+          {
+            "key": "10041",
+            "title": "HYMN XLI. Aśvins."
+          }
+        ]
+      },
+      {
+        "name": "O Aśvins",
+        "hymns": [
+          {
+            "key": "10041",
+            "title": "HYMN XLI. Aśvins."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638557655115,
-  "updated": 1638792008444
+  "updated": 1638830293027
 }

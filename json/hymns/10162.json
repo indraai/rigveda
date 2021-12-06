@@ -5,13 +5,19 @@
   "link": "hymns/10162.html",
   "api": "json/hymns/10162.json",
   "data": {
+    "key": "10162",
     "title": "HYMN CLXII. Agni",
-    "describe": "MAY Agni, yielding to our meditation, the Rak&#7779;",
-    "feecting": "p:MAY Agni, yielding to our meditation, the Rak&#7779;as-slayer, drive away The malady of evil name that hath beset thy labouring womb.\np:Agni, concurring in the prayer, drive off the eater of the flesh, the malady of evil name that hath attacked thy babe and womb.\np:That which destroys the sinking germ, the settled, moving embryo, that which will kill the babe at birth,&#151;even this will we drive far away.\np:That which divides thy legs that i. May lie between the married pair, that penetrates and licks thy side,&#151;even this will we exterminate.\np:What rests by thee in borrowed form of brother, lover, or of lord, and would destroy thy Progeny,&#151;even this will we exterminate.\np:That which through sleep or darkness hath deceived thee and lies down by thee, and will destroy thy progeny,&#151;even this will we exterminate.",
-    "next": "10163",
-    "previous": "10161",
-    "book": "10"
+    "describe": "MAY Agni, yielding to our meditation, the Rakṣas-slayer, drive away The malady of evil name that hath beset thy labouring womb.",
+    "feecting": "p:MAY Agni, yielding to our meditation, the Rakṣas-slayer, drive away The malady of evil name that hath beset thy labouring womb.\np:Agni, concurring in the prayer, drive off the eater of the flesh, the malady of evil name that hath attacked thy babe and womb.\np:That which destroys the sinking germ, the settled, moving embryo, that which will kill the babe at birth.even this will we drive far away.\np:That which divides thy legs that he may lie between the married pair, that penetrates and licks thy side.even this will we exterminate.\np:What rests by thee in borrowed form of brother, lover, or of lord, and would destroy thy Progeny.even this will we exterminate.\np:That which through sleep or darkness hath deceived thee and lies down by thee, and will destroy thy progeny.even this will we exterminate.",
+    "meta": {
+      "next": "10163",
+      "previous": "10161",
+      "book": "10",
+      "source": "https://sacred-texts.com/hin/rigveda/rv10162.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv10162.htm"
+    },
+    "deities": []
   },
   "created": 1638558295625,
-  "updated": 1638792008598
+  "updated": 1638830293249
 }

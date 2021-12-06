@@ -5,13 +5,51 @@
   "link": "hymns/04051.html",
   "api": "json/hymns/04051.json",
   "data": {
+    "key": "04051",
     "title": "HYMN LI. Dawn.",
     "describe": "FORTH from the darkness in the region eastward this most abundant splendid light hatb mounted.",
-    "feecting": "p:FORTH from the darkness in the region eastward this most abundant splendid light hatb mounted.\np: Now verily the far-refulgent Mornings, Daughters of Heaven, bring welfare to the people.\r\np:The richly-coloured Dawns have mounted eastward, like pillars planted at our offerings, and, flushing far, splendid and purifying, unbarred the portals of the fold of darkness.\np:Dispelling gloom this day the wealthy Mornings urge liberal givers to present their treasures. In the unlightened depth of darkness round them let niggard traffickers sleep unawakened.\np:O Goddesses, is this your car, I ask you, ancient this day, or is it new, ye Mornings, Wherewith, rich Dawns, ye seek with wealth Navagva, Da&#347;agva A&#7749;gira, the seven-toned singer?\np:With horses harnessed by eternal Order swiftly round the worlds ye travel, Arousing from their rest, O Dawns, the sleeping, and all that lives, man, bird, and beast, to motion.\np:Which among these is eldest, and where is she through whom they fixed the &#7770;bhus' regulations? What time the splendid Dawns go forth for splendour, they are not known apart, alike, unwasting.\np:Blest were these Dawns of old, shining with succour, true with the truth that springs from holy Order; With whom the toiling worshipper, by praises, hymning and lauding, soon attained to riches.\np:Hither from eastward all at once they travel, from one place spreading in the selfsame manner. Awaking, from the seat of holy Order the Godlike Dawns come nigh like troops of cattle.\np:Thus they go forth with undiminished colours, these Mornings similar, in self-same fashion, Concealing the gigantic might of darkness with radiant bodies bright and pure and shining.\np:O Goddesses, O Heaven's refulgent Daughters, bestow upon us wealth with store of children. As from our pleasant place of rest ye rouse u. May we be masters of heroic vigour.\np:Well-skilled in lore of offering, ye Daughters of Heaven, refulgent Dawns, I thus address you. May we be glorious among the people. May Heaven vouchsafe us this, and Earth the Goddess,",
-    "next": "04052",
-    "previous": "04050",
-    "book": "04"
+    "feecting": "p:FORTH from the darkness in the region eastward this most abundant splendid light hatb mounted.\np: Now verily the far-refulgent Mornings, Daughters of Heaven, bring welfare to the people.\r\np:The richly-coloured Dawns have mounted eastward, like pillars planted at our offerings, and, flushing far, splendid and purifying, unbarred the portals of the fold of darkness.\np:Dispelling gloom this day the wealthy Mornings urge liberal givers to present their treasures. In the unlightened depth of darkness round them let niggard traffickers sleep unawakened.\np:O Goddesses, is this your car, I ask you, ancient this day, or is it new, ye Mornings, Wherewith, rich Dawns, ye seek with wealth Navagva, Daśagva Aṅgira, the seven-toned singer?\np:With horses harnessed by eternal Order swiftly round the worlds ye travel, Arousing from their rest, O Dawns, the sleeping, and all that lives, man, bird, and beast, to motion.\np:Which among these is eldest, and where is she through whom they fixed the Ṛbhus' regulations? What time the splendid Dawns go forth for splendour, they are not known apart, alike, unwasting.\np:Blest were these Dawns of old, shining with assist, true with the truth that springs from holy Order; With whom the toiling worshipper, by praises, hymning and lauding, soon attained to riches.\np:Hither from eastward all at once they travel, from one place spreading in the selfsame manner. Awaking, from the seat of holy Order the Godlike Dawns come nigh like troops of cattle.\np:Thus they go forth with undiminished colours, these Mornings similar, in self-same fashion, Concealing the gigantic might of darkness with radiant bodies bright and pure and shining.\np:O Goddesses, O Heaven's refulgent Daughters, bestow upon us wealth with store of children. As from our pleasant place of rest ye rouse u. May we be masters of heroic vigour.\np:Well-skilled in lore of offering, ye Daughters of Heaven, refulgent Dawns, I thus address you. May we be glorious among the people. May Heaven vouchsafe us this, and Earth the Goddess,",
+    "meta": {
+      "next": "04052",
+      "previous": "04050",
+      "book": "04",
+      "source": "https://sacred-texts.com/hin/rigveda/rv04051.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv04051.htm"
+    },
+    "deities": [
+      {
+        "name": "O Goddesses",
+        "hymns": [
+          {
+            "key": "04051",
+            "title": "HYMN LI. Dawn."
+          },
+          {
+            "key": "04051",
+            "title": "HYMN LI. Dawn."
+          }
+        ]
+      },
+      {
+        "name": "O Dawns",
+        "hymns": [
+          {
+            "key": "04051",
+            "title": "HYMN LI. Dawn."
+          }
+        ]
+      },
+      {
+        "name": "O Heaven",
+        "hymns": [
+          {
+            "key": "04051",
+            "title": "HYMN LI. Dawn."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638554847264,
-  "updated": 1638792007735
+  "updated": 1638830292198
 }

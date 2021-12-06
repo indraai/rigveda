@@ -5,13 +5,81 @@
   "link": "hymns/01118.html",
   "api": "json/hymns/01118.json",
   "data": {
-    "title": "HYMN CXVIII. A&#347;vins.",
+    "key": "01118",
+    "title": "HYMN CXVIII. Aśvins.",
     "describe": "FLYING, with falcons.",
-    "feecting": "p:FLYING, with falcons. May your chariot, A&#347;vins, most gracious, bringing friendly help, come hither,&#151; Your chariot, swifter than the mind of mortal, fleet as the wind, three-seated O ye Mighty.\np:Come to us with your chariot triple seated, three-wheeled, of triple form, that rolleth lightly.\np: Fill full our cows, give mettle to our horses, and make each hero son grow strong, O A&#347;vins.\r\np:With your well-rolling car, descending swiftly, hear this the press-stone's song, ye Wonder-Workers. How then have ancient sages said, O A&#347;vins, that ye most swiftly come to stay affliction?\np:O A&#347;vins, let your falcons bear you hither, yoked to your chariot, swift, with flying pinions, Which, ever active, like the airy eagles, carry you, O N&#257;satyas, to the banquet.\np:The youthful Daughter of the Sun, delighting in you, ascended there your chariot. Heroes. Borne on their swift wings let your beauteous horses, your birds of ruddy hue, convey you near us.\np:Ye raised up Vandana, strong Wonder-Workers! with great might, and with power ye rescued Rebha. From out the sea ye saved the son of Tugra, and gave his youth again unto Cyav&#257;na.\np:To Atri, cast down to the fire that scorched him, ye gave, O A&#347;vins, strengthening food and favour. Accepting his fair praises with approval, ye gave his eyes again to blinded Ka&#7751;va.\np:For ancient &#346;ayu in his sore affliction ye caused his cow to swell with milk, O A&#347;vins. The quail from her great misery ye delivered, and a new leg for Vi&#347;pal&#257; provided.\np:A white horse, A&#347;vins, ye bestowed on Pedu, a serpent-subduing steed sent down by Indra, Loud-neighing, conquering the foe, high-mettled, firm-limbed and vigorous, winning thousand treasures.\np:Such as ye are, O nobly born, O Heroes, we in our trouble call on you for succour. Accepting these our songs, for our wellbeing come to us on your chariot treasure-laden.\np:Come unto us combined in love, N&#257;satyas come with the fresh swift vigour of the falcon. Bearing oblations I invoke you, A&#347;vins, at the first break of everlasting morning.",
-    "next": "01119",
-    "previous": "01117",
-    "book": "01"
+    "feecting": "p:FLYING, with falcons. May your chariot, Aśvins, most gracious, bringing friendly help, come hither. Your chariot, swifter than the mind of mortal, fleet as the wind, three-seated O ye Mighty.\np:Come to us with your chariot triple seated, three-wheeled, of triple form, that rolleth lightly.\np: Fill full our cows, give mettle to our horses, and make each hero son grow strong, O Aśvins.\r\np:With your well-rolling car, descending swiftly, hear this the press-stone's song, ye Wonder-Workers. How then have ancient sages said, O Aśvins, that ye most swiftly come to stay affliction?\np:O Aśvins, let your falcons bear you hither, yoked to your chariot, swift, with flying pinions, Which, ever active, like the airy eagles, carry you, O Nāsatyas, to the banquet.\np:The youthful Daughter of the Sun, delighting in you, ascended there your chariot. Heroes. Borne on their swift wings let your beauteous horses, your birds of ruddy hue, convey you near us.\np:Ye raised up Vandana, strong Wonder-Workers! with great might, and with power ye rescued Rebha. From out the sea ye saved the son of Tugra, and gave his youth again unto Cyavāna.\np:To Atri, cast down to the fire that scorched him, ye gave, O Aśvins, strengthening food and favour. Accepting his fair praises with approval, ye gave his eyes again to blinded Kaṇva.\np:For ancient Śayu in his sore affliction ye caused his cow to swell with milk, O Aśvins. The quail from her great misery ye delivered, and a new leg for Viśpalā provided.\np:A white horse, Aśvins, ye bestowed on Pedu, a serpent-subduing steed sent down by Indra, Loud-neighing, conquering the foe, high-mettled, firm-limbed and vigorous, winning thousand treasures.\np:Such as ye are, O nobly born, O Heroes, we in our trouble call on you for assist. Accepting these our songs, for our wellbeing come to us on your chariot treasure-laden.\np:Come unto us combined in love, Nāsatyas come with the fresh swift vigour of the falcon. Bearing oblations I invoke you, Aśvins, at the first break of everlasting morning.",
+    "meta": {
+      "next": "01119",
+      "previous": "01117",
+      "book": "01",
+      "source": "https://sacred-texts.com/hin/rigveda/rv01118.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv01118.htm"
+    },
+    "deities": [
+      {
+        "name": "O ye ",
+        "hymns": [
+          {
+            "key": "01118",
+            "title": "HYMN CXVIII. Aśvins."
+          }
+        ]
+      },
+      {
+        "name": "O Aśvins",
+        "hymns": [
+          {
+            "key": "01118",
+            "title": "HYMN CXVIII. Aśvins."
+          },
+          {
+            "key": "01118",
+            "title": "HYMN CXVIII. Aśvins."
+          },
+          {
+            "key": "01118",
+            "title": "HYMN CXVIII. Aśvins."
+          },
+          {
+            "key": "01118",
+            "title": "HYMN CXVIII. Aśvins."
+          },
+          {
+            "key": "01118",
+            "title": "HYMN CXVIII. Aśvins."
+          }
+        ]
+      },
+      {
+        "name": "O Nāsatyas",
+        "hymns": [
+          {
+            "key": "01118",
+            "title": "HYMN CXVIII. Aśvins."
+          }
+        ]
+      },
+      {
+        "name": "O nobly",
+        "hymns": [
+          {
+            "key": "01118",
+            "title": "HYMN CXVIII. Aśvins."
+          }
+        ]
+      },
+      {
+        "name": "O Heroes",
+        "hymns": [
+          {
+            "key": "01118",
+            "title": "HYMN CXVIII. Aśvins."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638553635874,
-  "updated": 1638792007431
+  "updated": 1638830291795
 }

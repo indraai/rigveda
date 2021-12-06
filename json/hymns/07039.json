@@ -5,13 +5,19 @@
   "link": "hymns/07039.html",
   "api": "json/hymns/07039.json",
   "data": {
-    "title": "HYMN XXXIX Vi&#347;vedevas.",
-    "describe": "AGNI, erect, hath shown enriching favour: the flame goes forward to the Devas&#146;",
-    "feecting": "p:AGNI, erect, hath shown enriching favour: the flame goes forward to the Devas&#146; assembly.\np: Like car-borne men the stones their path have chosen: let the priest, quickened, celebrate our worship.\r\np:Soft to the tread, their sacred grass is scattered: these go like Kings amid the band around them, At the folks early call on Night and Morning,&#151;V&#257;yu, and P&#363;&#7779;an with his team, to bless us.\np:Here on their path the noble Devas proceeded: in the wide Firmament the Beauteous decked them. Bend your way hither, ye who travel widely: hear this our envoy who hath gone to meet you.\np:For they are holy aids at offers: all Devas approach the place of congregation. Bring these, desirous, to our worship, Agni, swift the Nisatyas, Bhaga, and Purandhi.\np:Agni, to these men's hymns, from Earth, from Heaven, bring Mitra, Varu&#7751;a, Indra, and Agni, and Aryaman, and Aditi, and Vi&#7779;&#7751;u. Sarasvat&#299; be joyful, and the Devas.\np:Even as the holy wish, the gift is offered. May he, unsated, come when men desire him. Give never-failing ever-conquering riches: with Devas for our allie. May we be victors.\np:Now have both worlds been praised by the Vasisthas; and holy Mitra, Varu&#7751;a, and Agni. May they, bright Deities, make our song supremest. Preserve us evermore, ye Devas, with blessings.",
-    "next": "07040",
-    "previous": "07038",
-    "book": "07"
+    "key": "07039",
+    "title": "HYMN XXXIX Devas.",
+    "describe": "AGNI, erect, hath shown enriching favour: the flame goes forward to the Devas’ assembly.",
+    "feecting": "p:AGNI, erect, hath shown enriching favour: the flame goes forward to the Devas’ assembly.\np: Like car-borne men the stones their path have chosen: let the priest, quickened, celebrate our worship.\r\np:Soft to the tread, their sacred grass is scattered: these go like Kings amid the band around them, At the folks early call on Night and Morning.Soma, and Pūṣan with his team, to bless us.\np:Here on their path the noble Devas proceeded: in the wide Firmament the Beauteous decked them. Bend your way hither, ye who travel widely: hear this our envoy who hath gone to meet you.\np:For they are holy aids at offers: all Devas approach the place of congregation. Bring these, desirous, to our worship, Agni, swift the Nisatyas, Bhaga, and Purandhi.\np:Agni, to these men's hymns, from Earth, from Heaven, bring Mitra, Indra, Indra, and Agni, and Aryaman, and Aditi, and Indra. Sarasvatī be joyful, and the Devas.\np:Even as the holy wish, the gift is offered. May he, unsated, come when men desire him. Give never-failing ever-conquering riches: with Devas for our allie. May we be victors.\np:Now have both worlds been praised by the Vasisthas; and holy Mitra, Indra, and Agni. May they, bright Deities, make our song supremest. Preserve us evermore, ye Devas, with blessings.",
+    "meta": {
+      "next": "07040",
+      "previous": "07038",
+      "book": "07",
+      "source": "https://sacred-texts.com/hin/rigveda/rv07039.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv07039.htm"
+    },
+    "deities": []
   },
   "created": 1638555948148,
-  "updated": 1638792007982
+  "updated": 1638830292544
 }

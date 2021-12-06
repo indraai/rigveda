@@ -5,13 +5,65 @@
   "link": "hymns/05060.html",
   "api": "json/hymns/05060.json",
   "data": {
+    "key": "05060",
     "title": "HYMN LX. Devas.",
     "describe": "I LAUD with reverence the gracious Agni: her.",
-    "feecting": "p:I LAUD with reverence the gracious Agni: her. May he sit and part our meed among us.\np: As with spoil-seeking cars I bring oblation: turned rightward I will swell the Marut's, praise-song.\r\np:The Devas, yea, the Somas, who have mounted their famous spotted deer and cars swift-moving,&#151; Before you, fierce Ones! woods bow down in terror: Earth, even the mountain, trembles at your coming.\np:Though vast and tall, the mountain is affrighted, the height of Heaven is shaken at your roaring When, armed with lances, ye are sporting, Devas, and rush along together like the waters.\np:They, like young suitors, sons of wealthy houses, have with their golden natures decked their bodies. Strong on their cars, the lordly Ones, for glory, have set their splendours on their forms forever.\np:None being eldest, none among them youngest, as brothers they have grown to happy fortune. May their Sire Soma, young and deft, and P&#7771;&#347;ni pouring much milk, bring fair days to the Devas.\np:Whether, O blessed Devas, ye be dwelling in highest, midmost, or in lowest Heaven, thence, O ye Somas, and thou also, Agni, notice the sacred food we offer.\np:O Devas, Lords of all, when Agni and when ye drive downward from sublimest Heaven along the heights, Shakers of all, rejoicing, slayers of the foe, give riches to the Soma-pressing worshipper.\np:O Agni, with the Devas as they gleam and sing, gathered in troop, rejoicing drink the Soma juice; With these the living ones who cleanse and further all, joined with thy banner, O Vai&#347;v&#257;nara, from of old.",
-    "next": "05061",
-    "previous": "05059",
-    "book": "05"
+    "feecting": "p:I LAUD with reverence the gracious Agni: her. May he sit and part our meed among us.\np: As with spoil-seeking cars I bring oblation: turned rightward I will swell the Marut's, praise-song.\r\np:The Devas, yea, the Somas, who have mounted their famous spotted deer and cars swift-moving. Before you, fierce Ones! woods bow down in terror: Earth, even the mountain, trembles at your coming.\np:Though vast and tall, the mountain is affrighted, the height of Heaven is shaken at your roaring When, armed with lances, ye are sporting, Devas, and rush along together like the waters.\np:They, like young suitors, sons of wealthy houses, have with their golden natures decked their bodies. Strong on their cars, the lordly Ones, for glory, have set their splendours on their forms forever.\np:None being eldest, none among them youngest, as brothers they have grown to happy fortune. May their Sire Soma, young and deft, and Pṛśni pouring much milk, bring fair days to the Devas.\np:Whether, O blessed Devas, ye be dwelling in highest, midmost, or in lowest Heaven, thence, O ye Somas, and thou also, Agni, notice the sacred food we offer.\np:O Devas, Lords of all, when Agni and when ye drive downward from sublimest Heaven along the heights, Shakers of all, rejoicing, slayers of the foe, give riches to the Soma-pressing worshipper.\np:O Agni, with the Devas as they gleam and sing, gathered in troop, rejoicing drink the Soma juice; With these the living ones who cleanse and further all, joined with thy banner, O Vaiśvānara, from of old.",
+    "meta": {
+      "next": "05061",
+      "previous": "05059",
+      "book": "05",
+      "source": "https://sacred-texts.com/hin/rigveda/rv05060.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv05060.htm"
+    },
+    "deities": [
+      {
+        "name": "O blessed",
+        "hymns": [
+          {
+            "key": "05060",
+            "title": "HYMN LX. Devas."
+          }
+        ]
+      },
+      {
+        "name": "O ye ",
+        "hymns": [
+          {
+            "key": "05060",
+            "title": "HYMN LX. Devas."
+          }
+        ]
+      },
+      {
+        "name": "O Devas",
+        "hymns": [
+          {
+            "key": "05060",
+            "title": "HYMN LX. Devas."
+          }
+        ]
+      },
+      {
+        "name": "O Agni",
+        "hymns": [
+          {
+            "key": "05060",
+            "title": "HYMN LX. Devas."
+          }
+        ]
+      },
+      {
+        "name": "O Vai",
+        "hymns": [
+          {
+            "key": "05060",
+            "title": "HYMN LX. Devas."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638555203264,
-  "updated": 1638792007818
+  "updated": 1638830292299
 }

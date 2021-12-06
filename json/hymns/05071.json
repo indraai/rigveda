@@ -5,13 +5,29 @@
   "link": "hymns/05071.html",
   "api": "json/hymns/05071.json",
   "data": {
-    "title": "HYMN LXXI. Mitra-Varu&#7751;a.",
-    "describe": "O Varu&#7751;",
-    "feecting": "p:O Varu&#7751;a and Mitra, ye who subdue the foemen, come with might To this our goodly offerings.\np:For, Varu&#7751;a and Mitra, ye Sages are Rulers over all. Fill full our songs, for this ye can.\np:Come to the juice that we have pressed. Varu&#7751;a, Mitra, come to drink This Soma of the worshipper.",
-    "next": "05072",
-    "previous": "05070",
-    "book": "05"
+    "key": "05071",
+    "title": "HYMN LXXI. Mitra-Indra.",
+    "describe": "O Indra and Mitra, ye who subdue the foemen, come with might To this our goodly offerings.",
+    "feecting": "p:O Indra and Mitra, ye who subdue the foemen, come with might To this our goodly offerings.\np:For, Indra and Mitra, ye Sages are Rulers over all. Fill full our songs, for this ye can.\np:Come to the juice that we have pressed. Indra, Mitra, come to drink This Soma of the worshipper.",
+    "meta": {
+      "next": "05072",
+      "previous": "05070",
+      "book": "05",
+      "source": "https://sacred-texts.com/hin/rigveda/rv05071.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv05071.htm"
+    },
+    "deities": [
+      {
+        "name": "O Indra",
+        "hymns": [
+          {
+            "key": "05071",
+            "title": "HYMN LXXI. Mitra-Indra."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638555262000,
-  "updated": 1638792007828
+  "updated": 1638830292313
 }

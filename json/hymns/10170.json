@@ -5,13 +5,19 @@
   "link": "hymns/10170.html",
   "api": "json/hymns/10170.json",
   "data": {
-    "title": "HYMN CLXX. S&#363;rya.",
+    "key": "10170",
+    "title": "HYMN CLXX. Sūrya.",
     "describe": "MAY the Bright God drink glorious Soma-mingled meath, giving the offering's lord uninjured life;",
-    "feecting": "p:MAY the Bright God drink glorious Soma-mingled meath, giving the offering's lord uninjured life; He who, wind-urged, in person guards our offspring well, hath nourished them with food and shines o&#146;er many a land.\np:Radiant, as high Truth, cherished, best at winning strength, Truth based upon the statute that supports the heavens. He rose, a light, that kills V&#7771;tras and enemies, best slayer of the Dasyus, Devass, and foes.\np:This light, the best of lights, supreme, all-conquering, winner of riches, is exalted with high laud.\np: All-lighting, radiant, mighty as the Sun to see, he spreadeth wide unfailing victory and strength.\r\np:Beaming forth splendour with thy light, thou hast attained Heaven's lustrous realm. By thee were brought together all existing things, possessor of all Godhead, All-effecting God.",
-    "next": "10171",
-    "previous": "10169",
-    "book": "10"
+    "feecting": "p:MAY the Bright God drink glorious Soma-mingled meath, giving the offering's lord uninjured life; He who, wind-urged, in person guards our offspring well, hath nourished them with food and shines o’er many a land.\np:Radiant, as high Truth, cherished, best at winning strength, Truth based upon the statute that supports the heavens. He rose, a light, that kills Vṛtras and enemies, best slayer of the Dasyus, Devass, and foes.\np:This light, the best of lights, supreme, all-conquering, winner of riches, is exalted with high laud.\np: All-lighting, radiant, mighty as the Sun to see, he spreadeth wide unfailing victory and strength.\r\np:Beaming forth splendour with thy light, thou hast attained Heaven's lustrous realm. By thee were brought together all existing things, possessor of all Godhead, All-effecting God.",
+    "meta": {
+      "next": "10171",
+      "previous": "10169",
+      "book": "10",
+      "source": "https://sacred-texts.com/hin/rigveda/rv10170.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv10170.htm"
+    },
+    "deities": []
   },
   "created": 1638558337998,
-  "updated": 1638792008604
+  "updated": 1638830293256
 }

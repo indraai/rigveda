@@ -5,13 +5,19 @@
   "link": "hymns/07058.html",
   "api": "json/hymns/07058.json",
   "data": {
+    "key": "07058",
     "title": "HYMN LVIII. Devas.",
     "describe": "SING to the troop that pours down rain in common, the Mighty Company of celestial nature.",
-    "feecting": "p:SING to the troop that pours down rain in common, the Mighty Company of celestial nature.\np: They make the world-halves tremble with their greatness: from depths of Earth and sky they reach to Heaven.\r\np:Yea, your birth, Devas, was with wild commotion, ye who move swiftly, fierce in wrath, terrific. Ye all-surpassing in your might and vigour, each looker on the light fears at your coming.\np:Give ample vital power unto our princes let our fair praises gratify the Devas. As the way travelled helpeth people onward, so further us with your delightful succours.\np:Your favoured singer counts his wealth by hundreds: the strong steed whom ye favour wins a thousand. The Sovran whom ye aid destroys the foeman. May this your gift, ye Shakers, be distinguished.\np:I call, as such, the Sons of bounteous Soma: will not the Devas turn again to us-ward? What secret sin or open stirs their anger, that we implore the Swift Ones to forgive us.\np:This eulogy of the Bounteous hath been spoken: accept, ye Devas, this our hymn of praises. Ye Bulls, keep those who hate us at a distance. Preserve us evermore, ye Devas, with blessings.",
-    "next": "07059",
-    "previous": "07057",
-    "book": "07"
+    "feecting": "p:SING to the troop that pours down rain in common, the Mighty Company of celestial nature.\np: They make the world-halves tremble with their greatness: from depths of Earth and sky they reach to Heaven.\r\np:Yea, your birth, Devas, was with wild commotion, ye who move swiftly, fierce in wrath, terrific. Ye all-surpassing in your might and vigour, each looker on the light fears at your coming.\np:Give ample vital power unto our princes let our fair praises gratify the Devas. As the way travelled helpeth people onward, so further us with your delightful assists.\np:Your favoured singer counts his wealth by hundreds: the strong steed whom ye favour wins a thousand. The Sovran whom ye aid destroys the foeman. May this your gift, ye Shakers, be distinguished.\np:I call, as such, the Sons of bounteous Soma: will not the Devas turn again to us-ward? What secret sin or open stirs their anger, that we implore the Swift Ones to forgive us.\np:This eulogy of the Bounteous hath been spoken: accept, ye Devas, this our hymn of praises. Ye Bulls, keep those who hate us at a distance. Preserve us evermore, ye Devas, with blessings.",
+    "meta": {
+      "next": "07059",
+      "previous": "07057",
+      "book": "07",
+      "source": "https://sacred-texts.com/hin/rigveda/rv07058.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv07058.htm"
+    },
+    "deities": []
   },
   "created": 1638556048744,
-  "updated": 1638792008001
+  "updated": 1638830292575
 }

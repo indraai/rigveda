@@ -5,13 +5,69 @@
   "link": "hymns/03021.html",
   "api": "json/hymns/03021.json",
   "data": {
+    "key": "03021",
     "title": "HYMN XXI. Agni.",
-    "describe": "SET this our offering among the Immortals: be pleased with these our presents, J&#257;",
-    "feecting": "p:SET this our offering among the Immortals: be pleased with these our presents, J&#257;tavedas.\np: O Monk, O Agni, sit thee down before us, and first enjoy the drops of oil and fatness.\r\np:For thee, O Purifier, flow the drops of fatness rich in oil. After thy wont vouchsafe to us the choicest boon that Deva. May feast.\np:Agni, most Excellent! for thee the Sage are drops that drip with oil. Thou art enkindled as the best of Seers. Help thou the offering.\np:To thee, O Agni, mighty and resistless, to thee stream forth the drops of oil and fatness. With great light art thou come, O praised by poets! Accept our offering, O thou Sage.\np:Fatness exceeding rich, extracted from the midst,&#151;this as our gift we offer thee. Excellent Deva, the drops run down upon thy skin. Deal them to each among the Devas.",
-    "next": "03022",
-    "previous": "03020",
-    "book": "03"
+    "describe": "SET this our offering among the Immortals: be pleased with these our presents, Jātavedas.",
+    "feecting": "p:SET this our offering among the Immortals: be pleased with these our presents, Jātavedas.\np: O Monk, O Agni, sit thee down before us, and first enjoy the drops of oil and fatness.\r\np:For thee, O Purifier, flow the drops of fatness rich in oil. After thy wont vouchsafe to us the choicest boon that Deva. May feast.\np:Agni, most Excellent! for thee the Sage are drops that drip with oil. Thou art enkindled as the best of Seers. Help thou the offering.\np:To thee, O Agni, mighty and resistless, to thee stream forth the drops of oil and fatness. With great light art thou come, O praised by poets! Accept our offering, O thou Sage.\np:Fatness exceeding rich, extracted from the midst.this as our gift we offer thee. Excellent Deva, the drops run down upon thy skin. Deal them to each among the Devas.",
+    "meta": {
+      "next": "03022",
+      "previous": "03020",
+      "book": "03",
+      "source": "https://sacred-texts.com/hin/rigveda/rv03021.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv03021.htm"
+    },
+    "deities": [
+      {
+        "name": "O Monk",
+        "hymns": [
+          {
+            "key": "03021",
+            "title": "HYMN XXI. Agni."
+          }
+        ]
+      },
+      {
+        "name": "O Agni",
+        "hymns": [
+          {
+            "key": "03021",
+            "title": "HYMN XXI. Agni."
+          },
+          {
+            "key": "03021",
+            "title": "HYMN XXI. Agni."
+          }
+        ]
+      },
+      {
+        "name": "O Purifier",
+        "hymns": [
+          {
+            "key": "03021",
+            "title": "HYMN XXI. Agni."
+          }
+        ]
+      },
+      {
+        "name": "O praised",
+        "hymns": [
+          {
+            "key": "03021",
+            "title": "HYMN XXI. Agni."
+          }
+        ]
+      },
+      {
+        "name": "O thou",
+        "hymns": [
+          {
+            "key": "03021",
+            "title": "HYMN XXI. Agni."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638554361299,
-  "updated": 1638792007606
+  "updated": 1638830292033
 }

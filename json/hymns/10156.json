@@ -5,13 +5,33 @@
   "link": "hymns/10156.html",
   "api": "json/hymns/10156.json",
   "data": {
+    "key": "10156",
     "title": "HYMN CLVI. Agni.",
     "describe": "LET songs of ours speed Agni forth like a fleet courser in the race, and we will win each prize through him.",
-    "feecting": "p:LET songs of ours speed Agni forth like a fleet courser in the race, and we will win each prize through him.\np:Agni the dart whereby we gain kine for ourselves with help from thee,&#151; That send us for the gain of wealth.\np:O Agni, bring us wealth secure, vast wealth in horses and in kine: Oil thou the socket, turn the wheel.\np:O Agni, thou hast made the Sun, Eternal Star, to mount the sky, bestowing light on living men.\np:Thou, Agni, art the people's light, best, dearest, seated in thy shrine: Watch for the singer, give him life.",
-    "next": "10157",
-    "previous": "10155",
-    "book": "10"
+    "feecting": "p:LET songs of ours speed Agni forth like a fleet courser in the race, and we will win each prize through him.\np:Agni the dart whereby we gain kine for ourselves with help from thee. That send us for the gain of wealth.\np:O Agni, bring us wealth secure, vast wealth in horses and in kine: Oil thou the socket, turn the wheel.\np:O Agni, thou hast made the Sun, Eternal Star, to mount the sky, bestowing light on living men.\np:Thou, Agni, art the people's light, best, dearest, seated in thy shrine: Watch for the singer, give him life.",
+    "meta": {
+      "next": "10157",
+      "previous": "10155",
+      "book": "10",
+      "source": "https://sacred-texts.com/hin/rigveda/rv10156.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv10156.htm"
+    },
+    "deities": [
+      {
+        "name": "O Agni",
+        "hymns": [
+          {
+            "key": "10156",
+            "title": "HYMN CLVI. Agni."
+          },
+          {
+            "key": "10156",
+            "title": "HYMN CLVI. Agni."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638558263988,
-  "updated": 1638792008593
+  "updated": 1638830293243
 }

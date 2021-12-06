@@ -5,13 +5,19 @@
   "link": "hymns/05072.html",
   "api": "json/hymns/05072.json",
   "data": {
-    "title": "HYMN LXXII. Mitra-Varu&#7751;a.",
-    "describe": "To Varu&#7751;",
-    "feecting": "p:To Varu&#7751;a and Mitra we offer with songs, as Atri did. Sit on the sacred grass  juice.\np:By Ordinance and Law ye dwell in peace secure, bestirring men.\np: Sit on the sacred grass  juice.\r\np:May Varu&#7751;a and Mitra, for our help, accept the offering. Sit on the sacred grass  juice.",
-    "next": "05073",
-    "previous": "05071",
-    "book": "05"
+    "key": "05072",
+    "title": "HYMN LXXII. Mitra-Indra.",
+    "describe": "To Indra and Mitra we offer with songs, as Atri did.",
+    "feecting": "p:To Indra and Mitra we offer with songs, as Atri did. Sit on the sacred grass  juice.\np:By Ordinance and Law ye dwell in peace secure, bestirring men.\np: Sit on the sacred grass  juice.\r\np:May Indra and Mitra, for our help, accept the offering. Sit on the sacred grass  juice.",
+    "meta": {
+      "next": "05073",
+      "previous": "05071",
+      "book": "05",
+      "source": "https://sacred-texts.com/hin/rigveda/rv05072.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv05072.htm"
+    },
+    "deities": []
   },
   "created": 1638555267266,
-  "updated": 1638792007830
+  "updated": 1638830292314
 }

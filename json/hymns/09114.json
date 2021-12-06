@@ -5,13 +5,33 @@
   "link": "hymns/09114.html",
   "api": "json/hymns/09114.json",
   "data": {
+    "key": "09114",
     "title": "HYMN CXIV. Indu.",
-    "describe": "THE man who waIketh as the Laws of Indu Indu bid,&#151;",
-    "feecting": "p:THE man who waIketh as the Laws of Indu Indu bid,&#151; Men call him rich in children, him, O Soma, who hath met thy thought. Flow, indu, flow for Indra's sake.\np:Kasyapa, &#7770;&#7779;i, lifting up thy voice with hymn-composers' lauds, Pav reverence to King Soma born the Sovran Ruler of the plants. Flow, indu, flow for Indra's sake.\np:Seven regions have their several Suns; the ministering monks are seven; Seven are the &#256;ditya Deities,&#151;with these, O Soma, guard thou us. Flow, indu, flow for Indra's sake.\np:Guard us with this oblation which, King Soma, hath been dressed for thee.",
-    "next": "10001",
-    "previous": "09113",
-    "book": "09"
+    "describe": "THE man who waIketh as the Laws of Indu Indu bid.",
+    "feecting": "p:THE man who waIketh as the Laws of Indu Indu bid. Men call him rich in children, him, O Soma, who hath met thy thought. Flow, indu, flow for Indra's sake.\np:Kasyapa, Ṛṣi, lifting up thy voice with hymn-composers' lauds, Pav reverence to King Soma born the Sovran Ruler of the plants. Flow, indu, flow for Indra's sake.\np:Seven regions have their several Suns; the ministering monks are seven; Seven are the Āditya Deities.with these, O Soma, guard thou us. Flow, indu, flow for Indra's sake.\np:Guard us with this oblation which, King Soma, hath been dressed for thee.",
+    "meta": {
+      "next": "10001",
+      "previous": "09113",
+      "book": "09",
+      "source": "https://sacred-texts.com/hin/rigveda/rv09114.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv09114.htm"
+    },
+    "deities": [
+      {
+        "name": "O Soma",
+        "hymns": [
+          {
+            "key": "09114",
+            "title": "HYMN CXIV. Indu."
+          },
+          {
+            "key": "09114",
+            "title": "HYMN CXIV. Indu."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638557436055,
-  "updated": 1638792008323
+  "updated": 1638830292963
 }

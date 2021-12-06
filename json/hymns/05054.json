@@ -5,13 +5,50 @@
   "link": "hymns/05054.html",
   "api": "json/hymns/05054.json",
   "data": {
+    "key": "05054",
     "title": "HYMN LIV. Devas.",
     "describe": "THIS hymn will I make for the Marut host who bright in native splendour cast the mountains down.",
-    "feecting": "p:THIS hymn will I make for the Marut host who bright in native splendour cast the mountains down.\np: Sing the great strength of those illustrious in renown, who stay the heat, who offering on heights of Heaven.\r\np:O Devas, rich in water, strengtheners of life are your strong bands with harnessed steeds, that wander far. Trita roars out at him who aims the lightning-flash. The waters sweeping round are thundering on their way.\np:They gleam with lightning. Heroes, Casters of the Stone, wind-rapid Devas, overthrowers of the bills, Oft through desire to rain coming with storm of hail, roaring in onset, violent and exceeding strong.\np:When, mighty Somas, through the nights and through the days, when through the sky and realms of air, shakers of all, when over the broad fields ye drive along like ships, e&#146;en to strongholds ye come, Devas, but are not harmed.\np:Devas, this hero strength and majesty of yours hath, like the Sun, extended o&#146;er a lengthened way, when in your course like deer with splendour unsubdued ye bowed the hill that gives imperishable rain.\np:Bright shone your host, ye Sages, Devas, when ye smote the waving tree as when the worm consumeth it. Accordant, as the eye guides him who walks, have ye led our devotion onward by an easy path.\np:Never is he, O Devas, slain or overcome, never doth he decay ne&#146;er is distressed or harmed; His treasures, his resources, never waste away, whom. whether he be prince or &#7770;&#7779;i, ye direct.\np:With harnessed team like heroes overcoming troops, the friendly Devas, laden with their water-casks, Let the spring flow, and when impetuous' they roar they inundate the Earth with floods of pleasant meath.\np:Free for the Devas is the Earth with sloping ways, free for the rushing Ones is Heaven with steep descents. The paths of air's mid-region are precipitous, precipitous the mountains with their running streams.\np:When, as the Sun hath risen up, ye take delight, O bounteous radiant Devas. Heroes of the sky, Your coursers weary not when speeding on&#7789;heir way, and rapidly ye reach the end of this your path.\np:Lances are on your shoulders, anklets on your feet, gold chains are on your breasts, gems, Devas, on your car. Lightnings aglow with flame are flashing in your hands, and visors wroughtof gold are laid upon your heads.\np:Devas, in eager stir ye shake the vault of Heaven, splendid beyond conception, for its shining fruit. They gathered when they let their deeds of might flash forth. The Pious Ones send forth a far-resounding shout.\np:Sage Devas. May we be the drivers of the car of riches ful I of life that have been given by you. O Devas, let that wealth in thousands dwell with us which never vanishes like Tisya from the sky.\np:Devas, ye further wealth with longedfor heroes, further the &#7770;&#7779;i skilled in chanted verses. Ye give the Bh&#257;rata as his strength, a charger, and ye bestow a king who quickly listens.\np:Of you, most swift to succour! I solicit wealth wherewith we may spread forth mid men like as the Sun. Accept, O Devas, graciously this hymn of mine that we may live a hundred winters through its power.",
-    "next": "05055",
-    "previous": "05053",
-    "book": "05"
+    "feecting": "p:THIS hymn will I make for the Marut host who bright in native splendour cast the mountains down.\np: Sing the great strength of those illustrious in renown, who stay the heat, who offering on heights of Heaven.\r\np:O Devas, rich in water, strengtheners of life are your strong bands with harnessed steeds, that wander far. Trita roars out at him who aims the lightning-flash. The waters sweeping round are thundering on their way.\np:They gleam with lightning. Heroes, Casters of the Stone, wind-rapid Devas, overthrowers of the bills, Oft through desire to rain coming with storm of hail, roaring in onset, violent and exceeding strong.\np:When, mighty Somas, through the nights and through the days, when through the sky and realms of air, shakers of all, when over the broad fields ye drive along like ships, e’en to strongholds ye come, Devas, but are not harmed.\np:Devas, this hero strength and majesty of yours hath, like the Sun, extended o’er a lengthened way, when in your course like deer with splendour unsubdued ye bowed the hill that gives imperishable rain.\np:Bright shone your host, ye Sages, Devas, when ye smote the waving tree as when the worm consumeth it. Accordant, as the eye guides him who walks, have ye led our devotion onward by an easy path.\np:Never is he, O Devas, slain or overcome, never doth he decay ne’er is distressed or harmed; His treasures, his resources, never waste away, whom. whether he be prince or Ṛṣi, ye direct.\np:With harnessed team like heroes overcoming troops, the friendly Devas, laden with their water-casks, Let the spring flow, and when impetuous' they roar they inundate the Earth with floods of pleasant meath.\np:Free for the Devas is the Earth with sloping ways, free for the rushing Ones is Heaven with steep descents. The paths of air's mid-region are precipitous, precipitous the mountains with their running streams.\np:When, as the Sun hath risen up, ye take delight, O bounteous radiant Devas. Heroes of the sky, Your coursers weary not when speeding onṭheir way, and rapidly ye reach the end of this your path.\np:Lances are on your shoulders, anklets on your feet, gold chains are on your breasts, gems, Devas, on your car. Lightnings aglow with flame are flashing in your hands, and visors wroughtof gold are laid upon your heads.\np:Devas, in eager stir ye shake the vault of Heaven, splendid beyond conception, for its shining fruit. They gathered when they let their deeds of might flash forth. The Pious Ones send forth a far-resounding shout.\np:Sage Devas. May we be the drivers of the car of riches ful I of life that have been given by you. O Devas, let that wealth in thousands dwell with us which never vanishes like Tisya from the sky.\np:Devas, ye further wealth with longedfor heroes, further the Ṛṣi skilled in chanted verses. Ye give the Bhārata as his strength, a charger, and ye bestow a king who quickly listens.\np:Of you, most swift to assist! I solicit wealth wherewith we may spread forth mid men like as the Sun. Accept, O Devas, graciously this hymn of mine that we may live a hundred winters through its power.",
+    "meta": {
+      "next": "05055",
+      "previous": "05053",
+      "book": "05",
+      "source": "https://sacred-texts.com/hin/rigveda/rv05054.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv05054.htm"
+    },
+    "deities": [
+      {
+        "name": "O Devas",
+        "hymns": [
+          {
+            "key": "05054",
+            "title": "HYMN LIV. Devas."
+          },
+          {
+            "key": "05054",
+            "title": "HYMN LIV. Devas."
+          },
+          {
+            "key": "05054",
+            "title": "HYMN LIV. Devas."
+          },
+          {
+            "key": "05054",
+            "title": "HYMN LIV. Devas."
+          }
+        ]
+      },
+      {
+        "name": "O bounteous",
+        "hymns": [
+          {
+            "key": "05054",
+            "title": "HYMN LIV. Devas."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638555171540,
-  "updated": 1638792007812
+  "updated": 1638830292288
 }

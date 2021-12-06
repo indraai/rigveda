@@ -5,13 +5,19 @@
   "link": "hymns/04021.html",
   "api": "json/hymns/04021.json",
   "data": {
+    "key": "04021",
     "title": "HYMN XXI. Indra.",
     "describe": "MAY Indra come to us for our protection;",
-    "feecting": "p:MAY Indra come to us for our protection; here be the Hero, praised, our feast-companion.\np: May he whose powers are many, waxen mighty, cherish, like Devas, his own supreme dominion.\r\np:Here magnify his great heroic exploits, most glorious One, enriching men with bounties, whose will is like a Sovran in assembly, who rules the people, Conqueror, all-surpassing.\np:Hither let Indra come from Earth or Heaven, hither with speech from Firmament or ocean; With Devas, from the realm of light to aid us, or from a distance, from the seat of Order.\np:That Indra will we laud in our assemblies, him who is Lord of great and lasting riches, Victor with V&#257;yu where the herds are gathered, who leads with boldness on to higher fortune.\np:May the Monk, Lord of many blessings, striving,&#151;who fixing reverence on reverence, giving Vent to his voice, inciteth men to worship&#151;with lauds bring Indra hither to our dwellings.\np:When sitting pondering in deep devotion in Au&#347;ija's abode they ply the press-stone, May he whose wrath is fierce, the mighty bearer, come as the house-lord's priest within our chambers.\np:Surely the power of Bh&#257;rvara the mighty forever helpeth to support the singer; That which in Au&#347;ija's abode lies hidden, to come forth for delight and for devotion.\np:When he unbars the spaces of the mountains, and quickens with his floods the water-torrents. He finds in lair the buffalo and wild-ox when the wise lead him on to vigorous exploit.\np:Auspicious are thy hands, thine arms well-fashioned which proffer bounty, Indra, to thy praiser. What sloth is this? Why dost thou not rejoice thee? Why dost thou not delight thyself with giving?\np:So Indra is the truthful Lord of treasure. Freedom he gave to man by subduing V&#7771;tra. Much-lauded! help us with thy power to riches. May I be sharer of thy Godlike favour.\np:Now, Indra! lauded, glorified with praises, let power swell high, like rivers, for the singer. For thee a new hymn, Lord of Bays! is fashioned. May we, care-borne, through song be victors ever.",
-    "next": "04022",
-    "previous": "04020",
-    "book": "04"
+    "feecting": "p:MAY Indra come to us for our protection; here be the Hero, praised, our feast-companion.\np: May he whose powers are many, waxen mighty, cherish, like Devas, his own supreme dominion.\r\np:Here magnify his great heroic exploits, most glorious One, enriching men with bounties, whose will is like a Sovran in assembly, who rules the people, Conqueror, all-surpassing.\np:Hither let Indra come from Earth or Heaven, hither with speech from Firmament or ocean; With Devas, from the realm of light to aid us, or from a distance, from the seat of Order.\np:That Indra will we laud in our assemblies, him who is Lord of great and lasting riches, Victor with Soma where the herds are gathered, who leads with boldness on to higher fortune.\np:May the Monk, Lord of many blessings, striving.who fixing reverence on reverence, giving Vent to his voice, inciteth men to worship—with lauds bring Indra hither to our dwellings.\np:When sitting pondering in deep devotion in Auśija's abode they ply the press-stone, may he whose wrath is fierce, the mighty bearer, come as the house-lord's priest within our chambers.\np:Surely the power of Bhārvara the mighty forever helpeth to support the singer; That which in Auśija's abode lies hidden, to come forth for delight and for devotion.\np:When he unbars the spaces of the mountains, and quickens with his floods the water-torrents. He finds in lair the buffalo and wild-ox when the wise lead him on to vigorous exploit.\np:Auspicious are thy hands, thine arms well-fashioned which proffer bounty, Indra, to thy praiser. What sloth is this? Why dost thou not rejoice thee? Why dost thou not delight thyself with giving?\np:So Indra is the truthful Lord of treasure. Freedom he gave to man by subduing Vṛtra. Much-lauded! help us with thy power to riches. May I be sharer of thy Godlike favour.\np:Now, Indra! lauded, glorified with praises, let power swell high, like rivers, for the singer. For thee a new hymn, Lord of Bays! is fashioned. May we, care-borne, through song be victors ever.",
+    "meta": {
+      "next": "04022",
+      "previous": "04020",
+      "book": "04",
+      "source": "https://sacred-texts.com/hin/rigveda/rv04021.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv04021.htm"
+    },
+    "deities": []
   },
   "created": 1638554688900,
-  "updated": 1638792007698
+  "updated": 1638830292152
 }

@@ -5,13 +5,59 @@
   "link": "hymns/01024.html",
   "api": "json/hymns/01024.json",
   "data": {
-    "title": "HYMN XXIV. Varu&#7751;a and Others.",
+    "key": "01024",
+    "title": "HYMN XXIV. Indra.",
     "describe": "WHO now is he, of whose auspicious name we may bethink us?",
-    "feecting": "p:WHO now is he, of whose auspicious name we may bethink us? Who shall restore us, that . May see my Father and my Mother?\np:Indra, the first among the Immortals,&#151;of his auspicious name let us bethink us.\np: He shall restore us, that . May see my Father and my Mother.\r\np:To thee, O Indra, the Lord of precious things, who helpest us continually, for our share we come&#151;\np:Wealth, highly lauded ere reproach hath fallen on it, which is laid, free from all hatred, in thy hands\np:Through thy protectio. May we come to even the height of affluence.\np:Ne&#146;er have those birds that fly through air attained to thy high dominion or thy might or spirit; Nor these the waters that flow on forever, nor hills, abaters of the wind's wild fury.\np:Varu&#7751;a, King, of hallowed might, sustaineth erect the Tree's stem in the baseless region. Its rays, whose root is high above, stream downward. Dee. May they sink within us, and be hidden.\np:King Varu&#7751;a hath made a spacious pathway, a pathway for the Sun wherein to travel. Where no way was he made him set his footstep, and warned afar whate&#146;er afflicts the spirit.\np:A hundred balms are thine, O King, a thousand; deep and wide-reaching also be thy favours. Far from us, far away drive thou destruction. Put from us e&#146;en the sin we have committed.\np:Whither by day depart the constellations that shine at night, set high in Heaven above us? Varu&#7751;a's holy laws remain unweakened, and through the night the Moon moves on in splendor\np:I ask this of thee with my meditation adoring; thy worshipper craves this with his oblation. Varu&#7751;a, stay thou here and be not angry; steal not our life from us, O thou Wide-Ruler.\np:Nightly and daily this one thing they tell me, this too the thought of mine own heart repeateth. May he to whom prayed fettered &#346;una&#7717;&#347;epa. May he the Sovran Varu&#7751;a release us.\np:Bound to three pillars captured &#346;una&#7717;&#347;epa thus to the &#256;ditya made his supplication. Hi. May the Sovran Varu&#7751;a deliver, wise, ne&#146;er deceived, loosen the bonds that bind him.\np:With bending down, oblations, O Varu&#7751;a, we deprecate thine anger: Wise Devas, thou King of wide dominion, loosen the bonds of sins by us committed.\np:Loosen the bonds, O Varu&#7751;a, that hold me, loosen the bonds above, between, and under. So in thy holy la. May we made sinless belong to Aditi, O thou &#256;ditya.",
-    "next": "01025",
-    "previous": "01023",
-    "book": "01"
+    "feecting": "p:WHO now is he, of whose auspicious name we may bethink us? Who shall restore us, that . May see my Father and my Mother?\np:Indra, the first among the Immortals.of his auspicious name let us bethink us.\np: He shall restore us, that . May see my Father and my Mother.\r\np:To thee, O Indra, the Lord of precious things, who helpest us continually, for our share we come—\np:Wealth, highly lauded ere reproach hath fallen on it, which is laid, free from all hatred, in thy hands\np:Through thy protectio. May we come to even the height of affluence.\np:Ne’er have those birds that fly through air attained to thy high dominion or thy might or spirit; Nor these the waters that flow on forever, nor hills, abaters of the wind's wild fury.\np:Indra, King, of hallowed might, sustaineth erect the Tree's stem in the baseless region. Its rays, whose root is high above, stream downward. Dee. May they sink within us, and be hidden.\np:King Indra hath made a spacious pathway, a pathway for the Sun wherein to travel. Where no way was he made him set his footstep, and warned afar whate’er afflicts the spirit.\np:A hundred balms are thine, O King, a thousand; deep and wide-reaching also be thy favours. Far from us, far away drive thou destruction. Put from us e’en the sin we have committed.\np:Whither by day depart the constellations that shine at night, set high in Heaven above us? Indra's holy laws remain unweakened, and through the night the Moon moves on in splendor\np:I ask this of thee with my meditation adoring; thy worshipper craves this with his oblation. Indra, stay thou here and be not angry; steal not our life from us, O thou Wide-Ruler.\np:Nightly and daily this one thing they tell me, this too the thought of mine own heart repeateth. May he the Sovran Indra release us.\np:Bound to three pillars the Āditya made his supplication. Hi. May the Sovran Indra deliver, wise, ne’er deceived, loosen the bonds that bind him.\np:With bending down, oblations, O Indra, we deprecate thine anger: Wise Devas, thou King of wide dominion, loosen the bonds of sins by us committed.\np:Loosen the bonds, O Indra, that hold me, loosen the bonds above, between, and under. So in thy holy la. May we made sinless belong to Aditi, O thou Āditya.",
+    "meta": {
+      "next": "01025",
+      "previous": "01023",
+      "book": "01",
+      "source": "https://sacred-texts.com/hin/rigveda/rv01024.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv01024.htm"
+    },
+    "deities": [
+      {
+        "name": "O Indra",
+        "hymns": [
+          {
+            "key": "01024",
+            "title": "HYMN XXIV. Indra."
+          },
+          {
+            "key": "01024",
+            "title": "HYMN XXIV. Indra."
+          },
+          {
+            "key": "01024",
+            "title": "HYMN XXIV. Indra."
+          }
+        ]
+      },
+      {
+        "name": "O King",
+        "hymns": [
+          {
+            "key": "01024",
+            "title": "HYMN XXIV. Indra."
+          }
+        ]
+      },
+      {
+        "name": "O thou",
+        "hymns": [
+          {
+            "key": "01024",
+            "title": "HYMN XXIV. Indra."
+          },
+          {
+            "key": "01024",
+            "title": "HYMN XXIV. Indra."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638553139222,
-  "updated": 1638792007299
+  "updated": 1638830291612
 }

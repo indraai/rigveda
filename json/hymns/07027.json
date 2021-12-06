@@ -5,13 +5,19 @@
   "link": "hymns/07027.html",
   "api": "json/hymns/07027.json",
   "data": {
+    "key": "07027",
     "title": "HYMN XXVII. Indra.",
     "describe": "MEN call on Indra in the armed encounter that h.",
     "feecting": "p:MEN call on Indra in the armed encounter that h. May make the hymns they sing decisive.\np: Hero, rejoicing in thy might, in combat give us a portion of the stall of cattle,\r\np:Grant, Indra Indra, invoked of many, to these my friends the strength which thou possessest. Thou, Indra, hast rent strong places open: unclose for us, Wise Deva, thy hidden bounty.\np:King of the living world, of men, is Indra, of all in varied form that Earth containeth. Thence to the worshipper he giveth riches. May he enrich us also when we laud him.\np:Indra Indra, when we all invoke him, bountiful ever sendeth strength to aid us: Whose perfect guerdon, never failing, bringeth wealth to the men, to friends the thing they covet.\np:Quick, Indra, give us room and way to riches, and let us bring thy mind to grant us treasures, that we may win us cars and Steeds and cattle. Preserve us evermore, ye Devas, with blessings.",
-    "next": "07028",
-    "previous": "07026",
-    "book": "07"
+    "meta": {
+      "next": "07028",
+      "previous": "07026",
+      "book": "07",
+      "source": "https://sacred-texts.com/hin/rigveda/rv07027.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv07027.htm"
+    },
+    "deities": []
   },
   "created": 1638555885014,
-  "updated": 1638792007966
+  "updated": 1638830292521
 }

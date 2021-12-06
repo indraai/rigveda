@@ -5,13 +5,19 @@
   "link": "hymns/06072.html",
   "api": "json/hymns/06072.json",
   "data": {
+    "key": "06072",
     "title": "HYMN LXXII. Indra.",
     "describe": "GREAT is this might of yours, Indra and Soma, the first high exploits were your own achievements.",
-    "feecting": "p:GREAT is this might of yours, Indra and Soma, the first high exploits were your own achievements.\np: Ye found the Sun ye found the light of Heaven: ye killed all darkness and the Devas&#146; blasphemers.\r\np:Ye, Indra,  led the Sun on high with all his splendour. Ye stayed the Heaven with a supporting pillar, .\np:Ye slew the flood -obstructing serpent V&#7771;tra, Indra and Soma, Heaven approved your exploit. Ye urged to speed the currents of the rivers, and many seas have ye filled full with waters.\np:Ye in the unripe udders of the milch-kine have set the ripe milk, Indra and Soma. Ye have held fast the unimpeded whiteness within these many-coloured moving creatures.\np:Verily ye bestow, Indra and Soma, wealth, famed, victorious, passing to our children. Ye have invested men, ye Mighty Beings, with manly strength that conquers in the battle.",
-    "next": "06073",
-    "previous": "06071",
-    "book": "06"
+    "feecting": "p:GREAT is this might of yours, Indra and Soma, the first high exploits were your own achievements.\np: Ye found the Sun ye found the light of Heaven.\r\np:Ye, Indra,  led the Sun on high with all his splendour. Ye stayed the Heaven with a supporting pillar, .\np:Ye ,  Indra and Soma, Heaven approved your exploit. Ye urged to speed the currents of the rivers, and many seas have ye filled full with waters.\np:Ye in the unripe udders of the milch-kine have set the ripe milk, Indra and Soma. Ye have held fast the unimpeded whiteness within these many-coloured moving creatures.\np:Verily ye bestow, Indra and Soma, wealth, famed, victorious, passing to our children. Ye have invested men, ye Mighty Beings, with manly strength that conquers in the battle.",
+    "meta": {
+      "next": "06073",
+      "previous": "06071",
+      "book": "06",
+      "source": "https://sacred-texts.com/hin/rigveda/rv06072.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv06072.htm"
+    },
+    "deities": []
   },
   "created": 1638555726533,
-  "updated": 1638792007934
+  "updated": 1638830292458
 }

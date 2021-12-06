@@ -5,13 +5,47 @@
   "link": "hymns/07019.html",
   "api": "json/hymns/07019.json",
   "data": {
+    "key": "07019",
     "title": "HYMN XIX. Indra.",
     "describe": "HE like a bull with sharpened horns, terrific, singly excites and agitates all the people: Thou givest him who largely pours libations his goods who pours not, for his own possession.",
-    "feecting": "p:HE like a bull with sharpened horns, terrific, singly excites and agitates all the people: Thou givest him who largely pours libations his goods who pours not, for his own possession.\np:Thou, verily, Indra, gavest help to Kutsa, willingly giving car to him in battle, when, aiding &#256;rjuneya, thou subduedst to him both Kuyava and the D&#257;sa &#346;u&#7779;&#7751;a.\np:O Bold One, thou with all thine aids hast boldly holpen Sud&#257;s whose offerings were accepted, P&#363;ru in winning land and subduing foemen, and Trasadasyu son of Purukutsa.\np:At the Devas&#146; banquet, hero-souled! with Heroes, Lord of Bay Steeds, thou slewest many foemen.\np: Thou sentest in swift death to sleep the Dasyu, both Cumuri and Dhuni, for Dabh&#299;ti.\r\np:These were thy mighty powers that, Thunder-wielder, thou swiftly crushedst nine-and-ninety castles: Thou capturedst the hundredth in thine onslaught; thou slewest Namuci, thou slewest V&#7771;tra.\np:Old are the blessings, Indra, which thou gavest Sud&#257;s the worshipper who brought oblations. For thee, the Strong, I yoke thy strong Bay Horses. May our meditations reach thee and win strength, most Mighty!\np:Give us not up, Lord of Bay Horses, Victor, in this thine own assembly, to the wicked. Deliver us with true and faithful succours: dea. May we be to thee among the princes.\np:May we men, Indra, the friends thou lovest, near thee be joyful under thy protection. Fain to fulfil the wish of Atithigva humble. the pride of Turva&#347;a and Yadva.\np:Swiftly, in truth, O Indra, about thee men skilled in hymning sing their songs and praises. ' Elect us also into their assembly who by their calls on thee despoiled the niggards.\np:Thine are these lauds, O manliest of heroes, lauds which revert to us and give us riches. Favour these, Indra, when they fight with faemen, as Friend and Hero and the heroes' Helper.\np:Now, lauded for thine aid. Heroic Indra, sped by our meditation, wax mighty in thy body. Apportion to us strength and habitations. Ye Devas, protect us evermore with blessings.",
-    "next": "07020",
-    "previous": "07018",
-    "book": "07"
+    "feecting": "p:HE like a bull with sharpened horns, terrific, singly excites and agitates all the people: Thou givest him who largely pours libations his goods who pours not, for his own possession.\np:Thou, verily, Indra, gavest help to Kutsa, willingly giving car to him in battle, when, aiding Ārjuneya, thou subduedst to him both Kuyava and the Dāsa Śuṣṇa.\np:O Bold One, thou with all thine aids hast boldly holpen Sudās whose offerings were accepted, Pūru in winning land and subduing foemen, and Trasadasyu son of Purukutsa.\np:At the Devas’ banquet, hero-souled! with Heroes, Lord of Bay Steeds, thou slewest many foemen.\np: Thou sentest in swift death to sleep the Dasyu, both Cumuri and Dhuni, for Dabhīti.\r\np:These were thy mighty powers that, Thunder-wielder, thou swiftly crushedst nine-and-ninety castles: Thou capturedst the hundredth in thine onslaught; thou slewest Namuci, thou slewest Vṛtra.\np:Old are the blessings, Indra, which thou gavest Sudās the worshipper who brought oblations. For thee, the Strong, I yoke thy strong Bay Horses. May our meditations reach thee and win strength, most Mighty!\np:Give us not up, Lord of Bay Horses, Victor, in this thine own assembly, to the wicked. Deliver us with true and faithful assists: dea. May we be to thee among the princes.\np:May we men, Indra, the friends thou lovest, near thee be joyful under thy protection. Fain to fulfil the wish of Atithigva humble. the pride of Turvaśa and Yadva.\np:Swiftly, in truth, O Indra, about thee men skilled in hymning sing their songs and praises. ' Elect us also into their assembly who by their calls on thee despoiled the niggards.\np:Thine are these lauds, O manliest of heroes, lauds which revert to us and give us riches. Favour these, Indra, when they fight with faemen, as Friend and Hero and the heroes' Helper.\np:Now, lauded for thine aid. Heroic Indra, sped by our meditation, wax mighty in thy body. Apportion to us strength and habitations. Ye Devas, protect us evermore with blessings.",
+    "meta": {
+      "next": "07020",
+      "previous": "07018",
+      "book": "07",
+      "source": "https://sacred-texts.com/hin/rigveda/rv07019.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv07019.htm"
+    },
+    "deities": [
+      {
+        "name": "O Bold",
+        "hymns": [
+          {
+            "key": "07019",
+            "title": "HYMN XIX. Indra."
+          }
+        ]
+      },
+      {
+        "name": "O Indra",
+        "hymns": [
+          {
+            "key": "07019",
+            "title": "HYMN XIX. Indra."
+          }
+        ]
+      },
+      {
+        "name": "O manliest",
+        "hymns": [
+          {
+            "key": "07019",
+            "title": "HYMN XIX. Indra."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638555842799,
-  "updated": 1638792007958
+  "updated": 1638830292508
 }

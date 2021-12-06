@@ -5,13 +5,68 @@
   "link": "hymns/08047.html",
   "api": "json/hymns/08047.json",
   "data": {
-    "title": "HYMN XLVII. &#256;dityas.",
-    "describe": "GREAT help ye give the worshipper, Varu&#7751;",
-    "feecting": "p:GREAT help ye give the worshipper, Varu&#7751;a, Mitra, Mighty Ones! No sorrow ever reaches him whom ye, &#256;dityas, keep from harm. Yours are incomparable aids, and good the succour they afford.\np:O Devas, &#256;dityas, well ye know the way to keep all woes afar.\np: As the birds spread their sheltering wings, spread your protection over us.\r\np:As the birds spread their sheltering wings let your protection cover us. We mean all shelter and defence, ye who have all things for your own.\np:To whomsoever they, most Wise, have given a home and means of life, O'er the whole riches of this man they, the &#256;dityas, have control.\np:As drivers of the car avoid ill roads, let sorrows pass us by. May we be under Indra's guard, in the &#256;dityas&#146; favouring grace.\np:For verily men sink and faint through loss of wealth which ye have given. Much hath he gained from you, O Devas, whom ye, &#256;dityas, have approached.\np:On him shall no fierce anger fall, no sore distress shall visit him, to whom, &#256;dityas, ye have lent your shelter that extendeth far.\np:Resting in you, O Devas, we are like men who fight in coats of mail. Ye guard us from each great offence, ye guard us from each lighter fault.\np:May Aditi defend us. May Aditi guard and shelter us, Mother of wealthy Mitra and of Aryaman and Varu&#7751;a.\np:The shelter, Devas, that is secure, auspicious, free from malady, a sure protection, triply strong, even that do ye extend to us.\np:Look down on us, &#256;dityas, as a guide exploring from the bank. Lead us to pleasant ways as men lead horses to an easy ford.\np:Ill be it for the demons' friend to find us or come near to us. But for the milch-cow be it well, and for the man who strives for fame.\np:Each evil deed made manifest, and that which is concealed, O Devas, the whole thereof remove from us to Trita &#256;ptya far away.\np:Daughter of Heaven, the dream that bodes evil to us or to our kine, Remove, O Lady of the Light, to Trita &#256;ptya far away.\np:Even if, O Child of Heaven, it make a garland or a chain of gold, the whole bad dream, whate&#146;er it be, to Trita &#256;ptya we consign.\np:To him whose food and work is this, who comes to take his share therein, to Trita, and to Dvita, Dawn! bear thou the evil dream away.\np:As we collect the utmost debt, even the eighth and sixteenth part, So unto &#256;ptya we transfer together all the evil dream.\np:Now have we conquered and obtained, and from our trespasses are free. Shine thou away the evil dream, O Dawn, whereof we are afraid. Yours are incomparable aids, and good the succour they afford.",
-    "next": "08048",
-    "previous": "08046",
-    "book": "08"
+    "key": "08047",
+    "title": "HYMN XLVII. Ādityas.",
+    "describe": "GREAT help ye give the worshipper, Indra, Mitra, Mighty Ones!",
+    "feecting": "p:GREAT help ye give the worshipper, Indra, Mitra, Mighty Ones! No sorrow ever reaches him whom ye Devas keep from harm. Yours are incomparable aids, and good the assist they afford.\np:O Devas Devas well ye know the way to keep all woes afar.\np: As the birds spread their sheltering wings, spread your protection over us.\r\np:As the birds spread their sheltering wings let your protection cover us. We mean all shelter and defence, ye who have all things for your own.\np:To whomsoever they, most Wise, have given a home and means of life, O'er the whole riches of this man they, the Ādityas, have control.\np:As drivers of the car avoid ill roads, let sorrows pass us by. May we be under Indra's guard, in the Ādityas’ favouring grace.\np:For verily men sink and faint through loss of wealth which ye have given. Much hath he gained from you, O Devas, whom ye Devas have approached.\np:On him shall no fierce anger fall, no sore distress shall visit him, to whom Devas ye have lent your shelter that extendeth far.\np:Resting in you, O Devas, we are like men who fight in coats of mail. Ye guard us from each great offence, ye guard us from each lighter fault.\np:May Aditi defend us. May Aditi guard and shelter us, Mother of wealthy Mitra and of Aryaman and Indra.\np:The shelter, Devas, that is secure, auspicious, free from malady, a sure protection, triply strong, even that do ye extend to us.\np:Look down on us Devas as a guide exploring from the bank. Lead us to pleasant ways as men lead horses to an easy ford.\np:Ill be it for the demons' friend to find us or come near to us. But for the milch-cow be it well, and for the man who strives for fame.\np:Each evil deed made manifest, and that which is concealed, O Devas, the whole thereof remove from us to Trita Āptya far away.\np:Daughter of Heaven, the dream that bodes evil to us or to our kine, Remove, O Lady of the Light, to Trita Āptya far away.\np:Even if, O Child of Heaven, it make a garland or a chain of gold, the whole bad dream, whate’er it be, to Trita Āptya we consign.\np:To him whose food and work is this, who comes to take his share therein, to Trita, and to Dvita, Dawn! bear thou the evil dream away.\np:As we collect the utmost debt, even the eighth and sixteenth part, So unto Āptya we transfer together all the evil dream.\np:Now have we conquered and obtained, and from our trespasses are free. Shine thou away the evil dream, O Dawn, whereof we are afraid. Yours are incomparable aids, and good the assist they afford.",
+    "meta": {
+      "next": "08048",
+      "previous": "08046",
+      "book": "08",
+      "source": "https://sacred-texts.com/hin/rigveda/rv08047.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv08047.htm"
+    },
+    "deities": [
+      {
+        "name": "O Devas",
+        "hymns": [
+          {
+            "key": "08047",
+            "title": "HYMN XLVII. Ādityas."
+          },
+          {
+            "key": "08047",
+            "title": "HYMN XLVII. Ādityas."
+          },
+          {
+            "key": "08047",
+            "title": "HYMN XLVII. Ādityas."
+          },
+          {
+            "key": "08047",
+            "title": "HYMN XLVII. Ādityas."
+          }
+        ]
+      },
+      {
+        "name": "O Lady",
+        "hymns": [
+          {
+            "key": "08047",
+            "title": "HYMN XLVII. Ādityas."
+          }
+        ]
+      },
+      {
+        "name": "O Child",
+        "hymns": [
+          {
+            "key": "08047",
+            "title": "HYMN XLVII. Ādityas."
+          }
+        ]
+      },
+      {
+        "name": "O Dawn",
+        "hymns": [
+          {
+            "key": "08047",
+            "title": "HYMN XLVII. Ādityas."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638556538988,
-  "updated": 1638792008123
+  "updated": 1638830292735
 }

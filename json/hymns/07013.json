@@ -5,13 +5,29 @@
   "link": "hymns/07013.html",
   "api": "json/hymns/07013.json",
   "data": {
+    "key": "07013",
     "title": "HYMN XIII. Agni.",
     "describe": "BRING song and hymn to Agni, Devas-slayer, enlightener of all and thought-bestower.",
-    "feecting": "p:BRING song and hymn to Agni, Devas-slayer, enlightener of all and thought-bestower.\np: Like an oblation on the grass, to please him, I bring this to Vai&#347;v&#257;nara, hymn-inspirer.\r\np:Thou with thy flame, O Agni, brightly glowing, hast at thy birth filled full the Earth and Heaven. TIOU with thy might, Vai&#347;v&#257;nara J&#257;tavedas, settest the Devas free frodi the curse that bound them.\np:Agni, when, born thou lookedst on all creatures, like a brisk herdsman moving round his cattle. The path to prayer, Vai&#347;v&#257;nara, thou foundest. Ye Devas, preserve us evermore with blessings.",
-    "next": "07014",
-    "previous": "07012",
-    "book": "07"
+    "feecting": "p:BRING song and hymn to Agni, Devas-slayer, enlightener of all and thought-bestower.\np: Like an oblation on the grass, to please him, I bring this to Vaiśvānara, hymn-inspirer.\r\np:Thou with thy flame, O Agni, brightly glowing, hast at thy birth filled full the Earth and Heaven. TIOU with thy might, Vaiśvānara Jātavedas, settest the Devas free frodi the curse that bound them.\np:Agni, when, born thou lookedst on all creatures, like a brisk herdsman moving round his cattle. The path to prayer thou foundest. Ye Devas, preserve us evermore with blessings.",
+    "meta": {
+      "next": "07014",
+      "previous": "07012",
+      "book": "07",
+      "source": "https://sacred-texts.com/hin/rigveda/rv07013.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv07013.htm"
+    },
+    "deities": [
+      {
+        "name": "O Agni",
+        "hymns": [
+          {
+            "key": "07013",
+            "title": "HYMN XIII. Agni."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638555811210,
-  "updated": 1638792007951
+  "updated": 1638830292494
 }

@@ -5,13 +5,29 @@
   "link": "hymns/05022.html",
   "api": "json/hymns/05022.json",
   "data": {
+    "key": "05022",
     "title": "HYMN XXII. Agni.",
-    "describe": "LIKE Atri, Vi&#347;",
-    "feecting": "p:LIKE Atri, Vi&#347;vas&#257;man! sing to him of purifying light, who must be praised in holy rites, the Monk most welcome in the house.\np:Set J&#257;tavedas in his place, Agni the Deva and Minister.\np: Let offering proceed to-day duly, comprising all the Devas.\r\np:All mortals come to thee for aid of most observant mind. Of thine excelling favour we bethink us as we long for it.\np:Mark with attention this our speech, O Agni, thou victorious One. Thee, Strong-jawed! as the homestead's Lord, the Atris with their lauds exalt, the Atris beautify with songs.",
-    "next": "05023",
-    "previous": "05021",
-    "book": "05"
+    "describe": "LIKE Atri, Viśvasāman!",
+    "feecting": "p:LIKE Atri, Viśvasāman! sing to him of purifying light, who must be praised in holy rites, the Monk most welcome in the house.\np:Set Jātavedas in his place, Agni the Deva and Minister.\np: Let offering proceed to-day duly, comprising all the Devas.\r\np:All mortals come to thee for aid of most observant mind. Of thine excelling favour we bethink us as we long for it.\np:Mark with attention this our speech, O Agni, thou victorious One. Thee, Strong-jawed! as the homestead's Lord, the Atris with their lauds exalt, the Atris beautify with songs.",
+    "meta": {
+      "next": "05023",
+      "previous": "05021",
+      "book": "05",
+      "source": "https://sacred-texts.com/hin/rigveda/rv05022.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv05022.htm"
+    },
+    "deities": [
+      {
+        "name": "O Agni",
+        "hymns": [
+          {
+            "key": "05022",
+            "title": "HYMN XXII. Agni."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638555001305,
-  "updated": 1638792007768
+  "updated": 1638830292238
 }

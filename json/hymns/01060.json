@@ -5,13 +5,29 @@
   "link": "hymns/01060.html",
   "api": "json/hymns/01060.json",
   "data": {
+    "key": "01060",
     "title": "HYMN LX. Agni.",
-    "describe": "As &#146;",
-    "feecting": "p:As &#146;twere Some goodly treasure M&#257;tari&#347;van brought, as a gift, the glorious Monk to Bh&#7771;gu, Banner of Offering, the good Protector, child of two births, the swiftly moving envoy.\np:Both Devas and men obey this Ruler's order, Devas who are worshipped, men who yearn and worship.\np: As Monk he takes his seat ere break of morning, House-Lord, adorable with men, ordainer.\r\np:May our fair praise, heart-born, most recent, reach him whose tongue, e&#146;en at his birth, is sweet as honey. Whome mortal monks, men, with their stron endeavour, supplied with dainty offerings, have created.\np:Good to mankind, the yearning Purifier hath among men been placed as Monk choice-worthy. May Agni be our Friend, Lord of the Household, protector of the riches in the dwelling.\np:O Agni, as the guardian Lord of riches, decking thee like a horse, the swift prizewinner. May he, enriched with meditation, come soon and early.",
-    "next": "01061",
-    "previous": "01059",
-    "book": "01"
+    "describe": "As ’twere Some goodly treasure brought, as a gift, the glorious Monk, Banner of Offering, the good Protector, child of two births, the swiftly moving envoy.",
+    "feecting": "p:As ’twere Some goodly treasure brought, as a gift, the glorious Monk, Banner of Offering, the good Protector, child of two births, the swiftly moving envoy.\np:Both Devas and men obey this Ruler's order, Devas who are worshipped, men who yearn and worship.\np: As Monk he takes his seat ere break of morning, House-Lord, adorable with men, ordainer.\r\np:May our fair praise, heart-born, most recent, reach him whose tongue, e’en at his birth, is sweet as honey. Whome mortal monks, men, with their stron endeavour, supplied with dainty offerings, have created.\np:Good to mankind, the yearning Purifier hath among men been placed as Monk choice-worthy. May Agni be our Friend, Lord of the Household, protector of the riches in the dwelling.\np:O Agni, as the guardian Lord of riches, decking thee like a horse, the swift prizewinner. May he, enriched with meditation, come soon and early.",
+    "meta": {
+      "next": "01061",
+      "previous": "01059",
+      "book": "01",
+      "source": "https://sacred-texts.com/hin/rigveda/rv01060.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv01060.htm"
+    },
+    "deities": [
+      {
+        "name": "O Agni",
+        "hymns": [
+          {
+            "key": "01060",
+            "title": "HYMN LX. Agni."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638553329861,
-  "updated": 1638792007358
+  "updated": 1638830291675
 }

@@ -5,13 +5,19 @@
   "link": "hymns/10177.html",
   "api": "json/hymns/10177.json",
   "data": {
-    "title": "HYMN CLXXVII. M&#257;y&#257;bheda.",
+    "key": "10177",
+    "title": "HYMN CLXXVII. Māyābheda.",
     "describe": "THE sapient with their spirit and their mind behold the Bird adorned with all an Devas's magic might.",
     "feecting": "p:THE sapient with their spirit and their mind behold the Bird adorned with all an Devas's magic might.\np: Sages observe him in the ocean's inmost depth: the wise disposers seek the station of his rays.\r\np:The flying Bird bears Speech within his spirit: erst the Gandharva in the womb pronounced it: And at the seat of offering the sages cherish this radiant, heavenly-bright invention.\np:I saw the Herdsman, him who never resteth, approaching and departing on his pathways. He, clothed in gathered and diffusive splendour, within the worlds continually travels.",
-    "next": "10178",
-    "previous": "10176",
-    "book": "10"
+    "meta": {
+      "next": "10178",
+      "previous": "10176",
+      "book": "10",
+      "source": "https://sacred-texts.com/hin/rigveda/rv10177.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv10177.htm"
+    },
+    "deities": []
   },
   "created": 1638558375145,
-  "updated": 1638792008609
+  "updated": 1638830293261
 }

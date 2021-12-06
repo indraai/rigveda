@@ -5,13 +5,46 @@
   "link": "hymns/08015.html",
   "api": "json/hymns/08015.json",
   "data": {
+    "key": "08015",
     "title": "HYMN XV. Indra.",
     "describe": "SING forth to him whom many men invoke, to him whom many laud.",
-    "feecting": "p:SING forth to him whom many men invoke, to him whom many laud.\np: Invite the powerful Indra with your songs of praise.\r\np:Whose lofty might-for doubly strong is he-supports the heavens and Earth, and hills and plains and floods and light with manly power.\np:Such, Praised by many! thou art King alone thou smitest V&#7771;tras dead, to gain, O Indra, spoils of war and high renown.\np:We sing this strong and wild delight of thine which conquers in the fray, Which, Caster of the Stone! gives room and shines like gold.\np:Wherewith thou also foundest lights for &#256;yu and for Manu's sake: Now joying in this sacred grass thou beamest forth.\np:This day too singers of the hymn praise, as of old, this might of thine: Win thou the waters day by day, thralls of the strong.\np:That lofty Indra-power of thine, thy strength and thine intelligence, Thy thunderbolt for which we long, the wish makes keen.\np:O Indra. Heaven and Earth augment thy manly power and thy renown; The waters and thy mountains stir and urge thee on.\np:Vi&#7779;&#7751;u the lofty ruling Power, Varu&#7751;a, Mitra sing thy praise: In thee the Marut3' company have great delight.\np:O Indra, thou wast born the Lord of men, most liberal of thy gifts: Excellent deeds forevermore are all thine own.\np:Ever, alone, O highly-praised, thou sendest V&#7771;tras to their rest: Non else than Indra executes the mighty deed.\np:Though here and there, in varied hymns, Indra, men call on thee for aid, Still with our heroes fight and win the light of Heaven.\np:Already have all forms of him entered our spacious dwelling-place: For victory stir thou Indra, up, the Lord of Might.",
-    "next": "08016",
-    "previous": "08014",
-    "book": "08"
+    "feecting": "p:SING forth to him whom many men invoke, to him whom many laud.\np: Invite the powerful Indra with your songs of praise.\r\np:Whose lofty might-for doubly strong is he-supports the heavens and Earth, and hills and plains and floods and light with manly power.\np:Such, Praised by many! thou art King alone thou smitest Vṛtras dead, to gain, O Indra, spoils of war and high renown.\np:We sing this strong and wild delight of thine which conquers in the fray, Which, Caster of the Stone! gives room and shines like gold.\np:Wherewith thou also foundest lights for Āyu and for Manu's sake: Now joying in this sacred grass thou beamest forth.\np:This day too singers of the hymn praise, as of old, this might of thine: Win thou the waters day by day, thralls of the strong.\np:That lofty Indra-power of thine, thy strength and thine intelligence, Thy thunderbolt for which we long, the wish makes keen.\np:O Indra. Heaven and Earth augment thy manly power and thy renown; The waters and thy mountains stir and urge thee on.\np:Indra the lofty ruling Power, Indra, Mitra sing thy praise: In thee the Marut3' company have great delight.\np:O Indra, thou wast born the Lord of men, most liberal of thy gifts: Excellent deeds forevermore are all thine own.\np:Ever, alone, O highly-praised, thou sendest Vṛtras to their rest: Non else than Indra executes the mighty deed.\np:Though here and there, in varied hymns, Indra, men call on thee for aid, Still with our heroes fight and win the light of Heaven.\np:Already have all forms of him entered our spacious dwelling-place: For victory stir thou Indra, up, the Lord of Might.",
+    "meta": {
+      "next": "08016",
+      "previous": "08014",
+      "book": "08",
+      "source": "https://sacred-texts.com/hin/rigveda/rv08015.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv08015.htm"
+    },
+    "deities": [
+      {
+        "name": "O Indra",
+        "hymns": [
+          {
+            "key": "08015",
+            "title": "HYMN XV. Indra."
+          },
+          {
+            "key": "08015",
+            "title": "HYMN XV. Indra."
+          },
+          {
+            "key": "08015",
+            "title": "HYMN XV. Indra."
+          }
+        ]
+      },
+      {
+        "name": "O highly",
+        "hymns": [
+          {
+            "key": "08015",
+            "title": "HYMN XV. Indra."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638556370657,
-  "updated": 1638792008075
+  "updated": 1638830292669
 }

@@ -5,13 +5,47 @@
   "link": "hymns/07067.html",
   "api": "json/hymns/07067.json",
   "data": {
-    "title": "HYMN LXVII. A&#347;vins.",
+    "key": "07067",
+    "title": "HYMN LXVII. Aśvins.",
     "describe": "I WITH a holy heart that brings oblation will sing forth praise to meet your car, ye Princes, Which, Much-desired!",
-    "feecting": "p:I WITH a holy heart that brings oblation will sing forth praise to meet your car, ye Princes, Which, Much-desired! hath wakened as your envoy. I call you hither as a son his parents.\np:Brightly hath Agni shone by us enkindled: the limits even of darkness were apparent.\np: Eastward is seen the Banner of the Morning, the Banner born to give Heaven's Daughter glory.\r\np:With hymns the deft priest is about you, A&#347;vins, the eloquent priest attends you now, N&#257;satyas. Come by the paths that ye are wont to travel, on car that finds the light, laden with treasure.\np:When, suppliant for your help, Lovers of Sweetness! I seeking wealth call you to our libation, Hitherward let your vigorous horses bear you: drink ye with us the well-pressed Soma juices.\np:Bring forward, A&#347;vins, Devas, to its fulfilment my never-wearied prayer that asks for riches. Vouchsafe us all high spirit in the combat, and with your powers, O Lords of Power, assist us.\np:Favour us in these prayers of ours, O A&#347;vins. May we have genial vigour, ne&#146;er to fail us. May we, strong in children and descendants, go, wealthy, to the banquet that awaits you.\np:Lovers of Sweetness, we have brought this treasure to you as &#146;twere an envoy sent for friendship. Come unto us with spirits free from anger, in homes of men enjoying our oblation.\np:With one, the same, intention, ye swift movers, o&#146;er the Seven Rivers hath your chariot travelled. Yoked by the Devas, your strong steeds never weary while speeding forward at the pole they bear you.\np:Exhaustless be your bounty to our princes who with their wealth incite the gift of riches, who further friendship with their noble natures, combining wealth in kine with wealth in herses.\np:Now hear, O Youthful Twain, mine invocation: come, A&#347;vins, to the home where food aboundeth. Vouchsafe us wealth, do honour to our nobles. Preserve us evermore, ye Devas, with blessings.",
-    "next": "07068",
-    "previous": "07066",
-    "book": "07"
+    "feecting": "p:I WITH a holy heart that brings oblation will sing forth praise to meet your car, ye Princes, Which, Much-desired! hath wakened as your envoy. I call you hither as a son his parents.\np:Brightly hath Agni shone by us enkindled: the limits even of darkness were apparent.\np: Eastward is seen the Banner of the Morning, the Banner born to give Heaven's Daughter glory.\r\np:With hymns the deft priest is about you, Aśvins, the eloquent priest attends you now, Nāsatyas. Come by the paths that ye are wont to travel, on car that finds the light, laden with treasure.\np:When, suppliant for your help, Lovers of Sweetness! I seeking wealth call you to our libation, Hitherward let your vigorous horses bear you: drink ye with us the well-pressed Soma juices.\np:Bring forward, Aśvins, Devas, to its fulfilment my never-wearied prayer that asks for riches. Vouchsafe us all high spirit in the combat, and with your powers, O Lords of Power, assist us.\np:Favour us in these prayers of ours, O Aśvins. May we have genial vigour, ne’er to fail us. May we, strong in children and descendants, go, wealthy, to the banquet that awaits you.\np:Lovers of Sweetness, we have brought this treasure to you as ’twere an envoy sent for friendship. Come unto us with spirits free from anger, in homes of men enjoying our oblation.\np:With one, the same, intention, ye swift movers, o’er the Seven Rivers hath your chariot travelled. Yoked by the Devas, your strong steeds never weary while speeding forward at the pole they bear you.\np:Exhaustless be your bounty to our princes who with their wealth incite the gift of riches, who further friendship with their noble natures, combining wealth in kine with wealth in herses.\np:Now hear, O Youthful Twain, mine invocation: come, Aśvins, to the home where food aboundeth. Vouchsafe us wealth, do honour to our nobles. Preserve us evermore, ye Devas, with blessings.",
+    "meta": {
+      "next": "07068",
+      "previous": "07066",
+      "book": "07",
+      "source": "https://sacred-texts.com/hin/rigveda/rv07067.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv07067.htm"
+    },
+    "deities": [
+      {
+        "name": "O Lords",
+        "hymns": [
+          {
+            "key": "07067",
+            "title": "HYMN LXVII. Aśvins."
+          }
+        ]
+      },
+      {
+        "name": "O Aśvins",
+        "hymns": [
+          {
+            "key": "07067",
+            "title": "HYMN LXVII. Aśvins."
+          }
+        ]
+      },
+      {
+        "name": "O Youthful",
+        "hymns": [
+          {
+            "key": "07067",
+            "title": "HYMN LXVII. Aśvins."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638556096099,
-  "updated": 1638792008010
+  "updated": 1638830292589
 }

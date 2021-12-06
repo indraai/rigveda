@@ -5,13 +5,74 @@
   "link": "hymns/08086.html",
   "api": "json/hymns/08086.json",
   "data": {
+    "key": "08086",
     "title": "HYMN LXXXVI. Indra.",
     "describe": "O INDRA, Lord of Light, what joys thou broughtest from the Devass, Prosper therewith, O Indra, him who lauds that deed, and those whose grass is trimmed for thee.",
-    "feecting": "p:O INDRA, Lord of Light, what joys thou broughtest from the Devass, Prosper therewith, O Indra, him who lauds that deed, and those whose grass is trimmed for thee.\np:The unwasting share of steeds and kine which, Indra, thou hast fast secured, Grant to the worshipper who presses Soma and gives guerdon, not unto the churl.\np:The riteless, godless man who sleeps, O Indra, his unbroken steep,&#151; May he by following his own devices die. Hide from him wealth that nourishes.\np:Whether, O &#346;akra, thou be far, or, V&#7771;tra-slayer, near at hand, thence by Heaven-reaching songs he who hath pressed the juice invites thee with thy long-maned Steeds.\np:Whether thou art in Heaven's bright sphere, or in the basin of the sea; Whether, chief V&#7771;tra-slayer, in some place on Earth, or in the Firmament, approach.\np:Thou Soma-drinker, Lord of Strength, beside our flowing Soma juice Delight us with thy bounty rich in pleasantness, O Indra, with abundant wealth.\np:O Indra, turn us not away: be the companion of our feast.\np: For thou art our protection, yea, thou art our kin: O Indra, turn us not away.\r\np:Sit down with us, O Indra, sit beside the juice to drink the meath. Show forth great favour to the Singer, Indra; Indra, with us, beside the juice.\np:O Caster of the Stone, nor Devas nor mortals have attained to thee. Thou in thy might surpassest all that hath been made: the Devas have not attained to thee.\np:Of one accord they made and formed for kingship Indra, the Hero who in all encounters overcometh, most eminent for power, destroyer in the conflict, fierce and exceeding strong, stalwart and full of vigour.\np:Bards joined in song to Indra so that he might drink the Soma juice, the Lord of Light, that he whose laws stand fast might aid with power and with the help he gives.\np:Tle holy sages form a ring, looking and singing to the Ram. Inciters, full of vigour, not to he deceived, are with the chanters, nigh to bear.\np:Loudly I call that Indra, Indra the Mighty, who evermore possesses power, ever resistless. Holy, most liberal. May he lead us on to riches, and, Thunder-armed, make all our pathways pleasant for us.\np:Thou knowest well, O &#346;akra, thou Most Potent, with thy strength, Indra, to destroy these castles. Before thee, Thunder-armed! all beings tremble: the heavens and Earth before thee shake with terror,\np:May thy truth, Indra, Wondrous Hero be my guard: bear me o&#146;er much woe, Thunderer! as over floods. When, Indra, wilt thou honour us with opulence, all-nourishing and much-to-be. desired, O King?",
-    "next": "08087",
-    "previous": "08085",
-    "book": "08"
+    "feecting": "p:O INDRA, Lord of Light, what joys thou broughtest from the Devass, Prosper therewith, O Indra, him who lauds that deed, and those whose grass is trimmed for thee.\np:The unwasting share of steeds and kine which, Indra, thou hast fast secured, Grant to the worshipper who presses Soma and gives guerdon, not unto the churl.\np:The riteless, godless man who sleeps, O Indra, his unbroken steep. May he by following his own devices die. Hide from him wealth that nourishes.\np:Whether, O Indra, thou be far, or, Vṛtra-slayer, near at hand, thence by Heaven-reaching songs he who hath pressed the juice invites thee with thy long-maned Steeds.\np:Whether thou art in Heaven's bright sphere, or in the basin of the sea; Whether, chief Vṛtra-slayer, in some place on Earth, or in the Firmament, approach.\np:Thou Soma-drinker, Lord of Strength, beside our flowing Soma juice Delight us with thy bounty rich in pleasantness, O Indra, with abundant wealth.\np:O Indra, turn us not away: be the companion of our feast.\np: For thou art our protection, yea, thou art our kin: O Indra, turn us not away.\r\np:Sit down with us, O Indra, sit beside the juice to drink the meath. Show forth great favour to the Singer, Indra; Indra, with us, beside the juice.\np:O Indra, nor Devas nor mortals have attained to thee. Thou in thy might surpassest all that hath been made: the Devas have not attained to thee.\np:Of one accord they made and formed for kingship Indra, the Hero who in all encounters overcometh, most eminent for power, destroyer in the conflict, fierce and exceeding strong, stalwart and full of vigour.\np:Bards joined in song to Indra so that he might drink the Soma juice, the Lord of Light, that he whose laws stand fast might aid with power and with the help he gives.\np:Tle holy sages form a ring, looking and singing to the Ram. Inciters, full of vigour, not to he deceived, are with the chanters, nigh to bear.\np:Loudly I call that Indra, Indra the Mighty, who evermore possesses power, ever resistless. Holy, most liberal. May he lead us on to riches, and, Thunder-armed, make all our pathways pleasant for us.\np:Thou knowest well, O Indra, thou Most Potent, with thy strength, Indra, to destroy these castles. Before thee, Thunder-armed! all beings tremble: the heavens and Earth before thee shake with terror,\np:May thy truth, Indra, Wondrous Hero be my guard: bear me o’er much woe, Thunderer! as over floods. When, Indra, wilt thou honour us with opulence, all-nourishing and much-to-be. desired, O King?",
+    "meta": {
+      "next": "08087",
+      "previous": "08085",
+      "book": "08",
+      "source": "https://sacred-texts.com/hin/rigveda/rv08086.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv08086.htm"
+    },
+    "deities": [
+      {
+        "name": "O INDRA",
+        "hymns": [
+          {
+            "key": "08086",
+            "title": "HYMN LXXXVI. Indra."
+          },
+          {
+            "key": "08086",
+            "title": "HYMN LXXXVI. Indra."
+          },
+          {
+            "key": "08086",
+            "title": "HYMN LXXXVI. Indra."
+          },
+          {
+            "key": "08086",
+            "title": "HYMN LXXXVI. Indra."
+          },
+          {
+            "key": "08086",
+            "title": "HYMN LXXXVI. Indra."
+          },
+          {
+            "key": "08086",
+            "title": "HYMN LXXXVI. Indra."
+          },
+          {
+            "key": "08086",
+            "title": "HYMN LXXXVI. Indra."
+          },
+          {
+            "key": "08086",
+            "title": "HYMN LXXXVI. Indra."
+          },
+          {
+            "key": "08086",
+            "title": "HYMN LXXXVI. Indra."
+          },
+          {
+            "key": "08086",
+            "title": "HYMN LXXXVI. Indra."
+          }
+        ]
+      },
+      {
+        "name": "O King",
+        "hymns": [
+          {
+            "key": "08086",
+            "title": "HYMN LXXXVI. Indra."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638556745123,
-  "updated": 1638792008173
+  "updated": 1638830292792
 }

@@ -5,13 +5,19 @@
   "link": "hymns/09022.html",
   "api": "json/hymns/09022.json",
   "data": {
+    "key": "09022",
     "title": "HYMN XXII. Indu.",
     "describe": "THESE rapid Soma-streams have stirred themselves to motion like strong steeds, like cars, like armies hurried forth.",
-    "feecting": "p:THESE rapid Soma-streams have stirred themselves to motion like strong steeds, like cars, like armies hurried forth.\np:Swift as wide winds they lightly move, like rain-storms of Parjanya, like The flickering flames of burning fire.\np:These Soma juices, blent with curds, purified, skilled in sacred hymns, have gained by song their hearts'desire.\np:Immortal, cleansed, these drops, since first they flowed, have never wearied, fain To reach the regions and their paths.\np:Advancing they have travelled o&#146;er the ridges of the Earth and Heaven, and this the highest realm of all.\np:Over the heights have they attained the highest thread that is spun out, and this which must be deemed most high.\np:Thou, Soma, boldest wealth in kine which thou hast seized from niggard churls: Thou calledst forth the outspun thread.",
-    "next": "09023",
-    "previous": "09021",
-    "book": "09"
+    "feecting": "p:THESE rapid Soma-streams have stirred themselves to motion like strong steeds, like cars, like armies hurried forth.\np:Swift as wide winds they lightly move, like rain-storms of Parjanya, like The flickering flames of burning fire.\np:These Soma juices, blent with curds, purified, skilled in sacred hymns, have gained by song their hearts'desire.\np:Immortal, cleansed, these drops, since first they flowed, have never wearied, fain To reach the regions and their paths.\np:Advancing they have travelled o’er the ridges of the Earth and Heaven, and this the highest realm of all.\np:Over the heights have they attained the highest thread that is spun out, and this which must be deemed most high.\np:Thou, Soma, boldest wealth in kine which thou hast seized from niggard churls: Thou calledst forth the outspun thread.",
+    "meta": {
+      "next": "09023",
+      "previous": "09021",
+      "book": "09",
+      "source": "https://sacred-texts.com/hin/rigveda/rv09022.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv09022.htm"
+    },
+    "deities": []
   },
   "created": 1638556950846,
-  "updated": 1638792008218
+  "updated": 1638830292837
 }

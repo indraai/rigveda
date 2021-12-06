@@ -5,13 +5,29 @@
   "link": "hymns/01115.html",
   "api": "json/hymns/01115.json",
   "data": {
-    "title": "HYMN CXV. S&#363;rya.",
-    "describe": "THE brilliant presence of the Devas hath risen, the eye of Mitra, Varu&#7751;",
-    "feecting": "p:THE brilliant presence of the Devas hath risen, the eye of Mitra, Varu&#7751;a and Agni.\np: The soul of all that moveth not or moveth, the Sun hath filled the air and Earth and Heaven.\r\np:Like as a young man followeth a maiden, so doth the Sun the Dawn, refulgent Goddess: Where pious men extend their generations, before the Auspicious One for happy fortune.\np:Auspicious are the Sun's Bay-coloured Horses, bright, changing hues, meet for our shouts of triumph. Bearing our meditations, the sky's ridge have they mounted, and in a moment speed round Earth and Heaven.\np:This is the Godhead, this might of S&#363;rya: he hath withdrawn what spread o&#146;er work unfinished. When he hath loosed his Horses from their station, straight over all Night spreadeth out her garment.\np:In the sky's lap the Sun this form assumeth that Varu&#7751;a and Mitr. May behold it. His Bay Steeds well maintain his power eternal, at one time bright and darksome at another.\np:This day, O Devas, while S&#363;rya is ascending, deliver us from trouble and dishonour. This prayer of our. May Varu&#7751;a grant, and Mitra, and Aditi and Sindhu, Earth and Heaven.",
-    "next": "01116",
-    "previous": "01114",
-    "book": "01"
+    "key": "01115",
+    "title": "HYMN CXV. Sūrya.",
+    "describe": "THE brilliant presence of the Devas hath risen, the eye of Mitra, Indra and Agni.",
+    "feecting": "p:THE brilliant presence of the Devas hath risen, the eye of Mitra, Indra and Agni.\np: The soul of all that moveth not or moveth, the Sun hath filled the air and Earth and Heaven.\r\np:Like as a young man followeth a maiden, so doth the Sun the Dawn, refulgent Goddess: Where pious men extend their generations, before the Auspicious One for happy fortune.\np:Auspicious are the Sun's Bay-coloured Horses, bright, changing hues, meet for our shouts of triumph. Bearing our meditations, the sky's ridge have they mounted, and in a moment speed round Earth and Heaven.\np:This is the Godhead, this might of Sūrya: he hath withdrawn what spread o’er work unfinished. When he hath loosed his Horses from their station, straight over all Night spreadeth out her garment.\np:In the sky's lap the Sun this form assumeth that Indra and Mitr. May behold it. His Bay Steeds well maintain his power eternal, at one time bright and darksome at another.\np:This day, O Devas, while Sūrya is ascending, deliver us from trouble and dishonour. This prayer of our. May Indra grant, and Mitra, and Aditi and Sindhu, Earth and Heaven.",
+    "meta": {
+      "next": "01116",
+      "previous": "01114",
+      "book": "01",
+      "source": "https://sacred-texts.com/hin/rigveda/rv01115.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv01115.htm"
+    },
+    "deities": [
+      {
+        "name": "O Devas",
+        "hymns": [
+          {
+            "key": "01115",
+            "title": "HYMN CXV. Sūrya."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638553620088,
-  "updated": 1638792007425
+  "updated": 1638830291783
 }

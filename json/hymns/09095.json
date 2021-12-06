@@ -5,13 +5,29 @@
   "link": "hymns/09095.html",
   "api": "json/hymns/09095.json",
   "data": {
+    "key": "09095",
     "title": "HYMN XCV Indu.",
     "describe": "Loud neighs the Tawny Steed when started, settling deep in the wooden vessel while they cleanse him.",
-    "feecting": "p:Loud neighs the Tawny Steed when started, settling deep in the wooden vessel while they cleanse him.\np: Led by the men he takes the milk for raiment: then shall he, through his powers, engender praise-songs.\r\np:As one who rows drives on his boat, he, Gold-hued, sends forth his voice, loosed on the path of Order. As Deva, the secret names of Devas he utters, to be declared on sacred grass more widely.\np:Hastening onward like the waves of waters, our holy hymns are pressing nigh to Soma. To him they come with lowly adoration, and, longing, enter him who longs to meet them.\np:They drain the stalk, the Steer who dwells on mountains, even as a Bull who decks him on the upland. Hymns follow and attend him as he bellows: Trita bears Varu&#7751;a aloft in ocean.\np:Sending thy voice out as Director, loosen the Invoker's thought, O Indu, as they cleanse thee. While thou and Indra rule for our advantage. May we be masters of heroic vigour.",
-    "next": "09096",
-    "previous": "09094",
-    "book": "09"
+    "feecting": "p:Loud neighs the Tawny Steed when started, settling deep in the wooden vessel while they cleanse him.\np: Led by the men he takes the milk for raiment: then shall he, through his powers, engender praise-songs.\r\np:As one who rows drives on his boat, he, Gold-hued, sends forth his voice, loosed on the path of Order. As Deva, the secret names of Devas he utters, to be declared on sacred grass more widely.\np:Hastening onward like the waves of waters, our holy hymns are pressing nigh to Soma. To him they come with lowly adoration, and, longing, enter him who longs to meet them.\np:They drain the stalk, the Steer who dwells on mountains, even as a Bull who decks him on the upland. Hymns follow and attend him as he bellows: Trita bears Indra aloft in ocean.\np:Sending thy voice out as Director, loosen the Invoker's thought, O Indu, as they cleanse thee. While thou and Indra rule for our advantage. May we be masters of heroic vigour.",
+    "meta": {
+      "next": "09096",
+      "previous": "09094",
+      "book": "09",
+      "source": "https://sacred-texts.com/hin/rigveda/rv09095.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv09095.htm"
+    },
+    "deities": [
+      {
+        "name": "O Indu",
+        "hymns": [
+          {
+            "key": "09095",
+            "title": "HYMN XCV Indu."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638557336162,
-  "updated": 1638792008293
+  "updated": 1638830292932
 }

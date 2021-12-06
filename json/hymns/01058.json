@@ -5,13 +5,33 @@
   "link": "hymns/01058.html",
   "api": "json/hymns/01058.json",
   "data": {
+    "key": "01058",
     "title": "HYMN LVIII. Agni.",
-    "describe": "NE&#146;",
-    "feecting": "p:NE&#146;ER waxeth faint the Immortal, Son of Strength, since he, the Herald, hath become Vivasv&#257;n's messenger.\np: On paths most excellent he measured out mid-air: he with oblation calls to service of the Devas.\r\np:Never decaying, seizing his appropriate food, rapidly, eagerly through the dry wood he spreads. His back, as he is sprinkled, glistens like a horse: loud hath he roared and shouted like the heights of Heaven?\np:Set high in place o&#146;er all that Devas, Somas do, immortal, Lord of riches, seated as High Monk; Hastening like a car to men, to those who live without delay gives boons to be desired.\np:Urged by the wind be spreads through dry wood as he lists, armed with his tongues for sickles, with a mighty roar. Black is thy path, Agni, changeless, with glittering waves! When like a bull thou rushest eager to the trees.\np:With teeth of flame, wind-driven, through the wood he speeds, triumphant like a bull among the herd of cows, with bright strength roaming to the everlasting air: things fixed, things moving quake before him as he flies.\np:The Bh&#7771;gus established thee among mankind for men, like as a treasure, beauteous, easy to invoke; Thee, Agni, as a herald and choice-worthy guest, as an auspicious Friend to the Celestial Race.\np:Agni, the seven tongues', him whom the monks elect at solemn worship, the Herald, messenger of all the Devas, I serve with dainty food, I ask for riches.\np:Grant, Son of Strength, thou rich in friends, a refuge without a flaw this day to us thy praisers. O Agni, Son of Strength, with forts of iron preserve thou from distress the man who lauds thee.\np:Be thou a refuge, Bright One, to the singer, a shelter, Bounteous Lord, to those who worship. Preserve the singer from distress, O Agni. May he, enriched with meditation, come soon and early.",
-    "next": "01059",
-    "previous": "01057",
-    "book": "01"
+    "describe": "NE’ER waxeth faint the Immortal, Son of Strength, since he, the Herald, hath become Vivasvān's messenger.",
+    "feecting": "p:NE’ER waxeth faint the Immortal, Son of Strength, since he, the Herald, hath become Vivasvān's messenger.\np: On paths most excellent he measured out mid-air: he with oblation calls to service of the Devas.\r\np:Never decaying, seizing his appropriate food, rapidly, eagerly through the dry wood he spreads. His back, as he is sprinkled, glistens like a horse: loud hath he roared and shouted like the heights of Heaven?\np:Set high in place o’er all that Devas, Somas do, immortal, Lord of riches, seated as High Monk; Hastening like a car to men, to those who live without delay gives boons to be desired.\np:Urged by the wind be spreads through dry wood as he lists, armed with his tongues for sickles, with a mighty roar. Black is thy path, Agni, changeless, with glittering waves! When like a bull thou rushest eager to the trees.\np:With teeth of flame, wind-driven, through the wood he speeds, triumphant like a bull among the herd of cows, with bright strength roaming to the everlasting air: things fixed, things moving quake before him as he flies.\np:The Bhṛgus established thee among mankind for men, like as a treasure, beauteous, easy to invoke; Thee, Agni, as a herald and choice-worthy guest, as an auspicious Friend to the Celestial Race.\np:Agni, the seven tongues', him whom the monks elect at solemn worship, the Herald, messenger of all the Devas, I serve with dainty food, I ask for riches.\np:Grant, Son of Strength, thou rich in friends, a refuge without a flaw this day to us thy praisers. O Agni, Son of Strength, with forts of iron preserve thou from distress the man who lauds thee.\np:Be thou a refuge, Bright One, to the singer, a shelter, Bounteous Lord, to those who worship. Preserve the singer from distress, O Agni. May he, enriched with meditation, come soon and early.",
+    "meta": {
+      "next": "01059",
+      "previous": "01057",
+      "book": "01",
+      "source": "https://sacred-texts.com/hin/rigveda/rv01058.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv01058.htm"
+    },
+    "deities": [
+      {
+        "name": "O Agni",
+        "hymns": [
+          {
+            "key": "01058",
+            "title": "HYMN LVIII. Agni."
+          },
+          {
+            "key": "01058",
+            "title": "HYMN LVIII. Agni."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638553319339,
-  "updated": 1638792007355
+  "updated": 1638830291672
 }

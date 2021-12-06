@@ -5,13 +5,19 @@
   "link": "hymns/05082.html",
   "api": "json/hymns/05082.json",
   "data": {
+    "key": "05082",
     "title": "HYMN LXXXII. Indra.",
     "describe": "WE crave of Indra the Deva this treasure much to be enjoyed.",
-    "feecting": "p:WE crave of Indra the Deva this treasure much to be enjoyed.\np: The best, all-yielding, conquering gift of Bhaga we would gladly win.\r\np:Indra's own supremacy, most glorious and beloved of all, No one diminisheth in aught.\np:For Indra who is Bhaga shall send riches to his worshipper. That wondrous portion we implore.\np:Send us this day, God Indra, prosperity with progeny. Drive thou the evil dream away.\np:Indra, Deva, send far away all sorrows and calamities, and send us only what is good.\np:Sinless in sight of Aditi through the Deva Indra's influence, May we obtain all lovely things.\np:We with our hymns this day elect the general Deva, Lord of the good, Indra whose decrees are true.\np:He who forever vigilant precedes these Twain, the Day and Night, is Indra the thoughtful God.\np:He who gives glory unto all these living creatures with the song, and brings them forth, is Indra.",
-    "next": "05083",
-    "previous": "05081",
-    "book": "05"
+    "feecting": "p:WE crave of Indra the Deva this treasure much to be enjoyed.\np: The best, all-yielding, conquering gift of Bhaga we would gladly win.\r\np:Indra's own supremacy, most glorious and beloved of all, No one diminisheth in aught.\np:For Indra who is Bhaga shall send riches to his worshipper. That wondrous portion we implore.\np:Send us this day, God Indra, prosperity with progeny. Drive thou the evil dream away.\np:Indra, Deva, send far away all sorrows and calamities, and send us only what is good.\np:Sinless in sight of Aditi through the Deva Indra's influence, may we obtain all lovely things.\np:We with our hymns this day elect the general Deva, Lord of the good, Indra whose decrees are true.\np:He who forever vigilant precedes these Twain, the Day and Night, is Indra the thoughtful God.\np:He who gives glory unto all these living creatures with the song, and brings them forth, is Indra.",
+    "meta": {
+      "next": "05083",
+      "previous": "05081",
+      "book": "05",
+      "source": "https://sacred-texts.com/hin/rigveda/rv05082.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv05082.htm"
+    },
+    "deities": []
   },
   "created": 1638555320250,
-  "updated": 1638792007841
+  "updated": 1638830292329
 }

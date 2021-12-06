@@ -5,13 +5,29 @@
   "link": "hymns/08096.html",
   "api": "json/hymns/08096.json",
   "data": {
+    "key": "08096",
     "title": "HYMN IV. Indra.",
-    "describe": "As, &#346;",
-    "feecting": "p:As, &#346;akra, thou with Manu called Vivasv&#257;n drankest Soma juice, As, Indra, thou didst love the hymn by Trita's side, so dost thou joy with &#256;yu now.\np:As thou with M&#257;tari&#347;van, Medhya, Prsadhra, hast cheered thee Indra, with pressed juice, Drunk Soma with Rjunas, Sy&#363;mara&#347;mi, by Dasonya's Dasasipra's side.\np:&#146;Tis he who made the lauds his own and boldly drank the Soma juice. He to whom Vi&#7779;&#7751;u came striding his three wide steps, as Mitra's statutes ordered it.\np:In whose laud thou didst joy, Indra, at the great deed, O &#346;atakratu, Mighty One! Seeking renown we call thee as the milkers call the cow who yields abundant milk.\np:He is our Sire who gives to us, Great, Mighty, ruling as he wills.\np: Unsought. May he the Strong, Rich, Lord of ample wealth, give us of horses and of kine.\r\np:He to whom thou, Good Lord, givest that h. May give increases wealth that nourishes. Eager for wealth we call on Indra, Lord of wealth, on &#346;atakratu with our lauds.\np:Never art thou neglectful: thou guardest both races with thy care. The call on Indra, fourth &#256;ditya! is thine own. Am&#7771;ta is stablished in the heavens.\np:The offercr whom thou, Indra, Lover of the Song, liberal Indra, favourest,&#151; As at the call of Ka&#7751;va so, O gracious Lord, hear, thou our songs and eulogy.\np:Sung is the song of ancient time: to Indra have ye said the prayer. They have sung many a Brhati of offering, poured forth the worshipper's many thoughts.\np:Indra hath tossed together mighty stores of wealth, and both the worlds, yea, and the Sun. Pure, brightly-shining, mingled with the milk, the draughts of Soma have made Indra glad.",
-    "next": "08097",
-    "previous": "08095",
-    "book": "08"
+    "describe": "As, Indra, thou with Manu called Vivasvān drankest Soma juice, As, Indra, thou didst love the hymn by Trita's side, so dost thou joy with Āyu now.",
+    "feecting": "p:As, Indra, thou with Manu called Vivasvān drankest Soma juice, As, Indra, thou didst love the hymn by Trita's side, so dost thou joy with Āyu now.\np:As thou with Mātariśvan, Medhya, Prsadhra, hast cheered thee Indra, with pressed juice, Drunk Soma with Rjunas, Syūmaraśmi, by Dasonya's Dasasipra's side.\np:’Tis he who made the lauds his own and boldly drank the Soma juice. He to whom Indra came striding his three wide steps, as Mitra's statutes ordered it.\np:In whose laud thou didst joy, Indra, at the great deed, Mighty One! Seeking renown we call thee as the milkers call the cow who yields abundant milk.\np:He is our Sire who gives to us, Great, Mighty, ruling as he wills.\np: Unsought. May he the Strong, Rich, Lord of ample wealth, give us of horses and of kine.\r\np:He to whom thou, Good Lord, givest that h. May give increases wealth that nourishes. Eager for wealth we call on Indra, Lord of wealth, on Śatakratu with our lauds.\np:Never art thou neglectful: thou guardest both races with thy care. The call on Indra, fourth Āditya! is thine own. Amṛta is stablished in the heavens.\np:The offercr whom thou, Indra, Lover of the Song, liberal Indra, favourest. As at the call of Kaṇva so, O gracious Lord, hear, thou our songs and eulogy.\np:Sung is the song of ancient time: to Indra have ye said the prayer. They have sung many a Brhati of offering, poured forth the worshipper's many thoughts.\np:Indra hath tossed together mighty stores of wealth, and both the worlds, yea, and the Sun. Pure, brightly-shining, mingled with the milk, the draughts of Soma have made Indra glad.",
+    "meta": {
+      "next": "08097",
+      "previous": "08095",
+      "book": "08",
+      "source": "https://sacred-texts.com/hin/rigveda/rv08096.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv08096.htm"
+    },
+    "deities": [
+      {
+        "name": "O gracious",
+        "hymns": [
+          {
+            "key": "08096",
+            "title": "HYMN IV. Indra."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638556798048,
-  "updated": 1638792008188
+  "updated": 1638830292810
 }

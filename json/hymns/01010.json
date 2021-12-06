@@ -5,13 +5,42 @@
   "link": "hymns/01010.html",
   "api": "json/hymns/01010.json",
   "data": {
+    "key": "01010",
     "title": "HYMN X. Indra.",
     "describe": "THE chanters hymn thee, they who say the word of praise magnify thee.",
-    "feecting": "p:THE chanters hymn thee, they who say the word of praise magnify thee.\np: The Monks have raised thee up on high, O &#346;atakratu, like a pole.\r\np:As up he clomb from ridge to ridge and looked upon the toilsome task, Indra observes this wish of his, and the Rain hastens with his troop.\np:Harness thy pair of strong bay steeds, long-maned, whose bodies fill the girths, and, Indra, Soma-drinker, come to listen to our songs of praise.\np:Come hither, answer thou the song, sing in approval, cry aloud. Good Indra, make our meditation succeed, and prosper this our offering.\np:To Indra must a laud be said, to strengthen him who freely gives, that &#346;akr. May take pleasure in our friendship and water-offerings.\np:Him, him we seek for friendship, him for riches and heroic might. For Indra, he is &#346;akra, he shall aid us while he gives us wealth.\np:Easy to turn and drive away, Indra, is spoil bestowed by thee. Unclose the stable of the kine, and give us wealth O Thunder-armed\np:The Heaven and Earth contain thee not, together, in thy wrathful mood. Win us the waters of the sky, and send us kine abundantly.\np:Hear, thou whose ear is quick, my call; take to thee readily my songs O Indra, let this laud of mine come nearer even than thy friend.\np:We know thee mightiest of all. Of thee most mighty we invoke the aid that giveth thousandfold.\np:O Indra, Son of Ku&#347;ika, enjoy our offering with delight. Prolong our life anew, and cause the seer to win a thousand gifts.\np:Lover of song. May these our songs on every side encompass thee: Strengthening thee of lengthened life. May they be dear delights to thee.",
-    "next": "01011",
-    "previous": "01009",
-    "book": "01"
+    "feecting": "p:THE chanters hymn thee, they who say the word of praise magnify thee.\np: The Monks have raised thee up on high, like a pole.\r\np:As up he clomb from ridge to ridge and looked upon the toilsome task, Indra observes this wish of his, and the Rain hastens with his troop.\np:Harness thy pair of strong bay steeds, long-maned, whose bodies fill the girths, and, Indra, Soma-drinker, come to listen to our songs of praise.\np:Come hither, answer thou the song, sing in approval, cry aloud. Good Indra, make our meditation succeed, and prosper this our offering.\np:To Indra must a laud be said, to strengthen him who freely gives, that Indr. May take pleasure in our friendship and water-offerings.\np:Him, him we seek for friendship, him for riches and heroic might. For Indra, he is Indra, he shall aid us while he gives us wealth.\np:Easy to turn and drive away, Indra, is spoil bestowed by thee. Unclose the stable of the kine, and give us wealth O Thunder-armed\np:The Heaven and Earth contain thee not, together, in thy wrathful mood. Win us the waters of the sky, and send us kine abundantly.\np:Hear, thou whose ear is quick, my call; take to thee readily my songs O Indra, let this laud of mine come nearer even than thy friend.\np:We know thee mightiest of all. Of thee most mighty we invoke the aid that giveth thousandfold.\np:O Indra, enjoy our offering with delight. Prolong our life anew, and cause the seer to win a thousand gifts.\np:Lover of song. May these our songs on every side encompass thee: Strengthening thee of lengthened life. May they be dear delights to thee.",
+    "meta": {
+      "next": "01011",
+      "previous": "01009",
+      "book": "01",
+      "source": "https://sacred-texts.com/hin/rigveda/rv01010.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv01010.htm"
+    },
+    "deities": [
+      {
+        "name": "O Thunder",
+        "hymns": [
+          {
+            "key": "01010",
+            "title": "HYMN X. Indra."
+          }
+        ]
+      },
+      {
+        "name": "O Indra",
+        "hymns": [
+          {
+            "key": "01010",
+            "title": "HYMN X. Indra."
+          },
+          {
+            "key": "01010",
+            "title": "HYMN X. Indra."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638553065341,
-  "updated": 1638792007284
+  "updated": 1638830291588
 }

@@ -5,13 +5,19 @@
   "link": "hymns/05065.html",
   "api": "json/hymns/05065.json",
   "data": {
-    "title": "HYMN LXV Mitra-Varu&#7751;a.",
-    "describe": "FULL wise is he who hath discerned: let him speak to us of the Devas,&#151;",
-    "feecting": "p:FULL wise is he who hath discerned: let him speak to us of the Devas,&#151; The man whose praise-songs Varu&#7751;a the beautiful, or Mitra, loves.\np:For they are Kings of noblest might, of glorious fame most widely spread; Lords of the brave, who strengthen Law, the Holy Ones with every race.\np:Approaching you with prayer for aid, together I address you first We who have good steeds call on you, most Sage, to give us strength besides.\np:E&#146;en out of misery Mitra gives a way to dwelling at our case, for he who worships hath the grace of Mitra, fighter in the van. '\np:In Mitra's shelter that extends to utmost distanc. May we dwell, Unmenaced, guarded by the care, ever as sons of Varu&#7751;a.\np:Ye, Mitra, urge this people on, and to on end direct their ways.\np: Neglect not ye the wealthy chiefs, neglect not us the &#7770;&#7779;is: be our guardians when ye quaff the milk.",
-    "next": "05066",
-    "previous": "05064",
-    "book": "05"
+    "key": "05065",
+    "title": "HYMN LXV Mitra-Indra.",
+    "describe": "FULL wise is he who hath discerned: let him speak to us of the Devas.",
+    "feecting": "p:FULL wise is he who hath discerned: let him speak to us of the Devas. The man whose praise-songs Indra the beautiful, or Mitra, loves.\np:For they are Kings of noblest might, of glorious fame most widely spread; Lords of the brave, who strengthen Law, the Holy Ones with every race.\np:Approaching you with prayer for aid, together I address you first We who have good steeds call on you, most Sage, to give us strength besides.\np:E’en out of misery Mitra gives a way to dwelling at our case, for he who worships hath the grace of Mitra, fighter in the van. '\np:In Mitra's shelter that extends to utmost distanc. May we dwell, Unmenaced, guarded by the care, ever as sons of Indra.\np:Ye, Mitra, urge this people on, and to on end direct their ways.\np: Neglect not ye the wealthy chiefs, neglect not us the Ṛṣis: be our guardians when ye quaff the milk.",
+    "meta": {
+      "next": "05066",
+      "previous": "05064",
+      "book": "05",
+      "source": "https://sacred-texts.com/hin/rigveda/rv05065.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv05065.htm"
+    },
+    "deities": []
   },
   "created": 1638555229864,
-  "updated": 1638792007824
+  "updated": 1638830292306
 }

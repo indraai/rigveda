@@ -5,13 +5,19 @@
   "link": "hymns/04053.html",
   "api": "json/hymns/04053.json",
   "data": {
+    "key": "04053",
     "title": "HYMN LIII. Indra.",
     "describe": "OF Indra the Deva, the sapient Devas, we crave this great gift which is worthy of our choice, Wherewith he freely grants his worshiper defence.",
-    "feecting": "p:OF Indra the Deva, the sapient Devas, we crave this great gift which is worthy of our choice, Wherewith he freely grants his worshiper defence. This with his rays the Great God hath vouchsafed to us.\np:Sustainer of the Heaven, Lord of the whole world's life, the Sage, he putteth on his golden-coloured mail.\np: Clear-sighted, spreading far, filling the spacious realm, Indra hath brought forth bliss that deserveth laud.\r\np:He hath filled full the regions of the Heaven and Earth: the Deva for his own strengthening waketh up the hymn. Indra hath stretched out his arms to cherish life, producing with his rays and lulling all that moves.\np:Lighting all living creatures, ne&#146;er to be deceived, Indra, Deva, protects each holy ordinance. He hath stretched out his arms to all the folk of Earth, and, with his laws observed, rules his own mighty course.\np:Indra thrice surrounding with his mightiness mid-air, three regions, and the triple sphere of light, Sets the three heavens in motion and the threefold Earth, and willingly protects us with his triple law.\np:Most gracious Deva, who brings to life and lulls to rest, he who controls the world, what moves not and what moves, May he vouchsafe us shelter,&#151;Indra the Deva,&#151;for tranquil life, with triple bar against distress.\np:With the year's seasons hath Indra, Deva, come nigh. May he prosper our home, give food and noble sons. May he invigorate us through the days and nights, an. May he send us opulence with progeny.",
-    "next": "04054",
-    "previous": "04052",
-    "book": "04"
+    "feecting": "p:OF Indra the Deva, the sapient Devas, we crave this great gift which is worthy of our choice, Wherewith he freely grants his worshiper defence. This with his rays the Great God hath vouchsafed to us.\np:Sustainer of the Heaven, Lord of the whole world's life, the Sage, he putteth on his golden-coloured mail.\np: Clear-sighted, spreading far, filling the spacious realm, Indra hath brought forth bliss that deserveth laud.\r\np:He hath filled full the regions of the Heaven and Earth: the Deva for his own strengthening waketh up the hymn. Indra hath stretched out his arms to cherish life, producing with his rays and lulling all that moves.\np:Lighting all living creatures, ne’er to be deceived, Indra, Deva, protects each holy ordinance. He hath stretched out his arms to all the folk of Earth, and, with his laws observed, rules his own mighty course.\np:Indra thrice surrounding with his mightiness mid-air, three regions, and the triple sphere of light, Sets the three heavens in motion and the threefold Earth, and willingly protects us with his triple law.\np:Most gracious Deva, who brings to life and lulls to rest, he who controls the world, what moves not and what moves, may he vouchsafe us shelter.Indra the Deva.for tranquil life, with triple bar against distress.\np:With the year's seasons hath Indra, Deva, come nigh. May he prosper our home, give food and noble sons. May he invigorate us through the days and nights, an. May he send us opulence with progeny.",
+    "meta": {
+      "next": "04054",
+      "previous": "04052",
+      "book": "04",
+      "source": "https://sacred-texts.com/hin/rigveda/rv04053.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv04053.htm"
+    },
+    "deities": []
   },
   "created": 1638554858081,
-  "updated": 1638792007737
+  "updated": 1638830292201
 }

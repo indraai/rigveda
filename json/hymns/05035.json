@@ -5,13 +5,56 @@
   "link": "hymns/05035.html",
   "api": "json/hymns/05035.json",
   "data": {
+    "key": "05035",
     "title": "HYMN XXXV. Indra.",
     "describe": "INDRA, for our assistance bring that most effectual power of thine, Which conquers men for us, and wins the spoil, invincible in fight.",
-    "feecting": "p:INDRA, for our assistance bring that most effectual power of thine, Which conquers men for us, and wins the spoil, invincible in fight.\np:Indra, whatever aids be thine, four be they, or, O Hero, three, or those of the Five Tribes of men, bring quickly all that help to us.\np:The aid most excellent of thee the Mightiest hitherward we call, for thou wast born with hero might, conquering, Indra, with the Strong.\np:Mighty to prosper us wast thou born, and mighty is the strength thou hast.\np: In native power thy soul is firm: thy valour, Indra, subdues a host.\r\np:O &#346;atakratu, Lord of Strength, O Indra, Caster of the Stone. With all thy chariot's force assail the man who shows himself thy foe.\np:For, Mightiest V&#7771;tra-slayer, thee, fierce, foremost among many, folk Whose sacred grass is trimmed invite to battle where the spoil is won.\np:Indra, do thou protect our car that mingles foremost in the fights, that bears its part in every fray, invincible and seeking spoil.\np:Come to us, Indra, and protect our car with thine intelligence. May we, O Mightiest One, obtain excellent fame at break of day, and meditate our hymn at dawn.",
-    "next": "05036",
-    "previous": "05034",
-    "book": "05"
+    "feecting": "p:INDRA, for our assistance bring that most effectual power of thine, Which conquers men for us, and wins the spoil, invincible in fight.\np:Indra, whatever aids be thine, four be they, or, O Hero, three, or those of the Five Tribes of men, bring quickly all that help to us.\np:The aid most excellent of thee the Mightiest hitherward we call, for thou wast born with hero might, conquering, Indra, with the Strong.\np:Mighty to prosper us wast thou born, and mighty is the strength thou hast.\np: In native power thy soul is firm: thy valour, Indra, subdues a host.\r\np:O Śatakratu, Lord of Strength, O Indra, Caster of the Stone. With all thy chariot's force assail the man who shows himself thy foe.\np:For, Mightiest Vṛtra-slayer, thee, fierce, foremost among many, folk Whose sacred grass is trimmed invite to battle where the spoil is won.\np:Indra, do thou protect our car that mingles foremost in the fights, that bears its part in every fray, invincible and seeking spoil.\np:Come to us, Indra, and protect our car with thine intelligence. May we, O Mightiest One, obtain excellent fame at break of day, and meditate our hymn at dawn.",
+    "meta": {
+      "next": "05036",
+      "previous": "05034",
+      "book": "05",
+      "source": "https://sacred-texts.com/hin/rigveda/rv05035.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv05035.htm"
+    },
+    "deities": [
+      {
+        "name": "O Hero",
+        "hymns": [
+          {
+            "key": "05035",
+            "title": "HYMN XXXV. Indra."
+          }
+        ]
+      },
+      {
+        "name": "O Śatakratu",
+        "hymns": [
+          {
+            "key": "05035",
+            "title": "HYMN XXXV. Indra."
+          }
+        ]
+      },
+      {
+        "name": "O Indra",
+        "hymns": [
+          {
+            "key": "05035",
+            "title": "HYMN XXXV. Indra."
+          }
+        ]
+      },
+      {
+        "name": "O Mightiest",
+        "hymns": [
+          {
+            "key": "05035",
+            "title": "HYMN XXXV. Indra."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638555070362,
-  "updated": 1638792007788
+  "updated": 1638830292255
 }

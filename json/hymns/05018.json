@@ -5,13 +5,19 @@
   "link": "hymns/05018.html",
   "api": "json/hymns/05018.json",
   "data": {
+    "key": "05018",
     "title": "HYMN XVIII. Agni.",
     "describe": "AT dawn let Agni, much-beloved guest of the house, be glorified;",
-    "feecting": "p:AT dawn let Agni, much-beloved guest of the house, be glorified; Immortal who delights in all oblations brought by mortal men.\np:For Dvita who receives through wealth of native strength maimed offerings, Thy praiser even gains at once the Soma-drops, Immortal Devas!\np:Nobles, with song I call that car of yours that shines with lengthened life, for, Deva who givest steeds! that car hither and thither goes unharmed.\np:They who have varied ways of thought, who guard the lauds within their lips, and strew the grass before the light, have decked themselves with high renown.\np:Immortal Agni, give the chiefs, heroes who institute the rite. Heroes&#146; illustrious, lofty fame, who at the synod met for praise presented me with fifty steeds.",
-    "next": "05019",
-    "previous": "05017",
-    "book": "05"
+    "feecting": "p:AT dawn let Agni, much-beloved guest of the house, be glorified; Immortal who delights in all oblations brought by mortal men.\np:For Dvita who receives through wealth of native strength maimed offerings, Thy praiser even gains at once the Soma-drops, Immortal Devas!\np:Nobles, with song I call that car of yours that shines with lengthened life, for, Deva who givest steeds! that car hither and thither goes unharmed.\np:They who have varied ways of thought, who guard the lauds within their lips, and strew the grass before the light, have decked themselves with high renown.\np:Immortal Agni, give the chiefs, heroes who institute the rite. Heroes’ illustrious, lofty fame, who at the synod met for praise presented me with fifty steeds.",
+    "meta": {
+      "next": "05019",
+      "previous": "05017",
+      "book": "05",
+      "source": "https://sacred-texts.com/hin/rigveda/rv05018.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv05018.htm"
+    },
+    "deities": []
   },
   "created": 1638554980217,
-  "updated": 1638792007764
+  "updated": 1638830292234
 }

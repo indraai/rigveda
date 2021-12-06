@@ -5,13 +5,19 @@
   "link": "hymns/10155.html",
   "api": "json/hymns/10155.json",
   "data": {
+    "key": "10155",
     "title": "HYMN CLV. Various.",
     "describe": "ARAYI, one-eyed limping hag, fly, ever-screeching, to the hill.",
-    "feecting": "p:ARAYI, one-eyed limping hag, fly, ever-screeching, to the hill.\np: We frighten thee away with these, the heroes of Sirimbitha.\r\np:Scared from this place and that is she, destroyer of each germ unborn. Go, sharp-horned Br&#257;hma&#7751;aspti and drive Arayi far away.\np:Yon log that floats without a man to guide it on the river's edge,&#151; Seize it, thou thing with hideous jaws, and go thou far away thereon.\np:When, foul with secret stain and spot, ye hastened onward to the breast, All Indra's enemies were slain and passed away like froth and foam.\np:These men have led about the cow, have duly carried Agni round, and raised their glory tg the Devas. Who will attack them with success?",
-    "next": "10156",
-    "previous": "10154",
-    "book": "10"
+    "feecting": "p:ARAYI, one-eyed limping hag, fly, ever-screeching, to the hill.\np: We frighten thee away with these, the heroes of Sirimbitha.\r\np:Scared from this place and that is she, destroyer of each germ unborn. Go, sharp-horned Brāhmaṇaspti and drive Arayi far away.\np:Yon log that floats without a man to guide it on the river's edge. Seize it, thou thing with hideous jaws, and go thou far away thereon.\np:When, foul with secret stain and spot, ye hastened onward to the breast, All Indra's enemies were slain and passed away like froth and foam.\np:These men have led about the cow, have duly carried Agni round, and raised their glory tg the Devas. Who will attack them with success?",
+    "meta": {
+      "next": "10156",
+      "previous": "10154",
+      "book": "10",
+      "source": "https://sacred-texts.com/hin/rigveda/rv10155.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv10155.htm"
+    },
+    "deities": []
   },
   "created": 1638558258464,
-  "updated": 1638792008591
+  "updated": 1638830293242
 }

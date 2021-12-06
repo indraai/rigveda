@@ -5,13 +5,29 @@
   "link": "hymns/09081.html",
   "api": "json/hymns/09081.json",
   "data": {
+    "key": "09081",
     "title": "HYMN LXXXI. Indu.",
     "describe": "ONWARD to Indra's throat move, beauteously adorned, the waves of Soma as he purifies himself, when they, brought forward with the lovely curd of kine, effused, have cheered the Hero to bestow his gifts.",
-    "feecting": "p:ONWARD to Indra's throat move, beauteously adorned, the waves of Soma as he purifies himself, when they, brought forward with the lovely curd of kine, effused, have cheered the Hero to bestow his gifts.\np:Hither hath Soma flowed unto the beakers, like a chariot-horse, a stallion swift upon his way.\np: Thus, knowing both the generations, he obtains the rights and dues of Devas from yonder and from hence.\r\np:While thou art cleansed, O Soma, scatter wealth on us; Indu, bestow great bounty as a liberal Prince. Giver of life, with wisdom help to opulence; strew not our home possessions far away from us.\np:Hither let P&#363;&#7779;an Indu come to us, Varu&#7751;a, Mitra, bountiful, of one accord, the Devas, A&#347;vins, V&#257;yu, and B&#7771;haspati, Indra, Tva&#7779;&#7789;ar, tractable Sarasvat&#299;.\np:Both Heaven and Earth, the all-invigorating Pair, Vidhatar, Aditi, and Aryaman the Deva, Bhaga who blesses men, the spacious Firmament,&#151;let all the Devas in Indu take delight.",
-    "next": "09082",
-    "previous": "09080",
-    "book": "09"
+    "feecting": "p:ONWARD to Indra's throat move, beauteously adorned, the waves of Soma as he purifies himself, when they, brought forward with the lovely curd of kine, effused, have cheered the Hero to bestow his gifts.\np:Hither hath Soma flowed unto the beakers, like a chariot-horse, a stallion swift upon his way.\np: Thus, knowing both the generations, he obtains the rights and dues of Devas from yonder and from hence.\r\np:While thou art cleansed, O Soma, scatter wealth on us; Indu, bestow great bounty as a liberal Prince. Giver of life, with wisdom help to opulence; strew not our home possessions far away from us.\np:Hither let Pūṣan Indu come to us, Indra, Mitra, bountiful, of one accord, the Devas, Aśvins, Soma, and Soma, Indra, Tvaṣṭar, tractable Sarasvatī.\np:Both Heaven and Earth, the all-invigorating Pair, Vidhatar, Aditi, and Aryaman the Deva, Bhaga who blesses men, the spacious Firmament.let all the Devas in Indu take delight.",
+    "meta": {
+      "next": "09082",
+      "previous": "09080",
+      "book": "09",
+      "source": "https://sacred-texts.com/hin/rigveda/rv09081.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv09081.htm"
+    },
+    "deities": [
+      {
+        "name": "O Soma",
+        "hymns": [
+          {
+            "key": "09081",
+            "title": "HYMN LXXXI. Indu."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638557262010,
-  "updated": 1638792008275
+  "updated": 1638830292912
 }

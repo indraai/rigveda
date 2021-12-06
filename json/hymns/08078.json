@@ -5,13 +5,29 @@
   "link": "hymns/08078.html",
   "api": "json/hymns/08078.json",
   "data": {
+    "key": "08078",
     "title": "HYMN LXXVIII. Indra.",
-    "describe": "To Indra sing the lofty hymn, Devas that subdues the V&#7771;",
-    "feecting": "p:To Indra sing the lofty hymn, Devas that subdues the V&#7771;tras best.\np: Whereby the Holy Ones created for the Deva the light divine that ever wakes.\r\np:Indra who quells the curse blew curses far away, and then in splendour came to us. Indra, refulgent with thy Marut host! the Devas strove eagerly to win thy love.\np:Sing to your lofty Indra, sing, Devas, a holy hymn of praise. Let &#346;atakratu, V&#7771;tra-slayer, kill the foe with hundred-knotted thunderbolt.\np:Aim and fetch boldly forth, O thou whose heart is bold: great glory will be thine thereby. In rapid torrent let the mother waters spread. Slay V&#7771;tra, win the light of Heaven.\np:When thou, unequalled Indra, wast born to smite the V&#7771;tras dead, Thou spreadest out the spacious Earth and didst support and prop the heavens.\np:Theri was the offering produced for thee, the laud, and song of joy, Thou in thy might surpassest all, all that now is and yet shall be.\np:Raw kine thou filledst with ripe milk. Thou madest S&#363;rya rise to Heaven.. Heat him as milk is heated with pure S&#257;ma hymns, great joy to him who loves the song.",
-    "next": "08079",
-    "previous": "08077",
-    "book": "08"
+    "describe": "To Indra sing the lofty hymn, Devas that subdues the Vṛtras best.",
+    "feecting": "p:To Indra sing the lofty hymn, Devas that subdues the Vṛtras best.\np: Whereby the Holy Ones created for the Deva the light divine that ever wakes.\r\np:Indra who quells the curse blew curses far away, and then in splendour came to us. Indra, refulgent with thy Marut host! the Devas strove eagerly to win thy love.\np:Sing to your lofty Indra, sing, Devas, a holy hymn of praise. Let Śatakratu, Vṛtra-slayer, kill the foe with hundred-knotted thunderbolt.\np:Aim and fetch boldly forth, O thou whose heart is bold: great glory will be thine thereby. In rapid torrent let the mother waters spread. Slay Vṛtra, win the light of Heaven.\np:When thou, unequalled Indra, wast born to smite the Vṛtras dead, Thou spreadest out the spacious Earth and didst support and prop the heavens.\np:Theri was the offering produced for thee, the laud, and song of joy, Thou in thy might surpassest all, all that now is and yet shall be.\np:Raw kine thou filledst with ripe milk. Thou madest Sūrya rise to Heaven.. Heat him as milk is heated with pure Sāma hymns, great joy to him who loves the song.",
+    "meta": {
+      "next": "08079",
+      "previous": "08077",
+      "book": "08",
+      "source": "https://sacred-texts.com/hin/rigveda/rv08078.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv08078.htm"
+    },
+    "deities": [
+      {
+        "name": "O thou",
+        "hymns": [
+          {
+            "key": "08078",
+            "title": "HYMN LXXVIII. Indra."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638556702975,
-  "updated": 1638792008162
+  "updated": 1638830292779
 }

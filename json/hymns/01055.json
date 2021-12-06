@@ -5,13 +5,38 @@
   "link": "hymns/01055.html",
   "api": "json/hymns/01055.json",
   "data": {
+    "key": "01055",
     "title": "HYMN LV. Indra.",
-    "describe": "THOUGH e&#146;",
-    "feecting": "p:THOUGH e&#146;en this Heaven's wide space and Earth have spread them out, nor Heaven nor Eart. May be in greatness Indra's match.\np: He whets his thunderbolt for sharpness, as a bull.\r\np:Like as the watery ocean, so doth he receive the rivers spread on all sides in their ample width. He bears him like a bullH, and will, as Warrior from of old, be praised for might.\np:Thou swayest, Indra, all kinds of great manly power, so as to bend, as&#146;t were, even that famed mountain down. Foremost among the Devas is he through hero might, set in the van, the Strong One, for each arduous deed.\np:He only in the wood is praised by worshippers, when he shows forth to men his own fair Indra-power. A friendly Bull is he, a Bull to be desired when Indra auspiciously sends forth his voice.\np:Yet verily the Warrior in his vigorous strength stirreth up with his might great battles for mankind; And men have faith in Indra, the resplendent One, what time he hurleth down his bolt, his dart of death.\np:Though, fain for glory, and with strength increased on Earth, he with great might destroys the dwellings made with art. He makes the lights of Heaven shine forth secure, he bids, exceeding wise, the floods flow for his worshipper.\np:Let thy heart incline to give; bring thy Bays hitherward, O thou who hearest praise. Those charioteers of thine, best skilled to draw the rein, the rapid sunbeams, Indra, lead thee not astray.\np:Thou bearest in both hands treasure that never fails; the famed One in his body holds unvanquished might. O Indra, in thy members many powers abide, like wells surrounded by the ministering monks.",
-    "next": "01056",
-    "previous": "01054",
-    "book": "01"
+    "describe": "THOUGH e’en this Heaven's wide space and Earth have spread them out, nor Heaven nor Eart.",
+    "feecting": "p:THOUGH e’en this Heaven's wide space and Earth have spread them out, nor Heaven nor Eart. May be in greatness Indra's match.\np: He whets his thunderbolt for sharpness, as a bull.\r\np:Like as the watery ocean, so doth he receive the rivers spread on all sides in their ample width. He bears him like a bullH, and will, as Warrior from of old, be praised for might.\np:Thou swayest, Indra, all kinds of great manly power, so as to bend, as’t were, even that famed mountain down. Foremost among the Devas is he through hero might, set in the van, the Strong One, for each arduous deed.\np:He only in the wood is praised by worshippers, when he shows forth to men his own fair Indra-power. A friendly Bull is he, a Bull to be desired when Indra auspiciously sends forth his voice.\np:Yet verily the Warrior in his vigorous strength stirreth up with his might great battles for mankind; And men have faith in Indra, the resplendent One, what time he hurleth down his bolt, his dart of death.\np:Though, fain for glory, and with strength increased on Earth, he with great might destroys the dwellings made with art. He makes the lights of Heaven shine forth secure, he bids, exceeding wise, the floods flow for his worshipper.\np:Let thy heart incline to give; bring thy Bays hitherward, O thou who hearest praise. Those charioteers of thine, best skilled to draw the rein, the rapid sunbeams, Indra, lead thee not astray.\np:Thou bearest in both hands treasure that never fails; the famed One in his body holds unvanquished might. O Indra, in thy members many powers abide, like wells surrounded by the ministering monks.",
+    "meta": {
+      "next": "01056",
+      "previous": "01054",
+      "book": "01",
+      "source": "https://sacred-texts.com/hin/rigveda/rv01055.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv01055.htm"
+    },
+    "deities": [
+      {
+        "name": "O thou",
+        "hymns": [
+          {
+            "key": "01055",
+            "title": "HYMN LV. Indra."
+          }
+        ]
+      },
+      {
+        "name": "O Indra",
+        "hymns": [
+          {
+            "key": "01055",
+            "title": "HYMN LV. Indra."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638553303353,
-  "updated": 1638792007351
+  "updated": 1638830291668
 }

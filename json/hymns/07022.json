@@ -5,13 +5,56 @@
   "link": "hymns/07022.html",
   "api": "json/hymns/07022.json",
   "data": {
+    "key": "07022",
     "title": "HYMN XXII Indra.",
     "describe": "DRINK Soma, Lord of Bays, and let it cheer thee: Indra, the stone, like a well guided courser, Directed by the presser's arms hath pressed it.",
-    "feecting": "p:DRINK Soma, Lord of Bays, and let it cheer thee: Indra, the stone, like a well guided courser, Directed by the presser's arms hath pressed it.\np:So let the draught of joy, thy dear companion, by which, O Lord of Bays, thou slayest foemen, Delight thee, Indra, Lord of princely treasures.\np:Mark closely, Indra, the words I utter, this eulogy recited by Vasi&#7779;&#7789;ha: Accept the prayers I offer at thy banquet.\np:Hear thou the call of the juice-drinking press-stone: hear thou the Brahman's hymn who sings and lauds thee.\np: Take to thine inmost self these adorations.\r\np:I know and ne&#146;er forget the hymns and praises of thee, the Conqueror, and thy strength immortal. Thy name I ever utter. Self-Refulgent\np:Among mankind many are thy libations, and many a time the pious sageinvokes thee. O Indra, be not long distant from us.\np:All these libations are for thee, O Hero: to thee I offer these my meditations. that strengthen. Ever, in every place, must men invoke thee.\np:Never do men attain, O Wonder-Worker, thy greatness, Mighty One, who must be lauded, Nor, Indra, thine heroic power and bounty.\np:Among all &#7770;&#7779;is, Indra, old and recent, who have engendered hymns as sacred singers, Even with us be thine auspicious friendships. Ye Devas, preserve us evermore with blessings.",
-    "next": "07023",
-    "previous": "07021",
-    "book": "07"
+    "feecting": "p:DRINK Soma, Lord of Bays, and let it cheer thee: Indra, the stone, like a well guided courser, Directed by the presser's arms hath pressed it.\np:So let the draught of joy, thy dear companion, by which, O Lord of Bays, thou slayest foemen, Delight thee, Indra, Lord of princely treasures.\np:Mark closely, Indra, the words I utter, this eulogy recited by Vasiṣṭha: Accept the prayers I offer at thy banquet.\np:Hear thou the call of the juice-drinking press-stone: hear thou the Brahman's hymn who sings and lauds thee.\np: Take to thine inmost self these adorations.\r\np:I know and ne’er forget the hymns and praises of thee, the Conqueror, and thy strength immortal. Thy name I ever utter. Self-Refulgent\np:Among mankind many are thy libations, and many a time the pious sageinvokes thee. O Indra, be not long distant from us.\np:All these libations are for thee, O Hero: to thee I offer these my meditations. that strengthen. Ever, in every place, must men invoke thee.\np:Never do men attain, O Wonder-Worker, thy greatness, Mighty One, who must be lauded, Nor, Indra, thine heroic power and bounty.\np:Among all Ṛṣis, Indra, old and recent, who have engendered hymns as sacred singers, Even with us be thine auspicious friendships. Ye Devas, preserve us evermore with blessings.",
+    "meta": {
+      "next": "07023",
+      "previous": "07021",
+      "book": "07",
+      "source": "https://sacred-texts.com/hin/rigveda/rv07022.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv07022.htm"
+    },
+    "deities": [
+      {
+        "name": "O Lord",
+        "hymns": [
+          {
+            "key": "07022",
+            "title": "HYMN XXII Indra."
+          }
+        ]
+      },
+      {
+        "name": "O Indra",
+        "hymns": [
+          {
+            "key": "07022",
+            "title": "HYMN XXII Indra."
+          }
+        ]
+      },
+      {
+        "name": "O Hero",
+        "hymns": [
+          {
+            "key": "07022",
+            "title": "HYMN XXII Indra."
+          }
+        ]
+      },
+      {
+        "name": "O Wonder",
+        "hymns": [
+          {
+            "key": "07022",
+            "title": "HYMN XXII Indra."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638555858620,
-  "updated": 1638792007962
+  "updated": 1638830292513
 }

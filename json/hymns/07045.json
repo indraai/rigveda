@@ -5,13 +5,19 @@
   "link": "hymns/07045.html",
   "api": "json/hymns/07045.json",
   "data": {
+    "key": "07045",
     "title": "HYMN XLV. Indra.",
     "describe": "MAY the Deva Indra, rich in goodly treasures, filling the region, borne by steeds, come hither, in his hand holding much that makes men happy, lulling to slumber and arousing creatures.",
-    "feecting": "p:MAY the Deva Indra, rich in goodly treasures, filling the region, borne by steeds, come hither, in his hand holding much that makes men happy, lulling to slumber and arousing creatures.\np:Golden, sublime, and easy in their motion, his arms extend unto the bounds of Heaven.\np: Now shall that mightiness of his he lauded: even S&#363;rya yields to him in active vigour.\r\np:May this Deva Indra, the Strong and Mighty, the Lord of precious wealth, vouchsafe us treasures. May he, advancing his far-spreading lustre, bestow on us the food that feedeth mortals.\np:These songs praise Indra whose tongue is pleasant, praise him whose arms are full, whose hands are lovely. High vital strength, and manifold. May he grant us. Preserve us evermore, ye Devas, with blessings.",
-    "next": "07046",
-    "previous": "07044",
-    "book": "07"
+    "feecting": "p:MAY the Deva Indra, rich in goodly treasures, filling the region, borne by steeds, come hither, in his hand holding much that makes men happy, lulling to slumber and arousing creatures.\np:Golden, sublime, and easy in their motion, his arms extend unto the bounds of Heaven.\np: Now shall that mightiness of his he lauded: even Sūrya yields to him in active vigour.\r\np:May this Deva Indra, the Strong and Mighty, the Lord of precious wealth, vouchsafe us treasures. May he, advancing his far-spreading lustre, bestow on us the food that feedeth mortals.\np:These songs praise Indra whose tongue is pleasant, praise him whose arms are full, whose hands are lovely. High vital strength, and manifold. May he grant us. Preserve us evermore, ye Devas, with blessings.",
+    "meta": {
+      "next": "07046",
+      "previous": "07044",
+      "book": "07",
+      "source": "https://sacred-texts.com/hin/rigveda/rv07045.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv07045.htm"
+    },
+    "deities": []
   },
   "created": 1638555979697,
-  "updated": 1638792007987
+  "updated": 1638830292557
 }

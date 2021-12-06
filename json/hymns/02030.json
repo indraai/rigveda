@@ -5,13 +5,51 @@
   "link": "hymns/02030.html",
   "api": "json/hymns/02030.json",
   "data": {
+    "key": "02030",
     "title": "HYMN XXX. Indra.",
     "describe": "THE streams unceasing flow to Indra, slayer of Ahi, Indra, Deva, Law's fulfiller, Day after day goes on the sheen of waters.",
-    "feecting": "p:THE streams unceasing flow to Indra, slayer of Ahi, Indra, Deva, Law's fulfiller, Day after day goes on the sheen of waters. What time hath past since they were first set flowing?\np:His Mother&#151;for she knew&#151;spake and proclaimed him who was about to cast his bolt at V&#7771;tra.\np: Cutting their paths according to his pleasure day after day flow to their goal the rivers.\r\np:Aloft he stood above the airy region, and against V&#7771;tra shot his deadly missile. Enveloped in a cloud he rushed upon him. Indra subdued the foe with sharpened weapons.\np:As with a bolt, fiercely flaming, pierce thou V&#7771;kadvaras&#146;, the Devas's, heroes. Even as in time of old with might thou slewest, so subdue even now our enemy, O Indra.\np:Cast down from Heaven on high thy bolt of thunder wherewith in joy thou smitest dead the foeman. For gain of children make us thine, O Indra, of many children's children and of cattle.\np:Whomso ye love, his power ye aid and strengthen; ye Twain are the rich worshipper's advancers. Graciously favour us, Indra and Soma; give us firm standing in this time of danger.\np:Let it not vex me, tire me, make me slothful, and never let us say, Press not the Soma; For him who cares for me, gives gifts, supports me, who comes with kine to me who pour libations.\np:Sarasvat&#299;, protect us: with the Devas allied thou boldly conquerest our foemen, While Indra does to death the daring chieftain of &#346;a&#7751;&#7693;ikas exulting in his prowess.\np:Him who waylays, yea, him who would destroy us,&#151;aim at him, pierce him with thy sharpened weapon. B&#7771;haspati, with arms thou slayest foemen O King, give up the spoiler to destruction.\np:Perform, O Hero, with our valiant heroes the deeds heroic which thou hast to finish. Long have they been inflated with presumption: subdue them, and bring us hither their possessions.\np:I craving joy address with hymn and homage your heavenly host, the company of Devas, that we may gain wealth with full store of heroes, each day more famous, and with troops of children.",
-    "next": "02031",
-    "previous": "02029",
-    "book": "02"
+    "feecting": "p:THE streams unceasing flow to Indra, slayer of Ahi, Indra, Deva, Law's fulfiller, Day after day goes on the sheen of waters. What time hath past since they were first set flowing?\np:His Mother—for she knew—spake and proclaimed him who was about to cast his bolt at Vṛtra.\np: Cutting their paths according to his pleasure day after day flow to their goal the rivers.\r\np:Aloft he stood above the airy region, and against Vṛtra shot his deadly missile. Enveloped in a cloud he rushed upon him. Indra subdued the foe with sharpened weapons.\np:As with a bolt, Soma, fiercely flaming, pierce thou Vṛkadvaras’, the Devas's, heroes. Even as in time of old with might thou slewest, so subdue even now our enemy, O Indra.\np:Cast down from Heaven on high thy bolt of thunder wherewith in joy thou smitest dead the foeman. For gain of children make us thine, O Indra, of many children's children and of cattle.\np:Whomso ye love, his power ye aid and strengthen; ye Twain are the rich worshipper's advancers. Graciously favour us, Indra and Soma; give us firm standing in this time of danger.\np:Let it not vex me, tire me, make me slothful, and never let us say, Press not the Soma; For him who cares for me, gives gifts, supports me, who comes with kine to me who pour libations.\np:Sarasvatī, protect us: with the Devas allied thou boldly conquerest our foemen, While Indra does to death the daring chieftain of Śaṇḍikas exulting in his prowess.\np:Him who waylays, yea, him who would destroy us.aim at him, pierce him with thy sharpened weapon. Soma, with arms thou slayest foemen O King, give up the spoiler to destruction.\np:Perform, O Hero, with our valiant heroes the deeds heroic which thou hast to finish. Long have they been inflated with presumption: subdue them, and bring us hither their possessions.\np:I craving joy address with hymn and homage your heavenly host, the company of Devas, that we may gain wealth with full store of heroes, each day more famous, and with troops of children.",
+    "meta": {
+      "next": "02031",
+      "previous": "02029",
+      "book": "02",
+      "source": "https://sacred-texts.com/hin/rigveda/rv02030.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv02030.htm"
+    },
+    "deities": [
+      {
+        "name": "O Indra",
+        "hymns": [
+          {
+            "key": "02030",
+            "title": "HYMN XXX. Indra."
+          },
+          {
+            "key": "02030",
+            "title": "HYMN XXX. Indra."
+          }
+        ]
+      },
+      {
+        "name": "O King",
+        "hymns": [
+          {
+            "key": "02030",
+            "title": "HYMN XXX. Indra."
+          }
+        ]
+      },
+      {
+        "name": "O Hero",
+        "hymns": [
+          {
+            "key": "02030",
+            "title": "HYMN XXX. Indra."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638554181089,
-  "updated": 1638792007559
+  "updated": 1638830291976
 }

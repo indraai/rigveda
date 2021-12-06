@@ -5,13 +5,29 @@
   "link": "hymns/10100.html",
   "api": "json/hymns/10100.json",
   "data": {
-    "title": "HYMN C. Vi&#347;vedevas.",
+    "key": "10100",
+    "title": "HYMN C. Devas.",
     "describe": "Be, like thyself, O Indra, strong for our delight: here lauded, aid us, Indra, drinker of the juice.",
-    "feecting": "p:Be, like thyself, O Indra, strong for our delight: here lauded, aid us, Indra, drinker of the juice.\np: Indra with the Devas protect us: hear ye Twain. We ask for freedom and complete felicity.\r\np:Bring swift, for offering, the snare that suits the time, to the pure-drinker V&#257;yu, roaring as he goes, to him who hath approached the draught of shining milk. We ask for freedom and complete felicity.\np:May Indra the Deva send us full life, to each who make offerings, lives aright and pours the juice That we with simple heart. May wait upon the Devas. We ask for freedom and complete felicity.\np:May Indra evermore be gracious unto us, an. May King Soma meditate our happiness, Even as men secure the comfort of a friend. We ask for freedom and complete felicity.\np:Indra hath given the body with its song and strength: B&#7771;haspati, thou art the lengthener of life. The offering is Manu, Providence, our Sire. We ask for freedom and complete felicity.\np:Indra possesseth might celestial nobly formed: the singer in the house is Agni, prudent Sage. He is the offering in synod, fair, most near. We ask for freedom and complete felicity,\np:Not often have we sinned against you secretly, nor, Devas, have we openly provoked the Devas. Not one of its, ye Devas, hath worn an alien shape. We ask for freedom and complete felicity.\np:May Indra remove from us our malady, an. May the Mountains keep it far away from where The press-stone as it sheds the meath rings loudly forth. We ask for freedom and complete felicity.\np:Ye Devas, let the stone, the presser stand erect: avert all enmities and keep them far remote. Our guard to be adored is Indra this Deva. We ask for freedom and complete felicity.\np:Eat strength and fatness in the pasture, kine, who are balmed at the reservoir and at the seat of Law. So let your body be our body's medicine. We ask for freedom and complete felicity.\np:The singer fills the spirit: all mens, love hath he. Indra takes kindly care of those who pour the juice. For his libation is the heavenly udder full. We ask for freedom and complete felicity.\np:Wondrous thy spirit-filling light, triumpliant; thy hosts save from decay and are resistless. The pious votary by straightest pathway speeds to possess the best of all the cattle.",
-    "next": "10101",
-    "previous": "10099",
-    "book": "10"
+    "feecting": "p:Be, like thyself, O Indra, strong for our delight: here lauded, aid us, Indra, drinker of the juice.\np: Indra with the Devas protect us: hear ye Twain. We ask for freedom and complete felicity.\r\np:Bring swift, for offering, the snare that suits the time, to the pure-drinker Soma, roaring as he goes, to him who hath approached the draught of shining milk. We ask for freedom and complete felicity.\np:May Indra the Deva send us full life, to each who make offerings, lives aright and pours the juice That we with simple heart. May wait upon the Devas. We ask for freedom and complete felicity.\np:May Indra evermore be gracious unto us, an. May King Soma meditate our happiness, Even as men secure the comfort of a friend. We ask for freedom and complete felicity.\np:Indra hath given the body with its song and strength: Soma, thou art the lengthener of life. The offering is Manu, Providence, our Sire. We ask for freedom and complete felicity.\np:Indra possesseth might celestial nobly formed: the singer in the house is Agni, prudent Sage. He is the offering in synod, fair, most near. We ask for freedom and complete felicity,\np:Not often have we sinned against you secretly, nor, Devas, have we openly provoked the Devas. Not one of its, ye Devas, hath worn an alien shape. We ask for freedom and complete felicity.\np:May Indra remove from us our malady, an. May the Mountains keep it far away from where The press-stone as it sheds the meath rings loudly forth. We ask for freedom and complete felicity.\np:Ye Devas, let the stone, the presser stand erect: avert all enmities and keep them far remote. Our guard to be adored is Indra this Deva. We ask for freedom and complete felicity.\np:Eat strength and fatness in the pasture, kine, who are balmed at the reservoir and at the seat of Law. So let your body be our body's medicine. We ask for freedom and complete felicity.\np:The singer fills the spirit: all mens, love hath he. Indra takes kindly care of those who pour the juice. For his libation is the heavenly udder full. We ask for freedom and complete felicity.\np:Wondrous thy spirit-filling light, triumpliant; thy hosts save from decay and are resistless. The pious votary by straightest pathway speeds to possess the best of all the cattle.",
+    "meta": {
+      "next": "10101",
+      "previous": "10099",
+      "book": "10",
+      "source": "https://sacred-texts.com/hin/rigveda/rv10100.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv10100.htm"
+    },
+    "deities": [
+      {
+        "name": "O Indra",
+        "hymns": [
+          {
+            "key": "10100",
+            "title": "HYMN C. Devas."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638557967619,
-  "updated": 1638792008532
+  "updated": 1638830293169
 }

@@ -5,13 +5,42 @@
   "link": "hymns/01038.html",
   "api": "json/hymns/01038.json",
   "data": {
+    "key": "01038",
     "title": "HYMN XXXVIII. Devas.",
     "describe": "WHAT now?",
-    "feecting": "p:WHAT now? When will ye take us by both hands, as a dear sire his son, Devas, for whom sacred grass is clipped?\np:Now whither? To what goal of yours go ye in Heaven, and not on Earth? Where do your cows disport themselves?\np:Where are your newest favours shown? Where, Devas, your prosperity? Where all your high felicities?\np:If, O ye Devas, ye the Sons whom P&#7771;&#347;ni bore, were mortal, and Immortal he who sings your praise.\np:Then never were your praiser loathed like a wild beast in pasture-land, Nor should he go on Yama's path.\np:Let not destructive plague on plague hard to be conquered, strike its down: Let each, with drought, depart from us.\np:Truly, they the fierce and mighty Sons of Soma send their windless Rain e&#146;en on the desert places.\np:Like a cow the lightning lows and follows, motherlike, her youngling, when their rain-flood hath been loosened.\np:When they inundate the Earth they spread forth darkness e&#146;en in day time, with the water-laden rain-cloud.\np:O Devas, at your voice's sound this earthly habitation shakes, and each man reels who dwells therein.\np:O Devas, with your strong-hoofed steeds, unhindered in their courses, haste Along the bright embanked streams.\np:Firm be the fellies of your wheels, steady your horses and your cars, an. May your reins be fashioned well.\np:Invite thou hither with this song, for praise, Agni the Lord of Prayer, him who is fair as Mitra is.\np:Form in thy mouth the hymn of praise expand thee like, a rainy cloud Sing forth the measured eulogy.\np:Sing glory to the Marut host, praiseworthy, tuneful, vigorous: Here let the Strong Ones dwell with us.",
-    "next": "01039",
-    "previous": "01037",
-    "book": "01"
+    "feecting": "p:WHAT now? When will ye take us by both hands, as a dear sire his son, Devas, for whom sacred grass is clipped?\np:Now whither? To what goal of yours go ye in Heaven, and not on Earth? Where do your cows disport themselves?\np:Where are your newest favours shown? Where, Devas, your prosperity? Where all your high felicities?\np:If, O ye Devas, ye the Sons whom Pṛśni bore, were mortal, and Immortal he who sings your praise.\np:Then never were your praiser loathed like a wild beast in pasture-land, Nor should he go on Yama's path.\np:Let not destructive plague on plague hard to be conquered, strike its down: Let each, with drought, depart from us.\np:Truly, they the fierce and mighty Sons of Soma send their windless Rain e’en on the desert places.\np:Like a cow the lightning lows and follows, motherlike, her youngling, when their rain-flood hath been loosened.\np:When they inundate the Earth they spread forth darkness e’en in day time, with the water-laden rain-cloud.\np:O Devas, at your voice's sound this earthly habitation shakes, and each man reels who dwells therein.\np:O Devas, with your strong-hoofed steeds, unhindered in their courses, haste Along the bright embanked streams.\np:Firm be the fellies of your wheels, steady your horses and your cars, an. May your reins be fashioned well.\np:Invite thou hither with this song, for praise, Agni the Lord of Prayer, him who is fair as Mitra is.\np:Form in thy mouth the hymn of praise expand thee like, a rainy cloud Sing forth the measured eulogy.\np:Sing glory to the Marut host, praiseworthy, tuneful, vigorous: Here let the Strong Ones dwell with us.",
+    "meta": {
+      "next": "01039",
+      "previous": "01037",
+      "book": "01",
+      "source": "https://sacred-texts.com/hin/rigveda/rv01038.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv01038.htm"
+    },
+    "deities": [
+      {
+        "name": "O ye ",
+        "hymns": [
+          {
+            "key": "01038",
+            "title": "HYMN XXXVIII. Devas."
+          }
+        ]
+      },
+      {
+        "name": "O Devas",
+        "hymns": [
+          {
+            "key": "01038",
+            "title": "HYMN XXXVIII. Devas."
+          },
+          {
+            "key": "01038",
+            "title": "HYMN XXXVIII. Devas."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638553213609,
-  "updated": 1638792007326
+  "updated": 1638830291640
 }

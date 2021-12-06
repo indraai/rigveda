@@ -5,13 +5,19 @@
   "link": "hymns/10182.html",
   "api": "json/hymns/10182.json",
   "data": {
-    "title": "HYMN CLXXXII. B&#7771;haspati.",
-    "describe": "B&#7770;",
-    "feecting": "p:B&#7770;HASPATI lead us safely over troubles and turn his evil thought against the sinner; Repel the curse, and drive away ill-feeling, and give the offeringr peace and comfort!\np:May Nar&#257;&#347;a&#7745;sa aid us at Pray&#257;ja: blest be our Anuy&#257;ja at invokings.\np: May he repel the curse, and chase ill-feeling, and give the offeringr peace and comfort.\r\np:May he whose head is flaming burn the demons, haters of prayer, so that the arrow subdue them. May he repel the curse and chase ill-feeling, and give the offeringr peace and comfort.",
-    "next": "10183",
-    "previous": "10181",
-    "book": "10"
+    "key": "10182",
+    "title": "HYMN CLXXXII. Soma.",
+    "describe": "BṚHASPATI lead us safely over troubles and turn his evil thought against the sinner;",
+    "feecting": "p:BṚHASPATI lead us safely over troubles and turn his evil thought against the sinner; Repel the curse, and drive away ill-feeling, and give the offeringr peace and comfort!\np:May Narāśaṁsa aid us at Prayāja: blest be our Anuyāja at invokings.\np: May he repel the curse, and chase ill-feeling, and give the offeringr peace and comfort.\r\np:May he whose head is flaming burn the demons, haters of prayer, so that the arrow subdue them. May he repel the curse and chase ill-feeling, and give the offeringr peace and comfort.",
+    "meta": {
+      "next": "10183",
+      "previous": "10181",
+      "book": "10",
+      "source": "https://sacred-texts.com/hin/rigveda/rv10182.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv10182.htm"
+    },
+    "deities": []
   },
   "created": 1638558401801,
-  "updated": 1638792008612
+  "updated": 1638830293265
 }

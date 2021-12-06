@@ -5,13 +5,38 @@
   "link": "hymns/01025.html",
   "api": "json/hymns/01025.json",
   "data": {
-    "title": "HYMN XXV. Varu&#7751;a.",
-    "describe": "WHATEVER law of thine, O Varu&#7751;",
-    "feecting": "p:WHATEVER law of thine, O Varu&#7751;a, as we are men, Day after day we violate.\np:give us not as a prey to death, to be conquered by thee in wrath, to thy fierce anger when displeased.\np:To gain thy mercy, Varu&#7751;a, with hymns we bind thy heart, as binds The charioteer his tethered horse.\np:They flee from me dispirited, bent only on obtaining wealth, as to their nests the birds of air.\np:When shall we bring, to be appeased, the Hero, Lord of warrior might, him, the far-seeing Varu&#7751;a?\np:This, this with joy they both accept in common: never do they fail The ever-faithful worshipper.\np:He knows the path of birds that fly through Heaven, and, Sovran of the sea. He knows the ships that are thereon.\np:True to his holy law, he knows the twelve moons with their progeny: He knows the moon of later birth.\np:He knows the pathway of the wind, the spreading, high, and mighty wind: He knows the Devas who dwell above.\np:Varu&#7751;a, true to holy law, sits down among his people; he, most wise, sits there to govern all.\np:From thence perceiving he beholds all wondrous things, both what hath been, and what will be done.\np:May that &#256;ditya, very wise, make fair paths for us all our days: May he prolong our lives for us.\np:Varu&#7751;a, wearing golden mail, hath clad him in a shining robe.\np: His spies are seated found about.\r\np:The Deva whom enemies threaten not, nor those who tyrannize o&#146;er men, Nor those whose minds are bent on wrong.\np:He who gives glory to mankind, not glory that is incomplete, to our own bodies giving it.\np:Yearning for the wide-seeing One, my thoughts move onward unto him, as kine unto their pastures move.\np:Once more together let us speak, because my meath is brought: priest-like Thou eatest what is dear to thee.\np:Now saw I him whom al. May see, I saw his car above the Earth: He hath accepted these my songs.\np:Varu&#7751;a, hear this call of mine: be gracious unto us this day Longing for help I cried to thee.\np:Thou, O wise Deva, art Lord of all, thou art the King of Earth and Heaven, as thou goest on thy way.\np:Release us from the upper bond, untie the bond between, and loose the bonds below, that . May live.",
-    "next": "01026",
-    "previous": "01024",
-    "book": "01"
+    "key": "01025",
+    "title": "HYMN XXV. Indra.",
+    "describe": "WHATEVER law of thine, O Indra, as we are men, Day after day we violate.",
+    "feecting": "p:WHATEVER law of thine, O Indra, as we are men, Day after day we violate.\np:give us not as a prey to death, to be conquered by thee in wrath, to thy fierce anger when displeased.\np:To gain thy mercy, Indra, with hymns we bind thy heart, as binds The charioteer his tethered horse.\np:They flee from me dispirited, bent only on obtaining wealth, as to their nests the birds of air.\np:When shall we bring, to be appeased, the Hero, Lord of warrior might, him, the far-seeing Indra?\np:This, this with joy they both accept in common: never do they fail The ever-faithful worshipper.\np:He knows the path of birds that fly through Heaven, and, Sovran of the sea. He knows the ships that are thereon.\np:True to his holy law, he knows the twelve moons with their progeny: He knows the moon of later birth.\np:He knows the pathway of the wind, the spreading, high, and mighty wind: He knows the Devas who dwell above.\np:Indra, true to holy law, sits down among his people; he, most wise, sits there to govern all.\np:From thence perceiving he beholds all wondrous things, both what hath been, and what will be done.\np:May that very wise, make fair paths for us all our days: May he prolong our lives for us.\np:Indra, wearing golden mail, hath clad him in a shining robe.\np: His spies are seated found about.\r\np:The Deva whom enemies threaten not, nor those who tyrannize o’er men, Nor those whose minds are bent on wrong.\np:He who gives glory to mankind, not glory that is incomplete, to our own bodies giving it.\np:Yearning for the wide-seeing One, my thoughts move onward unto him, as kine unto their pastures move.\np:Once more together let us speak, because my meath is brought: priest-like Thou eatest what is dear to thee.\np:Now saw I him whom al. May see, I saw his car above the Earth: He hath accepted these my songs.\np:Indra, hear this call of mine: be gracious unto us this day Longing for help I cried to thee.\np:Thou, O wise Deva, art Lord of all, thou art the King of Earth and Heaven, as thou goest on thy way.\np:Release us from the upper bond, untie the bond between, and loose the bonds below, that . May live.",
+    "meta": {
+      "next": "01026",
+      "previous": "01024",
+      "book": "01",
+      "source": "https://sacred-texts.com/hin/rigveda/rv01025.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv01025.htm"
+    },
+    "deities": [
+      {
+        "name": "O Indra",
+        "hymns": [
+          {
+            "key": "01025",
+            "title": "HYMN XXV. Indra."
+          }
+        ]
+      },
+      {
+        "name": "O wise",
+        "hymns": [
+          {
+            "key": "01025",
+            "title": "HYMN XXV. Indra."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638553144480,
-  "updated": 1638792007301
+  "updated": 1638830291614
 }

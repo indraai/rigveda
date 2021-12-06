@@ -5,13 +5,38 @@
   "link": "hymns/04020.html",
   "api": "json/hymns/04020.json",
   "data": {
+    "key": "04020",
     "title": "HYMN XX. Indra.",
     "describe": "FROM near or far awa.",
-    "feecting": "p:FROM near or far awa. May mighty Indra giver of succour, come for our protection Lord of men, armed with thunder, with the Strongest, subduing his foes in conflict, in the battles.\np:May Indra come to us with Tawny Coursers, inclined to us, to favour and enrich us.\np: May Indra, loud-voiced and wielding thunder, stand by us at this offering, in combat.\r\np:Thou, honouring this our offering, O Indra, shalt give us strength and fill us full of courage. To win the booty, Thunder-armed! like hunter. May we with thee subdue in fight our foemen.\np:Loving us well, benevolent, close beside us, drink, Godlike Indra, of the well-pressed Soma. Drink of the meath we offer, and delight thee with food that cometh from the mountain ridges.\np:Him who is sung aloud by recent sages, like a ripe-fruited tree, a scythe-armed victor,&#151; I, like a bridegroom thinking of his consort, call hither Indra, him invoked of many;\np:Him who in native strength is like a mountain, the lofty Indra born or old for conquest, Terrific wielder of the ancient thunder. filled full with splendour as a jar with water.\np:Whom from of old there is not one to hinder, none to curtail the riches of his bounty. Pouring forth freely, O thou Strong and Mighty, vouchsafe us riches, God invoked of many!\np:Of wealth and homes of men thou art the ruler, and opener of the stable of the cattle. Helper of men, winner of spoil in combats, thou leadest to an ample heap of riches.\np:By what great might is he renowned as strongest, wherewith the Lofty One stirs up wild battles? Best soother of the worshipper's great sorrow, he gives possessions to the man who lauds him.\np:Slay us not; bring, bestow onus the ample gift which thou hast to give to him who offers. At this new gift, with this laud sung before thee, extolling thee, we, Indra, will declare it.\np:Now, Indra! lauded, glorified with praises, let power swell high, like rivers, for the singer. A new hymn, Lord of Bays! for thee is fashioned. May we, car-born, through song be victors ever.",
-    "next": "04021",
-    "previous": "04019",
-    "book": "04"
+    "feecting": "p:FROM near or far awa. May mighty Indra giver of assist, come for our protection Lord of men, armed with thunder, with the Strongest, subduing his foes in conflict, in the battles.\np:May Indra come to us with Tawny Coursers, inclined to us, to favour and enrich us.\np: May Indra, loud-voiced and wielding thunder, stand by us at this offering, in combat.\r\np:Thou, honouring this our offering, O Indra, shalt give us strength and fill us full of courage. To win the booty, Thunder-armed! like hunter. May we with thee subdue in fight our foemen.\np:Loving us well, benevolent, close beside us, drink, Godlike Indra, of the well-pressed Soma. Drink of the meath we offer, and delight thee with food that cometh from the mountain ridges.\np:Him who is sung aloud by recent sages, like a ripe-fruited tree, a scythe-armed victor. I, like a bridegroom thinking of his consort, call hither Indra, him invoked of many;\np:Him who in native strength is like a mountain, the lofty Indra born or old for conquest, Terrific wielder of the ancient thunder. filled full with splendour as a jar with water.\np:Whom from of old there is not one to hinder, none to curtail the riches of his bounty. Pouring forth freely, O thou Strong and Mighty, vouchsafe us riches, God invoked of many!\np:Of wealth and homes of men thou art the ruler, and opener of the stable of the cattle. Helper of men, winner of spoil in combats, thou leadest to an ample heap of riches.\np:By what great might is he renowned as strongest, wherewith the Lofty One stirs up wild battles? Best soother of the worshipper's great sorrow, he gives possessions to the man who lauds him.\np:Slay us not; bring, bestow onus the ample gift which thou hast to give to him who offers. At this new gift, with this laud sung before thee, extolling thee, we, Indra, will declare it.\np:Now, Indra! lauded, glorified with praises, let power swell high, like rivers, for the singer. A new hymn, Lord of Bays! for thee is fashioned. May we, car-born, through song be victors ever.",
+    "meta": {
+      "next": "04021",
+      "previous": "04019",
+      "book": "04",
+      "source": "https://sacred-texts.com/hin/rigveda/rv04020.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv04020.htm"
+    },
+    "deities": [
+      {
+        "name": "O Indra",
+        "hymns": [
+          {
+            "key": "04020",
+            "title": "HYMN XX. Indra."
+          }
+        ]
+      },
+      {
+        "name": "O thou",
+        "hymns": [
+          {
+            "key": "04020",
+            "title": "HYMN XX. Indra."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638554683649,
-  "updated": 1638792007697
+  "updated": 1638830292150
 }

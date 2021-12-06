@@ -5,13 +5,64 @@
   "link": "hymns/08051.html",
   "api": "json/hymns/08051.json",
   "data": {
+    "key": "08051",
     "title": "HYMN LI. Indra.",
     "describe": "OFFER ye up as praise to him that wherein Indra takes delight.",
-    "feecting": "p:OFFER ye up as praise to him that wherein Indra takes delight.\np: The Soma-bringers magnify Indra's great energy with hymns. Good are the gifts that Indra gives.\r\np:Sole among chiefs, companionless, impetuous, and peerless, he Hath waxen great o&#146;er many folk, yea., over all things born, in might.\np:Lord of swift bounty, he will win e&#146;en with a steed of worthless sort. This, Indra, must be told of thee who wilt perform heroic deeds.\np:Come to us hither: let us pay devotions that enhance thy might, for which, most Potent! thou wouldst fain bless the man here who strives for fame.\np:For thou, O Indra, makest yet more bold the spirit of the bold Who with strong Soma serveth thee, still ready with his reverent prayers.\np:Worthy of song, he looketh down as a man looketh into wells. Pleased with the Soma-bringer's skill he maketh him his mate and friend.\np:In strength and wisdom all the Devas, Indra, have yielded unto thee. Be thou the Guard of all, O thou whom many praise.\np:Praised, Indra, is this might of thine, best for the service of the Devas, that thou with power dost subdue V&#7771;tra, O Lord of Strength.\np:He makes the races of mankind like synods of the Beauteous One. Indra knows this his manifest deed, and is renowned.\np:Thy might, O Indra, at its birth, thee also, and thy mental power, in thy care, Indra rich in kine! they have increased exceedingly.\np:O V&#7771;tra-slayer, thou and I will both combine for winning spoil. Even malignity will consent, O Bolt-armed Hero, unto us.\np:Let us extol this Indra as truthful and never as untrue. Dire is his death who pours no gifts great light hath he who offers them. Good are the gifts that Indra gives.",
-    "next": "08052",
-    "previous": "08050",
-    "book": "08"
+    "feecting": "p:OFFER ye up as praise to him that wherein Indra takes delight.\np: The Soma-bringers magnify Indra's great energy with hymns. Good are the gifts that Indra gives.\r\np:Sole among chiefs, companionless, impetuous, and peerless, he Hath waxen great o’er many folk, yea., over all things born, in might.\np:Lord of swift bounty, he will win e’en with a steed of worthless sort. This, Indra, must be told of thee who wilt perform heroic deeds.\np:Come to us hither: let us pay devotions that enhance thy might, for which, most Potent! thou wouldst fain bless the man here who strives for fame.\np:For thou, O Indra, makest yet more bold the spirit of the bold Who with strong Soma serveth thee, still ready with his reverent prayers.\np:Worthy of song, he looketh down as a man looketh into wells. Pleased with the Soma-bringer's skill he maketh him his mate and friend.\np:In strength and wisdom all the Devas, Indra, have yielded unto thee. Be thou the Guard of all, O thou whom many praise.\np:Praised, Indra, is this might of thine, best for the service of the Devas, that thou with power dost subdue Vṛtra, O Lord of Strength.\np:He makes the races of mankind like synods of the Beauteous One. Indra knows this his manifest deed, and is renowned.\np:Thy might, O Indra, at its birth, thee also, and thy mental power, in thy care, Indra rich in kine! they have increased exceedingly.\np:O Indra, thou and I will both combine for winning spoil. Even malignity will consent, O Bolt-armed Hero, unto us.\np:Let us extol this Indra as truthful and never as untrue. Dire is his death who pours no gifts great light hath he who offers them. Good are the gifts that Indra gives.",
+    "meta": {
+      "next": "08052",
+      "previous": "08050",
+      "book": "08",
+      "source": "https://sacred-texts.com/hin/rigveda/rv08051.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv08051.htm"
+    },
+    "deities": [
+      {
+        "name": "O Indra",
+        "hymns": [
+          {
+            "key": "08051",
+            "title": "HYMN LI. Indra."
+          },
+          {
+            "key": "08051",
+            "title": "HYMN LI. Indra."
+          },
+          {
+            "key": "08051",
+            "title": "HYMN LI. Indra."
+          }
+        ]
+      },
+      {
+        "name": "O thou",
+        "hymns": [
+          {
+            "key": "08051",
+            "title": "HYMN LI. Indra."
+          }
+        ]
+      },
+      {
+        "name": "O Lord",
+        "hymns": [
+          {
+            "key": "08051",
+            "title": "HYMN LI. Indra."
+          }
+        ]
+      },
+      {
+        "name": "O Bolt",
+        "hymns": [
+          {
+            "key": "08051",
+            "title": "HYMN LI. Indra."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638556560038,
-  "updated": 1638792008130
+  "updated": 1638830292744
 }

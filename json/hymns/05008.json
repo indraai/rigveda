@@ -5,13 +5,37 @@
   "link": "hymns/05008.html",
   "api": "json/hymns/05008.json",
   "data": {
+    "key": "05008",
     "title": "HYMN VIII. Agni.",
     "describe": "O AGNI urged to strength, the men of old who loved the Law enkindled thee, the Ancient, for their aid, thee very bright, and holy, nourisher of all, most excellent, the Friend and Master of the home.",
-    "feecting": "p:O AGNI urged to strength, the men of old who loved the Law enkindled thee, the Ancient, for their aid, thee very bright, and holy, nourisher of all, most excellent, the Friend and Master of the home.\np:Thee, Agni, men have stablished as their guest of old, as Master of the household, thee, with hair of flame; High-bannered, multiform, distributor of wealth, kind helper, good protector, drier of the floods.\np:The tribes of men praise thee, Agni, who knowest well burnt offerings, the Discerner, lavishest of wealth, Dwelling in secret, Blest One! visible to all, loud-roaring, skilled in worship, glorified with oil.\np:Ever to thee, O Agni, as exceeding strong have we drawn nigh with songs and reverence singing hymns.\np: So be thou pleased with us, A&#7749;giras! as a God enkindled by the noble with man's goodly light.\r\np:Thou, Agni! multiform, Deva who art lauded much! givest in every house subsistence as of old. Thou rulest by thy might o&#146;er food of many a sort: that light of thine when blazin. May not be opposed.\np:The Devas, most Youthful Agni, have made thee, inflamed, the bearer of oblations and the messenger. Thee, widely-reaching, homed in sacred oil, invoked, effulgent, have they made the Eye that stirs the thought.\np:Men seeking joy have lit thee worshipped from of old, O Agni, with good fuel and with sacred oil. So thou, bedewed and waxing mighty by the plants, spreadest thyself abroad over the realms of Earth.",
-    "next": "05009",
-    "previous": "05007",
-    "book": "05"
+    "feecting": "p:O AGNI urged to strength, the men of old who loved the Law enkindled thee, the Ancient, for their aid, thee very bright, and holy, nourisher of all, most excellent, the Friend and Master of the home.\np:Thee, Agni, men have stablished as their guest of old, as Master of the household, thee, with hair of flame; High-bannered, multiform, distributor of wealth, kind helper, good protector, drier of the floods.\np:The tribes of men praise thee, Agni, who knowest well burnt offerings, the Discerner, lavishest of wealth, Dwelling in secret, Blest One! visible to all, loud-roaring, skilled in worship, glorified with oil.\np:Ever to thee, O Agni, as exceeding strong have we drawn nigh with songs and reverence singing hymns.\np: So be thou pleased with us, Aṅgiras! as a God enkindled by the noble with man's goodly light.\r\np:Thou, Agni! multiform, Deva who art lauded much! givest in every house subsistence as of old. Thou rulest by thy might o’er food of many a sort: that light of thine when blazin. May not be opposed.\np:The Devas, most Youthful Agni, have made thee, inflamed, the bearer of oblations and the messenger. Thee, widely-reaching, homed in sacred oil, invoked, effulgent, have they made the Eye that stirs the thought.\np:Men seeking joy have lit thee worshipped from of old, O Agni, with good fuel and with sacred oil. So thou, bedewed and waxing mighty by the plants, spreadest thyself abroad over the realms of Earth.",
+    "meta": {
+      "next": "05009",
+      "previous": "05007",
+      "book": "05",
+      "source": "https://sacred-texts.com/hin/rigveda/rv05008.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv05008.htm"
+    },
+    "deities": [
+      {
+        "name": "O AGNI",
+        "hymns": [
+          {
+            "key": "05008",
+            "title": "HYMN VIII. Agni."
+          },
+          {
+            "key": "05008",
+            "title": "HYMN VIII. Agni."
+          },
+          {
+            "key": "05008",
+            "title": "HYMN VIII. Agni."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638554927165,
-  "updated": 1638792007753
+  "updated": 1638830292224
 }

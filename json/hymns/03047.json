@@ -5,13 +5,19 @@
   "link": "hymns/03047.html",
   "api": "json/hymns/03047.json",
   "data": {
+    "key": "03047",
     "title": "HYMN XLVII. Indra.",
     "describe": "DRINK, Indra, Marut-girt, as Bull, the Soma, for joy, for rapture even as thou listest.",
-    "feecting": "p:DRINK, Indra, Marut-girt, as Bull, the Soma, for joy, for rapture even as thou listest.\np: Pour down the flood of meath within thy belly: thou from of old art King of Soma juices.\r\np:Indra, accordant, with the banded Devas, drink Soma. Hero, as wise V&#7771;tra-slayer. Slay thou our foemen, drive away assailants and make us safe on every side from danger.\np:And, drinker at due seasons, drink in season, Indra, with friendly Devas, our pressed-out Soma. The Devas following, whom thou madest sharers, gave thee the victory, and thou slewest V&#7771;tra.\np:Drink Soma, Indra, banded with the Devas who, Indra, strengthened thee at Ahi's slaughter, 'Gainst &#346;ambara, Lord of Bays! in winning cattle, and now rejoice in thee, the holy Singers.\np:The Bull whose strength hath waxed, whom Devas follow, free-giving Indra, the celestial Ruler, Mighty, all-conquering, the victory-giver, him let us call to grant us new protection.",
-    "next": "03048",
-    "previous": "03046",
-    "book": "03"
+    "feecting": "p:DRINK, Indra, Marut-girt, as Bull, the Soma, for joy, for rapture even as thou listest.\np: Pour down the flood of meath within thy belly: thou from of old art King of Soma juices.\r\np:Indra, accordant, with the banded Devas, drink Soma. Hero, as wise Vṛtra-slayer. Slay thou our foemen, drive away assailants and make us safe on every side from danger.\np:And, drinker at due seasons, drink in season, Indra, with friendly Devas, our pressed-out Soma. The Devas following, whom thou madest sharers, gave thee the victory, and thou slewest Vṛtra.\np:Drink Soma, Indra, banded with the Devas who, Indra, strengthened thee at Ahi's slaughter, 'Gainst Śambara, Lord of Bays! in winning cattle, and now rejoice in thee, the holy Singers.\np:The Bull whose strength hath waxed, whom Devas follow, free-giving Indra, the celestial Ruler, Mighty, all-conquering, the victory-giver, him let us call to grant us new protection.",
+    "meta": {
+      "next": "03048",
+      "previous": "03046",
+      "book": "03",
+      "source": "https://sacred-texts.com/hin/rigveda/rv03047.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv03047.htm"
+    },
+    "deities": []
   },
   "created": 1638554499215,
-  "updated": 1638792007649
+  "updated": 1638830292075
 }

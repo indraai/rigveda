@@ -5,13 +5,19 @@
   "link": "hymns/06073.html",
   "api": "json/hymns/06073.json",
   "data": {
-    "title": "HYMN LXXIII. B&#7771;haspati.",
-    "describe": "SERVED with oblations, first-born, mountain-render, A&#7749;",
-    "feecting": "p:SERVED with oblations, first-born, mountain-render, A&#7749;giras' son, the Holy, with twice-firm path, dwelling in light, our Father, roars loudly, as a bull, to Earth and Heaven.\np:B&#7771;haspati, who made for such a people wide room and verge when Devas were invocated, Slaying his enemies, breaks down their castles, quelling his foes and conquering those who hate him.\np:B&#7771;haspati in war hath won rich treasures, hath won, this Deva.\np: Striving to win waters and light, resistless, B&#7771;haspati with lightning smites the foeman.",
-    "next": "06074",
-    "previous": "06072",
-    "book": "06"
+    "key": "06073",
+    "title": "HYMN LXXIII. Soma.",
+    "describe": "SERVED with oblations, first-born, mountain-render, Soma, the Holy, with twice-firm path, dwelling in light, our Father, roars loudly, as a bull, to Earth and Heaven.",
+    "feecting": "p:SERVED with oblations, first-born, mountain-render, Soma, the Holy, with twice-firm path, dwelling in light, our Father, roars loudly, as a bull, to Earth and Heaven.\np:Soma, who made for such a people wide room and verge when Devas were invocated, Slaying his enemies, breaks down their castles, quelling his foes and conquering those who hate him.\np:Soma in war hath won rich treasures, hath won, this Deva.\np: Striving to win waters and light, resistless, Soma with lightning smites the foeman.",
+    "meta": {
+      "next": "06074",
+      "previous": "06072",
+      "book": "06",
+      "source": "https://sacred-texts.com/hin/rigveda/rv06073.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv06073.htm"
+    },
+    "deities": []
   },
   "created": 1638555731802,
-  "updated": 1638792007935
+  "updated": 1638830292459
 }

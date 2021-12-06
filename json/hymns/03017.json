@@ -5,13 +5,46 @@
   "link": "hymns/03017.html",
   "api": "json/hymns/03017.json",
   "data": {
+    "key": "03017",
     "title": "HYMN XVII. Agni.",
-    "describe": "DULY enkindled after ancient customs, bringing all treasures, he is balmed with unguents,&#151;",
-    "feecting": "p:DULY enkindled after ancient customs, bringing all treasures, he is balmed with unguents,&#151; Flame-haired, oil-clad, the purifying Agni, skilled in fair rites, to bring the Devas for worship.\np:As thou, O Agni, skilful J&#257;tavedas, hast offered as Monk of Earth, of Heaven, So with this offering bring the Devas, and prosper this offering today as erst for Manu.\np:Three are thy times of life, O J&#257;tavedas, and the three mornings are thy births, O Agni.\np: With these, well-knowing, grant the Devas&#146; kind favour, and help in stir and stress the man who worships.\r\np:Agni most bright and fair with song we honour, yea, the adorable, O J&#257;tavedas. Thee, envoy, messenger, oblation-bearers have made centre of life eternal.\np:That Monk before thee, yet more skilled in worship, stablished of old, health-giver by his nature,&#151; After his custom offer, thou who knowest, and lay our offering where Deva. May taste it.",
-    "next": "03018",
-    "previous": "03016",
-    "book": "03"
+    "describe": "DULY enkindled after ancient customs, bringing all treasures, he is balmed with unguents.",
+    "feecting": "p:DULY enkindled after ancient customs, bringing all treasures, he is balmed with unguents. Flame-haired, oil-clad, the purifying Agni, skilled in fair rites, to bring the Devas for worship.\np:As thou, O Agni, skilful Jātavedas, hast offered as Monk of Earth, of Heaven, So with this offering bring the Devas, and prosper this offering today as erst for Manu.\np:Three are thy times of life, O Jātavedas, and the three mornings are thy births, O Agni.\np: With these, well-knowing, grant the Devas’ kind favour, and help in stir and stress the man who worships.\r\np:Agni most bright and fair with song we honour, yea, the adorable, O Jātavedas. Thee, envoy, messenger, oblation-bearers have made centre of life eternal.\np:That Monk before thee, yet more skilled in worship, stablished of old, health-giver by his nature. After his custom offer, thou who knowest, and lay our offering where Deva. May taste it.",
+    "meta": {
+      "next": "03018",
+      "previous": "03016",
+      "book": "03",
+      "source": "https://sacred-texts.com/hin/rigveda/rv03017.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv03017.htm"
+    },
+    "deities": [
+      {
+        "name": "O Agni",
+        "hymns": [
+          {
+            "key": "03017",
+            "title": "HYMN XVII. Agni."
+          },
+          {
+            "key": "03017",
+            "title": "HYMN XVII. Agni."
+          }
+        ]
+      },
+      {
+        "name": "O Jātavedas",
+        "hymns": [
+          {
+            "key": "03017",
+            "title": "HYMN XVII. Agni."
+          },
+          {
+            "key": "03017",
+            "title": "HYMN XVII. Agni."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638554340285,
-  "updated": 1638792007601
+  "updated": 1638830292029
 }

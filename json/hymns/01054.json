@@ -5,13 +5,19 @@
   "link": "hymns/01054.html",
   "api": "json/hymns/01054.json",
   "data": {
+    "key": "01054",
     "title": "HYMN LIV. Indra.",
     "describe": "URGE us not, Indra, for non.",
-    "feecting": "p:URGE us not, Indra, for non. May comprehend the limit of thy strength.\np: Thou with fierce shout hast made the woods and rivers roar.\r\np:Sing hymns of praise to &#346;akra, Lord of power and might; laud thou and magnify Indra who heareth thee, who with his daring might, a Bull exceeding strong in strength, maketh him master of the Heaven and Earth.\np:Sing forth to lofty Devas a strength-bestowing song, the Bold, whose resolute mind hath independent sway. High glory hath the Devas, compact of strength, drawn on by two Bay Steeds: a Bull, a Car is he.\np:The ridges of the lofty Heaven thou madest shake; thou, daring, of thyself smotest through &#346;ambara, when bold with gladdening juice, thou warredst with thy bolt, sharp and two-edged, against the banded sorcerers.\np:When with a roar that fills the woods, thou forcest down on wind's head the stores which &#346;u&#7779;&#7751;a kept confined, who shall have power to stay thee firm and eager-souled from doing still this day what thou of old hast done?\np:Thou helpest Narya, Turva&#347;a, and Yadu, and Vayya's son Turv&#299;ti, &#346;atakratu! Thou helpest horse and car in final battle thou breakest down the nine-and-ninety castles.\np:A hero-lord is he, King of a mighty folk, who offers free oblations and promotes the Law, who with a bounteous guerdon welcomes hymns of praise: for him flows down the abundant stream below the sky.\np:His power is matchless, matchless is his wisdom; chief, through their work Those, Indra, who increase the lordly power, the firm heroic strength of thee the Giver.\np:Therefore for thee are these abundant beakers Indra's drink, stone-pressed juices held in ladles. Quaff them and satisfy therewith thy longing; then fix thy mind upon bestowing treasure.\np:There darkness stood, the vault that stayed the waters&#146; flow: in V&#7771;tra's hollow side the rain-cloud lay concealed. But Indra smote the rivers which the obstructer stayed, flood following after flood, down steep declivities.\np:So give us, Indra, bliss-increasing glory give us great sway and strength that conquers people. Preserve our wealthy patrons, save our princes; vouchsafe us wealth and food with noble offspring.",
-    "next": "01055",
-    "previous": "01053",
-    "book": "01"
+    "feecting": "p:URGE us not, Indra, for non. May comprehend the limit of thy strength.\np: Thou with fierce shout hast made the woods and rivers roar.\r\np:Sing hymns of praise to Indra, Lord of power and might; laud thou and magnify Indra who heareth thee, who with his daring might, a Bull exceeding strong in strength, maketh him master of the Heaven and Earth.\np:Sing forth to lofty Devas a strength-bestowing song, the Bold, whose resolute mind hath independent sway. High glory hath the Devas, compact of strength, drawn on by two Bay Steeds: a Bull, a Car is he.\np:The ridges of the lofty Heaven thou madest shake; thou, daring, of thyself smotest through Śambara, when bold with gladdening juice, thou warredst with thy bolt, sharp and two-edged, against the banded sorcerers.\np:When with a roar that fills the woods, thou forcest down on wind's head the stores which Śuṣṇa kept confined, who shall have power to stay thee firm and eager-souled from doing still this day what thou of old hast done?\np: Thou helpest horse and car in final battle thou breakest down the nine-and-ninety castles.\np:A hero-lord is he, King of a mighty folk, who offers free oblations and promotes the Law, who with a bounteous guerdon welcomes hymns of praise: for him flows down the abundant stream below the sky.\np:His power is matchless, matchless is his wisdom; chief, through their work Those, Indra, who increase the lordly power, the firm heroic strength of thee the Giver.\np:Therefore for thee are these abundant beakers Indra's drink, stone-pressed juices held in ladles. Quaff them and satisfy therewith thy longing; then fix thy mind upon bestowing treasure.\np:There darkness stood, the vault that stayed the waters’ flow. But Indra smote the rivers which the obstructer stayed, flood following after flood, down steep declivities.\np:So give us, Indra, bliss-increasing glory give us great sway and strength that conquers people. Preserve our wealthy patrons, save our princes; vouchsafe us wealth and food with noble offspring.",
+    "meta": {
+      "next": "01055",
+      "previous": "01053",
+      "book": "01",
+      "source": "https://sacred-texts.com/hin/rigveda/rv01054.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv01054.htm"
+    },
+    "deities": []
   },
   "created": 1638553298084,
-  "updated": 1638792007350
+  "updated": 1638830291667
 }

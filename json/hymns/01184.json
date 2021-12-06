@@ -5,13 +5,51 @@
   "link": "hymns/01184.html",
   "api": "json/hymns/01184.json",
   "data": {
-    "title": "HYMN CLXXXIV. A&#347;vins.",
-    "describe": "LET us invoke you both this day and after the Monk is here with lauds when morn is breaking: N&#257;",
-    "feecting": "p:LET us invoke you both this day and after the Monk is here with lauds when morn is breaking: N&#257;satyas, wheresoe&#146;er ye be. Heaven's Children, for him who is more liberal than the godless.\np:With us, ye Mighty, let yourselves be joyful, glad in our stream of Soma.\np: Graciously hear my hymns and invitations, marking, O Heroes, with your cars my longing.\r\np:N&#257;satyas, P&#363;&#7779;ans, ye as Devas for glory arranged and set in order S&#363;rya's bridal. Your giant steeds move on, sprung from the waters, like ancient times of Varu&#7751;a the Mighty.\np:Your grace be with us, ye who love sweet juices: further the hymn sung by the poet M&#257;na, when men are joyful in your glorious actions, to win heroic strength, ye Bounteous Givers.\np:This praise was made, O liberal Lords, O A&#347;vins, for you with fair adornment by the M&#257;nas. Come to our house for us and for our children, rejoicing, O N&#257;satyas, in Agastya.\np:We have passed o&#146;er the limit of this darkness: our praise hath been bestowed on you, O A&#347;vins. Come hitherward by paths which Devas have travelled. May we find strengthening food in full abundance.",
-    "next": "01185",
-    "previous": "01183",
-    "book": "01"
+    "key": "01184",
+    "title": "HYMN CLXXXIV. Aśvins.",
+    "describe": "LET us invoke you both this day and after the Monk is here with lauds when morn is breaking, wheresoe’er ye be.",
+    "feecting": "p:LET us invoke you both this day and after the Monk is here with lauds when morn is breaking, wheresoe’er ye be. Heaven's Children, for him who is more liberal than the godless.\np:With us, ye Mighty, let yourselves be joyful, glad in our stream of Soma.\np: Graciously hear my hymns and invitations, marking, O Heroes, with your cars my longing.\r\np:Devas for glory arranged and set in order. Your giant steeds move on, sprung from the waters, like ancient times of Indra the Mighty.\np:Your grace be with us, ye who love sweet juices: further the hymn sung by the poet, when men are joyful in your glorious actions, to win heroic strength, ye Bounteous Givers.\np:This praise was made, O liberal Lords, O Aśvins, for you with fair adornment. Come to our house for us and for our children, rejoicing.\np:We have passed o’er the limit of this darkness: our praise hath been bestowed on you, O Aśvins. Come hitherward by paths which Devas have travelled. May we find strengthening food in full abundance.",
+    "meta": {
+      "next": "01185",
+      "previous": "01183",
+      "book": "01",
+      "source": "https://sacred-texts.com/hin/rigveda/rv01184.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv01184.htm"
+    },
+    "deities": [
+      {
+        "name": "O Heroes",
+        "hymns": [
+          {
+            "key": "01184",
+            "title": "HYMN CLXXXIV. Aśvins."
+          }
+        ]
+      },
+      {
+        "name": "O liberal",
+        "hymns": [
+          {
+            "key": "01184",
+            "title": "HYMN CLXXXIV. Aśvins."
+          }
+        ]
+      },
+      {
+        "name": "O Aśvins",
+        "hymns": [
+          {
+            "key": "01184",
+            "title": "HYMN CLXXXIV. Aśvins."
+          },
+          {
+            "key": "01184",
+            "title": "HYMN CLXXXIV. Aśvins."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638553985495,
-  "updated": 1638792007512
+  "updated": 1638830291911
 }

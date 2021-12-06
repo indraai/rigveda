@@ -5,13 +5,38 @@
   "link": "hymns/08062.html",
   "api": "json/hymns/08062.json",
   "data": {
-    "title": "HYMN LXII. A&#347;vins.",
-    "describe": "ROUSE ye for him who keeps the Law, yoke your steeds, A&#347;",
-    "feecting": "p:ROUSE ye for him who keeps the Law, yoke your steeds, A&#347;vins, to your car Let your protecting help be near.\np:Come, A&#347;vins, with your car more swift than is the twinkling of an eye Let your protecting help be near.\np:A&#347;vins, ye overlaid with cold the fiery pit for Atri's sake: Let your protecting help be near.\np:Where are ye? whither are ye gone? whither, like falcons, have ye flown? Let your protecting help be near.\np:If ye at any time this day are listening to this my call, Let your protecting help be near.\np:The A&#347;vins, first to hear our meditation, for closest kinship I approach: Let your protecting help be near.\np:For Atri ye, O A&#347;vins, made a dwelling-place to shield him well, Let your protecting help be near.\np:Ye warded off the fervent heat for Atri when he sweetly spake: Let your protecting help be near.\np:Erst Saptavadhri by his prayer obtained the trenchant edge of fire: Let your protecting help be near.\np:Come hither, O ye Lords of wealth, and listen to this call of mine: Let your protecting help be near.\np:What is this praise told forth of you as Elders in the ancient way? Let your protecting help be near.\np:One common brotherhood is yours, A&#347;vins your kindred is the same: Let your protecting help be near.\np:This is your chariot, A&#347;vins, which speeds through the regions, Earth and Heaven Let your protecting aid be near.\np:Approach ye hitherward to us with thousands both of steeds and kine: Let your protecting help be near.\np:Pass us not by, remember us with thousands both of kine and steeds: Let your protecting help be near.\np:The purple-tinted Dawn hath risen, and true to Law hath made the light Let your protecting help be near.\np:He looked upon the A&#347;vins, as an axe-armed man upon a tree: Let your protecting help be near.\np:By the black band encompassed round, break it down, bold one, like a fort.\np: Let your protecting help be near.",
-    "next": "08063",
-    "previous": "08061",
-    "book": "08"
+    "key": "08062",
+    "title": "HYMN LXII. Aśvins.",
+    "describe": "ROUSE ye for him who keeps the Law, yoke your steeds, Aśvins, to your car Let your protecting help be near.",
+    "feecting": "p:ROUSE ye for him who keeps the Law, yoke your steeds, Aśvins, to your car Let your protecting help be near.\np:Come, Aśvins, with your car more swift than is the twinkling of an eye Let your protecting help be near.\np:Aśvins, ye overlaid with cold the fiery pit for Atri's sake: Let your protecting help be near.\np:Where are ye? whither are ye gone? whither, like falcons, have ye flown? Let your protecting help be near.\np:If ye at any time this day are listening to this my call, Let your protecting help be near.\np:The Aśvins, first to hear our meditation, for closest kinship I approach: Let your protecting help be near.\np:For Atri ye, O Aśvins, made a dwelling-place to shield him well, Let your protecting help be near.\np:Ye warded off the fervent heat for Atri when he sweetly spake: Let your protecting help be near.\np:Erst Saptavadhri by his prayer obtained the trenchant edge of fire: Let your protecting help be near.\np:Come hither, O ye Lords of wealth, and listen to this call of mine: Let your protecting help be near.\np:What is this praise told forth of you as Elders in the ancient way? Let your protecting help be near.\np:One common brotherhood is yours, Aśvins your kindred is the same: Let your protecting help be near.\np:This is your chariot, Aśvins, which speeds through the regions, Earth and Heaven Let your protecting aid be near.\np:Approach ye hitherward to us with thousands both of steeds and kine: Let your protecting help be near.\np:Pass us not by, remember us with thousands both of kine and steeds: Let your protecting help be near.\np:The purple-tinted Dawn hath risen, and true to Law hath made the light Let your protecting help be near.\np:He looked upon the Aśvins, as an axe-armed man upon a tree: Let your protecting help be near.\np:By the black band encompassed round, break it down, bold one, like a fort.\np: Let your protecting help be near.",
+    "meta": {
+      "next": "08063",
+      "previous": "08061",
+      "book": "08",
+      "source": "https://sacred-texts.com/hin/rigveda/rv08062.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv08062.htm"
+    },
+    "deities": [
+      {
+        "name": "O Aśvins",
+        "hymns": [
+          {
+            "key": "08062",
+            "title": "HYMN LXII. Aśvins."
+          }
+        ]
+      },
+      {
+        "name": "O ye ",
+        "hymns": [
+          {
+            "key": "08062",
+            "title": "HYMN LXII. Aśvins."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638556618756,
-  "updated": 1638792008146
+  "updated": 1638830292763
 }

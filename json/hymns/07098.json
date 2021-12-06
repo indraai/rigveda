@@ -5,13 +5,46 @@
   "link": "hymns/07098.html",
   "api": "json/hymns/07098.json",
   "data": {
+    "key": "07098",
     "title": "HYMN XCVIII. Indra.",
     "describe": "PRIESTS, offer to the Lord of all the people the milked-out stalk of Soma, radiant-coloured.",
-    "feecting": "p:PRIESTS, offer to the Lord of all the people the milked-out stalk of Soma, radiant-coloured.\np: No wild-bull knows his drinking-place like Indra who ever seeks him who hath pressed the Soma,\r\np:Thou dost desire to drink, each day that passes, the pleasant food which thou hast had aforetime, O Indra, gratified in heart and spirit, drink eagerly the Soma set before thee.\np:Thou, newly-born, for strength didst drink the Soma; the Mother told thee of thy future greatness. O Indra, thou hast filled mid-air's wide region, and given the Devas by battle room and freedom.\np:When thou hast urged the arrocrant to combat, proud in their strength of arm, we will subdue them. Or, Indra, when thou fightest girt by heroes, we in the glorious fray with thee will conquer.\np:I will declare the earliest deeds of Indra, and recent acts which Indra hath accomplished. When he had conquered godless wiles and magic, Soma became his own entire possession.\np:Thine is this world of flocks and herds around thee, which with the eye of S&#363;rya thou beholdest. Thou, Indra, art alone the Lord of cattle. May we enjoy the treasure which thou givest.\np:Ye Twain are Lords of wealth in Earth and Heaven O B&#7771;haspati, and thou, O Indra. Mean though he be, give wealth to him who lauds you. Preserve us evermore, ye Devas, with blessings.",
-    "next": "07099",
-    "previous": "07097",
-    "book": "07"
+    "feecting": "p:PRIESTS, offer to the Lord of all the people the milked-out stalk of Soma, radiant-coloured.\np: No wild-bull knows his drinking-place like Indra who ever seeks him who hath pressed the Soma,\r\np:Thou dost desire to drink, each day that passes, the pleasant food which thou hast had aforetime, O Indra, gratified in heart and spirit, drink eagerly the Soma set before thee.\np:Thou, newly-born, for strength didst drink the Soma; the Mother told thee of thy future greatness. O Indra, thou hast filled mid-air's wide region, and given the Devas by battle room and freedom.\np:When thou hast urged the arrocrant to combat, proud in their strength of arm, we will subdue them. Or, Indra, when thou fightest girt by heroes, we in the glorious fray with thee will conquer.\np:I will declare the earliest deeds of Indra, and recent acts which Indra hath accomplished. When he had conquered godless wiles and magic, Soma became his own entire possession.\np:Thine is this world of flocks and herds around thee, which with the eye of Sūrya thou beholdest. Thou, Indra, art alone the Lord of cattle. May we enjoy the treasure which thou givest.\np:Ye Twain are Lords of wealth in Earth and Heaven O Soma, and thou, O Indra. Mean though he be, give wealth to him who lauds you. Preserve us evermore, ye Devas, with blessings.",
+    "meta": {
+      "next": "07099",
+      "previous": "07097",
+      "book": "07",
+      "source": "https://sacred-texts.com/hin/rigveda/rv07098.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv07098.htm"
+    },
+    "deities": [
+      {
+        "name": "O Indra",
+        "hymns": [
+          {
+            "key": "07098",
+            "title": "HYMN XCVIII. Indra."
+          },
+          {
+            "key": "07098",
+            "title": "HYMN XCVIII. Indra."
+          },
+          {
+            "key": "07098",
+            "title": "HYMN XCVIII. Indra."
+          }
+        ]
+      },
+      {
+        "name": "O Soma",
+        "hymns": [
+          {
+            "key": "07098",
+            "title": "HYMN XCVIII. Indra."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638556259710,
-  "updated": 1638792008039
+  "updated": 1638830292624
 }

@@ -5,13 +5,19 @@
   "link": "hymns/10154.html",
   "api": "json/hymns/10154.json",
   "data": {
+    "key": "10154",
     "title": "HYMN CLIV. New Life.",
     "describe": "FOR some is Soma purified, some sit by sacrificial oil: To those for whom the meath flows forth, even to those let him depart.",
-    "feecting": "p:FOR some is Soma purified, some sit by sacrificial oil: To those for whom the meath flows forth, even to those let him depart.\np:Invincible through Fervour, those whom Fervour hath advanced to Heaven, who showed great Fervour in their lives, -even to those let him depart.\np:The heroes who contend in war and boldly cast their lives away, or who give guerdon thousandfold, -even to those let him depart.\np:Yea, the first followers of Law, Law's pure and holy strengtheners, the Fathers, Yama! Fervour-moved,even to those let him depart.\np:Skilled in a thousand ways and means, the sages who protect the Sun, the &#7770;&#7779;is, Yama! Fervour-moved,&#151;even to those let him depart.",
-    "next": "10155",
-    "previous": "10153",
-    "book": "10"
+    "feecting": "p:FOR some is Soma purified, some sit by sacrificial oil: To those for whom the meath flows forth, even to those let him depart.\np:Invincible through Fervour, those whom Fervour hath advanced to Heaven, who showed great Fervour in their lives, -even to those let him depart.\np:The heroes who contend in war and boldly cast their lives away, or who give guerdon thousandfold, -even to those let him depart.\np:Yea, the first followers of Law, Law's pure and holy strengtheners, the Fathers, Yama! Fervour-moved,even to those let him depart.\np:Skilled in a thousand ways and means, the sages who protect the Sun, the Ṛṣis, Yama! Fervour-moved.even to those let him depart.",
+    "meta": {
+      "next": "10155",
+      "previous": "10153",
+      "book": "10",
+      "source": "https://sacred-texts.com/hin/rigveda/rv10154.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv10154.htm"
+    },
+    "deities": []
   },
   "created": 1638558253200,
-  "updated": 1638792008590
+  "updated": 1638830293241
 }

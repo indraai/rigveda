@@ -5,13 +5,29 @@
   "link": "hymns/03059.html",
   "api": "json/hymns/03059.json",
   "data": {
+    "key": "03059",
     "title": "HYMN LIX. Mitra.",
     "describe": "MITRA, when speaking, stirreth men to labour: Mitra sustaineth both the Earth and Heaven.",
-    "feecting": "p:MITRA, when speaking, stirreth men to labour: Mitra sustaineth both the Earth and Heaven.\np: Mitra beholdeth men with eyes that close not. To Mitra bring, with holy oil, oblation.\r\np:Foremost be he who brings thee food, O Mitra, who strives to keep thy sacred Law, &#256;ditya. He whom thou helpest ne&#146;er is slain or conquered, on him, from near or far, falls no affliction.\np:joying in sacred food and free from sickness, with knees bent lowly on the Earth's broad surface, Following closely the &#256;ditya's statute. May we remain in Mitra's gracious favour.\np:Auspicious and adorable, this Mitra was born with fair dominion, King, Disposer. May we enjoy the grace of him the Holy, yea, rest in his propitious loving-kindness.\np:The great &#256;ditya, to be served with wor. ship, who stirreth men, is gracious to the singer. To Mitra, him most highly to be lauded, offer in fire oblation that he loveth.\np:The gainful grace of Mitra. Deva, supporter of the race of man, Gives splendour of most.glorious fame.\np:Mitra whose glory spreads afar, he who in might surpasses Heaven, Surpasses Earth in his renown.\np:All the Five Races have repaired to Mitra, ever strong to aid, for he sustaineth all the Devas.\np:Mitra to Devas, to living men, to him who strews the holy grass, Gives food fulfilling sacred Law.",
-    "next": "03060",
-    "previous": "03058",
-    "book": "03"
+    "feecting": "p:MITRA, when speaking, stirreth men to labour: Mitra sustaineth both the Earth and Heaven.\np: Mitra beholdeth men with eyes that close not. To Mitra bring, with holy oil, oblation.\r\np:Foremost be he who brings thee food, O Mitra, who strives to keep thy sacred Law, Āditya. He whom thou helpest ne’er is slain or conquered, on him, from near or far, falls no affliction.\np:joying in sacred food and free from sickness, with knees bent lowly on the Earth's broad surface, Following closely the Āditya's statute. May we remain in Mitra's gracious favour.\np:Auspicious and adorable, this Mitra was born with fair dominion, King, Disposer. May we enjoy the grace of him the Holy, yea, rest in his propitious loving-kindness.\np:The great Āditya, to be served with wor. ship, who stirreth men, is gracious to the singer. To Mitra, him most highly to be lauded, offer in fire oblation that he loveth.\np:The gainful grace of Mitra. Deva, supporter of the race of man, Gives splendour of most.glorious fame.\np:Mitra whose glory spreads afar, he who in might surpasses Heaven, Surpasses Earth in his renown.\np:All the Five Races have repaired to Mitra, ever strong to aid, for he sustaineth all the Devas.\np:Mitra to Devas, to living men, to him who strews the holy grass, Gives food fulfilling sacred Law.",
+    "meta": {
+      "next": "03060",
+      "previous": "03058",
+      "book": "03",
+      "source": "https://sacred-texts.com/hin/rigveda/rv03059.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv03059.htm"
+    },
+    "deities": [
+      {
+        "name": "O Mitra",
+        "hymns": [
+          {
+            "key": "03059",
+            "title": "HYMN LIX. Mitra."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638554562623,
-  "updated": 1638792007663
+  "updated": 1638830292103
 }

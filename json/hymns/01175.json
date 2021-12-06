@@ -5,13 +5,38 @@
   "link": "hymns/01175.html",
   "api": "json/hymns/01175.json",
   "data": {
+    "key": "01175",
     "title": "HYMN CLXXV. Indra.",
-    "describe": "GLAD thee: thy glory hath been quaffed, Lord of Bay Steeds, as &#146;",
-    "feecting": "p:GLAD thee: thy glory hath been quaffed, Lord of Bay Steeds, as &#146;twere the bowl's enlivening mead.\np: For thee the Strong there is strong drink, mighty, omnipotent to win.\r\np:Let our offering, most excellent, exhilarating, come to thee, Victorious, Indra! bringing gain, immortal conquering in fight,\np:Thou. Hero, winner of the spoil, urgest to speed the car of man. Burn, like a vessel with the flame, the lawless Dasyu, Conqueror!\np:Empowered by thine own might, O Sage, thou stolest S&#363;rya's chariot wheel. Thou barest Kutsa with the steeds of Wind to &#346;u&#7779;&#7751;a as his death.\np:Most mighty is thy rapturous joy, most splendid is thine active power, Wherewith, foe-subduing, sending bliss, thou art supreme in gaining steeds.\np:As thou, O Indra, to the ancient singers wast ever joy, as water to the thirsty. Unto thee I sing this invocation. May we find strengthening food in full abundance.",
-    "next": "01176",
-    "previous": "01174",
-    "book": "01"
+    "describe": "GLAD thee: thy glory hath been quaffed, Lord of Bay Steeds, as ’twere the bowl's enlivening mead.",
+    "feecting": "p:GLAD thee: thy glory hath been quaffed, Lord of Bay Steeds, as ’twere the bowl's enlivening mead.\np: For thee the Strong there is strong drink, mighty, omnipotent to win.\r\np:Let our offering, most excellent, exhilarating, come to thee, Victorious, Indra! bringing gain, immortal conquering in fight,\np:Thou. Hero, winner of the spoil, urgest to speed the car of man. Burn, like a vessel with the flame, the lawless Dasyu, Conqueror!\np:Empowered by thine own might, O Sage, thou stolest Sūrya's chariot wheel. Thou barest Kutsa with the steeds of Wind to Śuṣṇa as his death.\np:Most mighty is thy rapturous joy, most splendid is thine active power, Wherewith, foe-subduing, sending bliss, thou art supreme in gaining steeds.\np:As thou, O Indra, to the ancient singers wast ever joy, as water to the thirsty. Unto thee I sing this invocation. May we find strengthening food in full abundance.",
+    "meta": {
+      "next": "01176",
+      "previous": "01174",
+      "book": "01",
+      "source": "https://sacred-texts.com/hin/rigveda/rv01175.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv01175.htm"
+    },
+    "deities": [
+      {
+        "name": "O Sage",
+        "hymns": [
+          {
+            "key": "01175",
+            "title": "HYMN CLXXV. Indra."
+          }
+        ]
+      },
+      {
+        "name": "O Indra",
+        "hymns": [
+          {
+            "key": "01175",
+            "title": "HYMN CLXXV. Indra."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638553937791,
-  "updated": 1638792007503
+  "updated": 1638830291899
 }

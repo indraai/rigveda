@@ -5,13 +5,63 @@
   "link": "hymns/02034.html",
   "api": "json/hymns/02034.json",
   "data": {
+    "key": "02034",
     "title": "HYMN XXXIV. Devas",
     "describe": "THE Devas of resistless might who love the rain, resplendent, terrible like wild beasts in their strength, Glowing like flames of fire, impetuous in career, blowing the wandering rain-cloud, have disclosed the kine.",
-    "feecting": "p:THE Devas of resistless might who love the rain, resplendent, terrible like wild beasts in their strength, Glowing like flames of fire, impetuous in career, blowing the wandering rain-cloud, have disclosed the kine.\np:They gleam with armlets as the heavens are decked with stars, like cloud-born lightnings shine the torrents of their rain.\np: Since the strong Soma, O Devas with brilliant chests, sprang into life for you in P&#7771;&#347;ni's radiant lap.\r\np:They drip like horses in the racings of swift steeds; with the stream's rapid cars they hasten on their way. Devas with helms of gold, ye who make all things shake, come with your spotted deer, one-minded, to our food.\np:They have bestowed of Mitra all that live, to feed, they who forevermore cause their swift drops to flow. Whose steeds are spotted deer, whose riches never fail, like horses in full speed, bound to the pole in work.\np:With brightly-flaming kine whose udders swell with milk, with glittering lances on your unobstructed paths, O Devas, of one mind, like swans who seek their nests, come to the rapturous enjoyment of the meath.\np:To these our meditations, O Devas, come unanimous, come ye to our libations like the praise of men. Make it swell like a mare, in udder like a cow, and for the singer grace the song with plenteous strength.\np:Give us a steed, O Devas mighty in the car; prevailing prayer that brings remembrance day by day; Food to your praisers, to your bard in deeds of might give winning wisdom, power uninjured, unsurpassed.\np:When the bright-chested Devas, lavish of their gifts, bind at the time bliss their horses to the cars, then, as the milch-cow feeds her calf within the stalls, they pour forth food for all oblation-bringing men.\np:Save us, O Devas, Devas, from the injurer, the mortal foe who makes us looked upon as wolves. With chariot all aflame compass him round about: O Somas, cast away the foeman's deadly bolt.\np:Well-known, ye Devas, is that wondrous course of yours, when they milked P&#7771;&#347;ni's udder, close akin to her. Or when to shame the bard who lauded, Soma's Sons, ye O infallible brought Trita to decay.\np:We call you such, great Devas, following wonted ways, to the oblation paid to Vi&#7779;&#7751;u Speeder-on. With ladles lifted up, with prayer, we seek of them preeminent, golden-hued, the wealth which all extol.\np:They, the Da&#347;agvas, first of all brought offering: they at the break of mornings shall inspirit us. Dawn with her purple beams uncovereth the nights, with great light glowing like a billowy sea of milk.\np:The Somas have rejoiced them in the gathered bands at seats of worship as in purple ornaments. They with impetuous vigour sending down the rain have taken to themselves a bright and lovely hue.\np:Soliciting their high protection for our help, with this our adoration we sing praise to them, whom, for assistance, like the five terrestrial monks. Trita hath brought to aid us hither on his car.\np:May your favouring help be turned to us-ward, your kindness like a lowing cow approach us, Wherewith ye bear your servant over trouble, and free your worshipper from scoff and scorning.",
-    "next": "02035",
-    "previous": "02033",
-    "book": "02"
+    "feecting": "p:THE Devas of resistless might who love the rain, resplendent, terrible like wild beasts in their strength, Glowing like flames of fire, impetuous in career, blowing the wandering rain-cloud, have disclosed the kine.\np:They gleam with armlets as the heavens are decked with stars, like cloud-born lightnings shine the torrents of their rain.\np: Since the strong Soma, O Devas with brilliant chests, sprang into life for you in Pṛśni's radiant lap.\r\np:They drip like horses in the racings of swift steeds; with the stream's rapid cars they hasten on their way. Devas with helms of gold, ye who make all things shake, come with your spotted deer, one-minded, to our food.\np:They have bestowed of Mitra all that live, to feed, they who forevermore cause their swift drops to flow. Whose steeds are spotted deer, whose riches never fail, like horses in full speed, bound to the pole in work.\np:With brightly-flaming kine whose udders swell with milk, with glittering lances on your unobstructed paths, O Devas, of one mind, like swans who seek their nests, come to the rapturous enjoyment of the meath.\np:To these our meditations, O Devas, come unanimous, come ye to our libations like the praise of men. Make it swell like a mare, in udder like a cow, and for the singer grace the song with plenteous strength.\np:Give us a steed, O Devas mighty in the car; prevailing prayer that brings remembrance day by day; Food to your praisers, to your bard in deeds of might give winning wisdom, power uninjured, unsurpassed.\np:When the bright-chested Devas, lavish of their gifts, bind at the time bliss their horses to the cars, then, as the milch-cow feeds her calf within the stalls, they pour forth food for all oblation-bringing men.\np:Save us, O Devas, Devas, from the injurer, the mortal foe who makes us looked upon as wolves. With chariot all aflame compass him round about: O Somas, cast away the foeman's deadly bolt.\np:Well-known, ye Devas, is that wondrous course of yours, when they milked Pṛśni's udder, close akin to her. Or when to shame the bard who lauded, Soma's Sons, ye O infallible brought Trita to decay.\np:We call you such, great Devas, following wonted ways, to the oblation paid to Indra Speeder-on. With ladles lifted up, with prayer, we seek of them preeminent, golden-hued, the wealth which all extol.\np:They, the Daśagvas, first of all brought offering: they at the break of mornings shall inspirit us. Dawn with her purple beams uncovereth the nights, with great light glowing like a billowy sea of milk.\np:The Somas have rejoiced them in the gathered bands at seats of worship as in purple ornaments. They with impetuous vigour sending down the rain have taken to themselves a bright and lovely hue.\np:Soliciting their high protection for our help, with this our adoration we sing praise to them, whom, for assistance, like the five terrestrial monks. Trita hath brought to aid us hither on his car.\np:May your favouring help be turned to us-ward, your kindness like a lowing cow approach us, Wherewith ye bear your servant over trouble, and free your worshipper from scoff and scorning.",
+    "meta": {
+      "next": "02035",
+      "previous": "02033",
+      "book": "02",
+      "source": "https://sacred-texts.com/hin/rigveda/rv02034.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv02034.htm"
+    },
+    "deities": [
+      {
+        "name": "O Devas",
+        "hymns": [
+          {
+            "key": "02034",
+            "title": "HYMN XXXIV. Devas"
+          },
+          {
+            "key": "02034",
+            "title": "HYMN XXXIV. Devas"
+          },
+          {
+            "key": "02034",
+            "title": "HYMN XXXIV. Devas"
+          },
+          {
+            "key": "02034",
+            "title": "HYMN XXXIV. Devas"
+          },
+          {
+            "key": "02034",
+            "title": "HYMN XXXIV. Devas"
+          }
+        ]
+      },
+      {
+        "name": "O Somas",
+        "hymns": [
+          {
+            "key": "02034",
+            "title": "HYMN XXXIV. Devas"
+          }
+        ]
+      },
+      {
+        "name": "O infallible",
+        "hymns": [
+          {
+            "key": "02034",
+            "title": "HYMN XXXIV. Devas"
+          }
+        ]
+      }
+    ]
   },
   "created": 1638554202111,
-  "updated": 1638792007566
+  "updated": 1638830291984
 }

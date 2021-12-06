@@ -5,13 +5,29 @@
   "link": "hymns/01081.html",
   "api": "json/hymns/01081.json",
   "data": {
+    "key": "01081",
     "title": "HYMN LXXXI. Indra.",
-    "describe": "THE men have lifted Indra up, the V&#7771;",
-    "feecting": "p:THE men have lifted Indra up, the V&#7771;tra slayer, to joy and strength: Him, verily, we invocate in battles whether great or small: be he our aid in deeds of might.\np:Thou. Hero, art a warrior, thou art giver of abundant spoil.\np: Strengthening e&#146;en the feeble, thou aidest the offeringr, thou givest the offerer ample wealth.\r\np:When war and battles are on foot, booty is laid before the bold. Yoke thou thy wildly-rushing Bays. Whom wilt thou subdue and whom enrich? Do thou, O Indra, make us rich.\np:Mighty through wisdom, as he lists, terrible, he hath waxed in strength. Lord of Bay Steeds, strong-jawed, sublime, he in joined hands for glory's sake hath grasped his iron thunderbolt.\np:He filled the earthly atmosphere and pressed against the lights in Heaven. None like thee ever hath been born, none, Indra, will be born like thee. Thou hast waxed mighty over all.\np:May he who to the offerer gives the foeman's man-sustaining food, May Indra lend his aid to us. Deal forth&#151;abundant is thy wealth&#151;that in thy bounty . May share.\np:He, righteous-hearted, at each time of rapture gives us herds of kine. Gather in both thy hands for us treasures of many hundred sorts. Sharpen thou us, and bring us wealth.\np:Refresh thee. Hero, with the for bounty and for strength. We know thee Lord of ample store, to thee have sent our hearts' desires: be therefore our Protector thou.\np:These people, Indra, keep for thee all that is worthy of thy choice. Discover thou, as Lord, the wealth of men who offer up no gifts: bring thou to us this wealth of theirs.",
-    "next": "01082",
-    "previous": "01080",
-    "book": "01"
+    "describe": "THE men have lifted Indra up, the Vṛtra slayer, to joy and strength: Him, verily, we invocate in battles whether great or small: be he our aid in deeds of might.",
+    "feecting": "p:THE men have lifted Indra up, the Vṛtra slayer, to joy and strength: Him, verily, we invocate in battles whether great or small: be he our aid in deeds of might.\np:Thou. Hero, art a warrior, thou art giver of abundant spoil.\np: Strengthening e’en the feeble, thou aidest the offeringr, thou givest the offerer ample wealth.\r\np:When war and battles are on foot, booty is laid before the bold. Yoke thou thy wildly-rushing Bays. Whom wilt thou subdue and whom enrich? Do thou, O Indra, make us rich.\np:Mighty through wisdom, as he lists, terrible, he hath waxed in strength. Lord of Bay Steeds, strong-jawed, sublime, he in joined hands for glory's sake hath grasped his iron thunderbolt.\np:He filled the earthly atmosphere and pressed against the lights in Heaven. None like thee ever hath been born, none, Indra, will be born like thee. Thou hast waxed mighty over all.\np:May he who to the offerer gives the foeman's man-sustaining food, may Indra lend his aid to us. Deal forth—abundant is thy wealth—that in thy bounty . May share.\np:He, righteous-hearted, at each time of rapture gives us herds of kine. Gather in both thy hands for us treasures of many hundred sorts. Sharpen thou us, and bring us wealth.\np:Refresh thee. Hero, with the for bounty and for strength. We know thee Lord of ample store, to thee have sent our hearts' desires: be therefore our Protector thou.\np:These people, Indra, keep for thee all that is worthy of thy choice. Discover thou, as Lord, the wealth of men who offer up no gifts: bring thou to us this wealth of theirs.",
+    "meta": {
+      "next": "01082",
+      "previous": "01080",
+      "book": "01",
+      "source": "https://sacred-texts.com/hin/rigveda/rv01081.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv01081.htm"
+    },
+    "deities": [
+      {
+        "name": "O Indra",
+        "hymns": [
+          {
+            "key": "01081",
+            "title": "HYMN LXXXI. Indra."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638553440412,
-  "updated": 1638792007382
+  "updated": 1638830291705
 }

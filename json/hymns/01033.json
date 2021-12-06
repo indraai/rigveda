@@ -5,13 +5,37 @@
   "link": "hymns/01033.html",
   "api": "json/hymns/01033.json",
   "data": {
+    "key": "01033",
     "title": "HYMN XXXIII. Indra.",
     "describe": "Come, fain for booty let us seek to Indra: yet more shall he increase his care that guides us.",
-    "feecting": "p:Come, fain for booty let us seek to Indra: yet more shall he increase his care that guides us.\np: Will not the Indestructible endow us with perfect knowledge of this wealth, of cattle?\r\np:I fly to him invisible Wealth-giver as flies the falcon to his cherished eyrie, with fairest hymns of praise adoring Indra, whom those who laud him must invoke in battle.\np:Mid all his host, he bindeth on the quiver: he driveth cattle from what foe he pleaseth: Gathering up great store of riches, Indra. be thou no trafficker with us, most mighty.\np:Thou slewest with thy bolt the wealthy Dasyu, alone, yet going with thy helpers, Indra! Far from the floor of Heaven in all directions, the ancient riteless ones fled to destruction.\np:Fighting with pious worshippers, the riteless turned and fled, Indra! with averted faces. When thou, fierce Lord of the Bay Steeds, the Stayer, blewest from Earth and Heaven and sky the godless.\np:They met in fight the army of the blameless: then the Navagvas put forth all their power. They, like emasculates with men contending, fled, conscious, by steep paths from Indra, scattered.\np:Whether they weep or laugh, thou hast o&#146;erthrown them, O Indra, on the sky's extremest limit. The Dasyu thou hast burned from Heaven, and welcomed the prayer of him who pours the juice and lauds thee.\np:Adorned with their array of gold and jewels, they o&#146;er the Earth a covering veil extended. Although they hastened, they o&#146;ercame not Indra: their spies he compassed with the Sun of morning.\np:As thou enjoyest Heaven and Earth, O Indra, on every side surrounded with thy greatness, So thou with monks hast blown away the Dasyu, and those who worship not with those who worship.\np:They who pervaded Earth's extremest limit subdued not with their charms the Wealth-bestower: Indra, the Bull, made his ally the thunder, and with its light milked cows from out the darkness.\np:The waters flowed according to their nature; he raid the navigable streams waxed mighty. Then Indra, with his spirit concentrated, smote him forever with his strongest weapon.\np:Indra broke through Il&#299;bi&#347;a's strong castles, and &#346;u&#7779;&#7751;a with his horn he cut to pieces: Thou, Indra, for all his might and swiftness, slewest thy fighting foeman with thy thunder\np:Fierce on his enemies fell Indra's weapon: with. his sharp bull he rent their forts in pieces. He with his thunderbolt dealt blows on V&#7771;tra; and conquered, executing all his purpose.\np:Indra, thou helpest Kutsa whom thou lovedst, and guardedst brave Da&#347;adyu when he battled, the dust of trampling horses rose to Heaven, and &#346;vitr&#257;'s son stood up again for conquest.\np:&#346;vitr&#257;'s mild steer, O Indra thou helpest in combat for the land, mid Tugra's houses. Long stood they there before the task was ended: thou wast the master of the foemen's treasure.",
-    "next": "01034",
-    "previous": "01032",
-    "book": "01"
+    "feecting": "p:Come, fain for booty let us seek to Indra: yet more shall he increase his care that guides us.\np: Will not the Indestructible endow us with perfect knowledge of this wealth, of cattle?\r\np:I fly to him invisible Wealth-giver as flies the falcon to his cherished eyrie, with fairest hymns of praise adoring Indra, whom those who laud him must invoke in battle.\np:Mid all his host, he bindeth on the quiver: he driveth cattle from what foe he pleaseth: Gathering up great store of riches, Indra. be thou no trafficker with us, most mighty.\np:Thou slewest with thy bolt the wealthy Dasyu, alone, yet going with thy helpers, Indra! Far from the floor of Heaven in all directions, the ancient riteless ones fled to destruction.\np:Fighting with pious worshippers, the riteless turned and fled, Indra! with averted faces. When thou, fierce Lord of the Bay Steeds, the Stayer, blewest from Earth and Heaven and sky the godless.\np:They met in fight the army of the blameless: then the Navagvas put forth all their power. They, like emasculates with men contending, fled, conscious, by steep paths from Indra, scattered.\np:Whether they weep or laugh, thou hast o’erthrown them, O Indra, on the sky's extremest limit. The Dasyu thou hast burned from Heaven, and welcomed the prayer of him who pours the juice and lauds thee.\np:Adorned with their array of gold and jewels, they o’er the Earth a covering veil extended. Although they hastened, they o’ercame not Indra: their spies he compassed with the Sun of morning.\np:As thou enjoyest Heaven and Earth, O Indra, on every side surrounded with thy greatness, So thou with monks hast blown away the Dasyu, and those who worship not with those who worship.\np:They who pervaded Earth's extremest limit subdued not with their charms the Wealth-bestower: Indra, the Bull, made his ally the thunder, and with its light milked cows from out the darkness.\np:The waters flowed according to their nature; he raid the navigable streams waxed mighty. Then Indra, with his spirit concentrated, smote him forever with his strongest weapon.\np:Indra broke through Ilībiśa's strong castles, and Śuṣṇa with his horn he cut to pieces: Thou, Indra, for all his might and swiftness, slewest thy fighting foeman with thy thunder\np:Fierce on his enemies fell Indra's weapon: with. his sharp bull he rent their forts in pieces. He with his thunderbolt dealt blows on Vṛtra; and conquered, executing all his purpose.\np:Indra, thou helpest Kutsa whom thou lovedst, and guardedst brave Daśadyu when he battled, the dust of trampling horses rose to Heaven, and Śvitrā's son stood up again for conquest.\np:Śvitrā's mild steer, O Indra thou helpest in combat for the land, mid Tugra's houses. Long stood they there before the task was ended: thou wast the master of the foemen's treasure.",
+    "meta": {
+      "next": "01034",
+      "previous": "01032",
+      "book": "01",
+      "source": "https://sacred-texts.com/hin/rigveda/rv01033.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv01033.htm"
+    },
+    "deities": [
+      {
+        "name": "O Indra",
+        "hymns": [
+          {
+            "key": "01033",
+            "title": "HYMN XXXIII. Indra."
+          },
+          {
+            "key": "01033",
+            "title": "HYMN XXXIII. Indra."
+          },
+          {
+            "key": "01033",
+            "title": "HYMN XXXIII. Indra."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638553187053,
-  "updated": 1638792007315
+  "updated": 1638830291629
 }

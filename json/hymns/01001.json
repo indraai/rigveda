@@ -5,13 +5,29 @@
   "link": "hymns/01001.html",
   "api": "json/hymns/01001.json",
   "data": {
+    "key": "01001",
     "title": "HYMN I. Agni.",
     "describe": "I Laud Agni, the hotar, lavishest of wealth.",
-    "feecting": "p:I Laud Agni, the hotar, lavishest of wealth.\np:Worthy is Agni to be praised by living as by ancient seers.\np: He shall bring hitherward the Devas.\r\np:Through Agni man obtaineth wealth, yea, most rich in heroes, glorious.\np:Agni, which thou encompassest about verily goeth to the Devas.\np:May Agni, truthful, most gloriously great, come hither with the Devas.\np:Agni  A&#7749;giras, is indeed thy truth.\np:To thee, O Agni, day by day with meditation.\np:Guard of Law Eternal, radiant One, increasing in thine own abode.\np:Be to us easy of approach, even as a father to his son: Agni, be with us for our weal.",
-    "next": "01002",
-    "previous": false,
-    "book": "01"
+    "feecting": "p:I Laud Agni, the hotar, lavishest of wealth.\np:Worthy is Agni to be praised by living as by ancient seers.\np: He shall bring hitherward the Devas.\r\np:Through Agni man obtaineth wealth, yea, most rich in heroes, glorious.\np:Agni, which thou encompassest about verily goeth to the Devas.\np:May Agni, truthful, most gloriously great, come hither with the Devas.\np:Agni  Aṅgiras, is indeed thy truth.\np:To thee, O Agni, day by day with meditation.\np:Guard of Law Eternal, radiant One, increasing in thine own abode.\np:Be to us easy of approach, even as a father to his son: Agni, be with us for our weal.",
+    "meta": {
+      "next": "01002",
+      "previous": false,
+      "book": "01",
+      "source": "https://sacred-texts.com/hin/rigveda/rv01001.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv01001.htm"
+    },
+    "deities": [
+      {
+        "name": "O Agni",
+        "hymns": [
+          {
+            "key": "01001",
+            "title": "HYMN I. Agni."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638553017170,
-  "updated": 1638792007273
+  "updated": 1638830291566
 }

@@ -5,13 +5,19 @@
   "link": "hymns/08041.html",
   "api": "json/hymns/08041.json",
   "data": {
-    "title": "HYMN XLI. Varu&#7751;a.",
-    "describe": "To make this Varu&#7751;",
-    "feecting": "p:To make this Varu&#7751;a come forth sing thou a song unto the band of Devas wiser than thyself,&#151; This Varu&#7751;a who guardeth well the thoughts of men like herds of kine.\np: Let all the others die away.\r\np:Him altogether praise I with the song and hymns our fathers sang, and with Nabh&#257;ka's eulogies,&#151; Him dwelling at the rivers&#146; source, surrounded by his Sisters Seven.\np:The nights he hath encompassed, and stablished the morns with magic art visible over all is he. His dear Ones, following his Law, have prospered the Three Dawns for him.\np:He, visible o&#146;er all the Earth, stablished the quarters of the sky: He measured out the eastern place, that is the fold of Varu&#7751;a: like a strong herdsman is the Deva.\np:He who supports the worlds of life, he who well knows the hidden names mysterious of the morning beams. He cherishes much wisdom, Sage, as Heaven brings forth each varied form.\np:In whom all wisdom centres, as the nave is set within the wheel. Haste ye to honour Trita, as kine haste to gather in the fold, even as they muster steeds to yoke.\np:He wraps these regions as a robe; he contemplates the tribes of Devas and all the works of mortal men. Before the home of Varu&#7751;a all the Devas follow his decree.\np:He is an Ocean far-removed, yet through the Heaven to him ascends the worship which these realms possess. With his bright foot he overthrew their magic, and went up to Heaven.\np:Ruler, whose bright far-seeing rays, pervading all three earths, have filled the three superior realms of Heaven. Firm is the seat of Varu&#7751;a: over the Seven he rules as King.\np:Who, after his decree, o&#146;erspread the Dark Ones with a robe of light. Who measured out the ancient seat, who pillared both the worlds apart as the Unborn supported Heaven. Let all the others die away.",
-    "next": "08042",
-    "previous": "08040",
-    "book": "08"
+    "key": "08041",
+    "title": "HYMN XLI. Indra.",
+    "describe": "To make this Indra come forth sing thou a song unto the band of Devas wiser than thyself.",
+    "feecting": "p:To make this Indra come forth sing thou a song unto the band of Devas wiser than thyself. This Indra who guardeth well the thoughts of men like herds of kine.\np: Let all the others die away.\r\np:Him altogether praise I with the song and hymns our fathers sang, and with Nabhāka's eulogies. Him dwelling at the rivers’ source, surrounded by his Sisters Seven.\np:The nights he hath encompassed, and stablished the morns with magic art visible over all is he. His dear Ones, following his Law, have prospered the Three Dawns for him.\np:He, visible o’er all the Earth, stablished the quarters of the sky: He measured out the eastern place, that is the fold of Indra: like a strong herdsman is the Deva.\np:He who supports the worlds of life, he who well knows the hidden names mysterious of the morning beams. He cherishes much wisdom, Sage, as Heaven brings forth each varied form.\np:In whom all wisdom centres, as the nave is set within the wheel. Haste ye to honour Trita, as kine haste to gather in the fold, even as they muster steeds to yoke.\np:He wraps these regions as a robe; he contemplates the tribes of Devas and all the works of mortal men. Before the home of Indra all the Devas follow his decree.\np:He is an Ocean far-removed, yet through the Heaven to him ascends the worship which these realms possess. With his bright foot he overthrew their magic, and went up to Heaven.\np:Ruler, whose bright far-seeing rays, pervading all three earths, have filled the three superior realms of Heaven. Firm is the seat of Indra: over the Seven he rules as King.\np:Who, after his decree, o’erspread the Dark Ones with a robe of light. Who measured out the ancient seat, who pillared both the worlds apart as the Unborn supported Heaven. Let all the others die away.",
+    "meta": {
+      "next": "08042",
+      "previous": "08040",
+      "book": "08",
+      "source": "https://sacred-texts.com/hin/rigveda/rv08041.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv08041.htm"
+    },
+    "deities": []
   },
   "created": 1638556507430,
-  "updated": 1638792008111
+  "updated": 1638830292721
 }

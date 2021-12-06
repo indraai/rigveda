@@ -5,13 +5,29 @@
   "link": "hymns/03011.html",
   "api": "json/hymns/03011.json",
   "data": {
+    "key": "03011",
     "title": "HYMN Xl. Agni.",
     "describe": "AGNI is Monk, the great High Monk of offering, most swift in act: He knows the rite in constant course.",
     "feecting": "p:AGNI is Monk, the great High Monk of offering, most swift in act: He knows the rite in constant course.\np:Oblation-bearer, deathless, well inclined, an eager messenger, Agni comes nigh us with the thought.\np:Ensign of offering from of old, Agni well knoweth with his thought To prosper this man's aim and hope.\np:Agni, illustrious from old time, the Son of Strength who knows all lifes have made to their Monk.\np:Infallible is Agni, he who goes before the tribes of men, a chariot swift and ever new.\np:Strength of the Devas which non. May harm, subduing all his enemies, Agni is mightiest in fame.\np:By offering sacred food to him the mortal worshipper obtains.\np: A home from him whose light makes pure.\r\np:From Agni, by our hymns. May we gain all things that bring happiness, Singers of him who knows all life.\np:O Agni, in our deeds of migh. May we obtain all precious things: Tle Devas are centred all in thee.",
-    "next": "03012",
-    "previous": "03010",
-    "book": "03"
+    "meta": {
+      "next": "03012",
+      "previous": "03010",
+      "book": "03",
+      "source": "https://sacred-texts.com/hin/rigveda/rv03011.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv03011.htm"
+    },
+    "deities": [
+      {
+        "name": "O Agni",
+        "hymns": [
+          {
+            "key": "03011",
+            "title": "HYMN Xl. Agni."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638554308572,
-  "updated": 1638792007595
+  "updated": 1638830292021
 }

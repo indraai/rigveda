@@ -5,13 +5,38 @@
   "link": "hymns/10137.html",
   "api": "json/hymns/10137.json",
   "data": {
-    "title": "HYMN CXXXVII Vi&#347;vedevas.",
+    "key": "10137",
+    "title": "HYMN CXXXVII Devas.",
     "describe": "YE Devas, raise up once more the man whom ye have humbled and brought low.",
-    "feecting": "p:YE Devas, raise up once more the man whom ye have humbled and brought low.\np: O Devas, restore to life again the man who hatb committed sin.\r\np:Two several winds are blowing here, from Sindhu, from a distant land. May one breathe energy to thee, the other blow disease away.\np:Hither, O Wind, blow healing balm, blow all disease away, thou Wind; For thou who hast all medicine comest as envoy of the Devas.\np:I am come nigh to thee with balms to give thee rest and keep thee safe. I bring thee blessed strength, I drive thy weakening malady away.\np:Here let the Devas deliver him, the Devas&#146; band deliver him: All things that be deliver him that he be freed from his disease.\np:The Waters have their healing power, the Waters drive disease away. The Waters have a balm for all: let them make medicine for thee.\np:The tongue that leads the voice precedes. Then with our ten-fold branching hands, with these two chasers of disease we stroke thee with a gentle touch.",
-    "next": "10138",
-    "previous": "10136",
-    "book": "10"
+    "feecting": "p:YE Devas, raise up once more the man whom ye have humbled and brought low.\np: O Devas, restore to life again the man who hatb committed sin.\r\np:Two several winds are blowing here, from Sindhu, from a distant land. May one breathe energy to thee, the other blow disease away.\np:Hither, O Wind, blow healing balm, blow all disease away, thou Wind; For thou who hast all medicine comest as envoy of the Devas.\np:I am come nigh to thee with balms to give thee rest and keep thee safe. I bring thee blessed strength, I drive thy weakening malady away.\np:Here let the Devas deliver him, the Devas’ band deliver him: All things that be deliver him that he be freed from his disease.\np:The Waters have their healing power, the Waters drive disease away. The Waters have a balm for all: let them make medicine for thee.\np:The tongue that leads the voice precedes. Then with our ten-fold branching hands, with these two chasers of disease we stroke thee with a gentle touch.",
+    "meta": {
+      "next": "10138",
+      "previous": "10136",
+      "book": "10",
+      "source": "https://sacred-texts.com/hin/rigveda/rv10137.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv10137.htm"
+    },
+    "deities": [
+      {
+        "name": "O Devas",
+        "hymns": [
+          {
+            "key": "10137",
+            "title": "HYMN CXXXVII Devas."
+          }
+        ]
+      },
+      {
+        "name": "O Wind",
+        "hymns": [
+          {
+            "key": "10137",
+            "title": "HYMN CXXXVII Devas."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638558163158,
-  "updated": 1638792008575
+  "updated": 1638830293223
 }

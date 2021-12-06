@@ -5,13 +5,51 @@
   "link": "hymns/05059.html",
   "api": "json/hymns/05059.json",
   "data": {
+    "key": "05059",
     "title": "HYMN LIX. Devas.",
     "describe": "YOUR spy hath called to you to give prosperity.",
-    "feecting": "p:YOUR spy hath called to you to give prosperity. I sing to Heaven and Earth and offer offering.\np: They bathe their steeds and hasten through the Firmament: they spread abroad their radiance through the sea of cloud.\r\np:Earth shakes and reels in terror at their onward rush, like a full ship which, quivering, lets the water in. Marked on their ways are they, visible from afar: the Heroes press between in mighty armament.\np:As the exalted horn of bulls for splendid might, as the Sun's eye set in the Firmament's expanse, like vigorous horses ye are beauteous to behold, and for your glory show like bridegrooms, O ye Men.\np:Who, O ye Devas. May attain the mighty lore of you the mighty, wh. May reach your manly deeds? Ye, verily, make Earth tremble like a ray of light what time ye bring your boons to give prosperity,\np:Like steeds of ruddy colour, scions of one race, as foremost champions they have battled in the van. The Heroes have waxed strong like we.1grown manly youths; with floods of rain they make the Sun's eye fade away,\np:Having no eldest and no youngest in their band, no middlomost, preeminent they have waxed in might, these Sons of P&#7771;&#347;ni, sprung of noble ancestry: come hitberward to us, ye bridegrooms of the sky.\np:Like birds of air they flew with might in lengthened lines from Heaven's high ridges to the borders of the sky. The steeds who carry them, as Devas and mortals know, have caused the waters of the mounuains to desGend.\np:May Devas, the Infinite, roar for our banquet. May Dawns toil for us, glittering with moisture. Lauded by thee, these Devas, Sons o Soma, O &#7770;&#7779;i, have sent down the heavenly treasure.",
-    "next": "05060",
-    "previous": "05058",
-    "book": "05"
+    "feecting": "p:YOUR spy hath called to you to give prosperity. I sing to Heaven and Earth and offer offering.\np: They bathe their steeds and hasten through the Firmament: they spread abroad their radiance through the sea of cloud.\r\np:Earth shakes and reels in terror at their onward rush, like a full ship which, quivering, lets the water in. Marked on their ways are they, visible from afar: the Heroes press between in mighty armament.\np:As the exalted horn of bulls for splendid might, as the Sun's eye set in the Firmament's expanse, like vigorous horses ye are beauteous to behold, and for your glory show like bridegrooms, O ye Men.\np:Who, O ye Devas. May attain the mighty lore of you the mighty, wh. May reach your manly deeds? Ye, verily, make Earth tremble like a ray of light what time ye bring your boons to give prosperity,\np:Like steeds of ruddy colour, scions of one race, as foremost champions they have battled in the van. The Heroes have waxed strong like we.1grown manly youths; with floods of rain they make the Sun's eye fade away,\np:Having no eldest and no youngest in their band, no middlomost, preeminent they have waxed in might, these Sons of Pṛśni, sprung of noble ancestry: come hitberward to us, ye bridegrooms of the sky.\np:Like birds of air they flew with might in lengthened lines from Heaven's high ridges to the borders of the sky. The steeds who carry them, as Devas and mortals know, have caused the waters of the mounuains to desGend.\np:May Devas, the Infinite, roar for our banquet. May Dawns toil for us, glittering with moisture. Lauded by thee, these Devas, Sons o Soma, O Ṛṣi, have sent down the heavenly treasure.",
+    "meta": {
+      "next": "05060",
+      "previous": "05058",
+      "book": "05",
+      "source": "https://sacred-texts.com/hin/rigveda/rv05059.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv05059.htm"
+    },
+    "deities": [
+      {
+        "name": "O ye ",
+        "hymns": [
+          {
+            "key": "05059",
+            "title": "HYMN LIX. Devas."
+          },
+          {
+            "key": "05059",
+            "title": "HYMN LIX. Devas."
+          }
+        ]
+      },
+      {
+        "name": "o Soma",
+        "hymns": [
+          {
+            "key": "05059",
+            "title": "HYMN LIX. Devas."
+          }
+        ]
+      },
+      {
+        "name": "O Ṛṣi",
+        "hymns": [
+          {
+            "key": "05059",
+            "title": "HYMN LIX. Devas."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638555197983,
-  "updated": 1638792007817
+  "updated": 1638830292297
 }

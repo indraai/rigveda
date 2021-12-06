@@ -5,13 +5,19 @@
   "link": "hymns/09084.html",
   "api": "json/hymns/09084.json",
   "data": {
+    "key": "09084",
     "title": "HYMN LXXXIV. Indu.",
-    "describe": "FLOW, cheering Devas, most active, winner of the flood, for Indra, and for V&#257;",
-    "feecting": "p:FLOW, cheering Devas, most active, winner of the flood, for Indra, and for V&#257;yu, and for Varu&#7751;a.\np: Bestow on us to-day wide room with happiness, and in tbine ample dwelling laud the Host of Heaven.\r\np:He who hath come anear to creatures that have life, Immortal Soma flows onward to all of them. Effecting, for our aid, both union and release, indu, like S&#363;rya, follows closely after Dawn.\np:He who is poured with milk, he who within the plants hastes bringing treasure for the happiness of Devas. He, poured forth in a stream flows with the lightning's flash, Soma who gladdens Indra and the Host of Heaven.\np:Winner of thousands, he, this Soma, flows along, raising a vigorous voice that wakens with the dawn. Indu with winds drives on the ocean of the air, he sinks within the jars, he rests in Indra's heart.\np:The kine with milk dress him who makes the milk increase, Soma, amid the songs, who finds the light of Heaven. Winner of wealth, the effectual juice is flowing on, Singer and Sage by wisdom, dear as Heaven itself.",
-    "next": "09085",
-    "previous": "09083",
-    "book": "09"
+    "describe": "FLOW, cheering Devas, most active, winner of the flood, for Indra, and for Soma, and for Indra.",
+    "feecting": "p:FLOW, cheering Devas, most active, winner of the flood, for Indra, and for Soma, and for Indra.\np: Bestow on us to-day wide room with happiness, and in tbine ample dwelling laud the Host of Heaven.\r\np:He who hath come anear to creatures that have life, Immortal Soma flows onward to all of them. Effecting, for our aid, both union and release, indu, like Sūrya, follows closely after Dawn.\np:He who is poured with milk, he who within the plants hastes bringing treasure for the happiness of Devas. He, poured forth in a stream flows with the lightning's flash, Soma who gladdens Indra and the Host of Heaven.\np:Winner of thousands, he, this Soma, flows along, raising a vigorous voice that wakens with the dawn. Indu with winds drives on the ocean of the air, he sinks within the jars, he rests in Indra's heart.\np:The kine with milk dress him who makes the milk increase, Soma, amid the songs, who finds the light of Heaven. Winner of wealth, the effectual juice is flowing on, Singer and Sage by wisdom, dear as Heaven itself.",
+    "meta": {
+      "next": "09085",
+      "previous": "09083",
+      "book": "09",
+      "source": "https://sacred-texts.com/hin/rigveda/rv09084.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv09084.htm"
+    },
+    "deities": []
   },
   "created": 1638557277796,
-  "updated": 1638792008278
+  "updated": 1638830292915
 }

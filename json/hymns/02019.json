@@ -5,13 +5,46 @@
   "link": "hymns/02019.html",
   "api": "json/hymns/02019.json",
   "data": {
+    "key": "02019",
     "title": "HYMN XIX. Indra.",
     "describe": "DRAUGHTS of this sweet juice have been drunk for rapture, of the wise Soma-presser's offered dainty, wherein, grown mighty in the days aforetime, Indra hath found delight, and men who worship.",
-    "feecting": "p:DRAUGHTS of this sweet juice have been drunk for rapture, of the wise Soma-presser's offered dainty, wherein, grown mighty in the days aforetime, Indra hath found delight, and men who worship.\np:Cheered by this meath Indra, whose hand wields thunder, rent piecemeal Ahi who barred up the waters, So that the quickening currents of the rivers flowed forth like birds unto their resting-places.\np:Indra, this Mighty One, the Dragon's slayer, sent forth the flood of waters to the ocean.\np: He gave the Sun his life, he found the cattle, and with the night the works of days completed.\r\np:To him who worshippeth hath Indra given many and matchless gifts. He slayeth V&#7771;tra. Straight was he to be sought with supplications by men who struggled to obtain the sunlight.\np:To him who poured him gifts he gave up S&#363;rya,&#151;Indra, the Mighty, to the mortal; For Eta&#347;a with worship brought him riches that keep distress afar, as &#146;twere his portion.\np:Once to the driver of his chariot, Kutsa, he gave up greedy S&#363;rya, plague of harvest; And Indra, for the sake of Divod&#257;sa demolished &#346;ambara's nine-and-ninety castles.\np:So have we brought our hymn to thee, O Indra, strengthening thee and fain ourselves for glory. May we with best endeavours gain this friendship, an. Mayst thou bend the godless scorner's weapons.\np:Thus the G&#7771;tsamadas for thee, O Hero, have wrought their hymn and task as seeking favour. May they who worship thee afresh, O Indra, gain food and strength, bliss, and a happy dwelling.\np:No. May that wealthy Cow of thine, O Indra, give in return a boon to him who lauds thee, Give to thy praisers: let not fortune fail us. Lou. May we speak, with heroes, in assembly.",
-    "next": "02020",
-    "previous": "02018",
-    "book": "02"
+    "feecting": "p:DRAUGHTS of this sweet juice have been drunk for rapture, of the wise Soma-presser's offered dainty, wherein, grown mighty in the days aforetime, Indra hath found delight, and men who worship.\np:Cheered by this meath Indra, whose hand wields thunder, rent piecemeal Ahi who barred up the waters, So that the quickening currents of the rivers flowed forth like birds unto their resting-places.\np:Indra, this Mighty One, the Dragon's slayer, sent forth the flood of waters to the ocean.\np: He gave the Sun his life, he found the cattle, and with the night the works of days completed.\r\np:To him who worshippeth hath Indra given many and matchless gifts. He slayeth Vṛtra. Straight was he to be sought with supplications by men who struggled to obtain the sunlight.\np:To him who poured him gifts he gave up Sūrya.Indra, the Mighty, to the mortal; For Etaśa with worship brought him riches that keep distress afar, as ’twere his portion.\np:Once to the driver of his chariot, Kutsa, he gave up greedy Sūrya, plague of harvest; And Indra, for the sake of Divodāsa demolished Śambara's nine-and-ninety castles.\np:So have we brought our hymn to thee, O Indra, strengthening thee and fain ourselves for glory. May we with best endeavours gain this friendship, an. Mayst thou bend the godless scorner's weapons.\np:Thus the Gṛtsamadas for thee, O Hero, have wrought their hymn and task as seeking favour. May they who worship thee afresh, O Indra, gain food and strength, bliss, and a happy dwelling.\np:No. May that wealthy Cow of thine, O Indra, give in return a boon to him who lauds thee, Give to thy praisers: let not fortune fail us. Lou. May we speak, with heroes, in assembly.",
+    "meta": {
+      "next": "02020",
+      "previous": "02018",
+      "book": "02",
+      "source": "https://sacred-texts.com/hin/rigveda/rv02019.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv02019.htm"
+    },
+    "deities": [
+      {
+        "name": "O Indra",
+        "hymns": [
+          {
+            "key": "02019",
+            "title": "HYMN XIX. Indra."
+          },
+          {
+            "key": "02019",
+            "title": "HYMN XIX. Indra."
+          },
+          {
+            "key": "02019",
+            "title": "HYMN XIX. Indra."
+          }
+        ]
+      },
+      {
+        "name": "O Hero",
+        "hymns": [
+          {
+            "key": "02019",
+            "title": "HYMN XIX. Indra."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638554122945,
-  "updated": 1638792007543
+  "updated": 1638830291955
 }

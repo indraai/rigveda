@@ -5,13 +5,29 @@
   "link": "hymns/09092.html",
   "api": "json/hymns/09092.json",
   "data": {
+    "key": "09092",
     "title": "HYMN XCII. Indu.",
     "describe": "THE gold-hued juice, poured out upon the filter, is started like a car sent forth to conquer.",
-    "feecting": "p:THE gold-hued juice, poured out upon the filter, is started like a car sent forth to conquer.\np: He hath gained song and vigour while they cleansed him, and hath rejoiced the Devas with entertainments.\r\np:He who beholdeth man hath reached the filter: bearing his name, the Sage hath sought his dwelling. The &#7770;&#7779;is came to him, seven holy singers, when in the bowls he settled as Invoker.\np:Shared by all Devas, mobt wise, propitious, Soma goes, while they cleanse him, to his constant station. Let him rejoice in all his lofty wisdom to the Five Tribes the Sage attains with labour.\np:In thy mysterious place, O Indu Soma, are all the Devas, the Thrice-Eleven. Ten on the fleecy height, themselves, self-prompted, and seven fresh rivers, brighten and adorn thee.\np:Now let this be the truth of Indu, there where all singers gather them together, that he hath given us room and made the daylight, hath holpen Manu and repelled the Dasyu.\np:As the Monk seeks the station rich in cattle, like a true King who goes to great assemblies, Soma hath sought the beakers while they cleansed him, and like a wild bull, in the wood hath settled.",
-    "next": "09093",
-    "previous": "09091",
-    "book": "09"
+    "feecting": "p:THE gold-hued juice, poured out upon the filter, is started like a car sent forth to conquer.\np: He hath gained song and vigour while they cleansed him, and hath rejoiced the Devas with entertainments.\r\np:He who beholdeth man hath reached the filter: bearing his name, the Sage hath sought his dwelling. The Ṛṣis came to him, seven holy singers, when in the bowls he settled as Invoker.\np:Shared by all Devas, mobt wise, propitious, Soma goes, while they cleanse him, to his constant station. Let him rejoice in all his lofty wisdom to the Five Tribes the Sage attains with labour.\np:In thy mysterious place, O Indu Soma, are all the Devas, the Thrice-Eleven. Ten on the fleecy height, themselves, self-prompted, and seven fresh rivers, brighten and adorn thee.\np:Now let this be the truth of Indu, there where all singers gather them together, that he hath given us room and made the daylight, hath holpen Manu and repelled the Dasyu.\np:As the Monk seeks the station rich in cattle, like a true King who goes to great assemblies, Soma hath sought the beakers while they cleansed him, and like a wild bull, in the wood hath settled.",
+    "meta": {
+      "next": "09093",
+      "previous": "09091",
+      "book": "09",
+      "source": "https://sacred-texts.com/hin/rigveda/rv09092.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv09092.htm"
+    },
+    "deities": [
+      {
+        "name": "O Indu",
+        "hymns": [
+          {
+            "key": "09092",
+            "title": "HYMN XCII. Indu."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638557320192,
-  "updated": 1638792008290
+  "updated": 1638830292928
 }

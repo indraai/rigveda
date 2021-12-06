@@ -5,13 +5,29 @@
   "link": "hymns/10149.html",
   "api": "json/hymns/10149.json",
   "data": {
+    "key": "10149",
     "title": "HYMN CXLIX. Indra.",
     "describe": "SAVITAR fixed the Earth with bands to bind it, and made Heaven stedfast where no prop supported.",
-    "feecting": "p:SAVITAR fixed the Earth with bands to bind it, and made Heaven stedfast where no prop supported.\np: Indra milked, as &#146;twere a restless courser, air, sea bound fast to what no foot had trodden.\r\np:Well knoweth Indra, O Child of Waters, where ocean, firmly fixt, o&#146;erflowed its limit. Thence sprang the world, from that uprose the region: thence Heaven spread out and the wide Earth expanded.\np:Then, with a full crowd of Immortal Beings, this other realm came later, high and holy. First, verily, Indra's strong-pinioned Eagle was born: and he obeys his law forever.\np:As warriors to their steeds, kine to their village, as fond milk giving cows approach their youngling, as man to wife, let Indra come downward to us. Heaven's bearer, Lord of every blessing.\np:Like the A&#7749;girasa Hiranvastupa, I call thee, Indra, to this achievement: So worshipping and lauding thee for favour I watch for thee as for the stalk of Soma.",
-    "next": "10150",
-    "previous": "10148",
-    "book": "10"
+    "feecting": "p:SAVITAR fixed the Earth with bands to bind it, and made Heaven stedfast where no prop supported.\np: Indra milked, as ’twere a restless courser, air, sea bound fast to what no foot had trodden.\r\np:Well knoweth Indra, O Child of Waters, where ocean, firmly fixt, o’erflowed its limit. Thence sprang the world, from that uprose the region: thence Heaven spread out and the wide Earth expanded.\np:Then, with a full crowd of Immortal Beings, this other realm came later, high and holy. First, verily, Indra's strong-pinioned Eagle was born: and he obeys his law forever.\np:As warriors to their steeds, kine to their village, as fond milk giving cows approach their youngling, as man to wife, let Indra come downward to us. Heaven's bearer, Lord of every blessing.\np:Like the Aṅgirasa Hiranvastupa, I call thee, Indra, to this achievement: So worshipping and lauding thee for favour I watch for thee as for the stalk of Soma.",
+    "meta": {
+      "next": "10150",
+      "previous": "10148",
+      "book": "10",
+      "source": "https://sacred-texts.com/hin/rigveda/rv10149.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv10149.htm"
+    },
+    "deities": [
+      {
+        "name": "O Child",
+        "hymns": [
+          {
+            "key": "10149",
+            "title": "HYMN CXLIX. Indra."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638558226876,
-  "updated": 1638792008586
+  "updated": 1638830293236
 }

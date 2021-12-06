@@ -5,13 +5,33 @@
   "link": "hymns/07094.html",
   "api": "json/hymns/07094.json",
   "data": {
+    "key": "07094",
     "title": "HYMN XCIV. Indra-Agni.",
     "describe": "As rain from out the cloud, for you, Indra and Agni, from my soul This noblest praise hath been produced.",
-    "feecting": "p:As rain from out the cloud, for you, Indra and Agni, from my soul This noblest praise hath been produced.\np:Do ye, O Indra-Agni, hear the singer's call: accept his songs.\np: Ye Rulers, grant his heart's desire.\r\np:Give us not up to poverty, ye Heroes, Indra-Agni, nor To slander and reproach of men.\np:To Indra and to Agni we bring reverence, high and holy hymn, and, craving help, softwords with prayer.\np:For all these holy singers here implore these Twain to succour them, and monks that the, may win them strength.\np:Eager to laudyou, we with songs invoke you, bearing sacred food, fain for success in offering.\np:Indra and Agni, come to us with favour, ye who conquer men: Let not the wicked master us.\np:At no time let the injurious blow of hostile mortal fall on us: O Indra-Agni, shelter us.\np:Whatever wealth we crave of you, in gold, in cattle, or in steeds, that, Indra-Agni, let us gain;\np:When heroes prompt in worship call Indra and Agni, Lords of steeds, beside the Soma juice effused.\np:Call hither with the song and lauds those who best subdue the foemen, those Who take delight in hymns of praise.\np:Slay ye the wicked man whose thought is evil of the demon kind. Slay him who stays the waters, subdue the Serpent with your deadly dart.",
-    "next": "07095",
-    "previous": "07093",
-    "book": "07"
+    "feecting": "p:As rain from out the cloud, for you, Indra and Agni, from my soul This noblest praise hath been produced.\np:Do ye, O Indra-Agni, hear the singer's call: accept his songs.\np: Ye Rulers, grant his heart's desire.\r\np:Give us not up to poverty, ye Heroes, Indra-Agni, nor To slander and reproach of men.\np:To Indra and to Agni we bring reverence, high and holy hymn, and, craving help, softwords with prayer.\np:For all these holy singers here implore these Twain to assist them, and monks that the, may win them strength.\np:Eager to laudyou, we with songs invoke you, bearing sacred food, fain for success in offering.\np:Indra and Agni, come to us with favour, ye who conquer men: Let not the wicked master us.\np:At no time let the injurious blow of hostile mortal fall on us: O Indra-Agni, shelter us.\np:Whatever wealth we crave of you, in gold, in cattle, or in steeds, that, Indra-Agni, let us gain;\np:When heroes prompt in worship call Indra and Agni, Lords of steeds, beside the Soma juice effused.\np:Call hither with the song and lauds those who best subdue the foemen, those Who take delight in hymns of praise.\np:Slay ye the wicked man whose thought is evil of the demon kind. Slay him who stays the waters, subdue the Serpent with your deadly dart.",
+    "meta": {
+      "next": "07095",
+      "previous": "07093",
+      "book": "07",
+      "source": "https://sacred-texts.com/hin/rigveda/rv07094.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv07094.htm"
+    },
+    "deities": [
+      {
+        "name": "O Indra",
+        "hymns": [
+          {
+            "key": "07094",
+            "title": "HYMN XCIV. Indra-Agni."
+          },
+          {
+            "key": "07094",
+            "title": "HYMN XCIV. Indra-Agni."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638556238661,
-  "updated": 1638792008035
+  "updated": 1638830292620
 }

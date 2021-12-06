@@ -5,13 +5,19 @@
   "link": "hymns/07080.html",
   "api": "json/hymns/07080.json",
   "data": {
+    "key": "07080",
     "title": "HYMN LXXX. Dawn.",
-    "describe": "THE monks, Vasisthas, are the first awakened to welcome U&#7779;",
-    "feecting": "p:THE monks, Vasisthas, are the first awakened to welcome U&#7779;as with their songs and praises, who makes surrounding regions part asunder,and shows apparent all existing creatures.\np:Giving fresh life when she hath hid the darkness, this Dawn hath wakened there with new-born lustre.\np: Youthful and unrestrained she cometh forward: she hath turned thoughts to Sun and fire and worship.\r\np:May blessed Mornings shine on us forever, with wealth of kine, of horses, and of heroes, Streaming with all abundance, pouring fatness. Preserve us evermore, ye Devas, with blessings.",
-    "next": "07081",
-    "previous": "07079",
-    "book": "07"
+    "describe": "THE monks, Vasisthas, are the first awakened to welcome Uṣas with their songs and praises, who makes surrounding regions part asunder,and shows apparent all existing creatures.",
+    "feecting": "p:THE monks, Vasisthas, are the first awakened to welcome Uṣas with their songs and praises, who makes surrounding regions part asunder,and shows apparent all existing creatures.\np:Giving fresh life when she hath hid the darkness, this Dawn hath wakened there with new-born lustre.\np: Youthful and unrestrained she cometh forward: she hath turned thoughts to Sun and fire and worship.\r\np:May blessed Mornings shine on us forever, with wealth of kine, of horses, and of heroes, Streaming with all abundance, pouring fatness. Preserve us evermore, ye Devas, with blessings.",
+    "meta": {
+      "next": "07081",
+      "previous": "07079",
+      "book": "07",
+      "source": "https://sacred-texts.com/hin/rigveda/rv07080.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv07080.htm"
+    },
+    "deities": []
   },
   "created": 1638556164787,
-  "updated": 1638792008023
+  "updated": 1638830292604
 }

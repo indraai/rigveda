@@ -5,13 +5,29 @@
   "link": "hymns/10186.html",
   "api": "json/hymns/10186.json",
   "data": {
-    "title": "HYMN CLXXXVI. V&#257;yu.",
+    "key": "10186",
+    "title": "HYMN CLXXXVI. Soma.",
     "describe": "FILLING our hearts with health and joy.",
-    "feecting": "p:FILLING our hearts with health and joy. May V&#257;ta breathe his balm on us May he prolong our days of life.\np:Thou art our Father, V&#257;ta, yea, thou art a Brother and a friend, So give us strength that we may live.\np:The store of Am&#7771;ta laid away yonder, O V&#257;ta, in thine home,&#151; Give us thereof that we may live.",
-    "next": "10187",
-    "previous": "10185",
-    "book": "10"
+    "feecting": "p:FILLING our hearts with health and joy. May Vāta breathe his balm on us May he prolong our days of life.\np:Thou art our Father, Vāta, yea, thou art a Brother and a friend, So give us strength that we may live.\np:The store of Amṛta laid away yonder, O Vāta, in thine home. Give us thereof that we may live.",
+    "meta": {
+      "next": "10187",
+      "previous": "10185",
+      "book": "10",
+      "source": "https://sacred-texts.com/hin/rigveda/rv10186.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv10186.htm"
+    },
+    "deities": [
+      {
+        "name": "O Vāta",
+        "hymns": [
+          {
+            "key": "10186",
+            "title": "HYMN CLXXXVI. Soma."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638558423404,
-  "updated": 1638792008615
+  "updated": 1638830293268
 }

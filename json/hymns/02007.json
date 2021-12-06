@@ -5,13 +5,19 @@
   "link": "hymns/02007.html",
   "api": "json/hymns/02007.json",
   "data": {
+    "key": "02007",
     "title": "HYMN VII. Agni.",
-    "describe": "VASU, thou most youthful Deva, Bh&#257;",
-    "feecting": "p:VASU, thou most youthful Deva, Bh&#257;rata, Agni, bring us wealth, Excellent, splendid, much-desired.\np:Let no malignity prevail against us, either Deva's or man's.\np: Save us from this and enmity.\r\np:So through thy favou. May we force through all our enemies a way, as &#146;twere through streaming water-floods.\np:Thou, Purifier Agni, high shinest forth, bright, adorable, when worshipped with the sacred oil.\np:Ours art thou, Agni, Bh&#257;rata, honoured by us with barren cows, with bullocks and with kine in calf\np:Wood-fed, bedewed with sacred oil, ancient, invoker, excellent, the Son of Strength, the Wonderful.",
-    "next": "02008",
-    "previous": "02006",
-    "book": "02"
+    "describe": "VASU, thou most youthful Deva, Bhārata, Agni, bring us wealth, Excellent, splendid, much-desired.",
+    "feecting": "p:VASU, thou most youthful Deva, Bhārata, Agni, bring us wealth, Excellent, splendid, much-desired.\np:Let no malignity prevail against us, either Deva's or man's.\np: Save us from this and enmity.\r\np:So through thy favou. May we force through all our enemies a way, as ’twere through streaming water-floods.\np:Thou, Purifier Agni, high shinest forth, bright, adorable, when worshipped with the sacred oil.\np:Ours art thou, Agni, Bhārata, honoured by us with barren cows, with bullocks and with kine in calf\np:Wood-fed, bedewed with sacred oil, ancient, invoker, excellent, the Son of Strength, the Wonderful.",
+    "meta": {
+      "next": "02008",
+      "previous": "02006",
+      "book": "02",
+      "source": "https://sacred-texts.com/hin/rigveda/rv02007.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv02007.htm"
+    },
+    "deities": []
   },
   "created": 1638554059835,
-  "updated": 1638792007529
+  "updated": 1638830291934
 }

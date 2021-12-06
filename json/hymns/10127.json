@@ -5,13 +5,56 @@
   "link": "hymns/10127.html",
   "api": "json/hymns/10127.json",
   "data": {
+    "key": "10127",
     "title": "HYMN CXXVII. Night.",
     "describe": "WITH all her eyes the Goddess Night looks forth approaching many a spot: She hath put all her glories on.",
     "feecting": "p:WITH all her eyes the Goddess Night looks forth approaching many a spot: She hath put all her glories on.\np:Immortal. she hath filled the wastedess hath filled height and depth: She conquers darkness with her light.\np:The Goddess as she comes hath set the Dawn her Sister in her place: And then the darkness vanishes.\np:So favour us this night, O thou whose pathways we have visited As birds their nest upon the tree.\np:The villagers have sought their homes, and all that walks and all that flies, Even the falcons fain for prey.\np:Keep off the she-wolf and the wolf, O Urmya, keep the thief away; Easy be thou for us to pass.\np:Clearly hath she come nigh to me who decks the dark with richest hues: O Morning, cancel it like debts.\np:These have I brought to thee like kine. O Night, thou Child of Heaven, accept This laud as for a conqueror.",
-    "next": "10128",
-    "previous": "10126",
-    "book": "10"
+    "meta": {
+      "next": "10128",
+      "previous": "10126",
+      "book": "10",
+      "source": "https://sacred-texts.com/hin/rigveda/rv10127.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv10127.htm"
+    },
+    "deities": [
+      {
+        "name": "O thou",
+        "hymns": [
+          {
+            "key": "10127",
+            "title": "HYMN CXXVII. Night."
+          }
+        ]
+      },
+      {
+        "name": "O Urmya",
+        "hymns": [
+          {
+            "key": "10127",
+            "title": "HYMN CXXVII. Night."
+          }
+        ]
+      },
+      {
+        "name": "O Morning",
+        "hymns": [
+          {
+            "key": "10127",
+            "title": "HYMN CXXVII. Night."
+          }
+        ]
+      },
+      {
+        "name": "O Night",
+        "hymns": [
+          {
+            "key": "10127",
+            "title": "HYMN CXXVII. Night."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638558109809,
-  "updated": 1638792008565
+  "updated": 1638830293210
 }

@@ -5,13 +5,33 @@
   "link": "hymns/10143.html",
   "api": "json/hymns/10143.json",
   "data": {
-    "title": "HYMN CXLIII. A&#347;vins.",
+    "key": "10143",
+    "title": "HYMN CXLIII. Aśvins.",
     "describe": "YE made that Atri, worn with eld, free as a horse to win the goal.",
-    "feecting": "p:YE made that Atri, worn with eld, free as a horse to win the goal.\np: When ye restored to youth and strength Kak&#7779;&#299;v&#257;n like a car renewed,\r\np:Ye freed that Atri like a horse, and brought him newly-born to Earth. Ye loosed him like a firm-tied knot which Devas unsoiled by dust had bound.\np:Heroes who showed most wondrous power to Atri, strive to win fair songs; For then, O Heroes of the sky, your hymn of praise shall cease no more.\np:This claims your notice, Bounteous Devas! - oblation, A&#347;vins! and our love, that ye, O Heroes, in the figh. May bring us safe to ample room.\np:Ye Twain to Bhujyu tossed about in ocean at the region's end, N&#257;satyas, with your winged sterds came nigh, and gave him strength to win.\np:Come with your joys, most liberal Devas, Lords of all treasures, bringing weal. Like fresh full waters to a well, so. Heroes come and be with us.",
-    "next": "10144",
-    "previous": "10142",
-    "book": "10"
+    "feecting": "p:YE made that Atri, worn with eld, free as a horse to win the goal.\np: When ye restored to youth and strength Kakṣīvān like a car renewed,\r\np:Ye freed that Atri like a horse, and brought him newly-born to Earth. Ye loosed him like a firm-tied knot which Devas unsoiled by dust had bound.\np:Heroes who showed most wondrous power to Atri, strive to win fair songs; For then, O Heroes of the sky, your hymn of praise shall cease no more.\np:This claims your notice, Bounteous Devas! - oblation, Aśvins! and our love, that ye, O Heroes, in the figh. May bring us safe to ample room.\np:Ye Twain to Bhujyu tossed about in ocean at the region's end, Nāsatyas, with your winged sterds came nigh, and gave him strength to win.\np:Come with your joys, most liberal Devas, Lords of all treasures, bringing weal. Like fresh full waters to a well, so. Heroes come and be with us.",
+    "meta": {
+      "next": "10144",
+      "previous": "10142",
+      "book": "10",
+      "source": "https://sacred-texts.com/hin/rigveda/rv10143.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv10143.htm"
+    },
+    "deities": [
+      {
+        "name": "O Heroes",
+        "hymns": [
+          {
+            "key": "10143",
+            "title": "HYMN CXLIII. Aśvins."
+          },
+          {
+            "key": "10143",
+            "title": "HYMN CXLIII. Aśvins."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638558195054,
-  "updated": 1638792008581
+  "updated": 1638830293230
 }

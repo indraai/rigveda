@@ -5,13 +5,47 @@
   "link": "hymns/01123.html",
   "api": "json/hymns/01123.json",
   "data": {
+    "key": "01123",
     "title": "HYMN CXXIII. Dawn.",
-    "describe": "THE Dak&#7779;",
-    "feecting": "p:THE Dak&#7779;i&#7751;&#257;'s broad chariot hath been harnessed: this car the Devas Immortal have ascended.\np: Fain to bring light to homes of men the noble and active Goddess hath emerged from darkness.\r\np:She before all the living world hath wakened, the Lofty One who wins and gathers treasure. Revived and ever young on high she glances. Dawn hath come first unto our morning worship.\np:If, Dawn, thou Devadess nobly born, thou dealest fortune this day to all the race of mortals, May Indra the Deva, Friend of the homestead, declare before the Sun that we are sinless.\np:Showing her wonted form each day that passeth, spreading the light she visiteth each dwelling. Eager for conquest, with bright sheen she cometh. Her portion is the best of goodly treasures.\np:Sister of Varu&#7751;a, sister of Bhaga, first among all sing forth, O joyous Morning. Weak be the strength of him who worketh evil. May we subdue him with our car the guerdon.\np:Let our glad hymns and holy thoughts rise upward, for the flames brightly burning have ascended. The far-refulgent Mornings make apparent the lovely treasures which the darkness covered.\np:The one departeth and the other cometh: unlike in hue day's, halves march on successive. One hides the gloom of the surrounding Parents. Dawn on her shining chariot is resplendent.\np:The same in form to-day, the same tomorrow, they still keep Varu&#7751;a's eternal statute. Blameless, in turn they traverse thirty regions, and dart across the spirit in a moment.\np:She who hath knowledge Of the first day's nature is born refulgent white from out the darkness. The Maiden breaketh not the law of Order, day by day coming to the place appointed.\np:In pride of beauty like a maid thou goest, O Goddess, to the Deva who longs to win thee, and smiling youthful, as thou shinest brightly, before him thou discoverest thy bosom.\np:Fair as a bride embellished by her mother thou showest forth thy form that al. May see it. Blessed art thou O Dawn. Shine yet more widely. No other Dawns have reached what thou attainest.\np:Rich in kine, horses, and all goodly treasures, in constant operation with the sunbeams, the Dawns depart and come again assuming their wonted forms that promise happy fortune.\np:Obedient to the rein of Law Eternal give us each thought that more and more shall bless us. Shine thou on us to-day, Dawn, swift to listen. With us be riches and with chiefs who worship.",
-    "next": "01124",
-    "previous": "01122",
-    "book": "01"
+    "describe": "THE Dakṣiṇā's broad chariot hath been harnessed: this car the Devas Immortal have ascended.",
+    "feecting": "p:THE Dakṣiṇā's broad chariot hath been harnessed: this car the Devas Immortal have ascended.\np: Fain to bring light to homes of men the noble and active Goddess hath emerged from darkness.\r\np:She before all the living world hath wakened, the Lofty One who wins and gathers treasure. Revived and ever young on high she glances. Dawn hath come first unto our morning worship.\np:If, Dawn, thou Devadess nobly born, thou dealest fortune this day to all the race of mortals, may Indra the Deva, Friend of the homestead, declare before the Sun that we are sinless.\np:Showing her wonted form each day that passeth, spreading the light she visiteth each dwelling. Eager for conquest, with bright sheen she cometh. Her portion is the best of goodly treasures.\np:Sister of Indra, sister of Bhaga, first among all sing forth, O joyous Morning. Weak be the strength of him who worketh evil. May we subdue him with our car the guerdon.\np:Let our glad hymns and holy thoughts rise upward, for the flames brightly burning have ascended. The far-refulgent Mornings make apparent the lovely treasures which the darkness covered.\np:The one departeth and the other cometh: unlike in hue day's, halves march on successive. One hides the gloom of the surrounding Parents. Dawn on her shining chariot is resplendent.\np:The same in form to-day, the same tomorrow, they still keep Indra's eternal statute. Blameless, in turn they traverse thirty regions, and dart across the spirit in a moment.\np:She who hath knowledge Of the first day's nature is born refulgent white from out the darkness. The Maiden breaketh not the law of Order, day by day coming to the place appointed.\np:In pride of beauty like a maid thou goest, O Goddess, to the Deva who longs to win thee, and smiling youthful, as thou shinest brightly, before him thou discoverest thy bosom.\np:Fair as a bride embellished by her mother thou showest forth thy form that al. May see it. Blessed art thou O Dawn. Shine yet more widely. No other Dawns have reached what thou attainest.\np:Rich in kine, horses, and all goodly treasures, in constant operation with the sunbeams, the Dawns depart and come again assuming their wonted forms that promise happy fortune.\np:Obedient to the rein of Law Eternal give us each thought that more and more shall bless us. Shine thou on us to-day, Dawn, swift to listen. With us be riches and with chiefs who worship.",
+    "meta": {
+      "next": "01124",
+      "previous": "01122",
+      "book": "01",
+      "source": "https://sacred-texts.com/hin/rigveda/rv01123.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv01123.htm"
+    },
+    "deities": [
+      {
+        "name": "O joyous",
+        "hymns": [
+          {
+            "key": "01123",
+            "title": "HYMN CXXIII. Dawn."
+          }
+        ]
+      },
+      {
+        "name": "O Goddess",
+        "hymns": [
+          {
+            "key": "01123",
+            "title": "HYMN CXXIII. Dawn."
+          }
+        ]
+      },
+      {
+        "name": "O Dawn",
+        "hymns": [
+          {
+            "key": "01123",
+            "title": "HYMN CXXIII. Dawn."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638553662226,
-  "updated": 1638792007437
+  "updated": 1638830291806
 }

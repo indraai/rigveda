@@ -5,13 +5,19 @@
   "link": "hymns/02022.html",
   "api": "json/hymns/02022.json",
   "data": {
+    "key": "02022",
     "title": "HYMN XXII. Indra.",
     "describe": "At the Trikadrukas the Great and Strong hath drunk drink blent with meal.",
-    "feecting": "p:At the Trikadrukas the Great and Strong hath drunk drink blent with meal. With Vi&#7779;&#7751;u hath he quaffed the poured out Soma juice, all that he would.\np: That hath so heightened him the Great, the Wide, to do his mighty work. May the Deva attain the Deva, true Indu Indra who is true.\r\np:So he resplendent in the battle overcame Krivi by might. He with his majesty hath filled the Earth and Heaven, and waxen strong. One share of the libation hath he swallowed down: one share he left. May the Deva attend the Deva, true Indu Indra who is true.\np:Brought forth together with wisdom and mighty power thou grewest great; with hero deeds subduing the malevolent, most swift in act; Giving prosperity, and lovely wealth to him who praiseth thee. May the Deva attend the Deva, true Indu Indra who is true.\np:This, Indra, was thy hero deed, Dancer, thy first and ancient work, worthy to be told forth in Heaven, what time thou sentest down life with a Deva's own power, freeing the floods. All that is godles. May he conquer with his might, and, Lord of Hundred Powers, find for us strength and food.",
-    "next": "02023",
-    "previous": "02021",
-    "book": "02"
+    "feecting": "p:At the Trikadrukas the Great and Strong hath drunk drink blent with meal. With Indra hath he quaffed the poured out Soma juice, all that he would.\np: That hath so heightened him the Great, the Wide, to do his mighty work. May the Deva attain the Deva, true Indu Indra who is true.\r\np:So he resplendent in the battle overcame Krivi by might. He with his majesty hath filled the Earth and Heaven, and waxen strong. One share of the libation hath he swallowed down: one share he left. May the Deva attend the Deva, true Indu Indra who is true.\np:Brought forth together with wisdom and mighty power thou grewest great; with hero deeds subduing the malevolent, most swift in act; Giving prosperity, and lovely wealth to him who praiseth thee. May the Deva attend the Deva, true Indu Indra who is true.\np:This, Indra, was thy hero deed, Dancer, thy first and ancient work, worthy to be told forth in Heaven, what time thou sentest down life with a Deva's own power, freeing the floods. All that is godles. May he conquer with his might, and, Lord of Hundred Powers, find for us strength and food.",
+    "meta": {
+      "next": "02023",
+      "previous": "02021",
+      "book": "02",
+      "source": "https://sacred-texts.com/hin/rigveda/rv02022.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv02022.htm"
+    },
+    "deities": []
   },
   "created": 1638554138739,
-  "updated": 1638792007546
+  "updated": 1638830291962
 }

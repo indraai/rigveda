@@ -5,13 +5,33 @@
   "link": "hymns/06058.html",
   "api": "json/hymns/06058.json",
   "data": {
-    "title": "HYMN LVIII. P&#363;&#7779;an.",
+    "key": "06058",
+    "title": "HYMN LVIII. Pūṣan.",
     "describe": "LIKE Heaven art thou: one form is bright, one holy, like Day and Night dissimilar in colour.",
-    "feecting": "p:LIKE Heaven art thou: one form is bright, one holy, like Day and Night dissimilar in colour.\np: All magic powers thou aidest, self-depen. dent! Auspicious be thy bounty here, O P&#363;&#7779;an.\r\np:Goat-borne, the guard of cattle, he whose home is strength, inspirer of the hymn, set over all the world; Brandishing here and there his lightly. moving goad, beholding every creature, P&#363;&#7779;an, Deva, goes forth.\np:O P&#363;&#7779;an, with thy golden ships that travel across the ocean, in the air's mid-region, Thou goest on an embassy to S&#363;rya, subdued by love, desirous of the glory.\np:Near kinsman of the Heaven and Earth is P&#363;&#7779;an, liberal, Lord of food, of wondrous iustre, whom strong and vigorous and swiftlymoving, subdued by love, the Deities gave to S&#363;rya.",
-    "next": "06059",
-    "previous": "06057",
-    "book": "06"
+    "feecting": "p:LIKE Heaven art thou: one form is bright, one holy, like Day and Night dissimilar in colour.\np: All magic powers thou aidest, self-depen. dent! Auspicious be thy bounty here, O Pūṣan.\r\np:Goat-borne, the guard of cattle, he whose home is strength, inspirer of the hymn, set over all the world; Brandishing here and there his lightly. moving goad, beholding every creature, Pūṣan, Deva, goes forth.\np:O Pūṣan, with thy golden ships that travel across the ocean, in the air's mid-region, Thou goest on an embassy to Sūrya, subdued by love, desirous of the glory.\np:Near kinsman of the Heaven and Earth is Pūṣan, liberal, Lord of food, of wondrous iustre, whom strong and vigorous and swiftlymoving, subdued by love, the Deities gave to Sūrya.",
+    "meta": {
+      "next": "06059",
+      "previous": "06057",
+      "book": "06",
+      "source": "https://sacred-texts.com/hin/rigveda/rv06058.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv06058.htm"
+    },
+    "deities": [
+      {
+        "name": "O Pūṣ",
+        "hymns": [
+          {
+            "key": "06058",
+            "title": "HYMN LVIII. Pūṣan."
+          },
+          {
+            "key": "06058",
+            "title": "HYMN LVIII. Pūṣan."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638555652221,
-  "updated": 1638792007919
+  "updated": 1638830292429
 }

@@ -5,13 +5,29 @@
   "link": "hymns/01132.html",
   "api": "json/hymns/01132.json",
   "data": {
+    "key": "01132",
     "title": "HYMN CXXXII. Indra.",
     "describe": "HELPED, Indra Indra, by thee in war of old.",
-    "feecting": "p:HELPED, Indra Indra, by thee in war of old. May we subdue in fight the men who strive with us, conquer the men who war with us.\np: This day that now is close at hand bless him who pours the Soma juice. In this our offerin. May we divide the spoil, showing our strength, the spoil of war.\r\np:In war which wins the light, at the free-giver's call, at due oblation of the early-rising one, oblation of the active one, Indra slew, even as we know&#151;whom each bowed head must reverence. May all thy bounteous gifts be gathered up for us, yea, the good gifts of thee the Good.\np:This food glows for thee as of old at offering, wherein they made thee chooser of the place, for thou choosest the place of offering. Speak thou and make it known to us: they see within with beams of light. Indra, indeed, is found a seeker after spoil, spoil-seeker for his own allies.\np:So now must thy great deed be lauded as of old, when for the A&#7749;girases thou openedst the stall, openedst, giving aid, the stall. In the same manner for us here fight thou and be victorious: To him who pours the juice give up the lawless man, the lawless who is wroth with us.\np:When with wise plan the Hero leads the people forth, they conquer in the ordered battle, seeking fame, press, eager, onward seeking fame. To him in time of need they sing for life with offspring and with strength. Their hymns with Indra find a welcome place of rest: the hymns go forward to the Devas.\np:Indra and Parvata, our champions in the fight, drive ye away each man who fain would war with us, drive him far from us with the bolt. Welcome to him concealed afar shall he the lair that he hath found. May the Render rend our foes on every side, rend them, O Hero, everywhere.",
-    "next": "01133",
-    "previous": "01131",
-    "book": "01"
+    "feecting": "p:HELPED, Indra Indra, by thee in war of old. May we subdue in fight the men who strive with us, conquer the men who war with us.\np: This day that now is close at hand bless him who pours the Soma juice. In this our offerin. May we divide the spoil, showing our strength, the spoil of war.\r\np:In war which wins the light, at the free-giver's call, at due oblation of the early-rising one, oblation of the active one, Indra slew, even as we know—whom each bowed head must reverence. May all thy bounteous gifts be gathered up for us, yea, the good gifts of thee the Good.\np:This food glows for thee as of old at offering, wherein they made thee chooser of the place, for thou choosest the place of offering. Speak thou and make it known to us: they see within with beams of light. Indra, indeed, is found a seeker after spoil, spoil-seeker for his own allies.\np:So now must thy great deed be lauded as of old, when for the Aṅgirases thou openedst the stall, openedst, giving aid, the stall. In the same manner for us here fight thou and be victorious: To him who pours the juice give up the lawless man, the lawless who is wroth with us.\np:When with wise plan the Hero leads the people forth, they conquer in the ordered battle, seeking fame, press, eager, onward seeking fame. To him in time of need they sing for life with offspring and with strength. Their hymns with Indra find a welcome place of rest: the hymns go forward to the Devas.\np:Indra and Parvata, our champions in the fight, drive ye away each man who fain would war with us, drive him far from us with the bolt. Welcome to him concealed afar shall he the lair that he hath found. May the Render rend our foes on every side, rend them, O Hero, everywhere.",
+    "meta": {
+      "next": "01133",
+      "previous": "01131",
+      "book": "01",
+      "source": "https://sacred-texts.com/hin/rigveda/rv01132.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv01132.htm"
+    },
+    "deities": [
+      {
+        "name": "O Hero",
+        "hymns": [
+          {
+            "key": "01132",
+            "title": "HYMN CXXXII. Indra."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638553709686,
-  "updated": 1638792007450
+  "updated": 1638830291826
 }

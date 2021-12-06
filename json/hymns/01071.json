@@ -5,13 +5,29 @@
   "link": "hymns/01071.html",
   "api": "json/hymns/01071.json",
   "data": {
+    "key": "01071",
     "title": "HYMN LXXI. Agni.",
     "describe": "LOVING the loving One, as wives their husband, the sisters of one home have urged him forward, Bright-coloured, even, as the cows love morning, dark, breaking forth to view, and redly beaming.",
-    "feecting": "p:LOVING the loving One, as wives their husband, the sisters of one home have urged him forward, Bright-coloured, even, as the cows love morning, dark, breaking forth to view, and redly beaming.\np:Our sires with lauds burst e&#146;en the firm-set fortress, yea, the A&#7749;girases, with roar, the mountain.\np: They made for us a way to reach high Heaven, they found us day, light, day's sign, beams of morning.\r\np:They stablished order, made his service fruitful; then parting them among the longing faithful, Not thirsting after aught, they come, most active, while with sweet food the race of Devas they strengthen.\np:Since M&#257;tari&#347;van, far-diffused, hath stirred him, and he in every house grown bright and noble. He, Bh&#7771;gu-like I hath gone as his companion, as on commission to a greater Sovran.\np:When man poured juice to Heaven, the mighty Father, he knew and freed himself from close embracement. The archer boldly shot at him his arrow, and the Deva threw his splendour on his Daughter.\np:Whoso, hath flames for thee within his dwelling, or brings the worship which thou lovest daily, Do thou of double might increase his substance. May he whom thou incitest meet with riches.\np:All sacrificial offerings wait on Agni as the Seven mighty Rivers seek the ocean. Not by our brethren was our food discovered: find with the Devas care for us, thou who knowest.\np:When light hath filled the Lord of men for increase, straight from the Heaven descends the limpid moisture. Agni hath brought to light and filled with spirit the youthful host blameless and well providing.\np:He who like thought goes swiftly on his journey, the Sun, alone is ever Lord of riches. The Kings with fair hands, Varu&#7751;a and Mitra, protect the precious nectar in our cattle.\np:O Agni, break not our ancestral friendship, Sage as thou art, endowed with deepest knowledge. Old age, like gathering cloud, impairs the body: before that evil be come nigh protect me.",
-    "next": "01072",
-    "previous": "01070",
-    "book": "01"
+    "feecting": "p:LOVING the loving One, as wives their husband, the sisters of one home have urged him forward, Bright-coloured, even, as the cows love morning, dark, breaking forth to view, and redly beaming.\np:Our sires with lauds burst e’en the firm-set fortress, yea, the Aṅgirases, with roar, the mountain.\np: They made for us a way to reach high Heaven, they found us day, light, day's sign, beams of morning.\r\np:They stablished order, made his service fruitful; then parting them among the longing faithful, Not thirsting after aught, they come, most active, while with sweet food the race of Devas they strengthen.\np:Since Mātariśvan, far-diffused, hath stirred him, and he in every house grown bright and noble. He, Bhṛgu-like I hath gone as his companion, as on commission to a greater Sovran.\np:When man poured juice to Heaven, the mighty Father, he knew and freed himself from close embracement. The archer boldly shot at him his arrow, and the Deva threw his splendour on his Daughter.\np:Whoso, hath flames for thee within his dwelling, or brings the worship which thou lovest daily, Do thou of double might increase his substance. May he whom thou incitest meet with riches.\np:All sacrificial offerings wait on Agni as the Seven mighty Rivers seek the ocean. Not by our brethren was our food discovered: find with the Devas care for us, thou who knowest.\np:When light hath filled the Lord of men for increase, straight from the Heaven descends the limpid moisture. Agni hath brought to light and filled with spirit the youthful host blameless and well providing.\np:He who like thought goes swiftly on his journey, the Sun, alone is ever Lord of riches. The Kings with fair hands, Indra and Mitra, protect the precious nectar in our cattle.\np:O Agni, break not our ancestral friendship, Sage as thou art, endowed with deepest knowledge. Old age, like gathering cloud, impairs the body: before that evil be come nigh protect me.",
+    "meta": {
+      "next": "01072",
+      "previous": "01070",
+      "book": "01",
+      "source": "https://sacred-texts.com/hin/rigveda/rv01071.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv01071.htm"
+    },
+    "deities": [
+      {
+        "name": "O Agni",
+        "hymns": [
+          {
+            "key": "01071",
+            "title": "HYMN LXXI. Agni."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638553387748,
-  "updated": 1638792007372
+  "updated": 1638830291692
 }

@@ -5,13 +5,47 @@
   "link": "hymns/07005.html",
   "api": "json/hymns/07005.json",
   "data": {
+    "key": "07005",
     "title": "HYMN V. Agni.",
-    "describe": "BRING forth your song of praise to mighty Agni, the speedy messenger of Earth and Heaven, Vai&#347;",
-    "feecting": "p:BRING forth your song of praise to mighty Agni, the speedy messenger of Earth and Heaven, Vai&#347;v&#257;nara, who, with those who wake, hath waxen great in the lap of all the Devas Immortal.\np:Sought in the heavens, on Earth is Agni stablished, leader of rivers, Bull of standing waters.\np: Vai&#347;v&#257;nara when he hath grown in glory, shines on the tribes of men with light and treasure.\r\np:For fear of thee forth fled the dark-hued races, scattered abroad, deserting their possessions, when, glowing, O Vai&#347;v&#257;nara, for P&#363;ru, thou Agni didst light up and rend their castles.\np:Agni Vai&#347;v&#257;nara, both Earth and Heaven submit them to thy threefold jurisdiction. Refulgent in thine undecaying lustre thou hast invested both the worlds with splendour.\np:Agni, the tawny horses, loudly neighing our resonant hymns that drop with oil, attend thee; Lord of the tribes, our Charioteer of riches, Ensign of days, Vai&#347;v&#257;nara of mornings.\np:In thee Devas seated the might of Aduras, for they loved thy spirit. Thou dravest Dasyus from their home, O Agni, and broughtest forth broad light to light the &#256;rya.\np:Born in the loftiest Heaven thou in a moment reachest, like wind, the place where Devas inhabit. Thou, favouring thine offspring, roaredst loudly when giving life to creatures, J&#257;tavedas.\np:Send us that strength, Vai&#347;v&#257;nara, send it, Agni, that strength, O J&#257;tavedas, full of splendour, Wherewith all-bounteous Deva, thou pourest riches, as fame wide-spreading on the man who offers.\np:Agni, bestow upon us that famous power, that wealth which feedeth many. Accordant with the Devas and the Somas, Agni, Vai&#347;v&#257;nara, give us sure protection.",
-    "next": "07006",
-    "previous": "07004",
-    "book": "07"
+    "describe": "BRING forth your song of praise to mighty Agni, the speedy messenger of Earth and Heaven who, with those who wake, hath waxen great in the lap of all the Devas Immortal.",
+    "feecting": "p:BRING forth your song of praise to mighty Agni, the speedy messenger of Earth and Heaven who, with those who wake, hath waxen great in the lap of all the Devas Immortal.\np:Sought in the heavens, on Earth is Agni stablished, leader of rivers, Bull of standing waters.\np: Vaiśvānara when he hath grown in glory, shines on the tribes of men with light and treasure.\r\np:For fear of thee forth fled the dark-hued races, scattered abroad, deserting their possessions, when, glowing, O Vaiśvānara, for Pūru, thou Agni didst light up and rend their castles.\np:Agni Vaiśvānara, both Earth and Heaven submit them to thy threefold jurisdiction. Refulgent in thine undecaying lustre thou hast invested both the worlds with splendour.\np:Agni, the tawny horses, loudly neighing our resonant hymns that drop with oil, attend thee; Lord of the tribes, our Charioteer of riches, Ensign of days, Vaiśvānara of mornings.\np:In thee Devas seated the might of Aduras, for they loved thy spirit. Thou dravest Dasyus from their home, O Agni, and broughtest forth broad light to light the Ārya.\np:Born in the loftiest Heaven thou in a moment reachest, like wind, the place where Devas inhabit. Thou, favouring thine offspring, roaredst loudly when giving life to creatures, Jātavedas.\np:Send us that strength send it, Agni, that strength, O Jātavedas, full of splendour, Wherewith all-bounteous Deva, thou pourest riches, as fame wide-spreading on the man who offers.\np:Agni, bestow upon us that famous power, that wealth which feedeth many. Accordant with the Devas and the Somas, Agni give us sure protection.",
+    "meta": {
+      "next": "07006",
+      "previous": "07004",
+      "book": "07",
+      "source": "https://sacred-texts.com/hin/rigveda/rv07005.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv07005.htm"
+    },
+    "deities": [
+      {
+        "name": "O Vai",
+        "hymns": [
+          {
+            "key": "07005",
+            "title": "HYMN V. Agni."
+          }
+        ]
+      },
+      {
+        "name": "O Agni",
+        "hymns": [
+          {
+            "key": "07005",
+            "title": "HYMN V. Agni."
+          }
+        ]
+      },
+      {
+        "name": "O Jātavedas",
+        "hymns": [
+          {
+            "key": "07005",
+            "title": "HYMN V. Agni."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638555768870,
-  "updated": 1638792007945
+  "updated": 1638830292476
 }

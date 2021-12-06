@@ -5,13 +5,19 @@
   "link": "hymns/04050.html",
   "api": "json/hymns/04050.json",
   "data": {
-    "title": "HYMN L. B&#7771;haspati.",
-    "describe": "Him who with might hath propped Earth's ends, who sitteth in threefold seat, with thunder, him of the pleasant tongue have ancient sages, deep-thinking, holy singers, set before them.",
-    "feecting": "p:Him who with might hath propped Earth's ends, who sitteth in threefold seat, with thunder, him of the pleasant tongue have ancient sages, deep-thinking, holy singers, set before them.\np:Wild in their course, in well-marked wise rejoicing were they, who pressed around us.\np: Preserve B&#7771;haspati, the stall uninjured, this company's raining, ever-moving birthplace.\r\np:B&#7771;haspati, from thy remotest distance have they sat down who love the law eternal. For thee were dug wells springing from the mountain, which murmuring round about pour streams of sweetness.\np:B&#7771;haspati, when first he had his being from mighty splendour in supremest Heaven, Strong, with his sevenfold mouth, with noise of thunder, with his seven rays, blew and dispersed the darkness.\np:With the loud-shouting band who sang his praises, with thunder, he conquered obstructive Vala. B&#7771;haspati thundering drave forth the cattle, the lowing cows who make oblations ready.\np:Serve we with offers, gifts, and homage even thus the Steer of all the Devas, the Father. B&#7771;haspati. May we be lords of riches, with noble progeny and store of heroes.\np:Surely that King by power and might heroic hath made him lord of all his foes' posses-ions, who cherishes B&#7771;haspati well-tended, adorns and worships him as foremost sharer.\np:In his own house he dwells in peace and comfort: to him forever holy food flows richly. To him the people with free will pay homage-the King with whom the Brahman hath precedence.\np:He, unopposed, is master of the riches of his own subjects and of hostile people. The Devas uphold that King with their protection who helps the Brahman when he seeks his favour.\np:Indra, rainers of treasure, rejoicing at this offering drink the Soma. Let the abundant drops sink deep within you: vouchsafe us riches with full store of heroes.\np:B&#7771;haspati and Indra, make us prospe. May this be your benevolence to us-ward. Assist our holy thoughts, wake up our spirit: weaken the hatred of our foe and rivals.",
-    "next": "04051",
-    "previous": "04049",
-    "book": "04"
+    "key": "04050",
+    "title": "HYMN L. Soma.",
+    "describe": "Him who with might hath propped Earth's ends, who sitteth in threefold seat, Soma, with thunder, him of the pleasant tongue have ancient sages, deep-thinking, holy singers, set before them.",
+    "feecting": "p:Him who with might hath propped Earth's ends, who sitteth in threefold seat, Soma, with thunder, him of the pleasant tongue have ancient sages, deep-thinking, holy singers, set before them.\np:Wild in their course, in well-marked wise rejoicing were they, Soma, who pressed around us.\np: Preserve Soma, the stall uninjured, this company's raining, ever-moving birthplace.\r\np:Soma, from thy remotest distance have they sat down who love the law eternal. For thee were dug wells springing from the mountain, which murmuring round about pour streams of sweetness.\np:Soma, when first he had his being from mighty splendour in supremest Heaven, Strong, with his sevenfold mouth, with noise of thunder, with his seven rays, blew and dispersed the darkness.\np:With the loud-shouting band who sang his praises, with thunder, he conquered obstructive Vala. Soma thundering drave forth the cattle, the lowing cows who make oblations ready.\np:Serve we with offers, gifts, and homage even thus the Steer of all the Devas, the Father. Soma. May we be lords of riches, with noble progeny and store of heroes.\np:Surely that King by power and might heroic hath made him lord of all his foes' posses-ions, who cherishes Soma well-tended, adorns and worships him as foremost sharer.\np:In his own house he dwells in peace and comfort: to him forever holy food flows richly. To him the people with free will pay homage-the King with whom the Brahman hath precedence.\np:He, unopposed, is master of the riches of his own subjects and of hostile people. The Devas uphold that King with their protection who helps the Brahman when he seeks his favour.\np:Indra, Soma, rainers of treasure, rejoicing at this offering drink the Soma. Let the abundant drops sink deep within you: vouchsafe us riches with full store of heroes.\np:Soma and Indra, make us prospe. May this be your benevolence to us-ward. Assist our holy thoughts, wake up our spirit: weaken the hatred of our foe and rivals.",
+    "meta": {
+      "next": "04051",
+      "previous": "04049",
+      "book": "04",
+      "source": "https://sacred-texts.com/hin/rigveda/rv04050.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv04050.htm"
+    },
+    "deities": []
   },
   "created": 1638554842003,
-  "updated": 1638792007734
+  "updated": 1638830292196
 }

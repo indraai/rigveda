@@ -5,13 +5,19 @@
   "link": "hymns/10181.html",
   "api": "json/hymns/10181.json",
   "data": {
-    "title": "HYMN CLXXXI. Vi&#347;vedevas.",
-    "describe": "VASI&#7778;",
-    "feecting": "p:VASI&#7778;&#7788;HA mastered the Rathantara, took it from radiant Dh&#257;tar, Indra, and Vi&#7779;&#7751;u, Oblation, portion of fourfold oblation, known by the names of Saprathas and Prathas.\np:These sages found what lay remote and hidden, the offering's loftiest secret essence.\np: From radiant Dh&#257;tar, Indra, and Vi&#7779;&#7751;u, from Agni, Bharadv&#257;ja brought the Brhat.\r\np:They found with mental eyes the earliest Yajus, a pathway to the Devas, that had descended. From radiant Dh&#257;tar, Indra, and Vi&#7779;&#7751;u, from S&#363;rya did these sages bring the Gharma.",
-    "next": "10182",
-    "previous": "10180",
-    "book": "10"
+    "key": "10181",
+    "title": "HYMN CLXXXI. Devas.",
+    "describe": "VASIṢṬHA mastered the Rathantara, took it from radiant Dhātar, Indra, and Indra, Oblation, portion of fourfold oblation, known by the names of Saprathas and Prathas.",
+    "feecting": "p:VASIṢṬHA mastered the Rathantara, took it from radiant Dhātar, Indra, and Indra, Oblation, portion of fourfold oblation, known by the names of Saprathas and Prathas.\np:These sages found what lay remote and hidden, the offering's loftiest secret essence.\np: From radiant Dhātar, Indra, and Indra, from Agni, Bharadvāja brought the Brhat.\r\np:They found with mental eyes the earliest Yajus, a pathway to the Devas, that had descended. From radiant Dhātar, Indra, and Indra, from Sūrya did these sages bring the Gharma.",
+    "meta": {
+      "next": "10182",
+      "previous": "10180",
+      "book": "10",
+      "source": "https://sacred-texts.com/hin/rigveda/rv10181.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv10181.htm"
+    },
+    "deities": []
   },
   "created": 1638558396530,
-  "updated": 1638792008612
+  "updated": 1638830293264
 }

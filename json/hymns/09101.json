@@ -5,13 +5,29 @@
   "link": "hymns/09101.html",
   "api": "json/hymns/09101.json",
   "data": {
+    "key": "09101",
     "title": "HYMN CI. Indu",
     "describe": "FOR first possession of your juice, for the exhilarating drink, Drive ye away the dog, my friends, drive ye the long-tongued dog away.",
-    "feecting": "p:FOR first possession of your juice, for the exhilarating drink, Drive ye away the dog, my friends, drive ye the long-tongued dog away.\np:He who with purifying stream, effused, comes flowing hitherward, indu, is like an able steed.\np:The men with all-pervading song send unassailable Soma forth, by pressing-stones, to offering.\np:The Somas, very rich in sweets, for which the sieve is destined, flow the source of Indra's joy. May your strong juices reach the Devas.\np:Indu flows on for Indra's sake: thus have the Deities declared.\np: The Lord of Speech exerts himself, Ruler of all, because of might.\r\np:Inciter of the voice of song, with thousand streams the ocean flows, Even Soma, Lord of opulence, the Friend of Indra, day by day.\np:As P&#363;&#7779;an, fortune, Bhaga, comes this Soma while they make him pure. He, Lord of the multitude, hath looked upon the Earth and Heaven.\np:The dear cows lowed in joyful mood together to the gladdening drink. The drops as they were purified, the juices, made then paths.\np:O Indu, bring the juice, the mightiest, worthy to be famed, Which the Five Tribes have over them, whereby we may win opulence.\np:For us the Soma juices flow, the drops best furtherers of our weal, Effused as friends without a spot, benevolent, finders of the light.\np:Effused by means of pressing-stones, upon the ox-hide visible, they, treasure-finders, have announced food unto us from every side.\np:Tlese Soma juices, skilled in song, purified, blent with milk and curd, when moving and when firmly laid in oil, resemble lovely Suns.\np:Let not the power of men restrain the voice of the outpouring juice: As Bh&#7771;gu's sons chased Makha, so drive ye the greedy hound away.\np:The Friend hath wrapped him in his robe, as in his parents arms, a son. He went, as lover to a dame, to take his station suitor-like.\np:That Hero who produces strength, he who hath propped both worlds apart, Gold-hued, hath wrapped him in the sieve, to settle, priest-like, in his place.\np:Soma upon the ox's skin through the sheep's wool flows purified. Bellowing out, the Tawny Steer goes on to Indra's special place.",
-    "next": "09102",
-    "previous": "09100",
-    "book": "09"
+    "feecting": "p:FOR first possession of your juice, for the exhilarating drink, Drive ye away the dog, my friends, drive ye the long-tongued dog away.\np:He who with purifying stream, effused, comes flowing hitherward, indu, is like an able steed.\np:The men with all-pervading song send unassailable Soma forth, by pressing-stones, to offering.\np:The Somas, very rich in sweets, for which the sieve is destined, flow the source of Indra's joy. May your strong juices reach the Devas.\np:Indu flows on for Indra's sake: thus have the Deities declared.\np: The Lord of Speech exerts himself, Ruler of all, because of might.\r\np:Inciter of the voice of song, with thousand streams the ocean flows, Even Soma, Lord of opulence, the Friend of Indra, day by day.\np:As Pūṣan, fortune, Bhaga, comes this Soma while they make him pure. He, Lord of the multitude, hath looked upon the Earth and Heaven.\np:The dear cows lowed in joyful mood together to the gladdening drink. The drops as they were purified, the juices, made then paths.\np:O Indu, bring the juice, the mightiest, worthy to be famed, Which the Five Tribes have over them, whereby we may win opulence.\np:For us the Soma juices flow, the drops best furtherers of our weal, Effused as friends without a spot, benevolent, finders of the light.\np:Effused by means of pressing-stones, upon the ox-hide visible, they, treasure-finders, have announced food unto us from every side.\np:Tlese Soma juices, skilled in song, purified, blent with milk and curd, when moving and when firmly laid in oil, resemble lovely Suns.\np:Let not the power of men restrain the voice of the outpouring juice: As Bhṛgu's sons chased Makha, so drive ye the greedy hound away.\np:The Friend hath wrapped him in his robe, as in his parents arms, a son. He went, as lover to a dame, to take his station suitor-like.\np:That Hero who produces strength, he who hath propped both worlds apart, Gold-hued, hath wrapped him in the sieve, to settle, priest-like, in his place.\np:Soma upon the ox's skin through the sheep's wool flows purified. Bellowing out, the Tawny Steer goes on to Indra's special place.",
+    "meta": {
+      "next": "09102",
+      "previous": "09100",
+      "book": "09",
+      "source": "https://sacred-texts.com/hin/rigveda/rv09101.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv09101.htm"
+    },
+    "deities": [
+      {
+        "name": "O Indu",
+        "hymns": [
+          {
+            "key": "09101",
+            "title": "HYMN CI. Indu"
+          }
+        ]
+      }
+    ]
   },
   "created": 1638557367723,
-  "updated": 1638792008306
+  "updated": 1638830292946
 }

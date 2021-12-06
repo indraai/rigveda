@@ -5,13 +5,29 @@
   "link": "hymns/05081.html",
   "api": "json/hymns/05081.json",
   "data": {
+    "key": "05081",
     "title": "HYMN LXXXI. Indra.",
     "describe": "THE monks of him the lofty Monk well-skilled in hymns harness their spirit, yea, harness their holy thoughts.",
-    "feecting": "p:THE monks of him the lofty Monk well-skilled in hymns harness their spirit, yea, harness their holy thoughts.\np: He only knowing works assigns their priestly tasks. Yea, lofty is the praise of Indra the Deva.\r\np:The Sapient One arrays himself in every form: for quadruped and biped he hath brought forth good. Excellent Indra hath looked on Heaven's high vault, and shineth after the outgoing of the Dawn.\np:Even he whose going-forth and majesty the other Deities have followed with their might. He who hath measured the terrestrial regions out by his great power, he is the Courser Indra.\np:To the three spheres of light thou goest, Indra, and with the rays of Sidrya thou combinest thee. Around, on both sides thou encompassest the night: yea art Mitra through thy righteous laws.\np:Over all generation thou art Lord alone: P&#363;&#7779;an art thou, in all thy goings-forth. Yea, thou hast domination over all this world. &#346;y&#257;v&#257;&#347;va hath brought praise to thee, O Indra,",
-    "next": "05082",
-    "previous": "05080",
-    "book": "05"
+    "feecting": "p:THE monks of him the lofty Monk well-skilled in hymns harness their spirit, yea, harness their holy thoughts.\np: He only knowing works assigns their priestly tasks. Yea, lofty is the praise of Indra the Deva.\r\np:The Sapient One arrays himself in every form: for quadruped and biped he hath brought forth good. Excellent Indra hath looked on Heaven's high vault, and shineth after the outgoing of the Dawn.\np:Even he whose going-forth and majesty the other Deities have followed with their might. He who hath measured the terrestrial regions out by his great power, he is the Courser Indra.\np:To the three spheres of light thou goest, Indra, and with the rays of Sidrya thou combinest thee. Around, on both sides thou encompassest the night: yea art Mitra through thy righteous laws.\np:Over all generation thou art Lord alone: Pūṣan art thou, in all thy goings-forth. Yea, thou hast domination over all this world. Śyāvāśva hath brought praise to thee, O Indra,",
+    "meta": {
+      "next": "05082",
+      "previous": "05080",
+      "book": "05",
+      "source": "https://sacred-texts.com/hin/rigveda/rv05081.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv05081.htm"
+    },
+    "deities": [
+      {
+        "name": "O Indra",
+        "hymns": [
+          {
+            "key": "05081",
+            "title": "HYMN LXXXI. Indra."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638555314732,
-  "updated": 1638792007840
+  "updated": 1638830292328
 }

@@ -5,13 +5,33 @@
   "link": "hymns/04029.html",
   "api": "json/hymns/04029.json",
   "data": {
+    "key": "04029",
     "title": "HYMN XXIX. Indra.",
-    "describe": "COME, lauded, unto us with powers and succours, O Indra, with thy Tawny Steeds;",
-    "feecting": "p:COME, lauded, unto us with powers and succours, O Indra, with thy Tawny Steeds; exulting, Past even the foeman's manifold libations, glorified with our hymns, true Wealth-bestower.\np:Man's Friend, to this our offering he cometh marking how he is called by Soma-pressers.\np: Fearless, and conscious that his Steeds are noble, he joyeth with the Soma-pouring heroes.\r\np:Make his cars hear, that h. May show his vigour an. May be joyful in the way he loveth. May mighty Indra pouring forth in bounty bestow on us good roads and perfect safety;\np:He who with succour comes to his implorer, the singer here who with his song invites him; He who himself sets to the pole swift Coursers, he who hath hundreds, thousands, Thunder-wielder.\np:O Indra Indra, by thee protecte. May we be thine, princes and monks and singers, Sharing the riches sent from lofty Heaven which yields much food, and all desire its bounty.",
-    "next": "04030",
-    "previous": "04028",
-    "book": "04"
+    "describe": "COME, lauded, unto us with powers and assists, O Indra, with thy Tawny Steeds;",
+    "feecting": "p:COME, lauded, unto us with powers and assists, O Indra, with thy Tawny Steeds; exulting, Past even the foeman's manifold libations, glorified with our hymns, true Wealth-bestower.\np:Man's Friend, to this our offering he cometh marking how he is called by Soma-pressers.\np: Fearless, and conscious that his Steeds are noble, he joyeth with the Soma-pouring heroes.\r\np:Make his cars hear, that h. May show his vigour an. May be joyful in the way he loveth. May mighty Indra pouring forth in bounty bestow on us good roads and perfect safety;\np:He who with assist comes to his implorer, the singer here who with his song invites him; He who himself sets to the pole swift Coursers, he who hath hundreds, thousands, Thunder-wielder.\np:O Indra Indra, by thee protecte. May we be thine, princes and monks and singers, Sharing the riches sent from lofty Heaven which yields much food, and all desire its bounty.",
+    "meta": {
+      "next": "04030",
+      "previous": "04028",
+      "book": "04",
+      "source": "https://sacred-texts.com/hin/rigveda/rv04029.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv04029.htm"
+    },
+    "deities": [
+      {
+        "name": "O Indra",
+        "hymns": [
+          {
+            "key": "04029",
+            "title": "HYMN XXIX. Indra."
+          },
+          {
+            "key": "04029",
+            "title": "HYMN XXIX. Indra."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638554731001,
-  "updated": 1638792007710
+  "updated": 1638830292163
 }

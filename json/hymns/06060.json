@@ -5,13 +5,60 @@
   "link": "hymns/06060.html",
   "api": "json/hymns/06060.json",
   "data": {
+    "key": "06060",
     "title": "HYMN LX. Indra-Agni.",
     "describe": "HE subdues the foe and wins the spoil who worships Indra and Agni, strong and mighty Heroes, who rule as Sovrans over ample riches, victorious, showing forth their power in conquest.",
-    "feecting": "p:HE subdues the foe and wins the spoil who worships Indra and Agni, strong and mighty Heroes, who rule as Sovrans over ample riches, victorious, showing forth their power in conquest.\np:So battle now, O Indra and thou, Agni, for cows and waters, sunlight, stolen Mornings.\np: Team-borne, thou makest kine thine own, O Agni: thou, Indra, light, Dawns, regions, wondrous waters.\r\np:With V&#7771;tra-subduing might, Indra and Agni, come, drawn by homage, O ye V&#7771;tra-slayers. Indra and Agni, show yourselves among us with your supreme and unrestricted bounties.\np:I call the Twain whose deeds of old have all been famed in ancient days O Indra-Agni, harm us not.\np:The Strong, the scatterers of the foe, Indra and Agni, we invoke; May they be kind to one like me.\np:They subdue our &#256;rya foes, these Lords of heroes, subdue our Dasyu foes And drive our enemies away.\np:Indra and Agni, these our songs of praise have sounded forth to you: Ye who bring blessings! drink the juice.\np:Come, Indra-Agni, with those teams, desired of many, which ye have, O Heroes, for the worshipper.\np:With those to this libation poured, ye Heroes, Indra-Agni, come: Come ye  juice.\np:Glorify him who compasses all forests with his glowing flame, and leaves them blackened with his tongue.\np:He who gains Indra's bliss with fire enkindled finds an easy way Over the floods to happiness.\np:Give us fleet coursers to convey Indra and Agni, and bestow Abundant strengthening food on us.\np:Indra and Agni, I will call you hither and make you joyful with the gifts I offer. Ye Twain are givers both of food and riches: to win me strength and vigour I invoke you.\np:Come unto us with riches, come with wealth in horses and in kine. Indra and Agni, we invoke you boths, as Friends for friendship, bringing bliss.\np:Indra and Agni, hear his call who worships. with libations poured. Come and enjoy the offerings, drink the sweetly-flavoured Soma juice.",
-    "next": "06061",
-    "previous": "06059",
-    "book": "06"
+    "feecting": "p:HE subdues the foe and wins the spoil who worships Indra and Agni, strong and mighty Heroes, who rule as Sovrans over ample riches, victorious, showing forth their power in conquest.\np:So battle now, O Indra and thou, Agni, for cows and waters, sunlight, stolen Mornings.\np: Team-borne, thou makest kine thine own, O Agni: thou, Indra, light, Dawns, regions, wondrous waters.\r\np:With Vṛtra-subduing might, Indra and Agni, come, drawn by homage, O ye Vṛtra-slayers. Indra and Agni, show yourselves among us with your supreme and unrestricted bounties.\np:I call the Twain whose deeds of old have all been famed in ancient days O Indra-Agni, harm us not.\np:The Strong, the scatterers of the foe, Indra and Agni, we invoke; May they be kind to one like me.\np:They subdue our Ārya foes, these Lords of heroes, subdue our Dasyu foes And drive our enemies away.\np:Indra and Agni, these our songs of praise have sounded forth to you: Ye who bring blessings! drink the juice.\np:Come, Indra-Agni, with those teams, desired of many, which ye have, O Heroes, for the worshipper.\np:With those to this libation poured, ye Heroes, Indra-Agni, come: Come ye  juice.\np:Glorify him who compasses all forests with his glowing flame, and leaves them blackened with his tongue.\np:He who gains Indra's bliss with fire enkindled finds an easy way Over the floods to happiness.\np:Give us fleet coursers to convey Indra and Agni, and bestow Abundant strengthening food on us.\np:Indra and Agni, I will call you hither and make you joyful with the gifts I offer. Ye Twain are givers both of food and riches: to win me strength and vigour I invoke you.\np:Come unto us with riches, come with wealth in horses and in kine. Indra and Agni, we invoke you boths, as Friends for friendship, bringing bliss.\np:Indra and Agni, hear his call who worships. with libations poured. Come and enjoy the offerings, drink the sweetly-flavoured Soma juice.",
+    "meta": {
+      "next": "06061",
+      "previous": "06059",
+      "book": "06",
+      "source": "https://sacred-texts.com/hin/rigveda/rv06060.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv06060.htm"
+    },
+    "deities": [
+      {
+        "name": "O Indra",
+        "hymns": [
+          {
+            "key": "06060",
+            "title": "HYMN LX. Indra-Agni."
+          },
+          {
+            "key": "06060",
+            "title": "HYMN LX. Indra-Agni."
+          }
+        ]
+      },
+      {
+        "name": "O Agni",
+        "hymns": [
+          {
+            "key": "06060",
+            "title": "HYMN LX. Indra-Agni."
+          }
+        ]
+      },
+      {
+        "name": "O ye ",
+        "hymns": [
+          {
+            "key": "06060",
+            "title": "HYMN LX. Indra-Agni."
+          }
+        ]
+      },
+      {
+        "name": "O Heroes",
+        "hymns": [
+          {
+            "key": "06060",
+            "title": "HYMN LX. Indra-Agni."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638555662737,
-  "updated": 1638792007921
+  "updated": 1638830292434
 }

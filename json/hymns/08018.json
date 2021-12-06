@@ -5,13 +5,64 @@
   "link": "hymns/08018.html",
   "api": "json/hymns/08018.json",
   "data": {
-    "title": "HYMN XVIII. &#256;dityas.",
-    "describe": "Now let the mortal offer prayer to win the unexampled grace of these &#256;",
-    "feecting": "p:Now let the mortal offer prayer to win the unexampled grace of these &#256;dityas and their aid to cherish life.\np:For not an enemy molests the paths which these &#256;dityas tread: Infallible guards, they strengthen us in happiness.\np:Now soo. May Bhaga, Indra, Varu&#7751;a, Mitra, Aryaman Give us the shelter widely spread which we implore.\np:With Devas come thou whose fostering care none checks, O Goddesss Aditi: Come, dear to many, with the Lords who guard us well.\np:For well these Sons of Aditi know to keep enmities aloof, Unrivalled, giving ample room, they save from woe.\np:Aditi guard our herd by day, Aditi, free from guile, by night, Aditi, ever strengthening, save us from grief!\np:And in the day our hymn is this: May Aditi come nigh to help, with loving-kindness bring us weal and chase our foes.\np:An. May the A&#347;vins, the divine Pair of Physicians, send us health: May they remove iniquity and chase our foes.\np:May Agni bless us with his fires, and S&#363;rya warm us pleasantly: May the pure Wind breathe sweet on us, and chase our foes.\np:Drive ye disease and strife away, drive ye away malignity: &#256;dityas, keep us ever far from sore distress.\np:Remove from us the arrow, keep famine, &#256;dityas! far away: Keep enmities afar from us, Lords of all wealth!\np:Now, O &#256;dityas, grant to us the shelter that lets man go free, Yea, even the sinner from his sin, ye Bounteous Devas 1\np:Whatever mortal with the powe r of demons fain would injure us, May he, impetuous, suffer harm by his own deeds.\np:May sin o&#146;ertake our human foe, the man who speaketh evil thing, him who would cause our misery, whose heart is false.\np:Devas, ye are with the simple ones, ye know each mortal in your hearts; Ye, Devas, well discriminate the false and true.\np:Fain would we have the sheltering aid of mountains and of water-floods: Keep far from us iniquity, O Heaven and Earth.\np:So with auspicious sheltering aid do ye, O Devas, carry us Beyond all trouble and distress, borne in your ship.\np:&#256;dityas, ye Most Mighty Ones, grant to our children and their seed Extended term of life that the, may live long days.\np:Offering, O &#256;dityas, is your inward monitor: be kind, for in the bond of kindred we are bound to you.\np:The Devas&#146; high protecting aid, the A&#347;vins, and the Deva who saves, Mitra and Varu&#7751;a for weal we supplicate.\np:Grant us a home with triple guard, Aryaman, Mitra, Varu&#7751;a! Unthreatened, Devas! meet for praise, and filled with men.\np:And as we human beings, O &#256;dityas, are akin to death, Graciously lengthen ye our lives that we may live.",
-    "next": "08019",
-    "previous": "08017",
-    "book": "08"
+    "key": "08018",
+    "title": "HYMN XVIII. Ādityas.",
+    "describe": "Now let the mortal offer prayer to win the unexampled grace of these Ādityas and their aid to cherish life.",
+    "feecting": "p:Now let the mortal offer prayer to win the unexampled grace of these Ādityas and their aid to cherish life.\np:For not an enemy molests the paths which these Ādityas tread: Infallible guards, they strengthen us in happiness.\np:Now soo. May Bhaga, Indra, Indra, Mitra, Aryaman Give us the shelter widely spread which we implore.\np:With Devas come thou whose fostering care none checks, O Goddesss Aditi: Come, dear to many, with the Lords who guard us well.\np:For well these Sons of Aditi know to keep enmities aloof, Unrivalled, giving ample room, they save from woe.\np:Aditi guard our herd by day, Aditi, free from guile, by night, Aditi, ever strengthening, save us from grief!\np:And in the day our hymn is this: May Aditi come nigh to help, with loving-kindness bring us weal and chase our foes.\np:An. May the Aśvins, the divine Pair of Physicians, send us health: May they remove iniquity and chase our foes.\np:May Agni bless us with his fires, and Sūrya warm us pleasantly: May the pure Wind breathe sweet on us, and chase our foes.\np:Drive ye disease and strife away, drive ye away malignity: Ādityas, keep us ever far from sore distress.\np:Remove from us the arrow, keep famine, Ādityas! far away: Keep enmities afar from us, Lords of all wealth!\np:Now, O Ādityas, grant to us the shelter that lets man go free, Yea, even the sinner from his sin, ye Bounteous Devas 1\np:Whatever mortal with the powe r of demons fain would injure us, may he, impetuous, suffer harm by his own deeds.\np:May sin o’ertake our human foe, the man who speaketh evil thing, him who would cause our misery, whose heart is false.\np:Devas, ye are with the simple ones, ye know each mortal in your hearts; Ye, Devas, well discriminate the false and true.\np:Fain would we have the sheltering aid of mountains and of water-floods: Keep far from us iniquity, O Heaven and Earth.\np:So with auspicious sheltering aid do ye, O Devas, carry us Beyond all trouble and distress, borne in your ship.\np:Ādityas, ye Most Mighty Ones, grant to our children and their seed Extended term of life that the, may live long days.\np:Offering, O Ādityas, is your inward monitor: be kind, for in the bond of kindred we are bound to you.\np:The Devas’ high protecting aid, the Aśvins, and the Deva who saves, Mitra and Indra for weal we supplicate.\np:Grant us a home with triple guard, Indra! Unthreatened, Devas! meet for praise, and filled with men.\np:And as we human beings, O Ādityas, are akin to death, Graciously lengthen ye our lives that we may live.",
+    "meta": {
+      "next": "08019",
+      "previous": "08017",
+      "book": "08",
+      "source": "https://sacred-texts.com/hin/rigveda/rv08018.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv08018.htm"
+    },
+    "deities": [
+      {
+        "name": "O Goddesss",
+        "hymns": [
+          {
+            "key": "08018",
+            "title": "HYMN XVIII. Ādityas."
+          }
+        ]
+      },
+      {
+        "name": "O Ādityas",
+        "hymns": [
+          {
+            "key": "08018",
+            "title": "HYMN XVIII. Ādityas."
+          },
+          {
+            "key": "08018",
+            "title": "HYMN XVIII. Ādityas."
+          },
+          {
+            "key": "08018",
+            "title": "HYMN XVIII. Ādityas."
+          }
+        ]
+      },
+      {
+        "name": "O Heaven",
+        "hymns": [
+          {
+            "key": "08018",
+            "title": "HYMN XVIII. Ādityas."
+          }
+        ]
+      },
+      {
+        "name": "O Devas",
+        "hymns": [
+          {
+            "key": "08018",
+            "title": "HYMN XVIII. Ādityas."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638556386432,
-  "updated": 1638792008078
+  "updated": 1638830292674
 }

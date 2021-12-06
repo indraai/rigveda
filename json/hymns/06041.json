@@ -5,13 +5,42 @@
   "link": "hymns/06041.html",
   "api": "json/hymns/06041.json",
   "data": {
+    "key": "06041",
     "title": "HYMN XLI. Indra.",
     "describe": "COME gracious to our offering, O Indra: pressed Soma-drops are purified to please thee.",
-    "feecting": "p:COME gracious to our offering, O Indra: pressed Soma-drops are purified to please thee.\np: As cattle seek their home, so Thunderwielder, come, Indra, first of those who claim our worship.\r\np:With that well-formed most wide-extending palate, wherewith thou ever drinkest streams of sweetness, Drink thou; the Adhvaryu standeth up before thee: let thy spoil-winning thunderbolt attend thee.\np:This drop, steer-strong and omniform, the Soma, hath been made ready for the Bull, for India. Drink this, Lord of the Bays, thou Strong Supporter, this that is thine of old, thy food forever.\np:Soma when pressed excels the unpressed Soma, better, for one who knows, to give him pleasure. Come to this offering of ours, O Victor replenish all thy powers with this libation.\np:We call on thee, O Indra: come thou hither: sufficient be the Soma for thy body. Rejoice thee, &#346;atakratu! in the juices guard us in wars, guard us among our people.  \n<div class=\"filenav\">",
-    "next": "06042",
-    "previous": "06040",
-    "book": "06"
+    "feecting": "p:COME gracious to our offering, O Indra: pressed Soma-drops are purified to please thee.\np: As cattle seek their home, so Thunderwielder, come, Indra, first of those who claim our worship.\r\np:With that well-formed most wide-extending palate, wherewith thou ever drinkest streams of sweetness, Drink thou; the Adhvaryu standeth up before thee: let thy spoil-winning thunderbolt attend thee.\np:This drop, steer-strong and omniform, the Soma, hath been made ready for the Bull, for India. Drink this, Lord of the Bays, thou Strong Supporter, this that is thine of old, thy food forever.\np:Soma when pressed excels the unpressed Soma, better, for one who knows, to give him pleasure. Come to this offering of ours, O Victor replenish all thy powers with this libation.\np:We call on thee, O Indra: come thou hither: sufficient be the Soma for thy body. Rejoice thee, Śatakratu! in the juices guard us in wars, guard us among our people.  \n<div class=\"filenav\">",
+    "meta": {
+      "next": "06042",
+      "previous": "06040",
+      "book": "06",
+      "source": "https://sacred-texts.com/hin/rigveda/rv06041.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv06041.htm"
+    },
+    "deities": [
+      {
+        "name": "O Indra",
+        "hymns": [
+          {
+            "key": "06041",
+            "title": "HYMN XLI. Indra."
+          },
+          {
+            "key": "06041",
+            "title": "HYMN XLI. Indra."
+          }
+        ]
+      },
+      {
+        "name": "O Victor",
+        "hymns": [
+          {
+            "key": "06041",
+            "title": "HYMN XLI. Indra."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638555562590,
-  "updated": 1638792007896
+  "updated": 1638830292397
 }

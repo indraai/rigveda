@@ -5,13 +5,51 @@
   "link": "hymns/06001.html",
   "api": "json/hymns/06001.json",
   "data": {
+    "key": "06001",
     "title": "HYMN I. Agni.",
     "describe": "THOU, first inventor of this prayer, O Agni, Worker of Marvels, hast become our Herald.",
     "feecting": "p:THOU, first inventor of this prayer, O Agni, Worker of Marvels, hast become our Herald.\np: Thou, Bull, hast made us strength which non. May conquer, strength that shall overcome all other prowess.\r\np:As Monk thou sattest at the seat of worship, furthering us, best offerer, meet for honour. So first to thee have pious men resorted, turning thy mind to thoughts of ample riches.\np:In thee, still watching, they have followed riches, who goest with much wealth as with an army, the radiant Agni, lofty, fair to look on, worshipped with marrow, evermore resplendent.\np:They who approached the Deva's abode with homage, eager for glory, won them perfect glory: Yea, they gained even sacrificial titles, and found delight in thine auspicious aspect.\np:On Earth the people magnify thee greatly, thee their celestial and terrestrial riches. Thou. Helper, must be known as our Preserver, Father and Mother of mankind forever.\np:Dear priest among mankind, adorable Agni hath seated him, joy-giver, skilled in worship. Let us approach thee shining in thy dwelling, kneeling upon our knees, with adoration.\np:Longing for bliss, pure-minded, Deva-devoted, Agni, we seek thee, such, meet to be lauded. Thou, Agni, leddest forth our men to battle, refulgent with the Heaven's exalted splendour.\np:Sage of mankind, all peoples' Lord and Master, the Bull of men, the sender down of blessings, Still pressing on, promoting, purifying, Agni the Holy One, the Lord of riches.\np:Agni, the mortal who hath toiled and worshipped, brought thee oblations with his kindled fuel, and well knows offering with adoration, gains every joy with thee to guard and help him.\np:Mightily let us worship thee the Mighty, with reverence, Agni! fuel and oblations, with songs, O Son of Strength, with hymns, with altar: s. May we strive for thine auspicious favour.\np:Thou who hast covered Heaven and Earth with splendour and with thy glories, glorious and triumphant. Continue thou to shine on us, O Agni, with strength abundant, rich, and lon enduring.\np:Vouchsafe us ever, as man needs, O Vasu, abundant wealth of kine for son and offspring. Food noble, plenteous, far from sin and evil, he with us, and fair fame to make us happy.\np:May I obtain much wealth in many places by love of thee and through thy grace, King Agni; For in thee Bounteous One, in thee the Sovran, Agni, are many boons for him who serves thee.",
-    "next": "06002",
-    "previous": "05087",
-    "book": "06"
+    "meta": {
+      "next": "06002",
+      "previous": "05087",
+      "book": "06",
+      "source": "https://sacred-texts.com/hin/rigveda/rv06001.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv06001.htm"
+    },
+    "deities": [
+      {
+        "name": "O Agni",
+        "hymns": [
+          {
+            "key": "06001",
+            "title": "HYMN I. Agni."
+          },
+          {
+            "key": "06001",
+            "title": "HYMN I. Agni."
+          }
+        ]
+      },
+      {
+        "name": "O Son",
+        "hymns": [
+          {
+            "key": "06001",
+            "title": "HYMN I. Agni."
+          }
+        ]
+      },
+      {
+        "name": "O Vasu",
+        "hymns": [
+          {
+            "key": "06001",
+            "title": "HYMN I. Agni."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638555351850,
-  "updated": 1638792007848
+  "updated": 1638830292338
 }

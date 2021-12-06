@@ -5,13 +5,33 @@
   "link": "hymns/03020.html",
   "api": "json/hymns/03020.json",
   "data": {
+    "key": "03020",
     "title": "HYMN XX Agni.",
-    "describe": "WITH lauds at break of morn the Monk invoketh Agni, Dawn, Dadhikr&#257;",
-    "feecting": "p:WITH lauds at break of morn the Monk invoketh Agni, Dawn, Dadhikr&#257;s, and both the A&#347;vins.\np: With one consent the Devas whose light is splendid, longing to taste our offering, shall hear us.\r\np:Three are thy powers, O Agni, three thy stations, three are thy tongues, yea, many, Child of Order! Three bodies hast thou which the Devas delight in: with these protect our hymns with care unceasing.\np:O Agni, many are the names thou bearest, immortal, Deva, Divine, and J&#257;tavedas. And many charms of charmers, All-Inspirer! have they laid in thee, Lord of true attendants!\np:Agni, like Bhaga, leads the godly people, he who is true to Law and guards the seasons. Ancient, all-knowing, he the V&#7771;tra-slayer shall bear the singer safe through every trouble.\np:I call on Indra the Deva, on Morning, and Dadhikr&#257;s, and Agni, On Varu&#7751;a and Mitra, on the A&#347;vins, Bhaga, the Devas, Somas and &#256;dityas.",
-    "next": "03021",
-    "previous": "03019",
-    "book": "03"
+    "describe": "WITH lauds at break of morn the Monk invoketh Agni, Dawn, Dadhikrās, and both the Aśvins.",
+    "feecting": "p:WITH lauds at break of morn the Monk invoketh Agni, Dawn, Dadhikrās, and both the Aśvins.\np: With one consent the Devas whose light is splendid, longing to taste our offering, shall hear us.\r\np:Three are thy powers, O Agni, three thy stations, three are thy tongues, yea, many, Child of Order! Three bodies hast thou which the Devas delight in: with these protect our hymns with care unceasing.\np:O Agni, many are the names thou bearest, immortal, Deva, Divine, and Jātavedas. And many charms of charmers, All-Inspirer! have they laid in thee, Lord of true attendants!\np:Agni, like Bhaga, leads the godly people, he who is true to Law and guards the seasons. Ancient, all-knowing, he shall bear the singer safe through every trouble.\np:I call on Indra the Deva, on Morning, Soma, and Dadhikrās, and Agni, On Indra and Mitra, on the Aśvins, Bhaga, the Devas, Somas and Ādityas.",
+    "meta": {
+      "next": "03021",
+      "previous": "03019",
+      "book": "03",
+      "source": "https://sacred-texts.com/hin/rigveda/rv03020.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv03020.htm"
+    },
+    "deities": [
+      {
+        "name": "O Agni",
+        "hymns": [
+          {
+            "key": "03020",
+            "title": "HYMN XX Agni."
+          },
+          {
+            "key": "03020",
+            "title": "HYMN XX Agni."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638554356041,
-  "updated": 1638792007605
+  "updated": 1638830292032
 }

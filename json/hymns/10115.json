@@ -5,13 +5,29 @@
   "link": "hymns/10115.html",
   "api": "json/hymns/10115.json",
   "data": {
+    "key": "10115",
     "title": "HYMN CXV. Agni.",
     "describe": "VERILY wondrous is the tender Youngling's growth who never draweth nigh to drink his Mothers' milk.",
-    "feecting": "p:VERILY wondrous is the tender Youngling's growth who never draweth nigh to drink his Mothers' milk.\np: As soon as she who hath no udder bore him, he, faring on his great errand, suddenly grew strong.\r\np:Then Agni was his name, most active to bestow, gathering up the trees with his consuming tooth; Skilled in fair offering, armed with destroying tongue, impetuous as a bull that snorteth in the mead.\np:Praise him, yourDeva who, bird-like, rests upon a tree, scattering drops of juice and pouring forth his flood, Speaking aloud with flame as with his lips a priest, and broadening his paths like one of high command.\np:Thou Everlasting, whom, far-striding fain to burn, the winds, uninterrupted, never overcome, they have approached, as warriors eager for the fight, heroic Trita, guiding him to gain his wish.\np:This Agni is the best of Ka&#7751;vas, Ka&#7751;vas' Friend, Conqueror of the foe whether afar or near. May Agni guard the singers, guard the princes well. May Agni grant to us our princes' gracious help.\np:Do thou, Supitrya, swiftly following, make thyself the lord of J&#257;tavedas, mightiest of all, who surely gives a boon even in thirsty land most powerful, prepared to aid us in the wilds.\np:Thus noble Agni with princes and mortal men is lauded, excellent for conquering strength with chiefs, Men who are well-disposed as friends and true to Law, even as the heavens in majesty surpass mankind.\np:O Son of Strength, Victorious, with this title Upastuta's most potent voice reveres thee. Blest with brave sons by thee we will extol thee, and lengthen out the days of our existence.\np:Thus, Agni, have the sons of Vrstihavya, the &#7770;&#7779;is, the Upastutas invoked thee. Protect them, guard the singers and the princes. With Va&#7779;a&#7789;! have they come, with hands uplifted, with their uplifted hands and cries of Glory!",
-    "next": "10116",
-    "previous": "10114",
-    "book": "10"
+    "feecting": "p:VERILY wondrous is the tender Youngling's growth who never draweth nigh to drink his Mothers' milk.\np: As soon as she who hath no udder bore him, he, faring on his great errand, suddenly grew strong.\r\np:Then Agni was his name, most active to bestow, gathering up the trees with his consuming tooth; Skilled in fair offering, armed with destroying tongue, impetuous as a bull that snorteth in the mead.\np:Praise him, yourDeva who, bird-like, rests upon a tree, scattering drops of juice and pouring forth his flood, Speaking aloud with flame as with his lips a priest, and broadening his paths like one of high command.\np:Thou Everlasting, whom, far-striding fain to burn, the winds, uninterrupted, never overcome, they have approached, as warriors eager for the fight, heroic Trita, guiding him to gain his wish.\np:This Agni is the best of Kaṇvas, Kaṇvas' Friend, Conqueror of the foe whether afar or near. May Agni guard the singers, guard the princes well. May Agni grant to us our princes' gracious help.\np:Do thou, Supitrya, swiftly following, make thyself the lord of Jātavedas, mightiest of all, who surely gives a boon even in thirsty land most powerful, prepared to aid us in the wilds.\np:Thus noble Agni with princes and mortal men is lauded, excellent for conquering strength with chiefs, Men who are well-disposed as friends and true to Law, even as the heavens in majesty surpass mankind.\np:O Son of Strength, Victorious, with this title Upastuta's most potent voice reveres thee. Blest with brave sons by thee we will extol thee, and lengthen out the days of our existence.\np:Thus, Agni, have the sons of Vrstihavya, the Ṛṣis, the Upastutas invoked thee. Protect them, guard the singers and the princes. With Vaṣaṭ! have they come, with hands uplifted, with their uplifted hands and cries of Glory!",
+    "meta": {
+      "next": "10116",
+      "previous": "10114",
+      "book": "10",
+      "source": "https://sacred-texts.com/hin/rigveda/rv10115.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv10115.htm"
+    },
+    "deities": [
+      {
+        "name": "O Son",
+        "hymns": [
+          {
+            "key": "10115",
+            "title": "HYMN CXV. Agni."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638558046693,
-  "updated": 1638792008552
+  "updated": 1638830293195
 }

@@ -5,13 +5,38 @@
   "link": "hymns/01075.html",
   "api": "json/hymns/01075.json",
   "data": {
+    "key": "01075",
     "title": "HYMN LXXV. Agni.",
     "describe": "ACCEPT our loudest-sounding hymn, food most delightful to the Devas, Pouring our offerings in thy mouth.",
-    "feecting": "p:ACCEPT our loudest-sounding hymn, food most delightful to the Devas, Pouring our offerings in thy mouth.\np:Now, Agni, will we say to thee, O wisest and best A&#7749;giras, Our precious, much-availing prayer.\np:Who, Agni, is thy kin, of men? who is thy worthy worshipper? On whom dependent? who art thou?\np:The kinsman, Agni, of mankind, their well beloved Friend art thou, a friend whom friend. May supplicate.\np:Bring to us Mitra, Varu&#7751;a, bring the Devas to mighty offering.\np: Bring them, O Agni, to thine home.",
-    "next": "01076",
-    "previous": "01074",
-    "book": "01"
+    "feecting": "p:ACCEPT our loudest-sounding hymn, food most delightful to the Devas, Pouring our offerings in thy mouth.\np:Now, Agni, will we say to thee, O wisest and best Aṅgiras, Our precious, much-availing prayer.\np:Who, Agni, is thy kin, of men? who is thy worthy worshipper? On whom dependent? who art thou?\np:The kinsman, Agni, of mankind, their well beloved Friend art thou, a friend whom friend. May supplicate.\np:Bring to us Mitra, Indra, bring the Devas to mighty offering.\np: Bring them, O Agni, to thine home.",
+    "meta": {
+      "next": "01076",
+      "previous": "01074",
+      "book": "01",
+      "source": "https://sacred-texts.com/hin/rigveda/rv01075.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv01075.htm"
+    },
+    "deities": [
+      {
+        "name": "O wisest",
+        "hymns": [
+          {
+            "key": "01075",
+            "title": "HYMN LXXV. Agni."
+          }
+        ]
+      },
+      {
+        "name": "O Agni",
+        "hymns": [
+          {
+            "key": "01075",
+            "title": "HYMN LXXV. Agni."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638553408783,
-  "updated": 1638792007376
+  "updated": 1638830291697
 }

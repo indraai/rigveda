@@ -5,13 +5,65 @@
   "link": "hymns/05040.html",
   "api": "json/hymns/05040.json",
   "data": {
-    "title": "HYMN XL. Indra. S&#363;rya. Atri.",
-    "describe": "COME thou to what the stones have pressed, drink Soma, O thou Soma's Lord, Indra best V&#7771;",
-    "feecting": "p:COME thou to what the stones have pressed, drink Soma, O thou Soma's Lord, Indra best V&#7771;tra-slayer Strong One, with the Strong.\np:Strong is the stone, the draught is strong, strong is this Soma that is pressed, Indra, best V&#7771;tra-slayer, Strong One with the Strong.\np:As strong I call on thee the Strong, O Thunder-armed, with various aids, Indra, best V&#7771;tra-slayer, Strong One with the Strong.\np:Impetuous, Thunderer, Strong, quelling the mighty, King, potent, V&#7771;tra-slayer, Soma-drinker, May he come hither with his yoked Bay Horses. May Indra gladden him at the noon libation.\np:O S&#363;rya, when the Devas's descendant Svarbhanu, pierced thee through and through with darkness, All creatures looked like one who is bewildered, who knoweth not the place where he is standing.\np:What time thou smotest down Svarbhanu's magic that spread itself beneath the sky, O Indra, by his fourth sacred prayer Atri disoovered S&#363;rya concealed in gloom that stayed his function.\np:Let not the oppressor with this dread, through anger swallow me up, for I am thine, O Atri.\np: Mitra art thou, the sender of true blessings: thou and King Varu&#7751;a be both my helpers.\r\np:The Brahman Atri, as he set the press-stones, serving the Devas with praise and adoration, Established in the Heaven the eye of S&#363;rya, and caused Svarbhanu's magic arts to vanish.\np:The Atris found the Sun again, him whom Svarbhanu of the brood Of Devass had pierced with gloom. This none besides had power to do.",
-    "next": "05041",
-    "previous": "05039",
-    "book": "05"
+    "key": "05040",
+    "title": "HYMN XL. Indra. Sūrya. Atri.",
+    "describe": "COME thou to what the stones have pressed, drink Soma, O thou Soma's Lord, Indra best Vṛtra-slayer Strong One, with the Strong.",
+    "feecting": "p:COME thou to what the stones have pressed, drink Soma, O thou Soma's Lord, Indra best Vṛtra-slayer Strong One, with the Strong.\np:Strong is the stone, the draught is strong, strong is this Soma that is pressed, Indra, best Vṛtra-slayer, Strong One with the Strong.\np:As strong I call on thee the Strong, O Thunder-armed, with various aids, Indra, best Vṛtra-slayer, Strong One with the Strong.\np:Impetuous, Thunderer, Strong, quelling the mighty, King, potent, Vṛtra-slayer, Soma-drinker, may he come hither with his yoked Bay Horses. May Indra gladden him at the noon libation.\np:O Sūrya, when the Devas's descendant Svarbhanu, pierced thee through and through with darkness, All creatures looked like one who is bewildered, who knoweth not the place where he is standing.\np:What time thou smotest down Svarbhanu's magic that spread itself beneath the sky, O Indra, by his fourth sacred prayer Atri disoovered Sūrya concealed in gloom that stayed his function.\np:Let not the oppressor with this dread, through anger swallow me up, for I am thine, O Atri.\np: Mitra art thou, the sender of true blessings: thou and King Indra be both my helpers.\r\np:The Brahman Atri, as he set the press-stones, serving the Devas with praise and adoration, Established in the Heaven the eye of Sūrya, and caused Svarbhanu's magic arts to vanish.\np:The Atris found the Sun again, him whom Svarbhanu of the brood Of Devass had pierced with gloom. This none besides had power to do.",
+    "meta": {
+      "next": "05041",
+      "previous": "05039",
+      "book": "05",
+      "source": "https://sacred-texts.com/hin/rigveda/rv05040.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv05040.htm"
+    },
+    "deities": [
+      {
+        "name": "O thou",
+        "hymns": [
+          {
+            "key": "05040",
+            "title": "HYMN XL. Indra. Sūrya. Atri."
+          }
+        ]
+      },
+      {
+        "name": "O Thunder",
+        "hymns": [
+          {
+            "key": "05040",
+            "title": "HYMN XL. Indra. Sūrya. Atri."
+          }
+        ]
+      },
+      {
+        "name": "O Sūrya",
+        "hymns": [
+          {
+            "key": "05040",
+            "title": "HYMN XL. Indra. Sūrya. Atri."
+          }
+        ]
+      },
+      {
+        "name": "O Indra",
+        "hymns": [
+          {
+            "key": "05040",
+            "title": "HYMN XL. Indra. Sūrya. Atri."
+          }
+        ]
+      },
+      {
+        "name": "O Atri",
+        "hymns": [
+          {
+            "key": "05040",
+            "title": "HYMN XL. Indra. Sūrya. Atri."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638555097239,
-  "updated": 1638792007792
+  "updated": 1638830292261
 }

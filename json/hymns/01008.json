@@ -5,13 +5,29 @@
   "link": "hymns/01008.html",
   "api": "json/hymns/01008.json",
   "data": {
+    "key": "01008",
     "title": "HYMN VIII. Indra.",
     "describe": "INDRA, bring wealth that gives delight, most excellent, to be our aid;",
     "feecting": "p:INDRA, bring wealth that gives delight, most excellent, to be our aid;\np:By means of which we may repel our foes in battle hand to hand, by thee assisted with the car.\np:Aided by thee, the thunder-armed, Indra, may we lift up the bolt, and conquer all our foes in fight.\np:With thee, O India, for ally with heroes. May we conquer our embattled foes.\np:Mighty is Indra, yea supreme; greatness be his, the Thunderer: Wide as the Heaven extends his power\np:Which aideth those to win them sons, who come as heroes to the fight, or singers loving holy thoughts.\np:His belly, like wide streams from the cope of Heaven.\np:So also is his excellence, great, vigorous, like a ripe branch to the worshipper.\np:For verily thy mighty powers, Indra, are saving helps at once unto a worshipper like me.\np:So are his lovely gifts; let lauds and praises be to Indra sung.",
-    "next": "01009",
-    "previous": "01007",
-    "book": "01"
+    "meta": {
+      "next": "01009",
+      "previous": "01007",
+      "book": "01",
+      "source": "https://sacred-texts.com/hin/rigveda/rv01008.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv01008.htm"
+    },
+    "deities": [
+      {
+        "name": "O India",
+        "hymns": [
+          {
+            "key": "01008",
+            "title": "HYMN VIII. Indra."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638553054422,
-  "updated": 1638792007282
+  "updated": 1638830291584
 }

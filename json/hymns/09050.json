@@ -5,13 +5,29 @@
   "link": "hymns/09050.html",
   "api": "json/hymns/09050.json",
   "data": {
+    "key": "09050",
     "title": "HYMN L. Indu.",
     "describe": "LOUD as a river's roaring wave thy powers have lifted up themselves: Urge on thine arrow's sharpened point.",
     "feecting": "p:LOUD as a river's roaring wave thy powers have lifted up themselves: Urge on thine arrow's sharpened point.\np:At thine effusion upward rise three voices full of joy, when thou Flowest upon the fleecy ridge.\np:On to the fleece they urge with stone the tawny well-beloved One, Indu, dropping meath.\np:Flow with thy current to the sieve, O Sage most powerful to cheer, to seat thee in the place of song.\np:Flow, most Exhilarating! flow anointed with the milk for balm, indu, for Indra, for his drink.",
-    "next": "09051",
-    "previous": "09049",
-    "book": "09"
+    "meta": {
+      "next": "09051",
+      "previous": "09049",
+      "book": "09",
+      "source": "https://sacred-texts.com/hin/rigveda/rv09050.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv09050.htm"
+    },
+    "deities": [
+      {
+        "name": "O Sage",
+        "hymns": [
+          {
+            "key": "09050",
+            "title": "HYMN L. Indu."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638557098808,
-  "updated": 1638792008240
+  "updated": 1638830292865
 }

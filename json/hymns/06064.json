@@ -5,13 +5,29 @@
   "link": "hymns/06064.html",
   "api": "json/hymns/06064.json",
   "data": {
+    "key": "06064",
     "title": "HYMN LXIV. Dawn.",
     "describe": "THE radiant Dawns have risen up for glory, in their white splendour like the waves of waters.",
     "feecting": "p:THE radiant Dawns have risen up for glory, in their white splendour like the waves of waters.\np: She maketh paths all easy, fair to travel, and, rich, hath shown herself benign and friendly.\r\np:We see that thou art good: far shines thy lustre; thy beams, thy splendours have flown up to Heaven. Decking thyself, thou makest bare thy bosom, shining in majesty, thou Devadess Morning.\np:Red are the kine and luminous that bear her the Blessed One who spreadeth through the distance. The foes she chaseth like a valiant archer, like a swift warrior she repelleth darkness.\np:Thy ways are easy on the hills: thou passest Invincible! Se1f-luminous! through waters. So lofty Goddess with thine ample pathway, Daughter of Heaven, bring wealth to give us comfort.\np:Dawn, bring me wealth: untroubled, with thine oxen thou bearest riches at thy will and pleasure; Thou who, a Goddess, Child of Heaven, hast shown thee lovely through bounty when we called thee early.\np:As the birds fly forth from their restingplaces, so men with store of food rise at thy dawning. Yea, to the liberal mortal who rernaineth at home, O Goddess Dawn, much good thou bringest.",
-    "next": "06065",
-    "previous": "06063",
-    "book": "06"
+    "meta": {
+      "next": "06065",
+      "previous": "06063",
+      "book": "06",
+      "source": "https://sacred-texts.com/hin/rigveda/rv06064.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv06064.htm"
+    },
+    "deities": [
+      {
+        "name": "O Goddess",
+        "hymns": [
+          {
+            "key": "06064",
+            "title": "HYMN LXIV. Dawn."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638555683995,
-  "updated": 1638792007925
+  "updated": 1638830292442
 }

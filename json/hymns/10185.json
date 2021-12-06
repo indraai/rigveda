@@ -5,13 +5,19 @@
   "link": "hymns/10185.html",
   "api": "json/hymns/10185.json",
   "data": {
+    "key": "10185",
     "title": "HYMN CLXXXV. Aditi.",
-    "describe": "GREAT, unassailable must he the heavenly favour of Three Devas, Varu&#7751;",
-    "feecting": "p:GREAT, unassailable must he the heavenly favour of Three Devas, Varu&#7751;a, Mitra, Aryaman.\np:O'er these, neither at home nor yet abroad or pathways that are Strange, the evil-minded foe hath power\np:Nor over him. the man on whom the Sons of Aditi bestow Eternal light that h. May live.",
-    "next": "10186",
-    "previous": "10184",
-    "book": "10"
+    "describe": "GREAT, unassailable must he the heavenly favour of Three Devas, Indra, Mitra, Aryaman.",
+    "feecting": "p:GREAT, unassailable must he the heavenly favour of Three Devas, Indra, Mitra, Aryaman.\np:O'er these, neither at home nor yet abroad or pathways that are Strange, the evil-minded foe hath power\np:Nor over him. the man on whom the Sons of Aditi bestow Eternal light that h. May live.",
+    "meta": {
+      "next": "10186",
+      "previous": "10184",
+      "book": "10",
+      "source": "https://sacred-texts.com/hin/rigveda/rv10185.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv10185.htm"
+    },
+    "deities": []
   },
   "created": 1638558418152,
-  "updated": 1638792008614
+  "updated": 1638830293268
 }

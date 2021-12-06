@@ -5,13 +5,29 @@
   "link": "hymns/08095.html",
   "api": "json/hymns/08095.json",
   "data": {
+    "key": "08095",
     "title": "HYMN III. Indra.",
-    "describe": "As with Manu Samvarani, Indra, thou drankest Soma juice, and, Indra, with Nipatithi, Medbyatithi, with Pustigu and Srustigu,&#151;",
-    "feecting": "p:As with Manu Samvarani, Indra, thou drankest Soma juice, and, Indra, with Nipatithi, Medbyatithi, with Pustigu and Srustigu,&#151;\np:T'he son of Prsadvana was Praskaniva's host, who lay decrepit and forlorn.\np: Aided by thee the &#7770;&#7779;i Dasyave-vrka strove to obtain thousands of kine.\r\np:Call hither with thy newest song Indra who lacks not hymns of praise, him who observes and knows, inspirer of the sage, him who seems eager to enjoy.\np:He unto whom they sang the seven-headed hymn, three-parted, in the loftiest place. He sent his thunder down on all these living things, and so displayed heroic might.\np:We invocate that Indra who bestoweth precious things on us. Now do we know his newest favour. May we gain a stable that is full of kine.\np:He whom thou aidest, gracious Lord, to give again, obtains great wealth to nourish him. We with our Soma ready, Lover of the Song! call, Indra Indra, on thee.\np:Ne&#146;er art thou fruitless, Indra ne&#146;er dost thou desert the worshipper But now, O Indra, thy bounty as a Deva is poured forth ever more and more.\np:He who hath. overtaken Krvi with his might, and silenced &#346;u&#7779;&#7751;a with deathbolts,&#151; When he supported yonder Heaven and spread it out, then first the son of Earth was born.\np:Good Lord of wealth is he to whom all &#256;ryas, D&#257;sas here belong. Directly unto thee, the pious Ru&#347;ama Paviru, is that wealth brought nigh.\np:In zealous haste the singers have sung forth a song distilling oil and rich in sweets. Riches have spread among us and heroic strength, with us are flowing Soma-drops.",
-    "next": "08096",
-    "previous": "08094",
-    "book": "08"
+    "describe": "As with Manu Samvarani, Indra, thou drankest Soma juice, and, Indra, with Nipatithi, Medbyatithi, with Pustigu and Srustigu.",
+    "feecting": "p:As with Manu Samvarani, Indra, thou drankest Soma juice, and, Indra, with Nipatithi, Medbyatithi, with Pustigu and Srustigu.\np:T'he son of Prsadvana was Praskaniva's host, who lay decrepit and forlorn.\np: Aided by thee the Ṛṣi Dasyave-vrka strove to obtain thousands of kine.\r\np:Call hither with thy newest song Indra who lacks not hymns of praise, him who observes and knows, inspirer of the sage, him who seems eager to enjoy.\np:He unto whom they sang the seven-headed hymn, three-parted, in the loftiest place. He sent his thunder down on all these living things, and so displayed heroic might.\np:We invocate that Indra who bestoweth precious things on us. Now do we know his newest favour. May we gain a stable that is full of kine.\np:He whom thou aidest, gracious Lord, to give again, obtains great wealth to nourish him. We with our Soma ready, Lover of the Song! call, Indra Indra, on thee.\np:Ne’er art thou fruitless, Indra ne’er dost thou desert the worshipper But now, O Indra, thy bounty as a Deva is poured forth ever more and more.\np:He who hath. overtaken Krvi with his might, and silenced Śuṣṇa with deathbolts. When he supported yonder Heaven and spread it out, then first the son of Earth was born.\np:Good Lord of wealth is he to whom all Āryas, Dāsas here belong. Directly unto thee, the pious Ruśama Paviru, is that wealth brought nigh.\np:In zealous haste the singers have sung forth a song distilling oil and rich in sweets. Riches have spread among us and heroic strength, with us are flowing Soma-drops.",
+    "meta": {
+      "next": "08096",
+      "previous": "08094",
+      "book": "08",
+      "source": "https://sacred-texts.com/hin/rigveda/rv08095.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv08095.htm"
+    },
+    "deities": [
+      {
+        "name": "O Indra",
+        "hymns": [
+          {
+            "key": "08095",
+            "title": "HYMN III. Indra."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638556792787,
-  "updated": 1638792008186
+  "updated": 1638830292809
 }

@@ -5,13 +5,29 @@
   "link": "hymns/09039.html",
   "api": "json/hymns/09039.json",
   "data": {
+    "key": "09039",
     "title": "HYMN XXXIX Indu.",
     "describe": "FLOW On, O thou of lofty thought, flow swift in thy beloved form, Saying, I go where dwell the Devas.",
     "feecting": "p:FLOW On, O thou of lofty thought, flow swift in thy beloved form, Saying, I go where dwell the Devas.\np:Preparing what is unprepared, and bringing store of food to man, make thou the rain descend from Heaven.\np:With might, bestowing power, thejuice enters the purifying sieve, Far-seeing, sending forth its light.\np:This is it which in rapid course hath with the river's wave flowed down From Heaven upon the straining cloth.\np:Inviting him frorh far away, and even from near at hand, the juice For Indra is poured forth as meath.\np:In union they have sung the hymn: with stones they urge the Tawny One.\np: Sit in the place of offering.",
-    "next": "09040",
-    "previous": "09038",
-    "book": "09"
+    "meta": {
+      "next": "09040",
+      "previous": "09038",
+      "book": "09",
+      "source": "https://sacred-texts.com/hin/rigveda/rv09039.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv09039.htm"
+    },
+    "deities": [
+      {
+        "name": "O thou",
+        "hymns": [
+          {
+            "key": "09039",
+            "title": "HYMN XXXIX Indu."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638557040913,
-  "updated": 1638792008231
+  "updated": 1638830292856
 }

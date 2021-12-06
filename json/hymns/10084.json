@@ -5,13 +5,77 @@
   "link": "hymns/10084.html",
   "api": "json/hymns/10084.json",
   "data": {
+    "key": "10084",
     "title": "HYMN LXXXIV. Manyu.",
     "describe": "BORNE on with thee, O Manyu girt by Devas, let our brave men, impetuous, bursting forward, March on, like flames of fire in form, exulting, with pointed arrows, sharpening their weapons.",
-    "feecting": "p:BORNE on with thee, O Manyu girt by Devas, let our brave men, impetuous, bursting forward, March on, like flames of fire in form, exulting, with pointed arrows, sharpening their weapons.\np:Flashing like fire, be thou, O conquering Manyu, invoked, O Victor, as our army's leader.\np: Slay thou our foes, distribute their possessions: show forth thy vigour, scatter those who hate us.\r\np:O Manyu, overcome thou our assailant on! breaking, subduing, crushing down the foemen. They have not hindered thine impetuous vigour: Mighty, Sole born! thou makest them thy subjects.\np:Alone or many thou art worshipped, Manyu: sharpen the spirit of each clan for battle. With thee to aid, O thou of perfect splendour, we will uplift the glorious shout for conquest.\np:Unyielding bringing victory like Indra, O Manyu, be thou here our Sovran Ruler. To thy dear name, O Victor, we sing praises: we know the spring from which thou art come hither.\np:Twin-born with power, destructive bolt of thunder, the highest conquering might is thine, Subduer! Be friendly to its in thy spirit, Manyu, O Much-invoked, in shock of mighty battle.\np:For spoil let Varu&#7751;a and Manyu give us the wealth of both sides gathered and collected; And let our enemies with stricken spirits, o&#146;erwhelmed with terror, slink away defeated.",
-    "next": "10085",
-    "previous": "10083",
-    "book": "10"
+    "feecting": "p:BORNE on with thee, O Manyu girt by Devas, let our brave men, impetuous, bursting forward, March on, like flames of fire in form, exulting, with pointed arrows, sharpening their weapons.\np:Flashing like fire, be thou, O conquering Manyu, invoked, O Victor, as our army's leader.\np: Slay thou our foes, distribute their possessions: show forth thy vigour, scatter those who hate us.\r\np:O Manyu, overcome thou our assailant on! breaking, subduing, crushing down the foemen. They have not hindered thine impetuous vigour: Mighty, Sole born! thou makest them thy subjects.\np:Alone or many thou art worshipped, Manyu: sharpen the spirit of each clan for battle. With thee to aid, O thou of perfect splendour, we will uplift the glorious shout for conquest.\np:Unyielding bringing victory like Indra, O Manyu, be thou here our Sovran Ruler. To thy dear name, O Victor, we sing praises: we know the spring from which thou art come hither.\np:Twin-born with power, destructive bolt of thunder, the highest conquering might is thine, Subduer! Be friendly to its in thy spirit, Manyu, O Much-invoked, in shock of mighty battle.\np:For spoil let Indra and Manyu give us the wealth of both sides gathered and collected; And let our enemies with stricken spirits, o’erwhelmed with terror, slink away defeated.",
+    "meta": {
+      "next": "10085",
+      "previous": "10083",
+      "book": "10",
+      "source": "https://sacred-texts.com/hin/rigveda/rv10084.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv10084.htm"
+    },
+    "deities": [
+      {
+        "name": "O Manyu",
+        "hymns": [
+          {
+            "key": "10084",
+            "title": "HYMN LXXXIV. Manyu."
+          },
+          {
+            "key": "10084",
+            "title": "HYMN LXXXIV. Manyu."
+          },
+          {
+            "key": "10084",
+            "title": "HYMN LXXXIV. Manyu."
+          }
+        ]
+      },
+      {
+        "name": "O conquering",
+        "hymns": [
+          {
+            "key": "10084",
+            "title": "HYMN LXXXIV. Manyu."
+          }
+        ]
+      },
+      {
+        "name": "O Victor",
+        "hymns": [
+          {
+            "key": "10084",
+            "title": "HYMN LXXXIV. Manyu."
+          },
+          {
+            "key": "10084",
+            "title": "HYMN LXXXIV. Manyu."
+          }
+        ]
+      },
+      {
+        "name": "O thou",
+        "hymns": [
+          {
+            "key": "10084",
+            "title": "HYMN LXXXIV. Manyu."
+          }
+        ]
+      },
+      {
+        "name": "O Much",
+        "hymns": [
+          {
+            "key": "10084",
+            "title": "HYMN LXXXIV. Manyu."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638557883229,
-  "updated": 1638792008502
+  "updated": 1638830293135
 }

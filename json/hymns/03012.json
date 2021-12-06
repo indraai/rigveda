@@ -5,13 +5,33 @@
   "link": "hymns/03012.html",
   "api": "json/hymns/03012.json",
   "data": {
+    "key": "03012",
     "title": "HYMN XII. Indra-Agni.",
     "describe": "MOVED, Indra-Agni, by our hymn, come to the juice, the precious dew: Drink ye thereof, impelled by song.",
-    "feecting": "p:MOVED, Indra-Agni, by our hymn, come to the juice, the precious dew: Drink ye thereof, impelled by song.\np:O Indra-Agni, with the man who lauds you comes the wakening rite: So drink ye both this juice assured.\np:Through force of offering I choose Indra-Agni who love the wise: With Soma let these sate them here.\np:Indra and Agni I invoke, joint-victors, bounteous, unsubdued, Foe-slayers, best to win the spoil.\np:Indra and Agni, singers skilled in melody hymn you, bringing lauds: I choose you for the sacred food.\np:Indra and Agni, ye cast down the ninety forts which D&#257;sas held, together, with one mighty deed.\np:To Indra-Agni reverent thoughts go forward from the holy task Along the path of sacred Law.\np:O Indra-Agni, powers are yours, and dwellings and delightful food Good is your readiness to act.\np:Indra and Agni, in your deeds of might ye deck Heaven's lucid realms: Famed is that hero strength of yours.",
-    "next": "03013",
-    "previous": "03011",
-    "book": "03"
+    "feecting": "p:MOVED, Indra-Agni, by our hymn, come to the juice, the precious dew: Drink ye thereof, impelled by song.\np:O Indra-Agni, with the man who lauds you comes the wakening rite: So drink ye both this juice assured.\np:Through force of offering I choose Indra-Agni who love the wise: With Soma let these sate them here.\np:Indra and Agni I invoke, joint-victors, bounteous, unsubdued, Foe-slayers, best to win the spoil.\np:Indra and Agni, singers skilled in melody hymn you, bringing lauds: I choose you for the sacred food.\np:Indra and Agni, ye cast down the ninety forts which Dāsas held, together, with one mighty deed.\np:To Indra-Agni reverent thoughts go forward from the holy task Along the path of sacred Law.\np:O Indra-Agni, powers are yours, and dwellings and delightful food Good is your readiness to act.\np:Indra and Agni, in your deeds of might ye deck Heaven's lucid realms: Famed is that hero strength of yours.",
+    "meta": {
+      "next": "03013",
+      "previous": "03011",
+      "book": "03",
+      "source": "https://sacred-texts.com/hin/rigveda/rv03012.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv03012.htm"
+    },
+    "deities": [
+      {
+        "name": "O Indra",
+        "hymns": [
+          {
+            "key": "03012",
+            "title": "HYMN XII. Indra-Agni."
+          },
+          {
+            "key": "03012",
+            "title": "HYMN XII. Indra-Agni."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638554313996,
-  "updated": 1638792007596
+  "updated": 1638830292022
 }

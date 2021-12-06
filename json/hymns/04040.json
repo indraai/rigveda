@@ -5,13 +5,19 @@
   "link": "hymns/04040.html",
   "api": "json/hymns/04040.json",
   "data": {
-    "title": "HYMN XL. Dadhikr&#257;van.",
-    "describe": "LET us recite the praise of Dadhikr&#257;",
-    "feecting": "p:LET us recite the praise of Dadhikr&#257;van. May all the Mornings move me to exertion; Praise of the Lord of Waters, Dawn, and Agni, B&#7771;haspati Son of A&#7749;giras, and S&#363;rya.\np:Brave, seeking war and booty, dwelling with the good and with the swift. May he hasten the food of Dawn.\np: May he the true, the fleet, the lover of the course, the bird-like Dadhikr&#257;van, bring food, strength, and light.\r\np:His pinion, rapid runner, fans him m his way, as of a bird that hastens onward to its aim, and, as it were a falcon's gliding through the air, strikes Dadhikr&#257;van's side as he speeds on with might.\np:Bound by the neck and by the flanks and by the mouth, the vigorous Courser lends new swiftness to his speed. Drawing himself together, as his strength allows, Dadhikr&#257;s springs along the windings of the paths.\np:The Ha&#7745;sa homed in light, the Vasu in mid-air, the Monk beside the altar, in the house the guest, Dweller in noblest place, mid men, in truth, in sky, born of flood, kine, truth, mountain, he is holy Law.",
-    "next": "04041",
-    "previous": "04039",
-    "book": "04"
+    "key": "04040",
+    "title": "HYMN XL. Dadhikrāvan.",
+    "describe": "LET us recite the praise of Dadhikrāvan.",
+    "feecting": "p:LET us recite the praise of Dadhikrāvan. May all the Mornings move me to exertion; Praise of the Lord of Waters, Dawn, and Agni, Soma Son of Aṅgiras, and Sūrya.\np:Brave, seeking war and booty, dwelling with the good and with the swift. May he hasten the food of Dawn.\np: May he the true, the fleet, the lover of the course, the bird-like Dadhikrāvan, bring food, strength, and light.\r\np:His pinion, rapid runner, fans him m his way, as of a bird that hastens onward to its aim, and, as it were a falcon's gliding through the air, strikes Dadhikrāvan's side as he speeds on with might.\np:Bound by the neck and by the flanks and by the mouth, the vigorous Courser lends new swiftness to his speed. Drawing himself together, as his strength allows, Dadhikrās springs along the windings of the paths.\np:The Haṁsa homed in light, the Vasu in mid-air, the Monk beside the altar, in the house the guest, Dweller in noblest place, mid men, in truth, in sky, born of flood, kine, truth, mountain, he is holy Law.",
+    "meta": {
+      "next": "04041",
+      "previous": "04039",
+      "book": "04",
+      "source": "https://sacred-texts.com/hin/rigveda/rv04040.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv04040.htm"
+    },
+    "deities": []
   },
   "created": 1638554788939,
-  "updated": 1638792007724
+  "updated": 1638830292182
 }

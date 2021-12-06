@@ -5,13 +5,19 @@
   "link": "hymns/10130.html",
   "api": "json/hymns/10130.json",
   "data": {
+    "key": "10130",
     "title": "HYMN CXXX. Creation.",
-    "describe": "THE offering drawn out with threads on every side, stretched by a hundred sacred ministers and one,&#151;",
-    "feecting": "p:THE offering drawn out with threads on every side, stretched by a hundred sacred ministers and one,&#151; This do these Fathers weave who hitherward are come: they sit beside the warp and cry, Weave forth, weave back.\np:The Man extends it and the Man unbinds it: even to this vault of Heaven hath he outspun, it.\np: These pegs are fastened to the seat of worship: they made the S&#257;ma-hymns their weaving shuttles.\r\np:What were the rule, the order and the model? What were the wooden fender and the butter? What were the hymn, the chant, the recitation, when to the Deva all Deities paid worship?\np:Closely was G&#257;yatr&#299; conjoined with Agni, and closely Indra combined with Usnih. Brilliant with Ukthas, Soma joined Anustup: B&#7771;haspati's voice by Brhati was aided.\np:Vir&#257;j adhered to Varu&#7751;a and Mitra: here Tri&#7779;&#7789;up day by day was Indra's portion. Jagat&#299; entered all the Devas together: so by this knowledge men were raised to &#7770;&#7779;is.\np:So by this knowledge men were raised to &#7770;&#7779;is, when ancient offering sprang up, our Fathers. With the mind's eye I think that I behold them who first performed this sacrificial worship.\np:They who were versed in ritual and metre, in hymns and rules, were the Seven Godlike &#7770;&#7779;is. Viewing the path of those of old, the sages have taken up the reins like chariot-drivers.",
-    "next": "10131",
-    "previous": "10129",
-    "book": "10"
+    "describe": "THE offering drawn out with threads on every side, stretched by a hundred sacred ministers and one.",
+    "feecting": "p:THE offering drawn out with threads on every side, stretched by a hundred sacred ministers and one. This do these Fathers weave who hitherward are come: they sit beside the warp and cry, Weave forth, weave back.\np:The Man extends it and the Man unbinds it: even to this vault of Heaven hath he outspun, it.\np: These pegs are fastened to the seat of worship: they made the Sāma-hymns their weaving shuttles.\r\np:What were the rule, the order and the model? What were the wooden fender and the butter? What were the hymn, the chant, the recitation, when to the Deva all Deities paid worship?\np:Closely was Gāyatrī conjoined with Agni, and closely Indra combined with Usnih. Brilliant with Ukthas, Soma joined Anustup: Soma's voice by Brhati was aided.\np:Virāj adhered to Indra and Mitra: here Triṣṭup day by day was Indra's portion. Jagatī entered all the Devas together: so by this knowledge men were raised to Ṛṣis.\np:So by this knowledge men were raised to Ṛṣis, when ancient offering sprang up, our Fathers. With the mind's eye I think that I behold them who first performed this sacrificial worship.\np:They who were versed in ritual and metre, in hymns and rules, were the Seven Godlike Ṛṣis. Viewing the path of those of old, the sages have taken up the reins like chariot-drivers.",
+    "meta": {
+      "next": "10131",
+      "previous": "10129",
+      "book": "10",
+      "source": "https://sacred-texts.com/hin/rigveda/rv10130.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv10130.htm"
+    },
+    "deities": []
   },
   "created": 1638558125939,
-  "updated": 1638792008568
+  "updated": 1638830293214
 }

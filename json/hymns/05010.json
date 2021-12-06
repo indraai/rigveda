@@ -5,13 +5,29 @@
   "link": "hymns/05010.html",
   "api": "json/hymns/05010.json",
   "data": {
+    "key": "05010",
     "title": "HYMN X. Agni.",
     "describe": "BRING us most mighty splendour thou, Agni, resistless on thy way.",
-    "feecting": "p:BRING us most mighty splendour thou, Agni, resistless on thy way.\np: With overflowing store of wealth mark out for us a path to strength.\r\np:Ours art thou, wondrous Agni, by wisdom and bounteousness of power. The might of Devass rests on thee, like Mitra worshipful in act.\np:Agni, increase our means of life, increase the house and home of these, the men, the princes who have won great riches through our hymns of praise.\np:Bright Agni, they who deck their songs for thee have horses as their meed. The men are mighty in their might, they whose high laud, as that of Heaven, awakes thee of its own accord.\np:O Agni, those resplendent flames of thine go valorously forth, like lightnings flashing round us, like a rattling car that seeks the spoil.\np:Now, Agni, come to succour us; let monks draw nigh to offer gifts; And let the patrons of our rites subdue all regions of the Earth.\np:Bring to us, Agni, A&#7749;giras, lauded of old and lauded now, invoker! wealth to quell the strong, that singer. May extol thee. Be near us in fight for our success.",
-    "next": "05011",
-    "previous": "05009",
-    "book": "05"
+    "feecting": "p:BRING us most mighty splendour thou, Agni, resistless on thy way.\np: With overflowing store of wealth mark out for us a path to strength.\r\np:Ours art thou, wondrous Agni, by wisdom and bounteousness of power. The might of Devass rests on thee, like Mitra worshipful in act.\np:Agni, increase our means of life, increase the house and home of these, the men, the princes who have won great riches through our hymns of praise.\np:Bright Agni, they who deck their songs for thee have horses as their meed. The men are mighty in their might, they whose high laud, as that of Heaven, awakes thee of its own accord.\np:O Agni, those resplendent flames of thine go valorously forth, like lightnings flashing round us, like a rattling car that seeks the spoil.\np:Now, Agni, come to assist us; let monks draw nigh to offer gifts; And let the patrons of our rites subdue all regions of the Earth.\np:Bring to us, Agni, Aṅgiras, lauded of old and lauded now, invoker! wealth to quell the strong, that singer. May extol thee. Be near us in fight for our success.",
+    "meta": {
+      "next": "05011",
+      "previous": "05009",
+      "book": "05",
+      "source": "https://sacred-texts.com/hin/rigveda/rv05010.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv05010.htm"
+    },
+    "deities": [
+      {
+        "name": "O Agni",
+        "hymns": [
+          {
+            "key": "05010",
+            "title": "HYMN X. Agni."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638554938017,
-  "updated": 1638792007756
+  "updated": 1638830292227
 }

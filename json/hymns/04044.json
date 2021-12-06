@@ -5,13 +5,51 @@
   "link": "hymns/04044.html",
   "api": "json/hymns/04044.json",
   "data": {
-    "title": "HYMN XLIV. A&#347;vins.",
-    "describe": "WE will invoke this day your car, far-spreading, O A&#347;",
-    "feecting": "p:WE will invoke this day your car, far-spreading, O A&#347;vins, even the gathering, of the sunlight,&#151; Car praised in hymns, most ample, rich in treasure, fitted with seats, the car that beareth S&#363;rya.\np:A&#347;vins, ye gained that glory by your Godhead, ye Sons of Heaven, by your own might and power.\np: Food followeth close upon your bright appearing when stately horses in your chariot draw you.\r\np:Who bringeth you to-day for help with offered oblation, or with hymns to drink the juices? Who, for the offering's ancient lover, turneth you hither, A&#347;vins, offering homage?\np:Borne on your golden car, ye omnipresent! come to this offering of ours, N&#257;satyas. Drink of the pleasant liquor of the Soma give riches to the people who adore you.\np:Come hitherward to us from Earth, from Heaven, borne on your golden chariot rolling lightly. Suffer not other worshippers to stay you here are ye bound by earlier bonds of friendship.\np:Now for us both, mete out, O Wonder-Workers, riches exceeding great with store of heroes, because the men have sent you praise, O A&#347;vins, and Ajam&#299;lhas come to the laudation.\np:Whene&#146;er I gratified you here together, your grace was given us, O ye rich in booty. Protect, ye Twain, the singer of your praises: to you, N&#257;satyas, is my wish directed.",
-    "next": "04045",
-    "previous": "04043",
-    "book": "04"
+    "key": "04044",
+    "title": "HYMN XLIV. Aśvins.",
+    "describe": "WE will invoke this day your car, far-spreading, O Aśvins, even the gathering, of the sunlight.",
+    "feecting": "p:WE will invoke this day your car, far-spreading, O Aśvins, even the gathering, of the sunlight. Car praised in hymns, most ample, rich in treasure, fitted with seats, the car that beareth Sūrya.\np:Aśvins, ye gained that glory by your Godhead, ye Sons of Heaven, by your own might and power.\np: Food followeth close upon your bright appearing when stately horses in your chariot draw you.\r\np:Who bringeth you to-day for help with offered oblation, or with hymns to drink the juices? Who, for the offering's ancient lover, turneth you hither, Aśvins, offering homage?\np:Borne on your golden car, ye omnipresent! come to this offering of ours, Nāsatyas. Drink of the pleasant liquor of the Soma give riches to the people who adore you.\np:Come hitherward to us from Earth, from Heaven, borne on your golden chariot rolling lightly. Suffer not other worshippers to stay you here are ye bound by earlier bonds of friendship.\np:Now for us both, mete out, O Wonder-Workers, riches exceeding great with store of heroes, because the men have sent you praise, O Aśvins, and Ajamīlhas come to the laudation.\np:Whene’er I gratified you here together, your grace was given us, O ye rich in booty. Protect, ye Twain, the singer of your praises: to you, Nāsatyas, is my wish directed.",
+    "meta": {
+      "next": "04045",
+      "previous": "04043",
+      "book": "04",
+      "source": "https://sacred-texts.com/hin/rigveda/rv04044.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv04044.htm"
+    },
+    "deities": [
+      {
+        "name": "O Aśvins",
+        "hymns": [
+          {
+            "key": "04044",
+            "title": "HYMN XLIV. Aśvins."
+          },
+          {
+            "key": "04044",
+            "title": "HYMN XLIV. Aśvins."
+          }
+        ]
+      },
+      {
+        "name": "O Wonder",
+        "hymns": [
+          {
+            "key": "04044",
+            "title": "HYMN XLIV. Aśvins."
+          }
+        ]
+      },
+      {
+        "name": "O ye ",
+        "hymns": [
+          {
+            "key": "04044",
+            "title": "HYMN XLIV. Aśvins."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638554810005,
-  "updated": 1638792007729
+  "updated": 1638830292188
 }

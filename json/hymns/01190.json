@@ -5,13 +5,19 @@
   "link": "hymns/01190.html",
   "api": "json/hymns/01190.json",
   "data": {
-    "title": "HYMN CXC. B&#7771;haspati.",
-    "describe": "GLORIFY thou B&#7771;",
-    "feecting": "p:GLORIFY thou B&#7771;haspati, the scatheless, who must be praised with hymns, sweet-tongued and mighty, to whom as leader of the song, resplendent, worthy of lauds, both Devas and mortals listen.\np:On him wait songs according to the season even as a stream of pious men set moving.\np: B&#7771;haspati&#151;for he laid out the expanses&#151;was, at the offering, vast M&#257;tari&#347;van.\r\np:The praise, the verse that offers adoration. May he bring forth, as the Sun sends his arms out. He who gives daily light through this Deva's wisdom, strong as a dread wild beast, and inoffensive.\np:His song of praise pervades the Earth and Heaven: let the wise worshipper draw it, like a courser. These of B&#7771;haspati, like hunters' arrows, go to the skies that change their hue like serpents.\np:Those, Deva, who count thee as a worthless bullock, and, wealthy sinners, live on thee the Bounteous,&#151; On fools like these no blessing thou bestowest: B&#7771;haspati, thou punishest the spiteful.\np:Like a fair path is he, where grass is pleasant, though hard to win, a friend beloved most early. Those who unharmed by enemies behold us, while they would make them bare, stood closely compassed.\np:He to whom songs of praise go forth like torrents, as rivers eddying under banks flow sea-ward&#151; B&#7771;haspati the wise, the eager, closely looks upon both, the waters and the vessel.\np:So hath B&#7771;haspati, great, strong and mighty exceeding powerful, been brought hither. May he thus lauded give to us. May we find strengthening food in full abundance.",
-    "next": "01191",
-    "previous": "01189",
-    "book": "01"
+    "key": "01190",
+    "title": "HYMN CXC. Soma.",
+    "describe": "GLORIFY thou Soma, the scatheless, who must be praised with hymns, sweet-tongued and mighty, to whom as leader of the song, resplendent, worthy of lauds, both Devas and mortals listen.",
+    "feecting": "p:GLORIFY thou Soma, the scatheless, who must be praised with hymns, sweet-tongued and mighty, to whom as leader of the song, resplendent, worthy of lauds, both Devas and mortals listen.\np:On him wait songs according to the season even as a stream of pious men set moving.\np: Soma—for he laid out the expanses—was, at the offering.\r\np:The praise, the verse that offers adoration. May he bring forth, as the Sun sends his arms out. He who gives daily light through this Deva's wisdom, strong as a dread wild beast, and inoffensive.\np:His song of praise pervades the Earth and Heaven: let the wise worshipper draw it, like a courser. These of Soma, like hunters' arrows, go to the skies that change their hue like serpents.\np:Those, Deva, who count thee as a worthless bullock, and, wealthy sinners, live on thee the Bounteous. On fools like these no blessing thou bestowest: Soma, thou punishest the spiteful.\np:Like a fair path is he, where grass is pleasant, though hard to win, a friend beloved most early. Those who unharmed by enemies behold us, while they would make them bare, stood closely compassed.\np:He to whom songs of praise go forth like torrents, as rivers eddying under banks flow sea-ward— Soma the wise, the eager, closely looks upon both, the waters and the vessel.\np:So hath Soma, great, strong and mighty exceeding powerful, been brought hither. May he thus lauded give to us. May we find strengthening food in full abundance.",
+    "meta": {
+      "next": "01191",
+      "previous": "01189",
+      "book": "01",
+      "source": "https://sacred-texts.com/hin/rigveda/rv01190.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv01190.htm"
+    },
+    "deities": []
   },
   "created": 1638554017122,
-  "updated": 1638792007518
+  "updated": 1638830291919
 }

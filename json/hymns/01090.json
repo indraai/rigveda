@@ -5,13 +5,19 @@
   "link": "hymns/01090.html",
   "api": "json/hymns/01090.json",
   "data": {
-    "title": "HYMN XC. Vi&#347;vedevas.",
-    "describe": "MAY Varu&#7751;",
-    "feecting": "p:MAY Varu&#7751;a with guidance straight, and Mitra lead us, he who knows, and Aryaman in accord with Devas.\np:For they are dealers forth of wealth, and, not deluded, with their might Guard evermore the holy laws.\np:Shelte. May they vouchsafe to us, Immortal Devas to mortal men, Chasing our enemies away.\np:May they mark out our paths to bliss, Indra, the Devas, P&#363;&#7779;an, and Bhagas to be adored.\np:Yea, P&#363;&#7779;an, Vi&#7779;&#7751;u, ye who run your course, enrich our hymns with kine; Bless us with all prosperity.\np:The winds waft sweets, the rivers pour sweets for the man who keeps the Law May the plants be sweet for us.\np:Sweet be the night and sweet the dawns, sweet the terrestrial atmosphere; Sweet be our Father Heaven to us.\np:May the tall tree be full of sweets for us, and full of sweets the Sun: May our milch-kine be sweet for us.\np:Be Mitra gracious unto us, and Varu&#7751;a and Aryaman: Indra, B&#7771;haspati be kind, and Vi&#7779;&#7751;u of the mighty stride.",
-    "next": "01091",
-    "previous": "01089",
-    "book": "01"
+    "key": "01090",
+    "title": "HYMN XC. Devas.",
+    "describe": "MAY Indra with guidance straight, and Mitra lead us, he who knows, and Aryaman in accord with Devas.",
+    "feecting": "p:MAY Indra with guidance straight, and Mitra lead us, he who knows, and Aryaman in accord with Devas.\np:For they are dealers forth of wealth, and, not deluded, with their might Guard evermore the holy laws.\np:Shelte. May they vouchsafe to us, Immortal Devas to mortal men, Chasing our enemies away.\np:May they mark out our paths to bliss, Indra, the Devas, Pūṣan, and Bhagas to be adored.\np:Yea, Pūṣan, Indra, ye who run your course, enrich our hymns with kine; Bless us with all prosperity.\np:The winds waft sweets, the rivers pour sweets for the man who keeps the Law May the plants be sweet for us.\np:Sweet be the night and sweet the dawns, sweet the terrestrial atmosphere; Sweet be our Father Heaven to us.\np:May the tall tree be full of sweets for us, and full of sweets the Sun: May our milch-kine be sweet for us.\np:Be Mitra gracious unto us, and Indra and Aryaman: Indra, Soma be kind, and Indra of the mighty stride.",
+    "meta": {
+      "next": "01091",
+      "previous": "01089",
+      "book": "01",
+      "source": "https://sacred-texts.com/hin/rigveda/rv01090.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv01090.htm"
+    },
+    "deities": []
   },
   "created": 1638553487775,
-  "updated": 1638792007393
+  "updated": 1638830291721
 }

@@ -5,13 +5,29 @@
   "link": "hymns/02020.html",
   "api": "json/hymns/02020.json",
   "data": {
+    "key": "02020",
     "title": "HYMN XX. Indra.",
-    "describe": "As one brings forth his car when fain for combat, so bring we power to thee&#151;",
-    "feecting": "p:As one brings forth his car when fain for combat, so bring we power to thee&#151;regard us, Indra&#151; Well skilled in song, thoughtful in spirit, seeking great bliss from one like thee amid the Heroes.\np:Indra, thou art our own with thy protection, a guardian near to men who love thee truly, Active art thou, the liberal man's defender, his who draws near to thee with right devotion.\np:May Indra, called with solemn invocations. the young, the Friend, be men's auspicious keeper, One who will further with his aid the singer, the toiler, praiser, dresser of oblations.\np:With laud and song let me extol that Indra in whom of old men prospered and were mighty.\np: May he, implored, fulfil the prayer for plenty of him who worships, of the living mortal.\r\np:He, Indra whom the A&#7749;girases' praise delighted, strengthened their prayer and made their goings prosper. Stealing away the mornings with the sunlight, he, lauded, crushed even A&#347;na's ancient powers.\np:He verily, the glorious Indra, hath raised him up for man, best Wonder-Worker. He, self-reliant, mighty and triumphant, brought low the dear head of the wicked D&#257;sa.\np:Indra the V&#7771;tra-slayer, scattered the D&#257;sa hosts who dwelt in darkness. For men hath he created Earth and waters, and ever helped the prayer of him who worships.\np:To him in might the Devas have ever yielded, to Indra in the tumult of the battle. When in his arms they laid the bolt, he slaughtered the Dasyus and cast down their forts of iron.\np:No. May that wealthy Cow of thine, O Indra, give in return a boon to him who lauds thee. Give to thy praisers: let not fortune fail us. Lou. May we speak, with heroes, in assembly.",
-    "next": "02021",
-    "previous": "02019",
-    "book": "02"
+    "describe": "As one brings forth his car when fain for combat, so bring we power to thee—regard us, Indra— Well skilled in song, thoughtful in spirit, seeking great bliss from one like thee amid the Heroes.",
+    "feecting": "p:As one brings forth his car when fain for combat, so bring we power to thee—regard us, Indra— Well skilled in song, thoughtful in spirit, seeking great bliss from one like thee amid the Heroes.\np:Indra, thou art our own with thy protection, a guardian near to men who love thee truly, Active art thou, the liberal man's defender, his who draws near to thee with right devotion.\np:May Indra, called with solemn invocations. the young, the Friend, be men's auspicious keeper, One who will further with his aid the singer, the toiler, praiser, dresser of oblations.\np:With laud and song let me extol that Indra in whom of old men prospered and were mighty.\np: May he, implored, fulfil the prayer for plenty of him who worships, of the living mortal.\r\np:He, Indra whom the Aṅgirases' praise delighted, strengthened their prayer and made their goings prosper. Stealing away the mornings with the sunlight, he, lauded, crushed even Aśna's ancient powers.\np:He verily, the glorious Indra, hath raised him up for man, best Wonder-Worker. He, self-reliant, mighty and triumphant, brought low the dear head of the wicked Dāsa.\np:Indra, scattered the Dāsa hosts who dwelt in darkness. For men hath he created Earth and waters, and ever helped the prayer of him who worships.\np:To him in might the Devas have ever yielded, to Indra in the tumult of the battle. When in his arms they laid the bolt, he slaughtered the Dasyus and cast down their forts of iron.\np:No. May that wealthy Cow of thine, O Indra, give in return a boon to him who lauds thee. Give to thy praisers: let not fortune fail us. Lou. May we speak, with heroes, in assembly.",
+    "meta": {
+      "next": "02021",
+      "previous": "02019",
+      "book": "02",
+      "source": "https://sacred-texts.com/hin/rigveda/rv02020.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv02020.htm"
+    },
+    "deities": [
+      {
+        "name": "O Indra",
+        "hymns": [
+          {
+            "key": "02020",
+            "title": "HYMN XX. Indra."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638554128191,
-  "updated": 1638792007544
+  "updated": 1638830291957
 }

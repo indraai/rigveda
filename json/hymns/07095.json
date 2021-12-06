@@ -5,13 +5,29 @@
   "link": "hymns/07095.html",
   "api": "json/hymns/07095.json",
   "data": {
-    "title": "HYMN XCV. Sarasvat&#299;.",
-    "describe": "THIS stream Sarasvat&#299;",
-    "feecting": "p:THIS stream Sarasvat&#299; with fostering current comes forth, our sure defence, our fort of iron.\np: As on a car, the flood flows on, surpassing in majesty and might all other waters.\r\np:Pure in her course from mountains to the ocean, alone of streams Sarasvat&#299; hath listened. Thinking of wealth and the great world of creatures, she poured for Nahu&#7779;a her milk and fatness.\np:Friendly to man he grew among the women, a strong young Steer amid the Holy Ladies. He gives the fleet steed to our wealthy princes, and decks their bodies for success in battle.\np:May this Sarasvat&#299; be pleased and listen at this our offering, auspicious Lady, when we with reverence, on our knees, implore her close-knit to wealth, most kind to those she loveth.\np:These offerings have ye made with adoration: say this, Sarasvat&#299;, and accept our praises; And, placing us under thy dear protection. May we approach thee, as a tree, for shelter.\np:For thee, O Blest Sarasvat&#299;, Vasi&#7779;&#7789;ha hath here unbarred the doors d sacred Order. Wax, Bright One, and give strength to him who lauds thee. Preserve us evermore, ye Devas, with blessings.",
-    "next": "07096",
-    "previous": "07094",
-    "book": "07"
+    "key": "07095",
+    "title": "HYMN XCV. Sarasvatī.",
+    "describe": "THIS stream Sarasvatī with fostering current comes forth, our sure defence, our fort of iron.",
+    "feecting": "p:THIS stream Sarasvatī with fostering current comes forth, our sure defence, our fort of iron.\np: As on a car, the flood flows on, surpassing in majesty and might all other waters.\r\np:Pure in her course from mountains to the ocean, alone of streams Sarasvatī hath listened. Thinking of wealth and the great world of creatures, she poured for Nahuṣa her milk and fatness.\np:Friendly to man he grew among the women, a strong young Steer amid the Holy Ladies. He gives the fleet steed to our wealthy princes, and decks their bodies for success in battle.\np:May this Sarasvatī be pleased and listen at this our offering, auspicious Lady, when we with reverence, on our knees, implore her close-knit to wealth, most kind to those she loveth.\np:These offerings have ye made with adoration: say this, Sarasvatī, and accept our praises; And, placing us under thy dear protection. May we approach thee, as a tree, for shelter.\np:For thee, O Blest Sarasvatī, Vasiṣṭha hath here unbarred the doors d sacred Order. Wax, Bright One, and give strength to him who lauds thee. Preserve us evermore, ye Devas, with blessings.",
+    "meta": {
+      "next": "07096",
+      "previous": "07094",
+      "book": "07",
+      "source": "https://sacred-texts.com/hin/rigveda/rv07095.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv07095.htm"
+    },
+    "deities": [
+      {
+        "name": "O Blest",
+        "hymns": [
+          {
+            "key": "07095",
+            "title": "HYMN XCV. Sarasvatī."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638556243916,
-  "updated": 1638792008036
+  "updated": 1638830292621
 }

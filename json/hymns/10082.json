@@ -5,13 +5,19 @@
   "link": "hymns/10082.html",
   "api": "json/hymns/10082.json",
   "data": {
+    "key": "10082",
     "title": "HYMN LXXXII. Visvakarman.",
     "describe": "THE Father of the eye, the Wise in spirit, created both these worlds submerged in fatness.",
-    "feecting": "p:THE Father of the eye, the Wise in spirit, created both these worlds submerged in fatness.\np: Then when the eastern ends were firmly fastened, the heavens and the Earth were far extended.\r\np:Mighty in mind and power is Visvakarman, maker, Disposer, and most lofty Presence. Their offerings joy in rich juice where they value One, only One, beyond the Seven &#7770;&#7779;is.\np:Father who made us, he who, as Disposer, knoweth all races and all things existing, Even he alone, the Deities' narne-giver,him other beings seek for information.\np:To him in offerings they offered treasures,&#151;&#7770;&#7779;is of old, in numerous troops, as singers, who, in the distant, near, and lower region, made ready all these things that have existence.\np:That which is earlier than this Earth and Heaven, before the Devass and Devas had being,&#151; What was the germ primeval which the waters received where all the Devas were seen together?\np:The waters, they received that germ primeval wherein the Devas were gathefed all together. It rested set upon the Unborn's navel, that One wherein abide all things existing.\np:Ye will not find him who produced these creatures: another thing hath risen up among you. Enwrapt in misty cloud, with lips that stammer, hymn-chanters wander and are discontented.",
-    "next": "10083",
-    "previous": "10081",
-    "book": "10"
+    "feecting": "p:THE Father of the eye, the Wise in spirit, created both these worlds submerged in fatness.\np: Then when the eastern ends were firmly fastened, the heavens and the Earth were far extended.\r\np:Mighty in mind and power is Visvakarman, maker, Disposer, and most lofty Presence. Their offerings joy in rich juice where they value One, only One, beyond the Seven Ṛṣis.\np:Father who made us, he who, as Disposer, knoweth all races and all things existing, Even he alone, the Deities' narne-giver,him other beings seek for information.\np:To him in offerings they offered treasures.Ṛṣis of old, in numerous troops, as singers, who, in the distant, near, and lower region, made ready all these things that have existence.\np:That which is earlier than this Earth and Heaven, before the Devass and Devas had being. What was the germ primeval which the waters received where all the Devas were seen together?\np:The waters, they received that germ primeval wherein the Devas were gathefed all together. It rested set upon the Unborn's navel, that One wherein abide all things existing.\np:Ye will not find him who produced these creatures: another thing hath risen up among you. Enwrapt in misty cloud, with lips that stammer, hymn-chanters wander and are discontented.",
+    "meta": {
+      "next": "10083",
+      "previous": "10081",
+      "book": "10",
+      "source": "https://sacred-texts.com/hin/rigveda/rv10082.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv10082.htm"
+    },
+    "deities": []
   },
   "created": 1638557872670,
-  "updated": 1638792008500
+  "updated": 1638830293132
 }

@@ -5,13 +5,19 @@
   "link": "hymns/10176.html",
   "api": "json/hymns/10176.json",
   "data": {
+    "key": "10176",
     "title": "HYMN CLXXVI. Agni.",
-    "describe": "WITH hymns of praise their sons have told aloud the &#7770;",
-    "feecting": "p:WITH hymns of praise their sons have told aloud the &#7770;bhus' mighty deeds.\np: Who, all-supporting, have enjoyed the Earth as, twere a mother cow.\r\np:Bring forth the Deva with song divine, being J&#257;tavedas hitherward, to bear our gifts at once to Heaven.\np:He here, a Deva-devoted Monk, led forward comes to offering. Like a car covered for the road, he, glowing, knows, himself, the way.\np:This Agni rescues from distress, as &#146;twere from the Immortal Race, a God yet mightier than strength, a Deva who hath been made for life.",
-    "next": "10177",
-    "previous": "10175",
-    "book": "10"
+    "describe": "WITH hymns of praise their sons have told aloud the Ṛbhus' mighty deeds.",
+    "feecting": "p:WITH hymns of praise their sons have told aloud the Ṛbhus' mighty deeds.\np: Who, all-supporting, have enjoyed the Earth as, twere a mother cow.\r\np:Bring forth the Deva with song divine, being Jātavedas hitherward, to bear our gifts at once to Heaven.\np:He here, a Deva-devoted Monk, led forward comes to offering. Like a car covered for the road, he, glowing, knows, himself, the way.\np:This Agni rescues from distress, as ’twere from the Immortal Race, a God yet mightier than strength, a Deva who hath been made for life.",
+    "meta": {
+      "next": "10177",
+      "previous": "10175",
+      "book": "10",
+      "source": "https://sacred-texts.com/hin/rigveda/rv10176.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv10176.htm"
+    },
+    "deities": []
   },
   "created": 1638558369889,
-  "updated": 1638792008608
+  "updated": 1638830293261
 }

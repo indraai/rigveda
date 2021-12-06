@@ -5,13 +5,29 @@
   "link": "hymns/09005.html",
   "api": "json/hymns/09005.json",
   "data": {
-    "title": "HYMN V &#256;pr&#299;s.",
+    "key": "09005",
+    "title": "HYMN V Indu.",
     "describe": "ENKINDLED, indu, Lord, sends forth his light on every side In friendly show, the bellowing Bull.",
-    "feecting": "p:ENKINDLED, indu, Lord, sends forth his light on every side In friendly show, the bellowing Bull.\np:He, indu, self-produced, speeds onward sharpening his horns: He glitters through the Firmament.\np:Brilliant like wealth, adorable, with splendour Indu shines, Mightily with the streams of meath.\np:The tawny Indu, who strews from of old the grass with might, is honored, Deva amid the Devas.\np:The golden, the Celestial Doors are lifted with their frames on high, by Indu glorified.\np:With passion Indu longs for the great lofty pair, well-formed like Night and Dawn\np:Both Devas who look on men I call, Celestial Heralds, Indra's Self is Indu.\np:This, indu's offering, shall the three beauteous Goddesses, Sarasvat&#299; and Bh&#257;rat&#299; and I&#7735;&#257;, Mighty One, attend.\np:1 summon Tva&#7779;&#7789;ar hither, our protector, champion earliest-born, indu is Indra, indu is Praj&#257;pati.\np:O Indu, the ever-green, the golden-hued, refulgent, with a thousand boughs.\np:Come to the consecrating rite of Indu, all ye Devas,&#151; V&#257;yu, S&#363;rya, Indra, and Agni, in accord.",
-    "next": "09006",
-    "previous": "09004",
-    "book": "09"
+    "feecting": "p:ENKINDLED, indu, Lord, sends forth his light on every side In friendly show, the bellowing Bull.\np:He, indu, self-produced, speeds onward sharpening his horns: He glitters through the Firmament.\np:Brilliant like wealth, adorable, with splendour Indu shines, Mightily with the streams of meath.\np:The tawny Indu, who strews from of old the grass with might, is honored, Deva amid the Devas.\np:The golden, the Celestial Doors are lifted with their frames on high, by Indu glorified.\np:With passion Indu longs for the great lofty pair, well-formed like Night and Dawn\np:Both Devas who look on men I call, Celestial Heralds, Indra's Self is Indu.\np:This, indu's offering, shall the  attend.\np: Indu is Indra.\np:O Indu, the ever-green, the golden-hued, refulgent, with a thousand boughs.\np:Come to the consecrating rite of Indu, all ye Devas. Soma, Indra, and Agni in accord.",
+    "meta": {
+      "next": "09006",
+      "previous": "09004",
+      "book": "09",
+      "source": "https://sacred-texts.com/hin/rigveda/rv09005.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv09005.htm"
+    },
+    "deities": [
+      {
+        "name": "O Indu",
+        "hymns": [
+          {
+            "key": "09005",
+            "title": "HYMN V Indu."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638556861471,
-  "updated": 1638792008202
+  "updated": 1638830292822
 }

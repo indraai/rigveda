@@ -5,13 +5,51 @@
   "link": "hymns/07031.html",
   "api": "json/hymns/07031.json",
   "data": {
+    "key": "07031",
     "title": "HYMN XXXI. Indra.",
     "describe": "SING ye a song, to make him glad, to Indra, Lord of Tawny Steeds, Soma, O my friends.",
-    "feecting": "p:SING ye a song, to make him glad, to Indra, Lord of Tawny Steeds, Soma, O my friends.\np:To him the Bounteous say the laud, and let us glorify, as men May do, the Giver of true gifts.\np:O Indra, Lord of boundless might, for us thou winnest strength and kine, Thou winnest gold for us, Good Lord.\np:Faithful to thee we loudly sing, heroic Indra, songs to thee: Mark, O Good Lord, this act of ours.\np:Give us not up to man's reproach, to foeman's hateful calumny: In thee alone is all my strength.\np:Thou art mine ample coat of mail, my Champion, V&#7771;tra-Slayer, thou: With thee for Friend I brave the foe.\np:Yea, great art thou whose conquering might two independent Powers confess.\np: The Heaven, O India, and the Earth.\r\np:So let the voice surround thee, which attends the Devas on their way, Reaching thee with the rays of light.\np:Let the ascending drops attain to thee, the Wondrous Deva, in Heaven: Let all the folk bow down to thee.\np:Bring to the Wise, the Great, who waxeth mighty, your offerings, and make ready your devotion; To many clans he goeth, man's controller.\np:For Indra, the sublime, the far-pervading, have singers generated prayer and praises: The sages never violate his statutes.\np:The choirs have stablished Indra King forever, for victory, him whose anger is resistless: And, for the Bays' Lord, strengthened those he loveth.",
-    "next": "07032",
-    "previous": "07030",
-    "book": "07"
+    "feecting": "p:SING ye a song, to make him glad, to Indra, Lord of Tawny Steeds, Soma, O my friends.\np:To him the Bounteous say the laud, and let us glorify, as men May do, the Giver of true gifts.\np:O Indra, Lord of boundless might, for us thou winnest strength and kine, Thou winnest gold for us, Good Lord.\np:Faithful to thee we loudly sing, heroic Indra, songs to thee: Mark, O Indra, this act of ours.\np:Give us not up to man's reproach, to foeman's hateful calumny: In thee alone is all my strength.\np:Thou art mine ample coat of mail, my Champion, Vṛtra-Slayer, thou: With thee for Friend I brave the foe.\np:Yea, great art thou whose conquering might two independent Powers confess.\np: The Heaven, O India, and the Earth.\r\np:So let the voice surround thee, which attends the Devas on their way, Reaching thee with the rays of light.\np:Let the ascending drops attain to thee, the Wondrous Deva, in Heaven: Let all the folk bow down to thee.\np:Bring to the Wise, the Great, who waxeth mighty, your offerings, and make ready your devotion; To many clans he goeth, man's controller.\np:For Indra, the sublime, the far-pervading, have singers generated prayer and praises: The sages never violate his statutes.\np:The choirs have stablished Indra King forever, for victory, him whose anger is resistless: And, for the Bays' Lord, strengthened those he loveth.",
+    "meta": {
+      "next": "07032",
+      "previous": "07030",
+      "book": "07",
+      "source": "https://sacred-texts.com/hin/rigveda/rv07031.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv07031.htm"
+    },
+    "deities": [
+      {
+        "name": "O my ",
+        "hymns": [
+          {
+            "key": "07031",
+            "title": "HYMN XXXI. Indra."
+          }
+        ]
+      },
+      {
+        "name": "O Indra",
+        "hymns": [
+          {
+            "key": "07031",
+            "title": "HYMN XXXI. Indra."
+          },
+          {
+            "key": "07031",
+            "title": "HYMN XXXI. Indra."
+          }
+        ]
+      },
+      {
+        "name": "O India",
+        "hymns": [
+          {
+            "key": "07031",
+            "title": "HYMN XXXI. Indra."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638555906064,
-  "updated": 1638792007970
+  "updated": 1638830292527
 }

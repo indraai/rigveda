@@ -5,13 +5,29 @@
   "link": "hymns/10141.html",
   "api": "json/hymns/10141.json",
   "data": {
-    "title": "HYMN CXLI. Vi&#347;vedevas.",
+    "key": "10141",
+    "title": "HYMN CXLI. Devas.",
     "describe": "TURN hither, Agni, speak to us: come to us with a gracious mind.",
-    "feecting": "p:TURN hither, Agni, speak to us: come to us with a gracious mind.\np: Enrich us, Master of the house: thou art the Giver of our wealth.\r\np:Let Aryarnan vouchsafe us wealth, and Bhaga, and B&#7771;haspati. Let the Devas give their gifts, and let S&#363;n&#7771;t&#257;, Goddess, grant us wealth.\np:We call King Soma to our aid, and Agni with our songs and hymns, &#256;dityas, Vi&#7779;&#7751;u, S&#363;rya, and the Brahman Monk B&#7771;haspati.\np:Indra, V&#257;yu, Devas swift to listen, we invoke, that in the synod all the fol. May be benevolent to us.\np:Urge Aryaman to send us gifts, and Indra, and B&#7771;haspati, V&#257;ta, Vi&#7779;&#7751;u, Sarasvat&#299; and the Strong Courser Indra.\np:Do thou, O Agni, with thy fires strengthen our meditation and offering: Urge givers to bestow their wealth to aid our service of the Devas.",
-    "next": "10142",
-    "previous": "10140",
-    "book": "10"
+    "feecting": "p:TURN hither, Agni, speak to us: come to us with a gracious mind.\np: Enrich us, Master of the house: thou art the Giver of our wealth.\r\np:Let Aryarnan vouchsafe us wealth, and Bhaga, and Soma. Let the Devas give their gifts, and let Sūnṛtā, Goddess, grant us wealth.\np:We call King Soma to our aid, and Agni with our songs and hymns Devas Indra, Sūrya, and the Brahman Monk Soma.\np:Indra, Soma, Soma, Devas swift to listen, we invoke, that in the synod all the fol. May be benevolent to us.\np:Urge Aryaman to send us gifts, and Indra, and Soma, Vāta, Indra, Sarasvatī and the Strong Courser Indra.\np:Do thou, O Agni, with thy fires strengthen our meditation and offering: Urge givers to bestow their wealth to aid our service of the Devas.",
+    "meta": {
+      "next": "10142",
+      "previous": "10140",
+      "book": "10",
+      "source": "https://sacred-texts.com/hin/rigveda/rv10141.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv10141.htm"
+    },
+    "deities": [
+      {
+        "name": "O Agni",
+        "hymns": [
+          {
+            "key": "10141",
+            "title": "HYMN CXLI. Devas."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638558184550,
-  "updated": 1638792008579
+  "updated": 1638830293227
 }

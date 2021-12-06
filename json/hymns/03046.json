@@ -5,13 +5,29 @@
   "link": "hymns/03046.html",
   "api": "json/hymns/03046.json",
   "data": {
+    "key": "03046",
     "title": "HYMN XLVI. Indra.",
     "describe": "OF thee, the Bull, the Warrior, Sovran Ruler, joyous and fierce, ancient and ever youthful, the undecaying One who wields the thunder, renowned and great, great are the exploits, Indra.",
     "feecting": "p:OF thee, the Bull, the Warrior, Sovran Ruler, joyous and fierce, ancient and ever youthful, the undecaying One who wields the thunder, renowned and great, great are the exploits, Indra.\np:Great art thou, Mighty Lord, through manly vigour, O fierce One, gathering spoil, subduing others, Thyself alone the universe's Sovran: so send forth men to combat and to rest them.\np:He hath surpassed all measure in his brightness, yea, and the Devas, for non. May be his equal.\np: Impetuous Indra in his might cxccedcth wide vast mid-air and Heaven and Earth together.\r\np:To Indra, even as rivers to the ocean, flow forth from days of old the Soma juices; To him wide deep and mighty from his birth-time, the well of holy thoughts, aIl-comprehending.\np:The Soma, Indra, which the Earth and Heaven bear for thee as a mother bears her infant, This they send forth to thee, this, vigorous Hero! Adhvaryus purify for thee to drink of.",
-    "next": "03047",
-    "previous": "03045",
-    "book": "03"
+    "meta": {
+      "next": "03047",
+      "previous": "03045",
+      "book": "03",
+      "source": "https://sacred-texts.com/hin/rigveda/rv03046.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv03046.htm"
+    },
+    "deities": [
+      {
+        "name": "O fierce",
+        "hymns": [
+          {
+            "key": "03046",
+            "title": "HYMN XLVI. Indra."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638554493937,
-  "updated": 1638792007648
+  "updated": 1638830292073
 }

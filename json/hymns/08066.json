@@ -5,13 +5,19 @@
   "link": "hymns/08066.html",
   "api": "json/hymns/08066.json",
   "data": {
+    "key": "08066",
     "title": "HYMN LXVI. Indra.",
-    "describe": "SCARCELY was &#346;",
-    "feecting": "p:SCARCELY was &#346;atakratu, born when of his Mother he inquired, who are the mighty? Who are famed?\np:Then &#346;avas&#299; declared to him Aur&#7751;av&#257;bha, Ah&#299;&#347;uva: Son, these be they thou must o&#146;erthrow\np:The V&#7771;tra-slayer smote them all as spokes are hammered into naves: The Dasyu-killer waxed in might.\np:Then Indra at a single draught drank the contents of thirty pails, Pails that were filled with Soma juice.\np:Indra in groundless realms of space pierced the Gandharva through, that he Might make Brahmans' strength increase.\np:Down from the mountains Indra shot hither his well-directed shaft: He gained the ready brew of rice.\np:One only is that shaft of thine, with thousand feathers, hundred barbs, Which, Indra, thou hast made thy friend.\np:Strong as the &#7770;bhus at thy birth, therewith to those who praise thee, men, and women, bring thou food to eat.\np:By thee these exploits were achieved, the mightiest deeds, abundantly: Firm in thy heart thou settest them.\np:All these things Vi&#7779;&#7751;u brought, the Lord of ample stride whom thou hadst sent- A hundred buffaloes, a brew of rice and milk: and Indra, slew the ravening boar\np:Most deadly is thy bow, successful, fashioned well: good is thine arrow, decked with gold.\np: Warlike and well equipped thine arms are, which increase sweetness for him who drinks the sweet.",
-    "next": "08067",
-    "previous": "08065",
-    "book": "08"
+    "describe": "SCARCELY was Śatakratu, born when of his Mother he inquired, who are the mighty?",
+    "feecting": "p:SCARCELY was Śatakratu, born when of his Mother he inquired, who are the mighty? Who are famed?\np:Then Śavasī declared to him Aurṇavābha, Ahīśuva: Son, these be they thou must o’erthrow\np:The Vṛtra-slayer smote them all as spokes are hammered into naves: The Dasyu-killer waxed in might.\np:Then Indra at a single draught drank the contents of thirty pails, Pails that were filled with Soma juice.\np:Indra in groundless realms of space pierced the Gandharva through, that he Might make Brahmans' strength increase.\np:Down from the mountains Indra shot hither his well-directed shaft: He gained the ready brew of rice.\np:One only is that shaft of thine, with thousand feathers, hundred barbs, Which, Indra, thou hast made thy friend.\np:Strong as the Ṛbhus at thy birth, therewith to those who praise thee, men, and women, bring thou food to eat.\np:By thee these exploits were achieved, the mightiest deeds, abundantly: Firm in thy heart thou settest them.\np:All these things Indra brought, the Lord of ample stride whom thou hadst sent- A hundred buffaloes, a brew of rice and milk: and Indra, slew the ravening boar\np:Most deadly is thy bow, successful, fashioned well: good is thine arrow, decked with gold.\np: Warlike and well equipped thine arms are, which increase sweetness for him who drinks the sweet.",
+    "meta": {
+      "next": "08067",
+      "previous": "08065",
+      "book": "08",
+      "source": "https://sacred-texts.com/hin/rigveda/rv08066.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv08066.htm"
+    },
+    "deities": []
   },
   "created": 1638556639804,
-  "updated": 1638792008151
+  "updated": 1638830292768
 }

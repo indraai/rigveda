@@ -5,13 +5,84 @@
   "link": "hymns/01187.html",
   "api": "json/hymns/01187.json",
   "data": {
+    "key": "01187",
     "title": "HYMN CLXXXVII. Praise of Food.",
-    "describe": "Now will I glorify Food that upholds great strength, by whose invigorating power Trita rent V&#7771;",
-    "feecting": "p:Now will I glorify Food that upholds great strength, by whose invigorating power Trita rent V&#7771;tra limb from limb.\np:O pleasant Food, O Food of meath, thee have we chosen for our own, So be our kind protector thou.\np:Come hitherward to us, O Food, auspicious with auspicious help. Health-bringing, a dear and guileless friend.\np:These juices which, O Food, are thine throughout the regions are diffused.\np: like winds they have their place in Heaven.\r\np:These gifts of thine, O Food, O Food most sweet to taste.\np:In thee, O Food, is set the spirit of great Devas. Under thy flag brave deeds were done with thy help.\np:If thou be gone unto the splendour of the clouds, Even from thence, O Food of meath, prepared for our enjoyment, come.\np:Whatever morsel we consume from waters or from plants of Earth, O Soma.\np:What Soma, we enjoy from thee in milky food or barley-brew, V&#257;t&#257;pi, grow thou fat thereby.\np:O Vegetable, Cake of meal, he wholesome, firm, and strengthening: V&#257;t&#257;pi, grow thou fat thereby.\np:O Food, from thee as such have we drawn forth with lauds, like cows, our sacred gifts. From thee who banquetest with Devas, from thee who banquetest with us.",
-    "next": "01188",
-    "previous": "01186",
-    "book": "01"
+    "describe": "Now will I glorify Food that upholds great strength, by whose invigorating power Trita rent Vṛtra limb from limb.",
+    "feecting": "p:Now will I glorify Food that upholds great strength, by whose invigorating power Trita rent Vṛtra limb from limb.\np:O pleasant Food, O Food of meath, thee have we chosen for our own, So be our kind protector thou.\np:Come hitherward to us, O Food, auspicious with auspicious help. Health-bringing, a dear and guileless friend.\np:These juices which, O Food, are thine throughout the regions are diffused.\np: like winds they have their place in Heaven.\r\np:These gifts of thine, O Food, O Food most sweet to taste.\np:In thee, O Food, is set the spirit of great Devas. Under thy flag brave deeds were done with thy help.\np:If thou be gone unto the splendour of the clouds, Even from thence, O Food of meath, prepared for our enjoyment, come.\np:Whatever morsel we consume from waters or from plants of Earth, O Soma.\np:What Soma, we enjoy from thee in milky food or barley-brew.\np:O Vegetable, Cake of meal, he wholesome, firm, and strengthening.\np:O Food, from thee as such have we drawn forth with lauds, like cows, our sacred gifts. From thee who banquetest with Devas, from thee who banquetest with us.",
+    "meta": {
+      "next": "01188",
+      "previous": "01186",
+      "book": "01",
+      "source": "https://sacred-texts.com/hin/rigveda/rv01187.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv01187.htm"
+    },
+    "deities": [
+      {
+        "name": "O pleasant",
+        "hymns": [
+          {
+            "key": "01187",
+            "title": "HYMN CLXXXVII. Praise of Food."
+          }
+        ]
+      },
+      {
+        "name": "O Food",
+        "hymns": [
+          {
+            "key": "01187",
+            "title": "HYMN CLXXXVII. Praise of Food."
+          },
+          {
+            "key": "01187",
+            "title": "HYMN CLXXXVII. Praise of Food."
+          },
+          {
+            "key": "01187",
+            "title": "HYMN CLXXXVII. Praise of Food."
+          },
+          {
+            "key": "01187",
+            "title": "HYMN CLXXXVII. Praise of Food."
+          },
+          {
+            "key": "01187",
+            "title": "HYMN CLXXXVII. Praise of Food."
+          },
+          {
+            "key": "01187",
+            "title": "HYMN CLXXXVII. Praise of Food."
+          },
+          {
+            "key": "01187",
+            "title": "HYMN CLXXXVII. Praise of Food."
+          },
+          {
+            "key": "01187",
+            "title": "HYMN CLXXXVII. Praise of Food."
+          }
+        ]
+      },
+      {
+        "name": "O Soma",
+        "hymns": [
+          {
+            "key": "01187",
+            "title": "HYMN CLXXXVII. Praise of Food."
+          }
+        ]
+      },
+      {
+        "name": "O Vegetable",
+        "hymns": [
+          {
+            "key": "01187",
+            "title": "HYMN CLXXXVII. Praise of Food."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638554001306,
-  "updated": 1638792007515
+  "updated": 1638830291915
 }

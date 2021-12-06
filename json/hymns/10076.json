@@ -5,13 +5,33 @@
   "link": "hymns/10076.html",
   "api": "json/hymns/10076.json",
   "data": {
+    "key": "10076",
     "title": "HYMN LXXVI. Press-stones.",
     "describe": "I GRASP at you when power and strength begin to dawn: bedew ye, Indra and the Devas.",
-    "feecting": "p:I GRASP at you when power and strength begin to dawn: bedew ye, Indra and the Devas. Heaven and Earth, that Day and Night, in every hall of offering. May wait on us and bless us when they first spring forth.\np:Press the libation out, most excellent of all: the Pressing-stone is grasped like a hand-guided steed.\np: So let it win the valour that subdues the foe, and the fleet courser's might that speeds to ample wealth.\r\np:Juice that this Stone pours out removes defect of ours, as in old time it brought prosperity to man. At offers they established holy rites on Tva&#7779;&#7789;ar's milk-blent juice bright with the hue of steeds.\np:Drive ye the treacherous demons far away from us: keep Nirrti afar and banish Penury. Pour riches forth for us with troops of hero sons, and bear ye up, O Stones, the song that visits Devas.\np:To you who are more mighty than the heavens themselves, who, finishing your task with more than Vibhvan's speed, More rapidly than V&#257;yu seize the Soma juice, better than Agni give us food, to you I sing.\np:Stirred be the glorious Stones: let it press out the juice, the Stone with heavenly song that reaches up to Heaven, there where the men draw forth the meath for which they long, sending their voice around in rivalry of speed.\np:The Stones press out the Soma, swift as car-borne men, and, eager for the spoil, drain forth the sap thereof To fill the beaker, they exhaust the udder's store, as the men purify oblations with their lips.\np:Ye, present men, have been most skilful in your work, even ye, O Stones who pressed Soma for Indra's drink. May all ye have of fair go to the Heavenly Race, and all your treasure to the earthly worshipper.",
-    "next": "10077",
-    "previous": "10075",
-    "book": "10"
+    "feecting": "p:I GRASP at you when power and strength begin to dawn: bedew ye, Indra and the Devas. Heaven and Earth, that Day and Night, in every hall of offering. May wait on us and bless us when they first spring forth.\np:Press the libation out, most excellent of all: the Pressing-stone is grasped like a hand-guided steed.\np: So let it win the valour that subdues the foe, and the fleet courser's might that speeds to ample wealth.\r\np:Juice that this Stone pours out removes defect of ours, as in old time it brought prosperity to man. At offers they established holy rites on Tvaṣṭar's milk-blent juice bright with the hue of steeds.\np:Drive ye the treacherous demons far away from us: keep Nirrti afar and banish Penury. Pour riches forth for us with troops of hero sons, and bear ye up, O Stones, the song that visits Devas.\np:To you who are more mighty than the heavens themselves, who, finishing your task with more than Vibhvan's speed, More rapidly than Soma seize the Soma juice, better than Agni give us food, to you I sing.\np:Stirred be the glorious Stones: let it press out the juice, the Stone with heavenly song that reaches up to Heaven, there where the men draw forth the meath for which they long, sending their voice around in rivalry of speed.\np:The Stones press out the Soma, swift as car-borne men, and, eager for the spoil, drain forth the sap thereof To fill the beaker, they exhaust the udder's store, as the men purify oblations with their lips.\np:Ye, present men, have been most skilful in your work, even ye, O Stones who pressed Soma for Indra's drink. May all ye have of fair go to the Heavenly Race, and all your treasure to the earthly worshipper.",
+    "meta": {
+      "next": "10077",
+      "previous": "10075",
+      "book": "10",
+      "source": "https://sacred-texts.com/hin/rigveda/rv10076.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv10076.htm"
+    },
+    "deities": [
+      {
+        "name": "O Stones",
+        "hymns": [
+          {
+            "key": "10076",
+            "title": "HYMN LXXVI. Press-stones."
+          },
+          {
+            "key": "10076",
+            "title": "HYMN LXXVI. Press-stones."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638557840857,
-  "updated": 1638792008494
+  "updated": 1638830293124
 }

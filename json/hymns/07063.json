@@ -5,13 +5,29 @@
   "link": "hymns/07063.html",
   "api": "json/hymns/07063.json",
   "data": {
-    "title": "HYMN LXIII. Mitra-Varu&#7751;a.",
-    "describe": "COMMON to all mankind, auspicious S&#363;",
-    "feecting": "p:COMMON to all mankind, auspicious S&#363;rya, he who beholdeth all, is mounting upward; The Deva, the eye of Varu&#7751;a and Mitra, who rolled up darkness like a piece of leather.\np:S&#363;rya's great ensign, restless as the billow, that urgeth men to action, is advancing: Onward he still would roll the wheel well-rounded, which Eta&#347;a, harnessed to the car-pole, moveth.\np:Refulgent from the bosom of the Mornings, he in Whom singers take delight ascendeth.\np: This Indra, Deva, is my chief joy and pleasure, who breaketh not the universal statute.\r\np:Golden, far-seeing, from the Heaven he riseth: far is his goal, he hasteth on resplendent. Men, verily, inspirited by S&#363;rya speed to their aims and do the work assigned them.\np:Where the irrunortals have prepared his pathway he flieth through the region like a falcon. With homage and oblations will we serve you, O Mitra-Varu&#7751;a, when the Sun hath risen.\np:Now Mitra, Varu&#7751;a, Aryaman vouchsafe us freedom and room, for us and for our children. May we find paths all fair and good to travel. Preserve us evermore, ye Devas, with blessings.",
-    "next": "07064",
-    "previous": "07062",
-    "book": "07"
+    "key": "07063",
+    "title": "HYMN LXIII. Mitra-Indra.",
+    "describe": "COMMON to all mankind, auspicious Sūrya, he who beholdeth all, is mounting upward;",
+    "feecting": "p:COMMON to all mankind, auspicious Sūrya, he who beholdeth all, is mounting upward; The Deva, the eye of Indra and Mitra, who rolled up darkness like a piece of leather.\np:Sūrya's great ensign, restless as the billow, that urgeth men to action, is advancing: Onward he still would roll the wheel well-rounded, which Etaśa, harnessed to the car-pole, moveth.\np:Refulgent from the bosom of the Mornings, he in Whom singers take delight ascendeth.\np: This Indra, Deva, is my chief joy and pleasure, who breaketh not the universal statute.\r\np:Golden, far-seeing, from the Heaven he riseth: far is his goal, he hasteth on resplendent. Men, verily, inspirited by Sūrya speed to their aims and do the work assigned them.\np:Where the irrunortals have prepared his pathway he flieth through the region like a falcon. With homage and oblations will we serve you, O Mitra-Indra, when the Sun hath risen.\np:Now Mitra, Indra, Aryaman vouchsafe us freedom and room, for us and for our children. May we find paths all fair and good to travel. Preserve us evermore, ye Devas, with blessings.",
+    "meta": {
+      "next": "07064",
+      "previous": "07062",
+      "book": "07",
+      "source": "https://sacred-texts.com/hin/rigveda/rv07063.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv07063.htm"
+    },
+    "deities": [
+      {
+        "name": "O Mitra",
+        "hymns": [
+          {
+            "key": "07063",
+            "title": "HYMN LXIII. Mitra-Indra."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638556075047,
-  "updated": 1638792008006
+  "updated": 1638830292583
 }

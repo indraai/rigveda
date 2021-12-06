@@ -5,13 +5,47 @@
   "link": "hymns/04047.html",
   "api": "json/hymns/04047.json",
   "data": {
-    "title": "HYMN XLVIL V&#257;yu. Indra-V&#257;yu.",
-    "describe": "V&#257;",
-    "feecting": "p:V&#257;yu, the bright is offered thee, best of the meath at holy rites.\np: Come thou  juice, Deva, longed-for, on thy team-drawn car.\r\np:O V&#257;yu, thou and Indra are meet drinkers of these Soma-draughts, for unto you the drops proceed as waters gather to the vale.\np:O Indra-V&#257;yu, mighty Twain, speeding together, Lords of Strength, Come to our succour with your team, that y. May drink the Soma juice.\np:The longed-for teams which ye possess, O Heroes, for the worshipper, Turn to us, Indra-V&#257;yu, ye to whom the offering is paid.",
-    "next": "04048",
-    "previous": "04046",
-    "book": "04"
+    "key": "04047",
+    "title": "HYMN XLVIL Soma. Indra-Soma.",
+    "describe": "Soma, the bright is offered thee, best of the meath at holy rites.",
+    "feecting": "p:Soma, the bright is offered thee, best of the meath at holy rites.\np: Come thou  juice, Deva, longed-for, on thy team-drawn car.\r\np:O Soma, thou and Indra are meet drinkers of these Soma-draughts, for unto you the drops proceed as waters gather to the vale.\np:O Indra-Soma, mighty Twain, speeding together, Lords of Strength, Come to our assist with your team, that y. May drink the Soma juice.\np:The longed-for teams which ye possess, O Heroes, for the worshipper, Turn to us, Indra-Soma, ye to whom the offering is paid.",
+    "meta": {
+      "next": "04048",
+      "previous": "04046",
+      "book": "04",
+      "source": "https://sacred-texts.com/hin/rigveda/rv04047.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv04047.htm"
+    },
+    "deities": [
+      {
+        "name": "O Soma",
+        "hymns": [
+          {
+            "key": "04047",
+            "title": "HYMN XLVIL Soma. Indra-Soma."
+          }
+        ]
+      },
+      {
+        "name": "O Indra",
+        "hymns": [
+          {
+            "key": "04047",
+            "title": "HYMN XLVIL Soma. Indra-Soma."
+          }
+        ]
+      },
+      {
+        "name": "O Heroes",
+        "hymns": [
+          {
+            "key": "04047",
+            "title": "HYMN XLVIL Soma. Indra-Soma."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638554826238,
-  "updated": 1638792007732
+  "updated": 1638830292192
 }

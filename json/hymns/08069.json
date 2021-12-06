@@ -5,13 +5,42 @@
   "link": "hymns/08069.html",
   "api": "json/hymns/08069.json",
   "data": {
+    "key": "08069",
     "title": "HYMN LXIX. Indra",
     "describe": "O Sarakratu!",
     "feecting": "p:O Sarakratu! truely I have made non else my Comforter.\np: Indra; be gracious unto us.\r\np:Thou who hast ever aided us kindly of old to win the spoil, as such, O Indra, favour us.\np:What now? As prompter of the poor thou helpest him who sheds the juice. Wilt thou not, Indra, strengthen us?\np:O Indra, help our chariot on, yea, Thunderer, though it lag behind: Give this my car the foremost place.\np:Ho there! why sittest thou at case? Make thou my chariot to be first And bring the fame of victory near.\np:Assist our car that seeks the prize. What can be easier for thee? So make thou us victorious.\np:Indra, be firm: a fort art thou. To thine appointed place proceeds The auspicious hymn in season due.\np:Let not our portion be disgrace. Broad is the course, the prize is set, the barriers are opened wide.\np:This thing we wish. that tho. Mayst take thy fourth, thy sacrificial name. So art thou held to be our Lord.\np:Ekadyu hath exalted you, Immortals: both Goddesses and Devas hath he delighted. Bestow upon him bounty meet for praises. May he, enriched with meditation, come soon and early.",
-    "next": "08070",
-    "previous": "08068",
-    "book": "08"
+    "meta": {
+      "next": "08070",
+      "previous": "08068",
+      "book": "08",
+      "source": "https://sacred-texts.com/hin/rigveda/rv08069.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv08069.htm"
+    },
+    "deities": [
+      {
+        "name": "O Sarakratu",
+        "hymns": [
+          {
+            "key": "08069",
+            "title": "HYMN LXIX. Indra"
+          }
+        ]
+      },
+      {
+        "name": "O Indra",
+        "hymns": [
+          {
+            "key": "08069",
+            "title": "HYMN LXIX. Indra"
+          },
+          {
+            "key": "08069",
+            "title": "HYMN LXIX. Indra"
+          }
+        ]
+      }
+    ]
   },
   "created": 1638556655647,
-  "updated": 1638792008154
+  "updated": 1638830292771
 }

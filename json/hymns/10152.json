@@ -5,13 +5,38 @@
   "link": "hymns/10152.html",
   "api": "json/hymns/10152.json",
   "data": {
+    "key": "10152",
     "title": "HYMN CLII. Indra.",
     "describe": "A MIGHTY Governor art thou, Wondrous, Destroyer of the foe, whose friend is never done to death, and never, never overcome.",
-    "feecting": "p:A MIGHTY Governor art thou, Wondrous, Destroyer of the foe, whose friend is never done to death, and never, never overcome.\np:Lord of the clan, who brings us bliss, Strong, Warrior, Slayer of the fiend, May India, Soma-drinker, go before us, Bull who gives us peace.\np:Drive R&#257;k&#7779;asas and foes away, break thou in pieces V&#7771;tra'sjaws: O V&#7771;tra-subduing Indra, quell the foeman's wrath who threatens us.\np:O Indra, beat our foes away, humble the men who challenge us: Send down to nether darkness him who seeks to do us injury.\np:Baffle the foeman's plan, ward off his weapon who would conquer us.\np: Give shelter from his furious wrath, and keep his murdering dart afar.",
-    "next": "10153",
-    "previous": "10151",
-    "book": "10"
+    "feecting": "p:A MIGHTY Governor art thou, Wondrous, Destroyer of the foe, whose friend is never done to death, and never, never overcome.\np:Lord of the clan, who brings us bliss, Strong, Warrior, Slayer of the fiend, may India, Soma-drinker, go before us, Bull who gives us peace.\np:Drive Rākṣasas and foes away, break thou in pieces Vṛtra'sjaws: O Vṛtra-subduing Indra, quell the foeman's wrath who threatens us.\np:O Indra, beat our foes away, humble the men who challenge us: Send down to nether darkness him who seeks to do us injury.\np:Baffle the foeman's plan, ward off his weapon who would conquer us.\np: Give shelter from his furious wrath, and keep his murdering dart afar.",
+    "meta": {
+      "next": "10153",
+      "previous": "10151",
+      "book": "10",
+      "source": "https://sacred-texts.com/hin/rigveda/rv10152.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv10152.htm"
+    },
+    "deities": [
+      {
+        "name": "O Vṛtra",
+        "hymns": [
+          {
+            "key": "10152",
+            "title": "HYMN CLII. Indra."
+          }
+        ]
+      },
+      {
+        "name": "O Indra",
+        "hymns": [
+          {
+            "key": "10152",
+            "title": "HYMN CLII. Indra."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638558242655,
-  "updated": 1638792008589
+  "updated": 1638830293239
 }

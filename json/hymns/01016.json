@@ -5,13 +5,29 @@
   "link": "hymns/01016.html",
   "api": "json/hymns/01016.json",
   "data": {
+    "key": "01016",
     "title": "HYMN XVI. Indra.",
-    "describe": "LET thy Bay Steeds bring thee, the Strong, hither  draught&#151;",
-    "feecting": "p:LET thy Bay Steeds bring thee, the Strong, hither  draught&#151; Those, Indra, who are bright as suns.\np:Hither let the Bay Coursers bring Indra upon his easiest car.\np:Indra at early morn we call, Indra in course of offering, Indra  juice.\np:Come hither, with thy long-maned Steeds, O Indra.\np:Come thou to this our song of praise, to the libation poured for thee Drink of it like a stag athirst.\np:Here on sacred grass, Indra, to increase thy might.\np:Welcome to thee be this our hymn, reaching thy heart, most excellent.\np:Indra, the V&#7771;tra-slayer, comes,  for delight.\np:Fulfil, O &#346;atakratu, all our wish with horses and with kine: With holy thoughts we sing thy praise.",
-    "next": "01017",
-    "previous": "01015",
-    "book": "01"
+    "describe": "LET thy Bay Steeds bring thee, the Strong, Indra, who are bright as suns.",
+    "feecting": "p:LET thy Bay Steeds bring thee, the Strong, Indra, who are bright as suns.\np:Hither let the Bay Coursers bring Indra upon his easiest car.\np:Indra at early morn we call, Indra in course of offering, Indra  juice.\np:Come hither, with thy long-maned Steeds, O Indra.\np:Come thou to this our song of praise, to the libation poured for thee Drink of it like a stag athirst.\np:Here on sacred grass, Indra, to increase thy might.\np:Welcome to thee be this our hymn, reaching thy heart, most excellent.\np:Indra comes  for delight.\np:With holy thoughts we sing thy praise.",
+    "meta": {
+      "next": "01017",
+      "previous": "01015",
+      "book": "01",
+      "source": "https://sacred-texts.com/hin/rigveda/rv01016.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv01016.htm"
+    },
+    "deities": [
+      {
+        "name": "O Indra",
+        "hymns": [
+          {
+            "key": "01016",
+            "title": "HYMN XVI. Indra."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638553097170,
-  "updated": 1638792007291
+  "updated": 1638830291598
 }

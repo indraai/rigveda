@@ -5,13 +5,33 @@
   "link": "hymns/07047.html",
   "api": "json/hymns/07047.json",
   "data": {
+    "key": "07047",
     "title": "HYMN XLVII. Waters.",
     "describe": "MAY we obtain this day from you, O Waters, that wave of pure refreshment, which the pious Made erst the special beverage of Indra, bright, stainless, rich in sweets and dropping fatness.",
-    "feecting": "p:MAY we obtain this day from you, O Waters, that wave of pure refreshment, which the pious Made erst the special beverage of Indra, bright, stainless, rich in sweets and dropping fatness.\np:May the Floods' Offspring, he whose course is rapid, protect that wave most rich in sweets, O Waters, that shall make Indra and the Devas joyful. Thi. May we gain from you to-day, we pious.\np:All-purifying, joying in their nature, to paths of Devas the Goddesses move onward.\np: They never violate the laws of Indra. Present the oil-rich offering to the Rivers.\r\np:Whom S&#363;rya with his bright beams hath attracted, and Indra dug the path for them to travel, May these Streams give us ample room and freedom. Preserve us evermore, ye Devas, with blessings.",
-    "next": "07048",
-    "previous": "07046",
-    "book": "07"
+    "feecting": "p:MAY we obtain this day from you, O Waters, that wave of pure refreshment, which the pious Made erst the special beverage of Indra, bright, stainless, rich in sweets and dropping fatness.\np:May the Floods' Offspring, he whose course is rapid, protect that wave most rich in sweets, O Waters, that shall make Indra and the Devas joyful. Thi. May we gain from you to-day, we pious.\np:All-purifying, joying in their nature, to paths of Devas the Goddesses move onward.\np: They never violate the laws of Indra. Present the oil-rich offering to the Rivers.\r\np:Whom Sūrya with his bright beams hath attracted, and Indra dug the path for them to travel, may these Streams give us ample room and freedom. Preserve us evermore, ye Devas, with blessings.",
+    "meta": {
+      "next": "07048",
+      "previous": "07046",
+      "book": "07",
+      "source": "https://sacred-texts.com/hin/rigveda/rv07047.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv07047.htm"
+    },
+    "deities": [
+      {
+        "name": "O Waters",
+        "hymns": [
+          {
+            "key": "07047",
+            "title": "HYMN XLVII. Waters."
+          },
+          {
+            "key": "07047",
+            "title": "HYMN XLVII. Waters."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638555990458,
-  "updated": 1638792007989
+  "updated": 1638830292559
 }

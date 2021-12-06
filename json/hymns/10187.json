@@ -5,13 +5,19 @@
   "link": "hymns/10187.html",
   "api": "json/hymns/10187.json",
   "data": {
+    "key": "10187",
     "title": "HYMN CLXXXVII. Agni.",
     "describe": "To Agni send I forth my song, to him the Bull of all the folk: May he bear us past our foes.",
     "feecting": "p:To Agni send I forth my song, to him the Bull of all the folk: May he bear us past our foes.\np:Who from the distance far away shines brilliantly across the wastes: May he bear us past our foes.\np:The Bull with brightly-gleaming flame who utterly consumes the fiends May he bear us past our foes.\np:Who looks on all existing things and comprehends them with his viewe may he bear us past our foes.\np:Resplendent Agni, who was born in farthest region of the air: May he bear us past our foes.",
-    "next": "10188",
-    "previous": "10186",
-    "book": "10"
+    "meta": {
+      "next": "10188",
+      "previous": "10186",
+      "book": "10",
+      "source": "https://sacred-texts.com/hin/rigveda/rv10187.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv10187.htm"
+    },
+    "deities": []
   },
   "created": 1638558428655,
-  "updated": 1638792008615
+  "updated": 1638830293269
 }

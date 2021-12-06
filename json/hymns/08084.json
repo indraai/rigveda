@@ -5,13 +5,45 @@
   "link": "hymns/08084.html",
   "api": "json/hymns/08084.json",
   "data": {
+    "key": "08084",
     "title": "HYMN LXXXIV. Indra.",
     "describe": "SONG-LOVER!",
-    "feecting": "p:SONG-LOVER! like a charioteer come songs to thee when Soma flows.\np: O Indra, they have called to thee as mother-kine unto their calves.\r\np:Bright juices bitherward have sped thee, Indra, Lover of the Song. Drink, Indra, of this flowing sap: in every house &#146;tis set for thee.\np:Drink Soma to inspirit thee, juice, Indra, which the Falcon brought: For thou art King and Sovran Lord of all the families of men.\np:O Indra, hear Tirasci's call, the call of him who serveth thee. Satisfy him with wealth of kine and valiant offspring: Great art thou.\np:For he, O Indra, hath produced for thee the newest gladdening song, a hymn that springs from careful thought, ancient, and full of sacred truth.\np:That Indra will we laud whom songs and hymns of praise have magnified. Striving to win, we celebrate his many deeds of hero might.\np:Come now and let us glorify pure Indra with pure S&#257;ma hymns. Let the pure milky draught delight him strengthened by pure songs of praise.\np:O Indra, come thou pure to us, with pure assistance, pure thyself. Pure, send thou riches down to us, and, meet for Soma, pure, be glad.\np:O Indra, pure, vouchsafe us wealth, and, pure, enrich the worshipper. Pure, thou dost strike the V&#7771;tras dead, and strivest, pure, to win the spoil.",
-    "next": "08085",
-    "previous": "08083",
-    "book": "08"
+    "feecting": "p:SONG-LOVER! like a charioteer come songs to thee when Soma flows.\np: O Indra, they have called to thee as mother-kine unto their calves.\r\np:Bright juices bitherward have sped thee, Indra, Lover of the Song. Drink, Indra, of this flowing sap: in every house ’tis set for thee.\np:Drink Soma to inspirit thee, juice, Indra, which the Falcon brought: For thou art King and Sovran Lord of all the families of men.\np:O Indra, hear Tirasci's call, the call of him who serveth thee. Satisfy him with wealth of kine and valiant offspring: Great art thou.\np:For he, O Indra, hath produced for thee the newest gladdening song, a hymn that springs from careful thought, ancient, and full of sacred truth.\np:That Indra will we laud whom songs and hymns of praise have magnified. Striving to win, we celebrate his many deeds of hero might.\np:Come now and let us glorify pure Indra with pure Sāma hymns. Let the pure milky draught delight him strengthened by pure songs of praise.\np:O Indra, come thou pure to us, with pure assistance, pure thyself. Pure, send thou riches down to us, and, meet for Soma, pure, be glad.\np:O Indra, pure, vouchsafe us wealth, and, pure, enrich the worshipper. Pure, thou dost strike the Vṛtras dead, and strivest, pure, to win the spoil.",
+    "meta": {
+      "next": "08085",
+      "previous": "08083",
+      "book": "08",
+      "source": "https://sacred-texts.com/hin/rigveda/rv08084.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv08084.htm"
+    },
+    "deities": [
+      {
+        "name": "O Indra",
+        "hymns": [
+          {
+            "key": "08084",
+            "title": "HYMN LXXXIV. Indra."
+          },
+          {
+            "key": "08084",
+            "title": "HYMN LXXXIV. Indra."
+          },
+          {
+            "key": "08084",
+            "title": "HYMN LXXXIV. Indra."
+          },
+          {
+            "key": "08084",
+            "title": "HYMN LXXXIV. Indra."
+          },
+          {
+            "key": "08084",
+            "title": "HYMN LXXXIV. Indra."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638556734565,
-  "updated": 1638792008170
+  "updated": 1638830292788
 }

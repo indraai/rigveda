@@ -5,13 +5,33 @@
   "link": "hymns/01003.html",
   "api": "json/hymns/01003.json",
   "data": {
-    "title": "HYMN III. A&#347;vins",
-    "describe": "YE A&#347;",
-    "feecting": "p:YE A&#347;vins, rich in treasure, Lords of splendour, having nimble hands, accept the sacred food.\np:Ye A&#347;vins, rich in wondrous deeds, ye heroes worthy of our praise, accept our songs with mighty thought.\np:N&#257;satyas, wonder-workers, yours are these libations with clipt grass: Come ye whose paths are red with flame.\np:O Indra marvellously bright, come, these libations long for thee, thus by fine fingers purified.\np:Urged by the holy singer, sped by song, come, Indra, Of the libation-pouring priest.\np:Approach, O Indra, hasting thee, Lord of Bay Horses.\np: In our libation take delight.\r\np:Ye Vi&#347;vedevas, who protect, reward, and cherish men, approach your worshipper's drink-offering.\np:Ye Vi&#347;vedevas, swift at work, come hither quickly to the draught, as milch-kine hasten to their stalls.\np:The Vi&#347;vedevas, accept the sacred draught.\np:Wealthy in spoil, enriched with hymns., with eager love, our offering.\np:Inciter of all pleasant songs, inspirer of all gracious thought, Sarasvat&#299; accept our rite\np:Sarasvat&#299;, the mighty flood,&#151;she with her light illuminates, she brightens every pious thought.",
-    "next": "01004",
-    "previous": "01002",
-    "book": "01"
+    "key": "01003",
+    "title": "HYMN III. Aśvins",
+    "describe": "YE Aśvins, rich in treasure, Lords of splendour, having nimble hands, accept the sacred food.",
+    "feecting": "p:YE Aśvins, rich in treasure, Lords of splendour, having nimble hands, accept the sacred food.\np:Ye Aśvins, rich in wondrous deeds, ye heroes worthy of our praise, accept our songs with mighty thought.\np:Nāsatyas, wonder-workers, yours are these libations with clipt grass: Come ye whose paths are red with flame.\np:O Indra marvellously bright, come, these libations long for thee, thus by fine fingers purified.\np:Urged by the holy singer, sped by song, come, Indra, Of the libation-pouring priest.\np:Approach, O Indra, hasting thee, Lord of Bay Horses.\np: In our libation take delight.\r\np:Ye Devas, who protect, reward, and cherish men, approach your worshipper's drink-offering.\np:Ye Devas, swift at work, come hither quickly to the draught, as milch-kine hasten to their stalls.\np:The Devas, accept the sacred draught.\np:Wealthy in spoil, enriched with hymns, with eager love, our offering.",
+    "meta": {
+      "next": "01004",
+      "previous": "01002",
+      "book": "01",
+      "source": "https://sacred-texts.com/hin/rigveda/rv01003.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv01003.htm"
+    },
+    "deities": [
+      {
+        "name": "O Indra",
+        "hymns": [
+          {
+            "key": "01003",
+            "title": "HYMN III. Aśvins"
+          },
+          {
+            "key": "01003",
+            "title": "HYMN III. Aśvins"
+          }
+        ]
+      }
+    ]
   },
   "created": 1638553027707,
-  "updated": 1638792007277
+  "updated": 1638830291570
 }

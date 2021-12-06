@@ -5,13 +5,19 @@
   "link": "hymns/05019.html",
   "api": "json/hymns/05019.json",
   "data": {
+    "key": "05019",
     "title": "HYMN XIX. Agni.",
     "describe": "ONE state begets another state: husk is made visible from husk: Within his Mother's side he speaks.",
-    "feecting": "p:ONE state begets another state: husk is made visible from husk: Within his Mother's side he speaks.\np:Discerning, have they offered gifts: they guard the strength that never wastes.\np: To a strong fort have they pressed in.\r\np:&#346;vaitreya's people, all his men, have gloriously increased in might. A gold chain B&#7771;haduktha wears, as, through this Soma, seeking spoil.\np:I bring, as &#146;twere, the longed-for milk, the dear milk of the Sister-Pair. Like to a caldron filled with food is he, unconquered, conquering all.\np:Beam of light, come to us in sportive fashion, finding thyself close to the wind that fans thee. These flames of his are wasting flames, like arrows keen-pointed, sharpened, on his breast.",
-    "next": "05020",
-    "previous": "05018",
-    "book": "05"
+    "feecting": "p:ONE state begets another state: husk is made visible from husk: Within his Mother's side he speaks.\np:Discerning, have they offered gifts: they guard the strength that never wastes.\np: To a strong fort have they pressed in.\r\np:Śvaitreya's people, all his men, have gloriously increased in might. A gold chain Bṛhaduktha wears, as, through this Soma, seeking spoil.\np:I bring, as ’twere, the longed-for milk, the dear milk of the Sister-Pair. Like to a caldron filled with food is he, unconquered, conquering all.\np:Beam of light, come to us in sportive fashion, finding thyself close to the wind that fans thee. These flames of his are wasting flames, like arrows keen-pointed, sharpened, on his breast.",
+    "meta": {
+      "next": "05020",
+      "previous": "05018",
+      "book": "05",
+      "source": "https://sacred-texts.com/hin/rigveda/rv05019.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv05019.htm"
+    },
+    "deities": []
   },
   "created": 1638554985506,
-  "updated": 1638792007765
+  "updated": 1638830292235
 }

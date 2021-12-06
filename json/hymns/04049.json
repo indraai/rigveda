@@ -5,13 +5,41 @@
   "link": "hymns/04049.html",
   "api": "json/hymns/04049.json",
   "data": {
-    "title": "HYMN XLIX. Indra-B&#7771;haspati.",
-    "describe": "DEAR is this offering in your mouth, O Indra and B&#7771;",
-    "feecting": "p:DEAR is this offering in your mouth, O Indra and B&#7771;haspati: Famed is the laud, the gladdening draught.\np:This lovely Soma is effused, O Indra and B&#7771;haspati, for you, to drink it and rejoice.\np:As Soma-drinkers to our house come, Indra and B&#7771;haspati-and Indra-to drink Soma juice.\np:Vouchsafe us riches hundredfold, O Indra, and B&#7771;haspati, with store of horses, thousandfold.\np:O Indra. and B&#7771;haspati, we call you when the meath is shed, with songs,  juice.\np:Drink, Indra and B&#7771;haspati, the Soma in the giver's house: Delight yourselves abiding there.",
-    "next": "04050",
-    "previous": "04048",
-    "book": "04"
+    "key": "04049",
+    "title": "HYMN XLIX. Indra-Soma.",
+    "describe": "DEAR is this offering in your mouth, O Indra and Soma, Famed is the laud, the gladdening draught.",
+    "feecting": "p:DEAR is this offering in your mouth, O Indra and Soma, Famed is the laud, the gladdening draught.\np:This lovely Soma is effused, O Indra and Soma, for you, to drink it and rejoice.\np:As Soma-drinkers to our house come, Indra and Soma-and Indra-to drink Soma juice.\np:Vouchsafe us riches hundredfold, O Indra, and Soma, with store of horses, thousandfold.\np:O Indra. and Soma, we call you when the meath is shed, with songs,  juice.\np:Drink, Indra and Soma, the Soma in the giver's house: Delight yourselves abiding there.",
+    "meta": {
+      "next": "04050",
+      "previous": "04048",
+      "book": "04",
+      "source": "https://sacred-texts.com/hin/rigveda/rv04049.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv04049.htm"
+    },
+    "deities": [
+      {
+        "name": "O Indra",
+        "hymns": [
+          {
+            "key": "04049",
+            "title": "HYMN XLIX. Indra-Soma."
+          },
+          {
+            "key": "04049",
+            "title": "HYMN XLIX. Indra-Soma."
+          },
+          {
+            "key": "04049",
+            "title": "HYMN XLIX. Indra-Soma."
+          },
+          {
+            "key": "04049",
+            "title": "HYMN XLIX. Indra-Soma."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638554836742,
-  "updated": 1638792007733
+  "updated": 1638830292194
 }

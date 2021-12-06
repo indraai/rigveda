@@ -5,13 +5,19 @@
   "link": "hymns/05020.html",
   "api": "json/hymns/05020.json",
   "data": {
+    "key": "05020",
     "title": "HYMN XX. Agni.",
     "describe": "AGNI, best winner of the spoil, cause us to praise before the Devas As our associate meet for lauds, wealth which thou verily deemest wealth.",
     "feecting": "p:AGNI, best winner of the spoil, cause us to praise before the Devas As our associate meet for lauds, wealth which thou verily deemest wealth.\np:Agni, the great who ward not off the anger of thy power and might Stir up the wrath and hatred due to one who holds an alien creed.\np:Thee, Agni, would we choose as Monk, the perfecter of strength and skill; We who bring sacred food invoke with song thee Chief at holy rites.\np:Here as is needful for thine aid we toil day by day, for wealth, for Lawe may we rejoice, most Wise One! at the feast, with kine, rejoice, with heroes, at the feast.",
-    "next": "05021",
-    "previous": "05019",
-    "book": "05"
+    "meta": {
+      "next": "05021",
+      "previous": "05019",
+      "book": "05",
+      "source": "https://sacred-texts.com/hin/rigveda/rv05020.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv05020.htm"
+    },
+    "deities": []
   },
   "created": 1638554990760,
-  "updated": 1638792007766
+  "updated": 1638830292236
 }

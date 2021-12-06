@@ -5,13 +5,33 @@
   "link": "hymns/09035.html",
   "api": "json/hymns/09035.json",
   "data": {
+    "key": "09035",
     "title": "HYMN XXXV. Indu.",
     "describe": "Pour forth on us abundant wealth, O Indu, with thy stream.",
     "feecting": "p:Pour forth on us abundant wealth, O Indu, with thy stream.\np: Wherewith tho. Mayest find us light\r\np:O Indu, swayer of the sea, shaker of all things, flow thou on, bearer of wealth to us with might.\np:With thee for Hero, Valiant One. May we subdue our enemies: Let what is precious flow to us.\np:Indu arouses strength the Sage who strives for victory, winning power, Discovering holy works and means.\np:Mover of speech, we robe him with our songs as he is purified Soma, the Guardian of the folk;\np:On whose way, Lord of Holy Law, most richi as he is purified. The people all have set their hearts.",
-    "next": "09036",
-    "previous": "09034",
-    "book": "09"
+    "meta": {
+      "next": "09036",
+      "previous": "09034",
+      "book": "09",
+      "source": "https://sacred-texts.com/hin/rigveda/rv09035.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv09035.htm"
+    },
+    "deities": [
+      {
+        "name": "O Indu",
+        "hymns": [
+          {
+            "key": "09035",
+            "title": "HYMN XXXV. Indu."
+          },
+          {
+            "key": "09035",
+            "title": "HYMN XXXV. Indu."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638557019842,
-  "updated": 1638792008228
+  "updated": 1638830292852
 }

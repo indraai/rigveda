@@ -5,13 +5,19 @@
   "link": "hymns/03038.html",
   "api": "json/hymns/03038.json",
   "data": {
+    "key": "03038",
     "title": "HYMN XXXVIII. Indra.",
     "describe": "HASTING like some strong courser good at drawing, a thought have I imagined like a workman.",
-    "feecting": "p:HASTING like some strong courser good at drawing, a thought have I imagined like a workman.\np: Pondering what is dearest and most noble, I long to see the sages full of wisdom.\r\np:Ask of the sages' mighty generations firm-minded and devout they framed the Heaven. These are thy heart-sought strengthening directions, and they have come to be sky's upholders.\np:Assuming in this world mysterious natures, they decked the Heaven and Earth for high dominion, Measured with measures, fixed their broad expanses, set the great worlds apart held firm for safety.\np:Even as he mounted up they all adorned him: self-luminous he travels clothed in splendour. That is the Bull's, the Devas's mighty figure: he, omniform, hath reached the eternal waters.\np:First the more ancient Bull engendered offspring; these are his many draughts that lent him vigour. From days of old ye Kings, two Sons of Heaven, by hymns of offering have won dominion.\np:Three seats ye Sovrans, in the Holy synod, many, yea, all, ye honour with your presence. There saw I, going thither in the spirit, Gandharvas in their course with wind-blown tresses.\np:That same companionship of her, the Milch-cow, here with the strong Bull's divers forms they stablished. Enduing still some new celestial figure, the skilful workers shaped a form around him.\np:Let no one here debar me from enjoying the golden light which Indra diffuses. He covers both all-fostering worlds with praises even as a woman cherishes her children.\np:Fulfil, ye twain, his work, the Great, the Ancient: as heavenly blessing keep your guard around us. All the wise Devas behold his varied actions who stands erect, whose voice is like a herdsman's.\np:Call we on Indra, Indra, auspicious, best Hero in the fight where spoil is gathered, the Strong, who listens, who gives aid in battles, who subdues the V&#7771;tras, wins and gathers riches.",
-    "next": "03039",
-    "previous": "03037",
-    "book": "03"
+    "feecting": "p:HASTING like some strong courser good at drawing, a thought have I imagined like a workman.\np: Pondering what is dearest and most noble, I long to see the sages full of wisdom.\r\np:Ask of the sages' mighty generations firm-minded and devout they framed the Heaven. These are thy heart-sought strengthening directions, and they have come to be sky's upholders.\np:Assuming in this world mysterious natures, they decked the Heaven and Earth for high dominion, Measured with measures, fixed their broad expanses, set the great worlds apart held firm for safety.\np:Even as he mounted up they all adorned him: self-luminous he travels clothed in splendour. That is the Bull's, the Devas's mighty figure: he, omniform, hath reached the eternal waters.\np:First the more ancient Bull engendered offspring; these are his many draughts that lent him vigour. From days of old ye Kings, two Sons of Heaven, by hymns of offering have won dominion.\np:Three seats ye Sovrans, in the Holy synod, many, yea, all, ye honour with your presence. There saw I, going thither in the spirit, Gandharvas in their course with wind-blown tresses.\np:That same companionship of her, the Milch-cow, here with the strong Bull's divers forms they stablished. Enduing still some new celestial figure, the skilful workers shaped a form around him.\np:Let no one here debar me from enjoying the golden light which Indra diffuses. He covers both all-fostering worlds with praises even as a woman cherishes her children.\np:Fulfil, ye twain, his work, the Great, the Ancient: as heavenly blessing keep your guard around us. All the wise Devas behold his varied actions who stands erect, whose voice is like a herdsman's.\np:Call we on Indra, Indra, auspicious, best Hero in the fight where spoil is gathered, the Strong, who listens, who gives aid in battles, who subdues the Vṛtras, wins and gathers riches.",
+    "meta": {
+      "next": "03039",
+      "previous": "03037",
+      "book": "03",
+      "source": "https://sacred-texts.com/hin/rigveda/rv03038.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv03038.htm"
+    },
+    "deities": []
   },
   "created": 1638554451769,
-  "updated": 1638792007638
+  "updated": 1638830292060
 }

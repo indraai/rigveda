@@ -5,13 +5,59 @@
   "link": "hymns/08022.html",
   "api": "json/hymns/08022.json",
   "data": {
-    "title": "HYMN XXII. A&#347;vins.",
-    "describe": "HITHERWARD have I called to-day, for succour, that most wondrous car Which ye ascended, A&#347;",
-    "feecting": "p:HITHERWARD have I called to-day, for succour, that most wondrous car Which ye ascended, A&#347;vins, ye whose paths are red, swift to give Car, for S&#363;rya's sake.\np:Car ever young, much longed-for, easily invoked, soon guided, first in deeds of might, Which waits and serves, O Sobhari, with benevolence, without a rival or a foe.\np:These A&#347;vins with our homage, these Two Omnipresent Deities Hitherward will we bring for kind help, these who seek the dwelling of the worshipper.\np:One of your chariot wheels is moving swiftly round, one speeds for you its onward course.\np: Like a milch-cow, O Lords of splendour, and with haste let your benevolence come to us.\r\np:That chariot of yours which hath a triple seat and reins of gold, the famous car that traverseth the Heaven and Earth, thereon N&#257;satyas, A&#347;vins, come.\np:Ye with your plough, when favouring Manu with your help, ploughed the first harvest in the sky. As such will we exalt you, Lords of splendour, now, O A&#347;vins, with our meditation and praise.\np:Come to us, Lords of ample wealth, by paths of everlasting Law, Whereby to high dominion ye with mighty strength raised Trksi, Trasadasyu's son.\np:This Soma pressed with stones is yours, ye Heroes, Lords of plenteous wealth. Approach , come, drink in the worshipper's abode.\np:O A&#347;vins, mount the chariot, mount the golden seat, ye who are Lords of plenteous wealth, and bring to us abundant food.\np:The aids wherewith ye helped Paktha and Adhrigt;, and Babhru severed from his friends,&#151; With those, O A&#347;vins, come hither with speed and soon, and heal whatever is diseased.\np:When we continually invoke the A&#347;vins, the resistless, at this time of day, We lovers of the song, with songs.\np:Through these, ye Mighty Ones, come hither to my call which brings all blessings, wears all forms,&#151; Tlirough which, All-present Heroes, lavishest of food ye strengthened Krvi, come through these.\np:I speak to both of these as such, these A&#347;vins whom I reverence at this time of day: With homage we entreat them both.\np:Ye who are Lords of splendour, ye whose paths are red, at eve, at mom, at offering, Give us not utterly as prey to mortal foe, ye Somas, Lords of ample wealth.\np:For bliss I call. the blissful car, at morn the inseparable A&#347;vins with their car I call, like Sobhari our sire.\np:Rapid as thought, and strong, and speeding to thejoy, bringing.your swiftly-coming help, be to us a protection even from far away Lords of great wealth, with many aids.'\np:Come, Wonder-Workers, to our home, our home, O A&#347;vins, steeds, and gold, Chief drinkers of the Soma's juice\np:Choice-worthy strength, heroic, firm and excellent, uninjured by the Rak&#7779;as foe, At this your coming nigh, ye Lords of ample wealth and all good things. May we obtain.",
-    "next": "08023",
-    "previous": "08021",
-    "book": "08"
+    "key": "08022",
+    "title": "HYMN XXII. Aśvins.",
+    "describe": "HITHERWARD have I called to-day, for assist, that most wondrous car Which ye ascended, Aśvins, ye whose paths are red, swift to give Car, for Sūrya's sake.",
+    "feecting": "p:HITHERWARD have I called to-day, for assist, that most wondrous car Which ye ascended, Aśvins, ye whose paths are red, swift to give Car, for Sūrya's sake.\np:Car ever young, much longed-for, easily invoked, soon guided, first in deeds of might, Which waits and serves, O Sobhari, with benevolence, without a rival or a foe.\np:These Aśvins with our homage, these Two Omnipresent Deities Hitherward will we bring for kind help, these who seek the dwelling of the worshipper.\np:One of your chariot wheels is moving swiftly round, one speeds for you its onward course.\np: Like a milch-cow, O Lords of splendour, and with haste let your benevolence come to us.\r\np:That chariot of yours which hath a triple seat and reins of gold, the famous car that traverseth the Heaven and Earth, thereon Nāsatyas, Aśvins, come.\np:Ye with your plough, when favouring Manu with your help, ploughed the first harvest in the sky. As such will we exalt you, Lords of splendour, now, O Aśvins, with our meditation and praise.\np:Come to us, Lords of ample wealth, by paths of everlasting Law, Whereby to high dominion ye with mighty strength raised Trksi, Trasadasyu's son.\np:This Soma pressed with stones is yours, ye Heroes, Lords of plenteous wealth. Approach , come, drink in the worshipper's abode.\np:O Aśvins, mount the chariot, mount the golden seat, ye who are Lords of plenteous wealth, and bring to us abundant food.\np:The aids wherewith ye helped Paktha and Adhrigt;, and Babhru severed from his friends. With those, O Aśvins, come hither with speed and soon, and heal whatever is diseased.\np:When we continually invoke the Aśvins, the resistless, at this time of day, We lovers of the song, with songs.\np:Through these, ye Mighty Ones, come hither to my call which brings all blessings, wears all forms. Tlirough which, All-present Heroes, lavishest of food ye strengthened Krvi, come through these.\np:I speak to both of these as such, these Aśvins whom I reverence at this time of day: With homage we entreat them both.\np:Ye who are Lords of splendour, ye whose paths are red, at eve, at mom, at offering, Give us not utterly as prey to mortal foe, ye Somas, Lords of ample wealth.\np:For bliss I call. the blissful car, at morn the inseparable Aśvins with their car I call, like Sobhari our sire.\np:Rapid as thought, and strong, and speeding to thejoy, bringing.your swiftly-coming help, be to us a protection even from far away Lords of great wealth, with many aids.'\np:Come, Wonder-Workers, to our home, our home, O Aśvins, steeds, and gold, Chief drinkers of the Soma's juice\np:Choice-worthy strength, heroic, firm and excellent, uninjured by the Rakṣas foe, At this your coming nigh, ye Lords of ample wealth and all good things. May we obtain.",
+    "meta": {
+      "next": "08023",
+      "previous": "08021",
+      "book": "08",
+      "source": "https://sacred-texts.com/hin/rigveda/rv08022.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv08022.htm"
+    },
+    "deities": [
+      {
+        "name": "O Sobhari",
+        "hymns": [
+          {
+            "key": "08022",
+            "title": "HYMN XXII. Aśvins."
+          }
+        ]
+      },
+      {
+        "name": "O Lords",
+        "hymns": [
+          {
+            "key": "08022",
+            "title": "HYMN XXII. Aśvins."
+          }
+        ]
+      },
+      {
+        "name": "O Aśvins",
+        "hymns": [
+          {
+            "key": "08022",
+            "title": "HYMN XXII. Aśvins."
+          },
+          {
+            "key": "08022",
+            "title": "HYMN XXII. Aśvins."
+          },
+          {
+            "key": "08022",
+            "title": "HYMN XXII. Aśvins."
+          },
+          {
+            "key": "08022",
+            "title": "HYMN XXII. Aśvins."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638556407455,
-  "updated": 1638792008084
+  "updated": 1638830292684
 }

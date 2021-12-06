@@ -5,13 +5,41 @@
   "link": "hymns/01042.html",
   "api": "json/hymns/01042.json",
   "data": {
-    "title": "HYMN XLII. P&#363;&#7779;an.",
-    "describe": "SHORTEN our ways, O P&#363;",
-    "feecting": "p:SHORTEN our ways, O P&#363;&#7779;an, move aside obstruction in the path: Go close before us, cloud-born Deva.\np:Drive, P&#363;&#7779;an, from our road the wolf, the wicked inauspicious wolf, who lies in wait to injure us.\np:Who lurks about the path we take, the robber with a guileful heart: Far from the road chase him away.\np:Tread with thy foot and trample out the firebrand of the wicked one, the double-tongued, whoe&#146;er he be.\np:Wise P&#363;&#7779;an, Wonder-Worker, we claim of thee now the aid where thou furtheredst our sires of old.\np:So, Lord of all prosperity, best wielder of the golden sword, make riches easy to be won.\np:Past all pursuers lead us, make pleasant our path and fair to tread: O P&#363;&#7779;an, find thou power for this.\np:Lead us to meadows rich in grass: send on our way no early heat: O P&#363;&#7779;an, find thou power for this.\np:Be gracious to us, fill us full, give, feed us, and invigorate: O P&#363;&#7779;an, find thou power for this.\np:No blame have we for P&#363;&#7779;an; him we magnify with songs of praise: We seek the Mighty One for wealth.",
-    "next": "01043",
-    "previous": "01041",
-    "book": "01"
+    "key": "01042",
+    "title": "HYMN XLII. Pūṣan.",
+    "describe": "SHORTEN our ways, O Pūṣan, move aside obstruction in the path: Go close before us, cloud-born Deva.",
+    "feecting": "p:SHORTEN our ways, O Pūṣan, move aside obstruction in the path: Go close before us, cloud-born Deva.\np:Drive, Pūṣan, from our road the wolf, the wicked inauspicious wolf, who lies in wait to injure us.\np:Who lurks about the path we take, the robber with a guileful heart: Far from the road chase him away.\np:Tread with thy foot and trample out the firebrand of the wicked one, the double-tongued, whoe’er he be.\np:Wise Pūṣan, Wonder-Worker, we claim of thee now the aid where thou furtheredst our sires of old.\np:So, Lord of all prosperity, best wielder of the golden sword, make riches easy to be won.\np:Past all pursuers lead us, make pleasant our path and fair to tread: O Pūṣan, find thou power for this.\np:Lead us to meadows rich in grass: send on our way no early heat: O Pūṣan, find thou power for this.\np:Be gracious to us, fill us full, give, feed us, and invigorate: O Pūṣan, find thou power for this.\np:No blame have we for Pūṣan; him we magnify with songs of praise: We seek the Mighty One for wealth.",
+    "meta": {
+      "next": "01043",
+      "previous": "01041",
+      "book": "01",
+      "source": "https://sacred-texts.com/hin/rigveda/rv01042.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv01042.htm"
+    },
+    "deities": [
+      {
+        "name": "O Pūṣ",
+        "hymns": [
+          {
+            "key": "01042",
+            "title": "HYMN XLII. Pūṣan."
+          },
+          {
+            "key": "01042",
+            "title": "HYMN XLII. Pūṣan."
+          },
+          {
+            "key": "01042",
+            "title": "HYMN XLII. Pūṣan."
+          },
+          {
+            "key": "01042",
+            "title": "HYMN XLII. Pūṣan."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638553234890,
-  "updated": 1638792007331
+  "updated": 1638830291647
 }

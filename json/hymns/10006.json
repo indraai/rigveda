@@ -5,13 +5,29 @@
   "link": "hymns/10006.html",
   "api": "json/hymns/10006.json",
   "data": {
+    "key": "10006",
     "title": "HYMN VI Agni",
     "describe": "THIS is that Agni, he by whose protection, favour, and help.",
-    "feecting": "p:THIS is that Agni, he by whose protection, favour, and help. the singer is successful. Who with the noblest flames of glowing fuel comes forth encompassed with far-spreading lustre.\np:Agni, the Holy One, the everlasting, who shines far beaming with celestial splendours; He who hath come unto his friends with friendship, like a fleet steed who never trips or stumbles.\np:He who is Lord of all divine oblation, shared by all living men at break of morning, Agni to whom our offerings are devoted, in whom rests he whose car, through might, is scatheless.\np:Increasing by his strength. while lauds content him, with easy flight unto the Devas he travels.\np: Agni the cheerful Monk, best Offerer, balms with his tongue the Devas with whom he mingles.\r\np:With songs and adorations bring ye hither Agni who stirs himself at dawn like Indra, whom sages laud with hymns as J&#257;tavedas of those who wield the ceremonial ladle.\np:In whom all goodly treasures meet together, even as steeds and riders for the booty. Inclining hither bring us help, O Agni, even assistance most desired by Indra.\np:Yea, at thy birth, when thou hadst sat in glory Agni, wast the aim of invocations. The Devas came near, obedient to thy sunimons, and thus attained their rank as chief Protectors.",
-    "next": "10007",
-    "previous": "10005",
-    "book": "10"
+    "feecting": "p:THIS is that Agni, he by whose protection, favour, and help. the singer is successful. Who with the noblest flames of glowing fuel comes forth encompassed with far-spreading lustre.\np:Agni, the Holy One, the everlasting, who shines far beaming with celestial splendours; He who hath come unto his friends with friendship, like a fleet steed who never trips or stumbles.\np:He who is Lord of all divine oblation, shared by all living men at break of morning, Agni to whom our offerings are devoted, in whom rests he whose car, through might, is scatheless.\np:Increasing by his strength. while lauds content him, with easy flight unto the Devas he travels.\np: Agni the cheerful Monk, best Offerer, balms with his tongue the Devas with whom he mingles.\r\np:With songs and adorations bring ye hither Agni who stirs himself at dawn like Indra, whom sages laud with hymns as Jātavedas of those who wield the ceremonial ladle.\np:In whom all goodly treasures meet together, even as steeds and riders for the booty. Inclining hither bring us help, O Agni, even assistance most desired by Indra.\np:Yea, at thy birth, when thou hadst sat in glory Agni, wast the aim of invocations. The Devas came near, obedient to thy sunimons, and thus attained their rank as chief Protectors.",
+    "meta": {
+      "next": "10007",
+      "previous": "10005",
+      "book": "10",
+      "source": "https://sacred-texts.com/hin/rigveda/rv10006.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv10006.htm"
+    },
+    "deities": [
+      {
+        "name": "O Agni",
+        "hymns": [
+          {
+            "key": "10006",
+            "title": "HYMN VI Agni"
+          }
+        ]
+      }
+    ]
   },
   "created": 1638557467614,
-  "updated": 1638792008361
+  "updated": 1638830292971
 }

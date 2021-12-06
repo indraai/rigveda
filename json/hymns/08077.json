@@ -5,13 +5,19 @@
   "link": "hymns/08077.html",
   "api": "json/hymns/08077.json",
   "data": {
+    "key": "08077",
     "title": "HYMN LXXVII. Indra.",
     "describe": "As cows low to their calves in stalls, so with our songs we glorify This Indra, even your Wondrous Deva who checks attack, who joys in the delicious juice.",
     "feecting": "p:As cows low to their calves in stalls, so with our songs we glorify This Indra, even your Wondrous Deva who checks attack, who joys in the delicious juice.\np:Celestial, bounteous Giver, girt about with might, rich, mountain-like, in precious things, him swift we seek. for foodful booty rich in kine, brought hundredfold and thousandfold.\np:Indra, the strong and lofty hills are powerless to bar thy way.\np: None stay that act of thine when thou wouldst fain give wealth to one like me who sings thy praise.\r\np:A Warrior thou by strength, wisdom, and wondrous deed, in might excellest all that is. Hithe, may this our hymn attract thee to our help, the hymn which Gotamas have made.\np:For in thy might thou stretchest out beyond the boundaries of Heaven. The earthly region, Indra, comprehends thee not. After thy Godhead hast thou waxed.\np:When, Indra, thou honourest the worshipper, no one is there to stay thy wealth. Most liberal Giver thou, do thou inspire our song of praise, that we may win the spoil.",
-    "next": "08078",
-    "previous": "08076",
-    "book": "08"
+    "meta": {
+      "next": "08078",
+      "previous": "08076",
+      "book": "08",
+      "source": "https://sacred-texts.com/hin/rigveda/rv08077.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv08077.htm"
+    },
+    "deities": []
   },
   "created": 1638556697705,
-  "updated": 1638792008161
+  "updated": 1638830292778
 }

@@ -5,13 +5,19 @@
   "link": "hymns/01074.html",
   "api": "json/hymns/01074.json",
   "data": {
+    "key": "01074",
     "title": "HYMN LXXIV. Agni.",
     "describe": "As forth to offering we go, a hymn to a hymn let us say, who hears us even when afar;",
-    "feecting": "p:As forth to offering we go, a hymn to a hymn let us say, who hears us even when afar;\np:Who, from of old, in carnage, when the people gathered, hath preserved His household for the worshipper.\np:And let men say, Agni is born, e&#146;en he who slayeth V&#7771;tra, he Who winneth wealth in every fight.\np:Him in whose house an envoy thou lovest to taste his offered gifts, and strengthenest his offering,\np:Him, A&#7749;giras, thou Son of Strength, all men call happy in his Deva, His offerings, and his sacred grass.\np:Hitherward shalt thou bring these Devas to our laudation and to taste.\np: These offered gifts, fair-shining One.\r\np:When, Agni, on thine embassage thou goest not a sound is heard of steed or straining of thy car.\np:Aided by thee uninjured, strong, one after other, goes he forth: Agni, the offerer forward steps.\np:And splendid strength, heroic, high, Agni, thou grantest from the Devas, Thou Deva, to him who offers gifts.",
-    "next": "01075",
-    "previous": "01073",
-    "book": "01"
+    "feecting": "p:As forth to offering we go, a hymn to a hymn let us say, who hears us even when afar;\np:Who, from of old, in carnage, when the people gathered, hath preserved His household for the worshipper.\np:And let men say, Agni is born, e’en he who slayeth Vṛtra, he Who winneth wealth in every fight.\np:Him in whose house an envoy thou lovest to taste his offered gifts, and strengthenest his offering,\np:Him, Aṅgiras, thou Son of Strength, all men call happy in his Deva, His offerings, and his sacred grass.\np:Hitherward shalt thou bring these Devas to our laudation and to taste.\np: These offered gifts, fair-shining One.\r\np:When, Agni, on thine embassage thou goest not a sound is heard of steed or straining of thy car.\np:Aided by thee uninjured, strong, one after other, goes he forth: Agni, the offerer forward steps.\np:And splendid strength, heroic, high, Agni, thou grantest from the Devas, Thou Deva, to him who offers gifts.",
+    "meta": {
+      "next": "01075",
+      "previous": "01073",
+      "book": "01",
+      "source": "https://sacred-texts.com/hin/rigveda/rv01074.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv01074.htm"
+    },
+    "deities": []
   },
   "created": 1638553403524,
-  "updated": 1638792007375
+  "updated": 1638830291696
 }

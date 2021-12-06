@@ -5,13 +5,37 @@
   "link": "hymns/07029.html",
   "api": "json/hymns/07029.json",
   "data": {
+    "key": "07029",
     "title": "HYMN XXIX Indra.",
     "describe": "THIS Soma hath been pressed for thee, O Indra: come hither, Lord of Bays, for this thou lovest.",
     "feecting": "p:THIS Soma hath been pressed for thee, O Indra: come hither, Lord of Bays, for this thou lovest.\np: Drink of this fair, this well-effused libation: Indra, give us wealth when we implore thee.\r\np:Come to us quickly with thy Bay Steeds. Hero, come to our meditation, accepting our devotion. Enjoy thyself aright at this libation, and listen thou unto the prayers we offer.\np:What satisfaction do our hymns afford thee? When, Indra? Now let us do thee service. Hymns, only hymns, with love for thee, I weave thee: then hear, O Indra, these mine invocations.\np:They, verily, were also human beings whom thou wast wont to hear, those earlier sages. Hence I, O Indra Indra, invoke thee: thou art our Providence, even as a Father.\np:We will address this liberal Lord, this Indra, that h. May grant us gifts of ample riches, best favourer of the singer's prayer and praises. Preserve us evermore, ye Devas, with blessings.",
-    "next": "07030",
-    "previous": "07028",
-    "book": "07"
+    "meta": {
+      "next": "07030",
+      "previous": "07028",
+      "book": "07",
+      "source": "https://sacred-texts.com/hin/rigveda/rv07029.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv07029.htm"
+    },
+    "deities": [
+      {
+        "name": "O Indra",
+        "hymns": [
+          {
+            "key": "07029",
+            "title": "HYMN XXIX Indra."
+          },
+          {
+            "key": "07029",
+            "title": "HYMN XXIX Indra."
+          },
+          {
+            "key": "07029",
+            "title": "HYMN XXIX Indra."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638555895558,
-  "updated": 1638792007968
+  "updated": 1638830292523
 }

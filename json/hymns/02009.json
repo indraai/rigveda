@@ -5,13 +5,29 @@
   "link": "hymns/02009.html",
   "api": "json/hymns/02009.json",
   "data": {
+    "key": "02009",
     "title": "HYMN IX. Agni.",
     "describe": "ACCUSTOMED to the Herald's place, the Herald hath seated him, bright, splendid, passing mighty, whose foresight keeps the Law from violation excellent, pure-tongued, bringing thousands, Agni.",
     "feecting": "p:ACCUSTOMED to the Herald's place, the Herald hath seated him, bright, splendid, passing mighty, whose foresight keeps the Law from violation excellent, pure-tongued, bringing thousands, Agni.\np:Envoy art thou, protector from the foeman, strong Deva, thou leadest us to higher blessings.\np: Refulgent, be an ever-heedful keeper, Agni, for us and for our seed offspring.\r\np:May we adore thee in thy loftiest birthplace, and, with our praises, in thy lower station. The place whence thou issued forth I worship: to thee well kindled have they paid oblations.\np:Agni, best Monk, pay worship with oblation; quickly commend the gift to be presented; For thou art Lord of gathered wealth and treasure. of the bright song of praise thou art inventor.\np:The twofold opulence, O Wonder-Worker, of thee new-born each day never decreases. Enrich with food the man who lauds thee, Agni: make him the lord of wealth with noble offspring.\np:May he, benevolent with this fair aspect, best offerer, bring the Devas to bless us. Sure guardian, our protector from the foemen, shine, Agni, with thine affluence and splendour.",
-    "next": "02010",
-    "previous": "02008",
-    "book": "02"
+    "meta": {
+      "next": "02010",
+      "previous": "02008",
+      "book": "02",
+      "source": "https://sacred-texts.com/hin/rigveda/rv02009.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv02009.htm"
+    },
+    "deities": [
+      {
+        "name": "O Wonder",
+        "hymns": [
+          {
+            "key": "02009",
+            "title": "HYMN IX. Agni."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638554070355,
-  "updated": 1638792007531
+  "updated": 1638830291936
 }

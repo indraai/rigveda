@@ -5,13 +5,29 @@
   "link": "hymns/10055.html",
   "api": "json/hymns/10055.json",
   "data": {
+    "key": "10055",
     "title": "HYMN LV. Indra.",
     "describe": "FAR is that secret name by which, in terror, the worlds invoked thee and thou gavest vigour The Earth and Heaven thou settest near each other, and Indra, madest bright thy Brother's Children.",
-    "feecting": "p:FAR is that secret name by which, in terror, the worlds invoked thee and thou gavest vigour The Earth and Heaven thou settest near each other, and Indra, madest bright thy Brother's Children.\np:Great is that secret name and far-extending, whereby thou madest all that is and shall be.\np: The Five Tribes whom he loveth well have entered the light he loveth that was made aforetime.\r\np:He filled the Heaven and Earth and all between them, Devas five times sevenfold in their proper seasons. With four-and-thirty lights he looks around him, lights of one colour though their ways are divers.\np:As first among the lights, O Dawn, thou shonest, whereby thou broughtest forth the Stay of Increase, Great art thou, matchless is thine Devas nature, who, high above, art kin to those beneath thee.\np:The old hath waked the young Moon from his slumber who runs his circling course with many round him. Behold the Devas&#146; high wisdom in its greatness: he who died yesterday to-day is living.\np:Strong is the Red Bird in his strength, great Hero, who from of old hath had no nest to dwell in. That which he knows is truth and never idle: he wins and gives the wealth desired of many.\np:Through these the Thunderer gained strong manly vigour, through whom he waxed in power to smite down V&#7771;tra,&#151. Who through the might of Indra's operation came forth as Devas in course of Law and Order.\np:All-strong, performing works with his companion, All-marking, rapid Victor, Curse-averter, the Hero, waxing, after draughts of Soma, blew far from Heaven the Dasyus with his weapon.",
-    "next": "10056",
-    "previous": "10054",
-    "book": "10"
+    "feecting": "p:FAR is that secret name by which, in terror, the worlds invoked thee and thou gavest vigour The Earth and Heaven thou settest near each other, and Indra, madest bright thy Brother's Children.\np:Great is that secret name and far-extending, whereby thou madest all that is and shall be.\np: The Five Tribes whom he loveth well have entered the light he loveth that was made aforetime.\r\np:He filled the Heaven and Earth and all between them, Devas five times sevenfold in their proper seasons. With four-and-thirty lights he looks around him, lights of one colour though their ways are divers.\np:As first among the lights, O Dawn, thou shonest, whereby thou broughtest forth the Stay of Increase, Great art thou, matchless is thine Devas nature, who, high above, art kin to those beneath thee.\np:The old hath waked the young Moon from his slumber who runs his circling course with many round him. Behold the Devas’ high wisdom in its greatness: he who died yesterday to-day is living.\np:Strong is the Red Bird in his strength, great Hero, who from of old hath had no nest to dwell in. That which he knows is truth and never idle: he wins and gives the wealth desired of many.\np:Through these the Thunderer gained strong manly vigour, through whom he waxed in power to smite down Vṛtra. Who through the might of Indra's operation came forth as Devas in course of Law and Order.\np:All-strong, performing works with his companion, All-marking, rapid Victor, Curse-averter, the Hero, waxing, after draughts of Soma, blew far from Heaven the Dasyus with his weapon.",
+    "meta": {
+      "next": "10056",
+      "previous": "10054",
+      "book": "10",
+      "source": "https://sacred-texts.com/hin/rigveda/rv10055.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv10055.htm"
+    },
+    "deities": [
+      {
+        "name": "O Dawn",
+        "hymns": [
+          {
+            "key": "10055",
+            "title": "HYMN LV. Indra."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638557729488,
-  "updated": 1638792008461
+  "updated": 1638830293089
 }

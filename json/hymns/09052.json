@@ -5,13 +5,29 @@
   "link": "hymns/09052.html",
   "api": "json/hymns/09052.json",
   "data": {
+    "key": "09052",
     "title": "HYMN LII. Indu.",
     "describe": "WEALTH-WINNER, dwelling in the sky, bringing us vigour with the juice, Flow to the filter when effused.",
-    "feecting": "p:WEALTH-WINNER, dwelling in the sky, bringing us vigour with the juice, Flow to the filter when effused.\np:So, in thine ancient ways. May he, beloved, with a thousand streams Run o&#146;er the fleecy straining-cloth.\np:Him who is like a caldron shake: O Indu, shake thy gift to us Shake it, armed Warrior! with thine arms.\np:Indu, invoked with many a prayer, bring down the vigour of these men, Of him who threatens us with war.\np:Indu, Wealth-giver, with thine help pour out for us a hundred, yea, a thousand of thy pure bright streams.",
-    "next": "09053",
-    "previous": "09051",
-    "book": "09"
+    "feecting": "p:WEALTH-WINNER, dwelling in the sky, bringing us vigour with the juice, Flow to the filter when effused.\np:So, in thine ancient ways. May he, beloved, with a thousand streams Run o’er the fleecy straining-cloth.\np:Him who is like a caldron shake: O Indu, shake thy gift to us Shake it, armed Warrior! with thine arms.\np:Indu, invoked with many a prayer, bring down the vigour of these men, Of him who threatens us with war.\np:Indu, Wealth-giver, with thine help pour out for us a hundred, yea, a thousand of thy pure bright streams.",
+    "meta": {
+      "next": "09053",
+      "previous": "09051",
+      "book": "09",
+      "source": "https://sacred-texts.com/hin/rigveda/rv09052.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv09052.htm"
+    },
+    "deities": [
+      {
+        "name": "O Indu",
+        "hymns": [
+          {
+            "key": "09052",
+            "title": "HYMN LII. Indu."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638557109328,
-  "updated": 1638792008241
+  "updated": 1638830292867
 }

@@ -5,13 +5,19 @@
   "link": "hymns/10165.html",
   "api": "json/hymns/10165.json",
   "data": {
-    "title": "HYMN CLXV. Vi&#347;vedevas.",
-    "describe": "GODS, whatsoe&#146;",
-    "feecting": "p:GODS, whatsoe&#146;er the Dove came hither seeking, sent to us as the envoy of Destruction, for that let us sing hymns and make atonement. Well be it with our quadrupeds and bipeds.\np:Auspicious be the Dove that hath been sent us, a harmless bird, ye Devas, within our dwelling.\np: May Agni, Sage, be pleased with our oblation, an. May the Missile borne on wings avoid us.\r\np:Let not the Arrow that hath wings distract us: beside the fire-place, on the hearth it settles. May, it bring welfare to our men and cattle: here let the Dove, ye Devas, forbear to harm us.\np:The screeching of the owl is ineffective and when beside the fire the Dove hath settled, to him who sent it hither as an envoy, to him be reverence paid, to Death, to Yama.\np:Drive forth the Dove, chase it with holy verses: rejoicing, bring ye hither food and cattle, Barring the way against all grief and trouble. Let the swift bird fly forth and leave us vigour.",
-    "next": "10166",
-    "previous": "10164",
-    "book": "10"
+    "key": "10165",
+    "title": "HYMN CLXV. Devas.",
+    "describe": "GODS, whatsoe’er the Dove came hither seeking, sent to us as the envoy of Destruction, for that let us sing hymns and make atonement.",
+    "feecting": "p:GODS, whatsoe’er the Dove came hither seeking, sent to us as the envoy of Destruction, for that let us sing hymns and make atonement. Well be it with our quadrupeds and bipeds.\np:Auspicious be the Dove that hath been sent us, a harmless bird, ye Devas, within our dwelling.\np: May Agni, Sage, be pleased with our oblation, an. May the Missile borne on wings avoid us.\r\np:Let not the Arrow that hath wings distract us: beside the fire-place, on the hearth it settles. May, it bring welfare to our men and cattle: here let the Dove, ye Devas, forbear to harm us.\np:The screeching of the owl is ineffective and when beside the fire the Dove hath settled, to him who sent it hither as an envoy, to him be reverence paid, to Death, to Yama.\np:Drive forth the Dove, chase it with holy verses: rejoicing, bring ye hither food and cattle, Barring the way against all grief and trouble. Let the swift bird fly forth and leave us vigour.",
+    "meta": {
+      "next": "10166",
+      "previous": "10164",
+      "book": "10",
+      "source": "https://sacred-texts.com/hin/rigveda/rv10165.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv10165.htm"
+    },
+    "deities": []
   },
   "created": 1638558311398,
-  "updated": 1638792008600
+  "updated": 1638830293252
 }

@@ -5,13 +5,29 @@
   "link": "hymns/09009.html",
   "api": "json/hymns/09009.json",
   "data": {
+    "key": "09009",
     "title": "HYMN IX. Indu.",
     "describe": "THE Sage of Heaven whose heart is wise, when laid between both hands and pressed, Sends us delightful powers of life.",
     "feecting": "p:THE Sage of Heaven whose heart is wise, when laid between both hands and pressed, Sends us delightful powers of life.\np:On, onward to a glorious home; dear to the people void of guile, with excellent enjoyment, flow.\np:He, the bright Son, when born illumed his Parents who had sprung to life, Great Son great Strengtheners of Law.\np:Urged by the seven devotions he hath stirred the guileless rivers which Have magnified the Single Eye.\np:These helped to might theYouthful One, high over all, invincible, Indu, Indra! in thy law.\np:The immortal Courser, good to draw, looks down upon the Seven.\np:Aid us in holy rites, O Indu, drive away Dark shades that must be met in fight.\np:Make the paths ready for a hymn newer and newer evermore. Make the lights shine as erst they shone.\np:Give, indu, high renown, win for us wisdom, win the light.",
-    "next": "09010",
-    "previous": "09008",
-    "book": "09"
+    "meta": {
+      "next": "09010",
+      "previous": "09008",
+      "book": "09",
+      "source": "https://sacred-texts.com/hin/rigveda/rv09009.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv09009.htm"
+    },
+    "deities": [
+      {
+        "name": "O Indu",
+        "hymns": [
+          {
+            "key": "09009",
+            "title": "HYMN IX. Indu."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638556882530,
-  "updated": 1638792008206
+  "updated": 1638830292825
 }

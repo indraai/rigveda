@@ -5,13 +5,19 @@
   "link": "hymns/01154.html",
   "api": "json/hymns/01154.json",
   "data": {
-    "title": "HYMN CLIV. Vi&#7779;&#7751;u",
-    "describe": "I WILL declare the mighty deeds of Vi&#7779;",
-    "feecting": "p:I WILL declare the mighty deeds of Vi&#7779;&#7751;u, of him who measured out the earthly regions, who propped the highest place of congregation, thrice setting down his footstep, widely striding.\np:For this his mighty deed is Vi&#7779;&#7751;u lauded, like some wild beast, dread, prowling, mountain-roaming; He within whose three wide-extended paces all living creatures have their habitation.\np:Let the hymn lift itself as strength to Vi&#7779;&#7751;u, the Bull far-striding, dwelling on the mountains, him who alone with triple step hath measured this common dwelling-place, long, far extended.\np:Him whose three places that are filled with sweetness, imperishable, joy as i. May list them, who verily alone upholds the threefold, the Earth, the Heaven, and all living creatures.\np:May I attain to that his well-loved mansion where men devoted to the Devas are happy.\np: For there springs, close akin to the Wide-Strider, the well of meath in Vi&#7779;&#7751;u's highest footstep.\r\np:Fain would we go unto your dwelling-places where there are many-horned and nimble oxen, for mightily, there, shineth down upon us the widely-striding Bull's sublimest mansion.",
-    "next": "01155",
-    "previous": "01153",
-    "book": "01"
+    "key": "01154",
+    "title": "HYMN CLIV. Indra",
+    "describe": "I WILL declare the mighty deeds of Indra, of him who measured out the earthly regions, who propped the highest place of congregation, thrice setting down his footstep, widely striding.",
+    "feecting": "p:I WILL declare the mighty deeds of Indra, of him who measured out the earthly regions, who propped the highest place of congregation, thrice setting down his footstep, widely striding.\np:For this his mighty deed is Indra lauded, like some wild beast, dread, prowling, mountain-roaming; He within whose three wide-extended paces all living creatures have their habitation.\np:Let the hymn lift itself as strength to Indra, the Bull far-striding, dwelling on the mountains, him who alone with triple step hath measured this common dwelling-place, long, far extended.\np:Him whose three places that are filled with sweetness, imperishable, joy as i. May list them, who verily alone upholds the threefold, the Earth, the Heaven, and all living creatures.\np:May I attain to that his well-loved mansion where men devoted to the Devas are happy.\np: For there springs, close akin to the Wide-Strider, the well of meath in Indra's highest footstep.\r\np:Fain would we go unto your dwelling-places where there are many-horned and nimble oxen, for mightily, there, shineth down upon us the widely-striding Bull's sublimest mansion.",
+    "meta": {
+      "next": "01155",
+      "previous": "01153",
+      "book": "01",
+      "source": "https://sacred-texts.com/hin/rigveda/rv01154.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv01154.htm"
+    },
+    "deities": []
   },
   "created": 1638553826277,
-  "updated": 1638792007475
+  "updated": 1638830291863
 }

@@ -5,13 +5,38 @@
   "link": "hymns/07076.html",
   "api": "json/hymns/07076.json",
   "data": {
+    "key": "07076",
     "title": "HYMN LXXVI. Dawn.",
     "describe": "SAVITAR God of all men hath sent upward his light, designed for all mankind, immortal.",
-    "feecting": "p:SAVITAR God of all men hath sent upward his light, designed for all mankind, immortal.\np: Through the Devas&#146; power that Eye was first created. Dawn hath made all the universe apparent.\r\np:I see the paths which Devas are wont to travel, innocuous paths made ready by the Devas. Eastward the flag of Dawn hath been uplifted; she hath come hither o&#146;er the tops of houses.\np:Great is, in truth, the number of the Mornings which were aforetime at the Sun's uprising. Since thou, O Dawn, hast been beheld repairing as to thy love, as one no more to leave him.\np:They were the Devas&#146; companions at the banquet, the ancient sages true to Law Eternal. The Fathers found the light that lay in darkness, and with effectual words begat the Morning.\np:Meeting together in the same enclosure, they strive not, ofone mind, one with another. They never break the Devas&#146; eternal statutes, and injure none, in rivalry with Devas.\np:Extolling thee, Blest Goddess awake at early mom, with lauds implore thee. Leader of kine and Queen of all that strengthens, shine, come as first to us, O high-born Morning.\np:She bringeth bounty and sweet charm of voices. The flushing Dawn is sung by the Vasisthas, giving us riches famed to distant places. Preserve us evermore, ye Devas, with blessings.",
-    "next": "07077",
-    "previous": "07075",
-    "book": "07"
+    "feecting": "p:SAVITAR God of all men hath sent upward his light, designed for all mankind, immortal.\np: Through the Devas’ power that Eye was first created. Dawn hath made all the universe apparent.\r\np:I see the paths which Devas are wont to travel, innocuous paths made ready by the Devas. Eastward the flag of Dawn hath been uplifted; she hath come hither o’er the tops of houses.\np:Great is, in truth, the number of the Mornings which were aforetime at the Sun's uprising. Since thou, O Dawn, hast been beheld repairing as to thy love, as one no more to leave him.\np:They were the Devas’ companions at the banquet, the ancient sages true to Law Eternal. The Fathers found the light that lay in darkness, and with effectual words begat the Morning.\np:Meeting together in the same enclosure, they strive not, ofone mind, one with another. They never break the Devas’ eternal statutes, and injure none, in rivalry with Devas.\np:Extolling thee, Blest Goddess awake at early mom, with lauds implore thee. Leader of kine and Queen of all that strengthens, shine, come as first to us, O high-born Morning.\np:She bringeth bounty and sweet charm of voices. The flushing Dawn is sung by the Vasisthas, giving us riches famed to distant places. Preserve us evermore, ye Devas, with blessings.",
+    "meta": {
+      "next": "07077",
+      "previous": "07075",
+      "book": "07",
+      "source": "https://sacred-texts.com/hin/rigveda/rv07076.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv07076.htm"
+    },
+    "deities": [
+      {
+        "name": "O Dawn",
+        "hymns": [
+          {
+            "key": "07076",
+            "title": "HYMN LXXVI. Dawn."
+          }
+        ]
+      },
+      {
+        "name": "O high",
+        "hymns": [
+          {
+            "key": "07076",
+            "title": "HYMN LXXVI. Dawn."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638556143726,
-  "updated": 1638792008020
+  "updated": 1638830292600
 }

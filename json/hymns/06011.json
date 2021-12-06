@@ -5,13 +5,51 @@
   "link": "hymns/06011.html",
   "api": "json/hymns/06011.json",
   "data": {
+    "key": "06011",
     "title": "HYMN XI. Agni.",
     "describe": "EAGERLY Offering thou, most skilful, Agni!",
-    "feecting": "p:EAGERLY Offering thou, most skilful, Agni! Monk, pressing on as if the Devas sent thee.\np: To our oblation bring the two N&#257;satyas, Mitra and Varu&#7751;a and Earth and Heaven.\r\np:Thou art our guileless, most delightful Herald, among mankind, of holy synods. A Monk with purifying tongue, O Agni, offering with thy mouth to thine own body.\np:For even the blessed longing that is in thee would bring the Devas down to the singer's worship, when the A&#7749;girases' sagest Sage, the Poet, sings the sweet measure at the solemn service.\np:Bright hath he beamed, the wise, the far-refulgent. Worship the two widespreading Worlds, O Agni, whom as the Living One rich in oblations the Five Tribes, bringing gifts, adorn with homage.\np:When I with reverence clip the grass for Agni, when the trimmed ladle, fullof oil, is lifted, Firm on the seat of Earth is based the altar: eye-like, the offering is directed Sun-ward.\np:Enrich us, O thou Monk of many aspects, with the Devas, Agni, with thy fires, enkindled. O Son of Strength, clad in the robe of riches. May we escape from woe as from a prison.",
-    "next": "06012",
-    "previous": "06010",
-    "book": "06"
+    "feecting": "p:EAGERLY Offering thou, most skilful, Agni! Monk, pressing on as if the Devas sent thee.\np: To our oblation bring the two Nāsatyas, Mitra and Indra and Earth and Heaven.\r\np:Thou art our guileless, most delightful Herald, among mankind, of holy synods. A Monk with purifying tongue, O Agni, offering with thy mouth to thine own body.\np:For even the blessed longing that is in thee would bring the Devas down to the singer's worship, when the Aṅgirases' sagest Sage, the Poet, sings the sweet measure at the solemn service.\np:Bright hath he beamed, the wise, the far-refulgent. Worship the two widespreading Worlds, O Agni, whom as the Living One rich in oblations the Five Tribes, bringing gifts, adorn with homage.\np:When I with reverence clip the grass for Agni, when the trimmed ladle, fullof oil, is lifted, Firm on the seat of Earth is based the altar: eye-like, the offering is directed Sun-ward.\np:Enrich us, O thou Monk of many aspects, with the Devas, Agni, with thy fires, enkindled. O Son of Strength, clad in the robe of riches. May we escape from woe as from a prison.",
+    "meta": {
+      "next": "06012",
+      "previous": "06010",
+      "book": "06",
+      "source": "https://sacred-texts.com/hin/rigveda/rv06011.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv06011.htm"
+    },
+    "deities": [
+      {
+        "name": "O Agni",
+        "hymns": [
+          {
+            "key": "06011",
+            "title": "HYMN XI. Agni."
+          },
+          {
+            "key": "06011",
+            "title": "HYMN XI. Agni."
+          }
+        ]
+      },
+      {
+        "name": "O thou",
+        "hymns": [
+          {
+            "key": "06011",
+            "title": "HYMN XI. Agni."
+          }
+        ]
+      },
+      {
+        "name": "O Son",
+        "hymns": [
+          {
+            "key": "06011",
+            "title": "HYMN XI. Agni."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638555404443,
-  "updated": 1638792007858
+  "updated": 1638830292351
 }

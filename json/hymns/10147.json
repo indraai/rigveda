@@ -5,13 +5,60 @@
   "link": "hymns/10147.html",
   "api": "json/hymns/10147.json",
   "data": {
+    "key": "10147",
     "title": "HYMN CXLVII Indra.",
-    "describe": "I TRUST in thy first wrathful deed, O Indra, when thou slewest V&#7771;",
-    "feecting": "p:I TRUST in thy first wrathful deed, O Indra, when thou slewest V&#7771;tra and didst work to profit man; What time the two world-halves fell short of thee in might, and the Earth trembled at thy force, O Thunder-anned.\np:Thou with thy magic powers didst rend the conjurer V&#7771;tra, O Blameless One, with heart that longed for fame.\np: Heroes elect thee when they battle for the prey, thee in all offers worthy of renown.\r\np:God Much-invoked, take pleasure in these princes here, who, thine exalters, Indra, have come to wealth. In synods, when the rite succeeds, they hymn the Strong for sons and progeny and riches undisturbed.\np:That man shall find delight in well-protected wealth whose care provides for him the quick-sought joyous draught. Bringing oblations, strengthened Indra, by thee, he swiftly wins the spoil with heroes in the fight.\np:Now for our band, O Indra, when lauded, make ample room with might, and grant us riches. Magician thou, our Varu&#7751;a and Mitra, deal food to us, O Wondrous, as Dispenser.",
-    "next": "10148",
-    "previous": "10146",
-    "book": "10"
+    "describe": "I TRUST in thy first wrathful deed, O Indra, when thou slewest Vṛtra and didst work to profit man;",
+    "feecting": "p:I TRUST in thy first wrathful deed, O Indra, when thou slewest Vṛtra and didst work to profit man; What time the two world-halves fell short of thee in might, and the Earth trembled at thy force, O Thunder-anned.\np:Thou with thy magic powers didst rend the conjurer Vṛtra, O Blameless One, with heart that longed for fame.\np: Heroes elect thee when they battle for the prey, thee in all offers worthy of renown.\r\np:God Much-invoked, take pleasure in these princes here, who, thine exalters, Indra, have come to wealth. In synods, when the rite succeeds, they hymn the Strong for sons and progeny and riches undisturbed.\np:That man shall find delight in well-protected wealth whose care provides for him the quick-sought joyous draught. Bringing oblations, strengthened Indra, by thee, he swiftly wins the spoil with heroes in the fight.\np:Now for our band, O Indra, when lauded, make ample room with might, and grant us riches. Magician thou, our Indra and Mitra, deal food to us, O Wondrous, as Dispenser.",
+    "meta": {
+      "next": "10148",
+      "previous": "10146",
+      "book": "10",
+      "source": "https://sacred-texts.com/hin/rigveda/rv10147.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv10147.htm"
+    },
+    "deities": [
+      {
+        "name": "O Indra",
+        "hymns": [
+          {
+            "key": "10147",
+            "title": "HYMN CXLVII Indra."
+          },
+          {
+            "key": "10147",
+            "title": "HYMN CXLVII Indra."
+          }
+        ]
+      },
+      {
+        "name": "O Thunder",
+        "hymns": [
+          {
+            "key": "10147",
+            "title": "HYMN CXLVII Indra."
+          }
+        ]
+      },
+      {
+        "name": "O Blameless",
+        "hymns": [
+          {
+            "key": "10147",
+            "title": "HYMN CXLVII Indra."
+          }
+        ]
+      },
+      {
+        "name": "O Wondrous",
+        "hymns": [
+          {
+            "key": "10147",
+            "title": "HYMN CXLVII Indra."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638558216348,
-  "updated": 1638792008584
+  "updated": 1638830293233
 }

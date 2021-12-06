@@ -5,13 +5,38 @@
   "link": "hymns/08098.html",
   "api": "json/hymns/08098.json",
   "data": {
+    "key": "08098",
     "title": "HYMN VI. Indra.",
     "describe": "INDRA, the poets with.",
-    "feecting": "p:INDRA, the poets with. their hymns extol this hero might of thine: They strengthened, loud in song, thy power that droppeth oil. With hymns the Pauras came to thee.\np:Through piety they came to Indra for his aid, they whose libations give theejoy.\np: As thou with, Krsa and Samvarta hast rejoiced, so, Indra, be thou glad with us.\r\np:Agreeing in your spirit, all ye Deities, come nigh to us. Devas and Somas shall come near to give us aid, and Devas listen to our call.\np:May P&#363;&#7779;an, Vi&#7779;&#7751;u, and Sarasvat&#299; befriend, and the Seven Streams, this call of mine: May Waters, Wind, the Mountains, and the Forest-Lord, and Earth give ear unto my cry.\np:Indra, with thine own bounteous gift, most liberal of the Mighty Ones, be our boon benefactor, V&#7771;tra-slayer, be our feast-companion for our weal.\np:Leader of heroes, Lord of battle, lead thou us to combat, thou Most Sapient One. High fame is theirs who win by invocations, feasts and entertainment of the Devas.\np:Our hopes rest on the Faithful One: in Indra is the people's life. O Indra, come nigh that tho. Mayst give us aid: make plenteous food stream forth for us.\np:Thee would we worship, Indra, with our songs of praise: O &#346;atakratu, be thou ours. Pour down upon Praska&#7751;va bounty vast and firm, exuberant, that shall never fail.",
-    "next": "08099",
-    "previous": "08097",
-    "book": "08"
+    "feecting": "p:INDRA, the poets with. their hymns extol this hero might of thine: They strengthened, loud in song, thy power that droppeth oil. With hymns the Pauras came to thee.\np:Through piety they came to Indra for his aid, they whose libations give theejoy.\np: As thou with, Krsa and Samvarta hast rejoiced, so, Indra, be thou glad with us.\r\np:Agreeing in your spirit, all ye Deities, come nigh to us. Devas and Somas shall come near to give us aid, and Devas listen to our call.\np:May Pūṣan, Indra, and Sarasvatī befriend, and the Seven Streams, this call of mine: May Waters, Wind, the Mountains, and the Forest-Lord, and Earth give ear unto my cry.\np:Indra, with thine own bounteous gift, most liberal of the Mighty Ones, be our boon benefactor, Vṛtra-slayer, be our feast-companion for our weal.\np:Leader of heroes, Lord of battle, lead thou us to combat, thou Most Sapient One. High fame is theirs who win by invocations, feasts and entertainment of the Devas.\np:Our hopes rest on the Faithful One: in Indra is the people's life. O Indra, come nigh that tho. Mayst give us aid: make plenteous food stream forth for us.\np:Thee would we worship, Indra, with our songs of praise: O Śatakratu, be thou ours. Pour down upon Praskaṇva bounty vast and firm, exuberant, that shall never fail.",
+    "meta": {
+      "next": "08099",
+      "previous": "08097",
+      "book": "08",
+      "source": "https://sacred-texts.com/hin/rigveda/rv08098.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv08098.htm"
+    },
+    "deities": [
+      {
+        "name": "O Indra",
+        "hymns": [
+          {
+            "key": "08098",
+            "title": "HYMN VI. Indra."
+          }
+        ]
+      },
+      {
+        "name": "O Śatakratu",
+        "hymns": [
+          {
+            "key": "08098",
+            "title": "HYMN VI. Indra."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638556808594,
-  "updated": 1638792008190
+  "updated": 1638830292812
 }

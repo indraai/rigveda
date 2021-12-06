@@ -5,13 +5,19 @@
   "link": "hymns/02026.html",
   "api": "json/hymns/02026.json",
   "data": {
-    "title": "HYMN XXVI. Brahma&#7751;aspati.",
-    "describe": "THE righteous singer shall o&#146;",
-    "feecting": "p:THE righteous singer shall o&#146;ercome his enemies, and he who serves the Devas subdue the godless man.\np: The zealous man shall vanquish the invincible, the worshipper share the food of him who worships not.\r\np:Worship, thou hero, chase the arrogant afar: put on auspicious courage for the fight with foes. Prepare oblation so that tho. Mayst have success. we crave the favouring help of Brahma&#7751;aspati.\np:He with his folk, his house, his family, his sons, gains booty for himself, and, with the heroes, wealth, who with oblation and a true believing heart serves Brahma&#7751;aspati the Father of the Devas.\np:Whoso hath honoured him with offerings rich in oil, him Brahma&#7751;aspati leads forward on his way, Saves him from sorrow, frees him from his enemy, and is his wonderful deliverer from woe.",
-    "next": "02027",
-    "previous": "02025",
-    "book": "02"
+    "key": "02026",
+    "title": "HYMN XXVI. Soma.",
+    "describe": "THE righteous singer shall o’ercome his enemies, and he who serves the Devas subdue the godless man.",
+    "feecting": "p:THE righteous singer shall o’ercome his enemies, and he who serves the Devas subdue the godless man.\np: The zealous man shall vanquish the invincible, the worshipper share the food of him who worships not.\r\np:Worship, thou hero, chase the arrogant afar: put on auspicious courage for the fight with foes. Prepare oblation so that tho. Mayst have success. we crave the favouring help of Soma.\np:He with his folk, his house, his family, his sons, gains booty for himself, and, with the heroes, wealth, who with oblation and a true believing heart serves Soma the Father of the Devas.\np:Whoso hath honoured him with offerings rich in oil, him Soma leads forward on his way, Saves him from sorrow, frees him from his enemy, and is his wonderful deliverer from woe.",
+    "meta": {
+      "next": "02027",
+      "previous": "02025",
+      "book": "02",
+      "source": "https://sacred-texts.com/hin/rigveda/rv02026.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv02026.htm"
+    },
+    "deities": []
   },
   "created": 1638554160041,
-  "updated": 1638792007553
+  "updated": 1638830291969
 }

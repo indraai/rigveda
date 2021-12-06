@@ -5,13 +5,38 @@
   "link": "hymns/04011.html",
   "api": "json/hymns/04011.json",
   "data": {
+    "key": "04011",
     "title": "HYMN XI. Agni.",
-    "describe": "THY blessed majesty, victorious Agni, shines brightly in the neighbourhood of S&#363;",
-    "feecting": "p:THY blessed majesty, victorious Agni, shines brightly in the neighbourhood of S&#363;rya.\np: Splendid to see, it shows even at nighttime, and food is fair to look on in thy beauty.\r\np:Agni, disclose his thought for him who singeth, the well, Strong God! while thou art praised with fervour. Vouchsafe to us that powerful hymn, O Mighty, which, Radiant One! with all the Devas thou lovest.\np:From thee, O Agni, springs poetic wisdom, from thee come thoughts and hymns of praise that prosper; From thee flows wealth, with heroes to adorn it, to the true-hearted man who gives oblation.\np:From thee the hero springs who wins the booty, bringer of help, mighty, of real courage. From thee comes wealth, sent by the Devas, bliss-giving; Agni, from thee the fleet impetuous charger.\np:Immortal Agni, thee whose voice is pleasant, as first in rank, as Deva, religious mortals Invite with hymns; thee who removest hatred, Friend of the Home, the household's Lord, unerring.\np:Far from us thou removest want and sorrow, far from us all ill-will when thou protectest. Son of Strength, Agni, blest is he at evening, whom thou as God attendest for his welfare.",
-    "next": "04012",
-    "previous": "04010",
-    "book": "04"
+    "describe": "THY blessed majesty, victorious Agni, shines brightly in the neighbourhood of Sūrya.",
+    "feecting": "p:THY blessed majesty, victorious Agni, shines brightly in the neighbourhood of Sūrya.\np: Splendid to see, it shows even at nighttime, and food is fair to look on in thy beauty.\r\np:Agni, disclose his thought for him who singeth, the well, Strong God! while thou art praised with fervour. Vouchsafe to us that powerful hymn, O Mighty, which, Radiant One! with all the Devas thou lovest.\np:From thee, O Agni, springs poetic wisdom, from thee come thoughts and hymns of praise that prosper; From thee flows wealth, with heroes to adorn it, to the true-hearted man who gives oblation.\np:From thee the hero springs who wins the booty, bringer of help, mighty, of real courage. From thee comes wealth, sent by the Devas, bliss-giving; Agni, from thee the fleet impetuous charger.\np:Immortal Agni, thee whose voice is pleasant, as first in rank, as Deva, religious mortals Invite with hymns; thee who removest hatred, Friend of the Home, the household's Lord, unerring.\np:Far from us thou removest want and sorrow, far from us all ill-will when thou protectest. Son of Strength, Agni, blest is he at evening, whom thou as God attendest for his welfare.",
+    "meta": {
+      "next": "04012",
+      "previous": "04010",
+      "book": "04",
+      "source": "https://sacred-texts.com/hin/rigveda/rv04011.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv04011.htm"
+    },
+    "deities": [
+      {
+        "name": "O Mighty",
+        "hymns": [
+          {
+            "key": "04011",
+            "title": "HYMN XI. Agni."
+          }
+        ]
+      },
+      {
+        "name": "O Agni",
+        "hymns": [
+          {
+            "key": "04011",
+            "title": "HYMN XI. Agni."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638554636307,
-  "updated": 1638792007681
+  "updated": 1638830292132
 }

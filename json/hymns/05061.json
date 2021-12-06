@@ -5,13 +5,33 @@
   "link": "hymns/05061.html",
   "api": "json/hymns/05061.json",
   "data": {
+    "key": "05061",
     "title": "HYMN LXI. Devas.",
     "describe": "O HEROES lordliest of all, who are ye that have singly come Forth from a region most remote?",
-    "feecting": "p:O HEROES lordliest of all, who are ye that have singly come Forth from a region most remote?\np:Where are your horses, where the reins? How came ye? how had ye the power? Rein was on nose and seat on back.\np:The whip is laid upon the flank. The heroes stretch their thighs apart, like women when the babe is born.\np:Go ye, O Heroes, far away, ye bridegrooms with a lovely Spouse That y. May warm you at the fire.\np:May she gain cattle for her meed, hundreds of sheep and steeds and kine, who threw embracing arms around the hero whom gyavaiva praised.\np:Yea, many a woman is more firm and better than the man who turns Away from Devas, andoffers not.\np:She who discerns the weak and worn, the man who thirsts and is in want She sets her mind upon the Devas.\np:And yet full many a one, unpraised, mean niggard, is entitled man: Only in weregild is he such.\np:And she, the young, the joyous-spirited, divulged the path to &#346;y&#257;va, yea, to me.\np: Two red steeds carried me to Purum&#299;lha's side, that sage of far-extended fame,\r\np:Him who, like Vaidadasvi, like Taranta, hath bestowed on me A hundred cows in liberal gift.\np:They who are borne by rapid steeds, drinking the meath that gives delight, they have attained high glories here.\np:They by whose splendour both the worlds are over-spread they shine on cars As the gold gleams above in Heaven.\np:That Marut band is ever young, borne on bright cars, unblamable, Moving to victory, checked by none.\np:Who knoweth, verily, of these where the All-shakers take delight, Born, spotless, after sacred Law?\np:Guides are ye, lovers of the song to mortal man through holy hymn, and hearers when he cries for help.\np:Do ye, destroyers of the foe, worshipful and exceeding bright, Send down the treasures that we crave.\np:OUrmya, bear thou far away to Darbhya this my hymn of praise, Songs, Goddess, as if chariot-borne.\np:From me to Rathaviti say, when he hath pressed the Soma juice, the wish I had departeth not.\np:This wealthy Rathaviti dwells among the people rich in kine, Among the mountains, far withdrawn.",
-    "next": "05062",
-    "previous": "05060",
-    "book": "05"
+    "feecting": "p:O HEROES lordliest of all, who are ye that have singly come Forth from a region most remote?\np:Where are your horses, where the reins? How came ye? how had ye the power? Rein was on nose and seat on back.\np:The whip is laid upon the flank. The heroes stretch their thighs apart, like women when the babe is born.\np:Go ye, O Heroes, far away, ye bridegrooms with a lovely Spouse That y. May warm you at the fire.\np:May she gain cattle for her meed, hundreds of sheep and steeds and kine, who threw embracing arms around the hero whom gyavaiva praised.\np:Yea, many a woman is more firm and better than the man who turns Away from Devas, andoffers not.\np:She who discerns the weak and worn, the man who thirsts and is in want She sets her mind upon the Devas.\np:And yet full many a one, unpraised, mean niggard, is entitled man: Only in weregild is he such.\np:And she, the young, the joyous-spirited, divulged the path to Śyāva, yea, to me.\np: Two red steeds carried me to Purumīlha's side, that sage of far-extended fame,\r\np:Him who, like Vaidadasvi, like Taranta, hath bestowed on me A hundred cows in liberal gift.\np:They who are borne by rapid steeds, drinking the meath that gives delight, they have attained high glories here.\np:They by whose splendour both the worlds are over-spread they shine on cars As the gold gleams above in Heaven.\np:That Marut band is ever young, borne on bright cars, unblamable, Moving to victory, checked by none.\np:Who knoweth, verily, of these where the All-shakers take delight, Born, spotless, after sacred Law?\np:Guides are ye, lovers of the song to mortal man through holy hymn, and hearers when he cries for help.\np:Do ye, destroyers of the foe, worshipful and exceeding bright, Send down the treasures that we crave.\np:OUrmya, bear thou far away to Darbhya this my hymn of praise, Songs, Goddess, as if chariot-borne.\np:From me to Rathaviti say, when he hath pressed the Soma juice, the wish I had departeth not.\np:This wealthy Rathaviti dwells among the people rich in kine, Among the mountains, far withdrawn.",
+    "meta": {
+      "next": "05062",
+      "previous": "05060",
+      "book": "05",
+      "source": "https://sacred-texts.com/hin/rigveda/rv05061.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv05061.htm"
+    },
+    "deities": [
+      {
+        "name": "O HEROES",
+        "hymns": [
+          {
+            "key": "05061",
+            "title": "HYMN LXI. Devas."
+          },
+          {
+            "key": "05061",
+            "title": "HYMN LXI. Devas."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638555208527,
-  "updated": 1638792007820
+  "updated": 1638830292300
 }

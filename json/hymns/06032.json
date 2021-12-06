@@ -5,13 +5,19 @@
   "link": "hymns/06032.html",
   "api": "json/hymns/06032.json",
   "data": {
+    "key": "06032",
     "title": "HYMN XXXII Indra.",
     "describe": "I WITH my lips have fashioned for this Hero words never matched, most plentiful and auspicious, for him the Ancient, Great, Strong, Energetic, the very mighty Wielder of the Thunder.",
     "feecting": "p:I WITH my lips have fashioned for this Hero words never matched, most plentiful and auspicious, for him the Ancient, Great, Strong, Energetic, the very mighty Wielder of the Thunder.\np:Amid the sages, with the Sun he brightened the Parents: glorified, he burst the mountain; And, roaring with the holy-thoughted singers, he loosed the bond that held the beams of Morning.\np:Famed for great deeds, with monks who kneel and laud him, he still hath conquered in the frays for cattle, and broken down the forts, the Fort-destroyer, a friend with friends, a Sage among the sages.\np:Come with thy girthed mares, with abundant vigour and plenteous strength to him who sings thy praises.\np: Come hither, borne by mares with many heroes, Lover of song! Steer! for the people's welfare.\r\np:Indra with rush and might, sped by his Coursers, hath swiftly won the waters from the southward. Thus set at liberty the rivers daily flow to their goal, incessant and exhaustless.",
-    "next": "06033",
-    "previous": "06031",
-    "book": "06"
+    "meta": {
+      "next": "06033",
+      "previous": "06031",
+      "book": "06",
+      "source": "https://sacred-texts.com/hin/rigveda/rv06032.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv06032.htm"
+    },
+    "deities": []
   },
   "created": 1638555515300,
-  "updated": 1638792007888
+  "updated": 1638830292388
 }

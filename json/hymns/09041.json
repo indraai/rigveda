@@ -5,13 +5,38 @@
   "link": "hymns/09041.html",
   "api": "json/hymns/09041.json",
   "data": {
+    "key": "09041",
     "title": "HYMN XLI. Indu.",
     "describe": "ACTIVE and bright have they come forth, impetuous in speed like bulls, Driving the black skin far away.",
-    "feecting": "p:ACTIVE and bright have they come forth, impetuous in speed like bulls, Driving the black skin far away.\np:Quelling the riteless Dasyu. May we think upon the bridge of bliss, Leaving the bridge of woe behind.\np:The mighty Indu's roar is heard as &#146;twere the rush of rain Lightnings are flashing to the sky.\np:Pour out on us abundant food, when thou art pressed, O Indu wealth In kine and gold and steeds and spoil.\np:Flow on thy way, most Active, thou. fill full the mighty heavens and Earth, as Dawn, as S&#363;rya with his beams.\np:On every side, O Soma, flow round us with thy protecting stream, as Ras&#257; flows around the world.",
-    "next": "09042",
-    "previous": "09040",
-    "book": "09"
+    "feecting": "p:ACTIVE and bright have they come forth, impetuous in speed like bulls, Driving the black skin far away.\np:Quelling the riteless Dasyu. May we think upon the bridge of bliss, Leaving the bridge of woe behind.\np:The mighty Indu's roar is heard as ’twere the rush of rain Lightnings are flashing to the sky.\np:Pour out on us abundant food, when thou art pressed, O Indu wealth In kine and gold and steeds and spoil.\np:Flow on thy way, most Active, thou. fill full the mighty heavens and Earth, as Dawn, as Sūrya with his beams.\np:On every side, O Soma, flow round us with thy protecting stream, as Rasā flows around the world.",
+    "meta": {
+      "next": "09042",
+      "previous": "09040",
+      "book": "09",
+      "source": "https://sacred-texts.com/hin/rigveda/rv09041.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv09041.htm"
+    },
+    "deities": [
+      {
+        "name": "O Indu",
+        "hymns": [
+          {
+            "key": "09041",
+            "title": "HYMN XLI. Indu."
+          }
+        ]
+      },
+      {
+        "name": "O Soma",
+        "hymns": [
+          {
+            "key": "09041",
+            "title": "HYMN XLI. Indu."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638557051451,
-  "updated": 1638792008233
+  "updated": 1638830292858
 }

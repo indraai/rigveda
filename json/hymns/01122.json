@@ -5,13 +5,47 @@
   "link": "hymns/01122.html",
   "api": "json/hymns/01122.json",
   "data": {
-    "title": "HYMN CXXII Vi&#347;vedevas.",
+    "key": "01122",
+    "title": "HYMN CXXII Devas.",
     "describe": "SAY, bringing offering to bounteous Soma, This juice for drink to you whose wrath is fleeting!",
-    "feecting": "p:SAY, bringing offering to bounteous Soma, This juice for drink to you whose wrath is fleeting! With Devas the Devas's Heroes I have lauded the Devas as with prayer to Earth and Heaven.\np:Strong to exalt the early invocation are Night and Dawn who show with varied aspect.\np: The Barren clothes her in wide-woven raiment, and fair Morn shines with S&#363;rya's golden splendour.\r\np:Cheer us the Roamer round, who strikes at morning, the Wind delight us, pourer forth of waters! Sharpen our wits, O Parvata and Indra, may all the Devas vouchsafe to us this favour.\np:And Au&#347;ija shall call for me that famous Pair who enjoy and drink, who come to brighten. Set ye the Offspring of the Floods before you; both Mothers of the Living One who beameth.\np:For you shall Au&#347;ija call him who thunders, as, to win Arjuna's assent, cried Gho&#7779;&#257;. I will invoke, that P&#363;&#7779;a. May be bounteous to you, the rich munificence of Agni.\np:Hear, Mitra-Varu&#7751;a, these mine invocations, hear them from all men in the hall of worship. Giver of famous gifts, kind hearer, Sindhu who gives fair fields, listen with all his waters!\np:Praised, Mitra, Varu&#7751;a! is your gift, a hundred cows to the P&#7771;k&#7779;ay&#257;mas and the Pajra. Presented by car-famous Priyaratha, supplying nourishment, they came directly.\np:Praised is the gift of him the very wealthy. May we enjoy it, men with hero children: His who hath many gifts to give the Pajras, a chief who makes me rich in cars and horses.\np:The folk, O Mitra-Varu&#7751;a, who hate you, who sinfully hating pour you no libations, Lay in their hearts, themselves, a wasting sickness, whereas the righteous gaineth all by worship.\np:That man, most puissant, wondrously urged onward, famed among heroes, liberal in giving, Moveth a warrior, evermore undaunted in all encounters even with the mighty.\np:Come to the man's, the calling: hear, Kings of Immortality, joy-givers! While ye who speed through clouds decree your bounty largely, for fame, to him the chariot rider.\np:Vigour will we bestow on that adorer whose tenfold draught we come to taste, so spake they. May all in whom rest splendour and great riches obtain refreshment in these offers.\np:We will rejoice to drink the tenfold present when the twicefive come bearing sacred offerings. What can he do whose steeds and reins are choicest? These, the all-potent, urge brave men to conquest.\np:The sea and all the Deities shall give us him with the golden ear and neck bejewelled. Dawns, hasting to the praises of the pious, be pleased with us, both offerers and singers.\np:Four youthful sons of Ma&#347;ar&#347;&#257;ra vex me, three, of the king, the conquering Ayavasa. Now like the Sun, O Varu&#7751;a and Mitra, your car hath shone, long-shaped and reined with splendour.",
-    "next": "01123",
-    "previous": "01121",
-    "book": "01"
+    "feecting": "p:SAY, bringing offering to bounteous Soma, This juice for drink to you whose wrath is fleeting! With Devas the Devas's Heroes I have lauded the Devas as with prayer to Earth and Heaven.\np:Strong to exalt the early invocation are Night and Dawn who show with varied aspect.\np: The Barren clothes her in wide-woven raiment, and fair Morn shines with Sūrya's golden splendour.\r\np:Cheer us the Roamer round, who strikes at morning, the Wind delight us, pourer forth of waters! Sharpen our wits, O Parvata and Indra, may all the Devas vouchsafe to us this favour.\np:And Auśija shall call for me that famous Pair who enjoy and drink, who come to brighten. Set ye the Offspring of the Floods before you; both Mothers of the Living One who beameth.\np:For you shall Auśija call him who thunders, as, to win Arjuna's assent, cried Ghoṣā. I will invoke, that Pūṣa. May be bounteous to you, the rich munificence of Agni.\np:Hear these mine invocations, hear them from all men in the hall of worship. Giver of famous gifts, kind hearer, Sindhu who gives fair fields, listen with all his waters!\np:Praised, Indra! is your gift, a hundred cows to the Pṛkṣayāmas and the Pajra. Presented by car-famous Priyaratha, supplying nourishment, they came directly.\np:Praised is the gift of him the very wealthy. May we enjoy it, men with hero children: His who hath many gifts to give the Pajras, a chief who makes me rich in cars and horses.\np:The folk, O Mitra-Indra, who hate you, who sinfully hating pour you no libations, Lay in their hearts, themselves, a wasting sickness, whereas the righteous gaineth all by worship.\np:That man, most puissant, wondrously urged onward, famed among heroes, liberal in giving, Moveth a warrior, evermore undaunted in all encounters even with the mighty.\np:Come to the man's, the calling: hear, Kings of Immortality, joy-givers! While ye who speed through clouds decree your bounty largely, for fame, to him the chariot rider.\np:Vigour will we bestow on that adorer whose tenfold draught we come to taste, so spake they. May all in whom rest splendour and great riches obtain refreshment in these offers.\np:We will rejoice to drink the tenfold present when the twicefive come bearing sacred offerings. What can he do whose steeds and reins are choicest? These, the all-potent, urge brave men to conquest.\np:The sea and all the Deities shall give us him with the golden ear and neck bejewelled. Dawns, hasting to the praises of the pious, be pleased with us, both offerers and singers.\np:Four youthful sons of Maśarśāra vex me, three, of the king, the conquering Ayavasa. Now like the Sun, O Indra and Mitra, your car hath shone, long-shaped and reined with splendour.",
+    "meta": {
+      "next": "01123",
+      "previous": "01121",
+      "book": "01",
+      "source": "https://sacred-texts.com/hin/rigveda/rv01122.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv01122.htm"
+    },
+    "deities": [
+      {
+        "name": "O Parvata",
+        "hymns": [
+          {
+            "key": "01122",
+            "title": "HYMN CXXII Devas."
+          }
+        ]
+      },
+      {
+        "name": "O Mitra",
+        "hymns": [
+          {
+            "key": "01122",
+            "title": "HYMN CXXII Devas."
+          }
+        ]
+      },
+      {
+        "name": "O Indra",
+        "hymns": [
+          {
+            "key": "01122",
+            "title": "HYMN CXXII Devas."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638553656964,
-  "updated": 1638792007436
+  "updated": 1638830291804
 }

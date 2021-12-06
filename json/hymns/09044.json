@@ -5,13 +5,19 @@
   "link": "hymns/09044.html",
   "api": "json/hymns/09044.json",
   "data": {
+    "key": "09044",
     "title": "HYMN XLIV. Indu.",
-    "describe": "INDU, to us for this great rite, bearing as &#146;",
-    "feecting": "p:INDU, to us for this great rite, bearing as &#146;twere thy wave to Devas, Unwearied, thou art flowing forQh.\np:Pleased with the hymn, impelled by prayer, Soma is hurried far away, the Wise One in the Singer's stream.,\np:Watchful among the. gods, this juice advances to the cleansing sieve Soma, most active, travels on.\np:Flow onward, seeking strength for us, embellishing the offering: The priest with trimmed grass calleth thee.\np:May Soma, ever bringing power to Bhaga and to V&#257;yu, Sage And Hero, lead us to the Devas.\np:So, to increase our wealth to-day, inspirer, best of Furtherers, Win for us strength and high renown.",
-    "next": "09045",
-    "previous": "09043",
-    "book": "09"
+    "describe": "INDU, to us for this great rite, bearing as ’twere thy wave to Devas, Unwearied, thou art flowing forQh.",
+    "feecting": "p:INDU, to us for this great rite, bearing as ’twere thy wave to Devas, Unwearied, thou art flowing forQh.\np:Pleased with the hymn, impelled by prayer, Soma is hurried far away, the Wise One in the Singer's stream.,\np:Watchful among the. gods, this juice advances to the cleansing sieve Soma, most active, travels on.\np:Flow onward, seeking strength for us, embellishing the offering: The priest with trimmed grass calleth thee.\np:May Soma, ever bringing power to Bhaga and to Soma, Sage And Hero, lead us to the Devas.\np:So, to increase our wealth to-day, inspirer, best of Furtherers, Win for us strength and high renown.",
+    "meta": {
+      "next": "09045",
+      "previous": "09043",
+      "book": "09",
+      "source": "https://sacred-texts.com/hin/rigveda/rv09044.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv09044.htm"
+    },
+    "deities": []
   },
   "created": 1638557067244,
-  "updated": 1638792008235
+  "updated": 1638830292861
 }

@@ -5,13 +5,38 @@
   "link": "hymns/10070.html",
   "api": "json/hymns/10070.json",
   "data": {
-    "title": "HYMN LXX. &#256;pr&#299;s.",
+    "key": "10070",
+    "title": "HYMN LXX. Indu.",
     "describe": "ENJOY, O Agni, this my Fuel, welcome the oil-filled ladle where we pour libation.",
-    "feecting": "p:ENJOY, O Agni, this my Fuel, welcome the oil-filled ladle where we pour libation.\np: Rise up for worship of the Devas, wise Agni, on the Earth's height, while days are bright with beauty.\r\np:May he who goes before the Devas come hither with steeds whose shapes are varied, Narasarhsa. May he, most Godlike, speed our offered offerings with homage God-ward on the path of Order.\np:Men with oblations laud most constant Agni, and pray him to perform an envoy's duty. With lightly-rolling car and best draught-horses, bring the Devas hither and sit down as Hotar.\np:May the delight of Devas spread out transversely. May it be with us long in length and fragrant. O Holy Grass divine, with friendly spirit bring thou the willing Devas whose Chief is Indra.\np:Touch ye the far-extending height of Heaven or spring apart to suit the wide Earth's measure. Yearning, ye Doors, with those sublime in greatness, seize eagerly the heavenly Car that cometh.\np:Here in this shrin. May Dawn and Night, the Daughters of Heaven, the skilful Goddesses, be seated. In your wide lap, auspicious, willing Ladie. May the Devas seat them with a willing spirit.\np:Up stands the stone, high burns the fire enkindled: Aditi's lap contains the Friendly Natures Ye Two Chief Monks who serve at this our worship. May ye, more skilled, win for us rich possessions.\np:On our wide grass, Three Goddesses be seated: for you have we prepared and made it pleasant. May I&#7735;&#257;, she whose foot drops oildess, taste, man-like, offering and well-set presents.\np:Since thou, God Tva&#7779;&#7789;ar, hast made beauty perfect, since hou hast been the A&#7749;girases' Companion, Willing, most wealthy, Giver of possessions, grant us the Devas&#146; assembly, thou who knowest.\np:Well-knowing, binding with thy cord, bring hither, Lord of the Wood, the Deities' assembly. The God prepare and season our oblation. May Heaven and Earth be gracious to my calling.\np:Agni, bring hither Varu&#7751;a to help us, Indra from Heaven, from air's mid-realm the Devas. On sacred grass all Holy ones be seated and let the Immortal Devas rejoice in Sv&#257;h&#257;.",
-    "next": "10071",
-    "previous": "10069",
-    "book": "10"
+    "feecting": "p:ENJOY, O Agni, this my Fuel, welcome the oil-filled ladle where we pour libation.\np: Rise up for worship of the Devas, wise Agni, on the Earth's height, while days are bright with beauty.\r\np:May he who goes before the Devas come hither with steeds whose shapes are varied, Narasarhsa. May he, most Godlike, speed our offered offerings with homage God-ward on the path of Order.\np:Men with oblations laud most constant Agni, and pray him to perform an envoy's duty. With lightly-rolling car and best draught-horses, bring the Devas hither and sit down as Hotar.\np:May the delight of Devas spread out transversely. May it be with us long in length and fragrant. O Holy Grass divine, with friendly spirit bring thou the willing Devas whose Chief is Indra.\np:Touch ye the far-extending height of Heaven or spring apart to suit the wide Earth's measure. Yearning, ye Doors, with those sublime in greatness, seize eagerly the heavenly Car that cometh.\np:Here in this shrin. May Dawn and Night, the Daughters of Heaven, the skilful Goddesses, be seated. In your wide lap, auspicious, willing Ladie. May the Devas seat them with a willing spirit.\np:Up stands the stone, high burns the fire enkindled: Aditi's lap contains the Friendly Natures Ye Two Chief Monks who serve at this our worship. May ye, more skilled, win for us rich possessions.\np:On our wide grass, Three Goddesses be seated: for you have we prepared and made it pleasant. May Iḷā, she whose foot drops oildess, taste, man-like, offering and well-set presents.\np:Since thou, God Tvaṣṭar, hast made beauty perfect, since hou hast been the Aṅgirases' Companion, Willing, most wealthy, Giver of possessions, grant us the Devas’ assembly, thou who knowest.\np:Well-knowing, binding with thy cord, bring hither, Lord of the Wood, the Deities' assembly. The God prepare and season our oblation. May Heaven and Earth be gracious to my calling.\np:Agni, bring hither Indra to help us, Indra from Heaven, from air's mid-realm the Devas. On sacred grass all Holy ones be seated and let the Immortal Devas rejoice in Svāhā.",
+    "meta": {
+      "next": "10071",
+      "previous": "10069",
+      "book": "10",
+      "source": "https://sacred-texts.com/hin/rigveda/rv10070.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv10070.htm"
+    },
+    "deities": [
+      {
+        "name": "O Agni",
+        "hymns": [
+          {
+            "key": "10070",
+            "title": "HYMN LXX. Indu."
+          }
+        ]
+      },
+      {
+        "name": "O Holy",
+        "hymns": [
+          {
+            "key": "10070",
+            "title": "HYMN LXX. Indu."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638557808911,
-  "updated": 1638792008486
+  "updated": 1638830293116
 }

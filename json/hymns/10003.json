@@ -5,13 +5,29 @@
   "link": "hymns/10003.html",
   "api": "json/hymns/10003.json",
   "data": {
+    "key": "10003",
     "title": "HYMN III. Agni.",
     "describe": "O KING, the potent and terrific envoy, kindled for strength, is manifest in beauty.",
-    "feecting": "p:O KING, the potent and terrific envoy, kindled for strength, is manifest in beauty.\np: He shines, all-knowing, with his lotty splendour: chasing black Night he comes with white-rayed Morning.\r\np:Having o&#146;ercome the glimmering Black with beauty, and bringing forth the dame the Great Sire's Daughter, Holding aloft the radiant light of S&#363;rya, as messenger of Heaven he shines with treasures.\np:Attendant on the Blessed Dame the Blessed hath come: the Lover followeth his Sister. Agni, far-spreading with conspicuous lustre, hath compassed Night with whitelyshining garments.\np:His goings-forth kindle as &#146;twere high voices the goings of the auspicious Friend of Agni. The rays, the bright beams of the strong-jawed, mighty, adorable Steer are visible as he cometh.\np:Whose radiant splendours flow, like sounds, about us, his who is lofty, brilliant, and effulgent, who reaches Heaven with best and brightest lustres, sportive and piercing even to the summit.\np:His powers, whose chariot fellies gleam and glitter have loudly roared while, as with teams, he hasted. He, the most Godlike, far-extending envoy, shines with flames ancient, resonant, whitely-shining.\np:So bring us ample wealth: seat thee as envoy of the two youthful Matrons, Earth and Heaven. Let Agni rapid with his rapid, horses, impetuous with impetuous Steeds, come hither.",
-    "next": "10004",
-    "previous": "10002",
-    "book": "10"
+    "feecting": "p:O KING, the potent and terrific envoy, kindled for strength, is manifest in beauty.\np: He shines, all-knowing, with his lotty splendour: chasing black Night he comes with white-rayed Morning.\r\np:Having o’ercome the glimmering Black with beauty, and bringing forth the dame the Great Sire's Daughter, Holding aloft the radiant light of Sūrya, as messenger of Heaven he shines with treasures.\np:Attendant on the Blessed Dame the Blessed hath come: the Lover followeth his Sister. Agni, far-spreading with conspicuous lustre, hath compassed Night with whitelyshining garments.\np:His goings-forth kindle as ’twere high voices the goings of the auspicious Friend of Agni. The rays, the bright beams of the strong-jawed, mighty, adorable Steer are visible as he cometh.\np:Whose radiant splendours flow, like sounds, about us, his who is lofty, brilliant, and effulgent, who reaches Heaven with best and brightest lustres, sportive and piercing even to the summit.\np:His powers, whose chariot fellies gleam and glitter have loudly roared while, as with teams, he hasted. He, the most Godlike, far-extending envoy, shines with flames ancient, resonant, whitely-shining.\np:So bring us ample wealth: seat thee as envoy of the two youthful Matrons, Earth and Heaven. Let Agni rapid with his rapid, horses, impetuous with impetuous Steeds, come hither.",
+    "meta": {
+      "next": "10004",
+      "previous": "10002",
+      "book": "10",
+      "source": "https://sacred-texts.com/hin/rigveda/rv10003.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv10003.htm"
+    },
+    "deities": [
+      {
+        "name": "O KING",
+        "hymns": [
+          {
+            "key": "10003",
+            "title": "HYMN III. Agni."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638557451846,
-  "updated": 1638792008358
+  "updated": 1638830292967
 }

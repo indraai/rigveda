@@ -5,13 +5,33 @@
   "link": "hymns/07064.html",
   "api": "json/hymns/07064.json",
   "data": {
-    "title": "HYMN LXIV. Mitra-Varu&#7751;a.",
+    "key": "07064",
+    "title": "HYMN LXIV. Mitra-Indra.",
     "describe": "YE Twain who rule, in Heaven and Earth, the region, clothed be your clouds in robes of oil and fatness.",
-    "feecting": "p:YE Twain who rule, in Heaven and Earth, the region, clothed be your clouds in robes of oil and fatness.\np: May the imperial Varu&#7751;a, and Mitra, and high-born Aryaman accept our presents.\r\np:Kings, guards of rrtighty everlasting Order, come hitherward, ye Princes, Lords of Rivers. Send us from Heaven, O Varu&#7751;a and Mitra, rain and sweet food, ye who pour down your bounties.\np:May the dear Deva, and Varu&#7751;a and Mitra conduct us by the most effective pathways, that foe. May say unto Sud&#257;s our chieftain, May, we, too, joy in food with Devas to guard us.\np:Him who hath wrought for you this car in spirit, who makes the song rise upward and sustains it, bedew with fatness, Varu&#7751;a nd Mitra ye Kings, make glad the pleasant dwelling-places.\np:To you this laud, O Varu&#7751;a and Mitra is offered like bright Soma juice to V&#257;yu. Favour our songs of praise, wake thought and spirit. Preserve us evermore, ye Devas, with blessings.",
-    "next": "07065",
-    "previous": "07063",
-    "book": "07"
+    "feecting": "p:YE Twain who rule, in Heaven and Earth, the region, clothed be your clouds in robes of oil and fatness.\np: May the imperial Indra, and Mitra, and high-born Aryaman accept our presents.\r\np:Kings, guards of rrtighty everlasting Order, come hitherward, ye Princes, Lords of Rivers. Send us from Heaven, O Indra and Mitra, rain and sweet food, ye who pour down your bounties.\np:May the dear Deva, and Indra and Mitra conduct us by the most effective pathways, that foe. May say unto Sudās our chieftain, may, we, too, joy in food with Devas to guard us.\np:Him who hath wrought for you this car in spirit, who makes the song rise upward and sustains it, bedew with fatness, Indra nd Mitra ye Kings, make glad the pleasant dwelling-places.\np:To you this laud, O Indra and Mitra is offered like bright Soma juice to Soma. Favour our songs of praise, wake thought and spirit. Preserve us evermore, ye Devas, with blessings.",
+    "meta": {
+      "next": "07065",
+      "previous": "07063",
+      "book": "07",
+      "source": "https://sacred-texts.com/hin/rigveda/rv07064.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv07064.htm"
+    },
+    "deities": [
+      {
+        "name": "O Indra",
+        "hymns": [
+          {
+            "key": "07064",
+            "title": "HYMN LXIV. Mitra-Indra."
+          },
+          {
+            "key": "07064",
+            "title": "HYMN LXIV. Mitra-Indra."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638556080307,
-  "updated": 1638792008007
+  "updated": 1638830292584
 }

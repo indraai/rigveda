@@ -5,13 +5,38 @@
   "link": "hymns/05021.html",
   "api": "json/hymns/05021.json",
   "data": {
+    "key": "05021",
     "title": "HYMN XXI. Agni.",
     "describe": "WE stablish thee as Manus used, as Manus used we kindle thee.",
-    "feecting": "p:WE stablish thee as Manus used, as Manus used we kindle thee.\np: Like Manus, for the pious man , A&#7749;giras, Agni, worship Devas.\r\np:For well, O Agni, art thou pleased when thou art kindled mid mankind. Straight go the ladles unto thee, thou highborn Deva whose food is oil.\np:Thee have all Devas of one accord established as their messenger. Serving at offers men adore thee as a Deva, O Sage.\np:Let mortal man adore your Deva, Agni, with worship due to Devas. Shine forth enkindled, Radiant One. Sit in the chamber of the Law, sit in the chamber of the food.",
-    "next": "05022",
-    "previous": "05020",
-    "book": "05"
+    "feecting": "p:WE stablish thee as Manus used, as Manus used we kindle thee.\np: Like Manus, for the pious man , Aṅgiras, Agni, worship Devas.\r\np:For well, O Agni, art thou pleased when thou art kindled mid mankind. Straight go the ladles unto thee, thou highborn Deva whose food is oil.\np:Thee have all Devas of one accord established as their messenger. Serving at offers men adore thee as a Deva, O Sage.\np:Let mortal man adore your Deva, Agni, with worship due to Devas. Shine forth enkindled, Radiant One. Sit in the chamber of the Law, sit in the chamber of the food.",
+    "meta": {
+      "next": "05022",
+      "previous": "05020",
+      "book": "05",
+      "source": "https://sacred-texts.com/hin/rigveda/rv05021.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv05021.htm"
+    },
+    "deities": [
+      {
+        "name": "O Agni",
+        "hymns": [
+          {
+            "key": "05021",
+            "title": "HYMN XXI. Agni."
+          }
+        ]
+      },
+      {
+        "name": "O Sage",
+        "hymns": [
+          {
+            "key": "05021",
+            "title": "HYMN XXI. Agni."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638554996023,
-  "updated": 1638792007767
+  "updated": 1638830292237
 }

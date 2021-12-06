@@ -5,13 +5,42 @@
   "link": "hymns/01084.html",
   "api": "json/hymns/01084.json",
   "data": {
+    "key": "01084",
     "title": "HYMN LXXXIV. Indra.",
     "describe": "The Soma hath been pressed for thee, O Indra;",
-    "feecting": "p:The Soma hath been pressed for thee, O Indra; mightiest, bold One, come.\np: May Indra-vigour fill thee full, as the Sun fills mid-air with rays.\r\np:His pair of Tawny Coursers bring Indra of unresisted might Hither to &#7770;&#7779;is&#146; songs of praise and offering performed by men.\np:Slayer of V&#7771;tra, mount thy car; thy Bay Steeds have been yoked by prayer. May, with its voice, the pressing-stone draw thine attention hitherward.\np:This poured libation, Indra, drink, immortal, gladdening, excellent. Streams of the bright have flowed to thee here at the seat of holy Law.\np:Sing glory now to Indra, say to him your solemn eulogies. The drops poured forth have made him glad: pay reverence to his might supreme.\np:When, Indra, thou dost yoke thy Steeds, there is no better charioteer: None hath surpassed thee in thy might, none with good steeds o&#146;ertaken thee.\np:He who alone bestoweth on mortal man who offereth gifts, the ruler of resistless power, is Indra, sure.\np:When will he trample, like a weed, the man who hath no gift for him? When, verily, will Indra hear our songs of praise?\np:He who with Soma juice prepared amid the many honours thee,&#151; Verily Indra gains thereby tremendous might.\np:The juice of Soma thus diffused, sweet to the taste, the bright cows drink, who for the sake of splendour close to mighty Indra's side rejoice, good in their own supremacy.\np:Craving his touch the dappled kine mingle the Soma with their milk. The milch-kine dear to Indra send forth his death-dealing thunderbolt, good in their own supremacy.\np:With veneration, passing wise, honouring his victorious might, they follow close his many laws to win them due preeminence, good in their own supremacy.\np:With bones of Dadhyach for his arms, Indra, resistless in attack, Struck nine-and-ninety V&#7771;tras dead.\np:He, searching for the horse's head, removed among the mountains, found At &#346;arya&#7751;&#257;v&#257;n what he sought.\np:Then verily they recognized the essential form of Tva&#7779;&#7789;ar's Bull. Here in the mansion of the Moon.\np:Who yokes to-day unto the pole of Order the strong and passionate steers of checkless spirit, with shaft-armed mouths, heart-piercing, health-bestowing? Long shall he live who richly pays their service.\np:Who fleeth forth? who suffereth? who feareth? Who knoweth Indra present, Indra near us? Who sendeth benediction on his offspring, his household, wealth and person, and the People?\np:Who with poured oil and offering honours Agni, with ladle worships at appointed seasons? To whom to the Devas bring oblation quickly? What offerer, God-favoured, knows him thoroughly?\np:Thou as a Deva, O Mightiest, verily blessest mortal man. O Indra, there is no comforter but thou: Indra, I speak my words to thee.\np:Let not thy bounteous gifts, let not thy saving help fail us, good Lord, at any time; And measure out to us, thou lover of mankind, all riches hitherward from men.",
-    "next": "01085",
-    "previous": "01083",
-    "book": "01"
+    "feecting": "p:The Soma hath been pressed for thee, O Indra; mightiest, bold One, come.\np: May Indra-vigour fill thee full, as the Sun fills mid-air with rays.\r\np:His pair of Tawny Coursers bring Indra of unresisted might Hither to Ṛṣis’ songs of praise and offering performed by men.\np:Slayer of Vṛtra, mount thy car; thy Bay Steeds have been yoked by prayer. May, with its voice, the pressing-stone draw thine attention hitherward.\np:This poured libation, Indra, drink, immortal, gladdening, excellent. Streams of the bright have flowed to thee here at the seat of holy Law.\np:Sing glory now to Indra, say to him your solemn eulogies. The drops poured forth have made him glad: pay reverence to his might supreme.\np:When, Indra, thou dost yoke thy Steeds, there is no better charioteer: None hath surpassed thee in thy might, none with good steeds o’ertaken thee.\np:He who alone bestoweth on mortal man who offereth gifts, the ruler of resistless power, is Indra, sure.\np:When will he trample, like a weed, the man who hath no gift for him? When, verily, will Indra hear our songs of praise?\np:He who with Soma juice prepared amid the many honours thee. Verily Indra gains thereby tremendous might.\np:The juice of Soma thus diffused, sweet to the taste, the bright cows drink, who for the sake of splendour close to mighty Indra's side rejoice, good in their own supremacy.\np:Craving his touch the dappled kine mingle the Soma with their milk. The milch-kine dear to Indra send forth his death-dealing thunderbolt, good in their own supremacy.\np:With veneration, passing wise, honouring his victorious might, they follow close his many laws to win them due preeminence, good in their own supremacy.\np:With bones of Dadhyach for his arms, Indra, resistless in attack, Struck nine-and-ninety Vṛtras dead.\np:He, searching for the horse's head, removed among the mountains, found At Śaryaṇāvān what he sought.\np:Then verily they recognized the essential form of Tvaṣṭar's Bull. Here in the mansion of the Moon.\np:Who yokes to-day unto the pole of Order the strong and passionate steers of checkless spirit, with shaft-armed mouths, heart-piercing, health-bestowing? Long shall he live who richly pays their service.\np:Who fleeth forth? who suffereth? who feareth? Who knoweth Indra present, Indra near us? Who sendeth benediction on his offspring, his household, wealth and person, and the People?\np:Who with poured oil and offering honours Agni, with ladle worships at appointed seasons? To whom to the Devas bring oblation quickly? What offerer, God-favoured, knows him thoroughly?\np:Thou as a Deva, O Mightiest, verily blessest mortal man. O Indra, there is no comforter but thou: Indra, I speak my words to thee.\np:Let not thy bounteous gifts, let not thy saving help fail us, good Lord, at any time; And measure out to us, thou lover of mankind, all riches hitherward from men.",
+    "meta": {
+      "next": "01085",
+      "previous": "01083",
+      "book": "01",
+      "source": "https://sacred-texts.com/hin/rigveda/rv01084.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv01084.htm"
+    },
+    "deities": [
+      {
+        "name": "O Indra",
+        "hymns": [
+          {
+            "key": "01084",
+            "title": "HYMN LXXXIV. Indra."
+          },
+          {
+            "key": "01084",
+            "title": "HYMN LXXXIV. Indra."
+          }
+        ]
+      },
+      {
+        "name": "O Mightiest",
+        "hymns": [
+          {
+            "key": "01084",
+            "title": "HYMN LXXXIV. Indra."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638553456200,
-  "updated": 1638792007386
+  "updated": 1638830291710
 }

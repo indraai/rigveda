@@ -5,13 +5,47 @@
   "link": "hymns/01080.html",
   "api": "json/hymns/01080.json",
   "data": {
+    "key": "01080",
     "title": "HYMN LXXX. Indra.",
     "describe": "THUS in the Soma, in wild joy the Brahman hath exalted thee: Thou, mightiest thunder-armed, hast driven by force the Dragon from the Earth, lauding thine own imperial sway.",
-    "feecting": "p:THUS in the Soma, in wild joy the Brahman hath exalted thee: Thou, mightiest thunder-armed, hast driven by force the Dragon from the Earth, lauding thine own imperial sway.\np:The mighty flowing Soma-draught, brought by the Hawk, hath gladdened thee, that in thy strength, O Thunderer, thou hast struck down V&#7771;tra from the floods, lauding thine own imperial sway.\np:Go forward, meet the foe, be bold; thy bolt of thunder is not checked.\np: Manliness, Indra, is thy might: stay V&#7771;tra, make the waters thine, lauding thine own imperial sway.\r\np:Thou smotest V&#7771;tra from the Earth, smotest him, Indra, from the sky. Let these life-fostering waters flow attended by the Marut host, lauding thine own imperial sway.\np:The wrathful Indra with his bolt of thunder rushing on the foe, Smote fierce on trembling V&#7771;tra's back, and loosed the waters free to run, lauding his own imperial sway.\np:With hundred-jointed thunderbolt Indra hath struck him on the back, and, while rejoicing in the juice, seeketh prosperity for friends, lauding his own imperial sway.\np:Indra, unconquered might is thine, Thunderer, Caster of the Stone; For thou with thy surpassing power smotest to death the guileful beast, lauding thine own imperial sway.\np:Far over ninety spacious floods thy thunderbolts were cast abroad: Great, Indra, is thy hero might, and strength is seated in thine arms, lauding thine own imperial sway.\np:Laud him a thousand all at once, shout twenty forth the hymn of praise. Hundreds have sung aloud to him, to Indra hath the prayer been raised, lauding his own imperial sway.\np:Indra hath smitten down the power of V&#7771;tra,&#151;might with stronger might. This was his manly exploit, he slew V&#7771;tra and let loose the floods, lauding his own imperial sway.\np:Yea, even this great Pair of Worlds trembled in terror at thy wrath, when, Indra, Thunderer, Marut-girt, thou slewest V&#7771;tra in thy strength, lauding thine own imperial sway.\np:But V&#7771;tra scared not Indra with his shaking or his thunder roar. On him that iron thunderbolt fell fiercely with its thousand points, lauding his own imperial sway.\np:When with the thunder thou didst make thy dart and V&#7771;tra meet in war, Thy might, O Indra, fain to subdue the Dragon, was set firm in Heaven, lauding thine own imperial sway.\np:When at thy shout, O Thunder-armed, each thing both fixed and moving shook, E&#146;en Tva&#7779;&#7789;ar trembled at thy wrath and quaked with fear because of thee, lauding thine own imperial sway.\np:There is not, in our knowledge, one who passeth Indra in his strength: In him the Deities have stored manliness, insight, power and might, lauding his own imperial sway.\np:Still as of old, whatever rite Atharvan, Manus sire of all, Dadhyach performed, their prayer and praise united in that Indra meet, lauding his own imperial sway.",
-    "next": "01081",
-    "previous": "01079",
-    "book": "01"
+    "feecting": "p:THUS in the Soma, in wild joy the Brahman hath exalted thee: Thou, mightiest thunder-armed, hast driven by force the Dragon from the Earth, lauding thine own imperial sway.\np:The mighty flowing Soma-draught, brought by the Hawk, hath gladdened thee, that in thy strength, O Thunderer, thou hast struck down Vṛtra from the floods, lauding thine own imperial sway.\np:Go forward, meet the foe, be bold; thy bolt of thunder is not checked.\np: Manliness, Indra, is thy might: stay Vṛtra, make the waters thine, lauding thine own imperial sway.\r\np:Thou smotest Vṛtra from the Earth, smotest him, Indra, from the sky. Let these life-fostering waters flow attended by the Marut host, lauding thine own imperial sway.\np:The wrathful Indra with his bolt of thunder rushing on the foe, Smote fierce on trembling Vṛtra's back, and loosed the waters free to run, lauding his own imperial sway.\np:With hundred-jointed thunderbolt Indra hath struck him on the back, and, while rejoicing in the juice, seeketh prosperity for friends, lauding his own imperial sway.\np:Indra, unconquered might is thine, Thunderer, Caster of the Stone; For thou with thy surpassing power smotest to death the guileful beast, lauding thine own imperial sway.\np:Far over ninety spacious floods thy thunderbolts were cast abroad: Great, Indra, is thy hero might, and strength is seated in thine arms, lauding thine own imperial sway.\np:Laud him a thousand all at once, shout twenty forth the hymn of praise. Hundreds have sung aloud to him, to Indra hath the prayer been raised, lauding his own imperial sway.\np:Indra hath smitten down the power of Vṛtra.might with stronger might. This was his manly exploit, he slew Vṛtra and let loose the floods, lauding his own imperial sway.\np:Yea, even this great Pair of Worlds trembled in terror at thy wrath, when, Indra, Thunderer, Marut-girt, thou slewest Vṛtra in thy strength, lauding thine own imperial sway.\np:But Vṛtra scared not Indra with his shaking or his thunder roar. On him that iron thunderbolt fell fiercely with its thousand points, lauding his own imperial sway.\np:When with the thunder thou didst make thy dart and Vṛtra meet in war, Thy might, O Indra, fain to subdue the Dragon, was set firm in Heaven, lauding thine own imperial sway.\np:When at thy shout, O Thunder-armed, each thing both fixed and moving shook, E’en Tvaṣṭar trembled at thy wrath and quaked with fear because of thee, lauding thine own imperial sway.\np:There is not, in our knowledge, one who passeth Indra in his strength: In him the Deities have stored manliness, insight, power and might, lauding his own imperial sway.\np:Still as of old, whatever rite Atharvan, Manus sire of all, Dadhyach performed, their prayer and praise united in that Indra meet, lauding his own imperial sway.",
+    "meta": {
+      "next": "01081",
+      "previous": "01079",
+      "book": "01",
+      "source": "https://sacred-texts.com/hin/rigveda/rv01080.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv01080.htm"
+    },
+    "deities": [
+      {
+        "name": "O Thunderer",
+        "hymns": [
+          {
+            "key": "01080",
+            "title": "HYMN LXXX. Indra."
+          }
+        ]
+      },
+      {
+        "name": "O Indra",
+        "hymns": [
+          {
+            "key": "01080",
+            "title": "HYMN LXXX. Indra."
+          }
+        ]
+      },
+      {
+        "name": "O Thunder",
+        "hymns": [
+          {
+            "key": "01080",
+            "title": "HYMN LXXX. Indra."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638553435131,
-  "updated": 1638792007381
+  "updated": 1638830291703
 }

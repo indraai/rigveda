@@ -5,13 +5,47 @@
   "link": "hymns/07008.html",
   "api": "json/hymns/07008.json",
   "data": {
+    "key": "07008",
     "title": "HYMN VIII. Agni",
     "describe": "THE King whose face is decked with oil is kindled with homage offered by his faithful servant.",
-    "feecting": "p:THE King whose face is decked with oil is kindled with homage offered by his faithful servant.\np: The men, the monks adore him with oblations. Agni hath shone forth when the dawn is breaking.\r\np:Yea, he hath been acknowledged as most mighty, the joyous Monk of men, the youthful Agni. He, spreading o&#146;er the Earth, made light around him, and grew among the plants with blackened fellies..\np:How dost thou decorate our hymn, O Agni? What power dost thou exert when thou art lauded? When, Bounteous Deva. May we be lords of riches, winners of precious wealth which non. May conquer?\np:Far famed is this the Bh&#257;rata's own Agni he shineth like the Sun with lofty splendour. He who hath vanquished P&#363;ru in the battle, the heavenly guest hath glowed in full refulgence.\np:Full many oblations are in thee collected: with all thine aspects thou hast waxen gracious. Thou art already famed as praised and lauded, yet still, O nobly born, increase thy body.\np:Be this my song, that winneth countless treasure, engendered with redoubled force for Agni, that, splendid, chasing sickness, subduing demons, i. May delight our friend and bless the singers.\np:We now implore thee, Agni, O Son of Strength, the Lord of wealth and riches. Thou hast brought food to us. Ye Devas, preserve us evermore with blessings.",
-    "next": "07009",
-    "previous": "07007",
-    "book": "07"
+    "feecting": "p:THE King whose face is decked with oil is kindled with homage offered by his faithful servant.\np: The men, the monks adore him with oblations. Agni hath shone forth when the dawn is breaking.\r\np:Yea, he hath been acknowledged as most mighty, the joyous Monk of men, the youthful Agni. He, spreading o’er the Earth, made light around him, and grew among the plants with blackened fellies..\np:How dost thou decorate our hymn, O Agni? What power dost thou exert when thou art lauded? When, Bounteous Deva. May we be lords of riches, winners of precious wealth which non. May conquer?\np:Far famed is this the Bhārata's own Agni he shineth like the Sun with lofty splendour. He who hath vanquished Pūru in the battle, the heavenly guest hath glowed in full refulgence.\np:Full many oblations are in thee collected: with all thine aspects thou hast waxen gracious. Thou art already famed as praised and lauded, yet still, O nobly born, increase thy body.\np:Be this my song, that winneth countless treasure, engendered with redoubled force for Agni, that, splendid, chasing sickness, subduing demons, i. May delight our friend and bless the singers.\np:We now implore thee, Agni, O Son of Strength, the Lord of wealth and riches. Thou hast brought food to us. Ye Devas, preserve us evermore with blessings.",
+    "meta": {
+      "next": "07009",
+      "previous": "07007",
+      "book": "07",
+      "source": "https://sacred-texts.com/hin/rigveda/rv07008.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv07008.htm"
+    },
+    "deities": [
+      {
+        "name": "O Agni",
+        "hymns": [
+          {
+            "key": "07008",
+            "title": "HYMN VIII. Agni"
+          }
+        ]
+      },
+      {
+        "name": "O nobly",
+        "hymns": [
+          {
+            "key": "07008",
+            "title": "HYMN VIII. Agni"
+          }
+        ]
+      },
+      {
+        "name": "O Son",
+        "hymns": [
+          {
+            "key": "07008",
+            "title": "HYMN VIII. Agni"
+          }
+        ]
+      }
+    ]
   },
   "created": 1638555784641,
-  "updated": 1638792007948
+  "updated": 1638830292483
 }

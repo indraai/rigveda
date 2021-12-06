@@ -5,13 +5,42 @@
   "link": "hymns/07068.html",
   "api": "json/hymns/07068.json",
   "data": {
-    "title": "HYMN LXVIII. A&#347;vins.",
-    "describe": "COME, radiant A&#347;",
-    "feecting": "p:COME, radiant A&#347;vins, with your noble horses: accept your servant's hymns, ye Wonder-Workers: Enjoy oblations which we bring to greet you.\np:The gladdening juices stand prepared before you: come quickly and partake of mine oblation.\np: Pass by the calling of our foe and bear us.\r\np:Your chariot with a hundred aids, O A&#347;vins, beareth you swift as thought across the regions, Speeding to us, O ye whose wealth is S&#363;rya.\np:What time this stone of yourss&#146; adorer, upraised, sounds forth for you as Soma-presser, Let the Monk bring you, Fair Ones, through oblations.\np:The nourishment ye have is, truly, wondrous: ye gave thereof a quickening store to Atri, who being dear to you, receives your favour.\np:That gift, which al. May gain, ye gave Cyav&#257;na, when he grew old, who offered you oblations, when ye bestowed on him enduring beauty.\np:What time his wicked friends abandoned Bhujyu, O A&#347;vins, in the middle of the ocean, Your horse delivered him, your faithful servant.\np:Ye lent your aid to Vrka when exhausted, and listened when invoked to &#346;ayu's calling. Ye made the cow pour forth her milk like water, and, A&#347;vins, strengthened with your strength the barren.\np:With his fair hymns this singer, too, extols you, waking with glad thoughts at the break of morning. May the cow nourish him with milk to feed llim. Preserve us evermore, ye Devas, with blessings.",
-    "next": "07069",
-    "previous": "07067",
-    "book": "07"
+    "key": "07068",
+    "title": "HYMN LXVIII. Aśvins.",
+    "describe": "COME, radiant Aśvins, with your noble horses: accept your servant's hymns, ye Wonder-Workers: Enjoy oblations which we bring to greet you.",
+    "feecting": "p:COME, radiant Aśvins, with your noble horses: accept your servant's hymns, ye Wonder-Workers: Enjoy oblations which we bring to greet you.\np:The gladdening juices stand prepared before you: come quickly and partake of mine oblation.\np: Pass by the calling of our foe and bear us.\r\np:Your chariot with a hundred aids, O Aśvins, beareth you swift as thought across the regions, Speeding to us, O ye whose wealth is Sūrya.\np:What time this stone of yourss’ adorer, upraised, sounds forth for you as Soma-presser, Let the Monk bring you, Fair Ones, through oblations.\np:The nourishment ye have is, truly, wondrous: ye gave thereof a quickening store to Atri, who being dear to you, receives your favour.\np:That gift, which al. May gain, ye gave Cyavāna, when he grew old, who offered you oblations, when ye bestowed on him enduring beauty.\np:What time his wicked friends abandoned Bhujyu, O Aśvins, in the middle of the ocean, Your horse delivered him, your faithful servant.\np:Ye lent your aid to Vrka when exhausted, and listened when invoked to Śayu's calling. Ye made the cow pour forth her milk like water, and, Aśvins, strengthened with your strength the barren.\np:With his fair hymns this singer, too, extols you, waking with glad thoughts at the break of morning. May the cow nourish him with milk to feed llim. Preserve us evermore, ye Devas, with blessings.",
+    "meta": {
+      "next": "07069",
+      "previous": "07067",
+      "book": "07",
+      "source": "https://sacred-texts.com/hin/rigveda/rv07068.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv07068.htm"
+    },
+    "deities": [
+      {
+        "name": "O Aśvins",
+        "hymns": [
+          {
+            "key": "07068",
+            "title": "HYMN LXVIII. Aśvins."
+          },
+          {
+            "key": "07068",
+            "title": "HYMN LXVIII. Aśvins."
+          }
+        ]
+      },
+      {
+        "name": "O ye ",
+        "hymns": [
+          {
+            "key": "07068",
+            "title": "HYMN LXVIII. Aśvins."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638556101347,
-  "updated": 1638792008011
+  "updated": 1638830292590
 }

@@ -5,13 +5,19 @@
   "link": "hymns/01020.html",
   "api": "json/hymns/01020.json",
   "data": {
-    "title": "HYMN XX. &#7770;bhus.",
+    "key": "01020",
+    "title": "HYMN XX. Ṛbhus.",
     "describe": "FOR the Celestial Race this song of praise which gives wealth lavishly.",
-    "feecting": "p:FOR the Celestial Race this song of praise which gives wealth lavishly.\np:They who for Indra, with their mind, formed horses harnessed by a word, attained by works of offering.\np:They for the two N&#257;satyas wrought a light car moving every way: They formed a nectar-yielding cow.\np:The &#7770;bhus with effectual prayers, honest, with constant labour, made Their Sire and Mother young again.\np:Together came your gladdening drops with Indra by the Devas girt, with the &#256;dityas, with the Kings.\np:The ceremonial ladle, wrought newly by the Deva Tva&#7779;&#7789;ar's hand&#151; Four ladles have ye made thereof.\np:Vouchsafe us wealth, to him who pours thrice seven libations, yea, to each Give wealth, pleased with our eulogies.\np:By pious acts they won themselves, a share in offerings with Devas.",
-    "next": "01021",
-    "previous": "01019",
-    "book": "01"
+    "feecting": "p:FOR the Celestial Race this song of praise which gives wealth lavishly.\np:They who for Indra, with their mind, formed horses harnessed by a word, attained by works of offering.\np:They for the two Nāsatyas wrought a light car moving every way: They formed a nectar-yielding cow.\np:The Ṛbhus with effectual prayers, honest, with constant labour, made Their Sire and Mother young again.\np:Together came your gladdening drops with Indra by the Devas girt, with the Kings.\np:The ceremonial ladle, wrought newly by the Deva Tvaṣṭar's hand— Four ladles have ye made thereof.\np:Vouchsafe us wealth, to him who pours thrice seven libations, yea, to each Give wealth, pleased with our eulogies.\np:By pious acts they won themselves, a share in offerings with Devas.",
+    "meta": {
+      "next": "01021",
+      "previous": "01019",
+      "book": "01",
+      "source": "https://sacred-texts.com/hin/rigveda/rv01020.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv01020.htm"
+    },
+    "deities": []
   },
   "created": 1638553118197,
-  "updated": 1638792007294
+  "updated": 1638830291604
 }

@@ -5,13 +5,19 @@
   "link": "hymns/05013.html",
   "api": "json/hymns/05013.json",
   "data": {
+    "key": "05013",
     "title": "HYMN XIII. Agni.",
     "describe": "WITH songs of praise we call on thee, we kindle thee with songs of praise, Agni, with songs of praise, for help.",
     "feecting": "p:WITH songs of praise we call on thee, we kindle thee with songs of praise, Agni, with songs of praise, for help.\np:Eager for wealth, we meditate Agni's effectual praise to-day, Praise of the Deva who touches Heaven.\np:May Agni, Monk among mankind, take pleasure in our songs of praise, and worship the Celestial Folk.\np:Thou, Agni, art spread widely forth, Monk dear and excellent; through thee Men make the offering complete.\np:Singers exalt thee, Agni, well lauded, best giver of our strength: So grant thou us heroic might.\np:Thou Agni, as the felly rings the spokes, encompassest the Devas.\np: I yearn for bounty manifold.",
-    "next": "05014",
-    "previous": "05012",
-    "book": "05"
+    "meta": {
+      "next": "05014",
+      "previous": "05012",
+      "book": "05",
+      "source": "https://sacred-texts.com/hin/rigveda/rv05013.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv05013.htm"
+    },
+    "deities": []
   },
   "created": 1638554953819,
-  "updated": 1638792007759
+  "updated": 1638830292229
 }

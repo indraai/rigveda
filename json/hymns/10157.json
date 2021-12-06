@@ -5,13 +5,19 @@
   "link": "hymns/10157.html",
   "api": "json/hymns/10157.json",
   "data": {
-    "title": "HYMN CLVII. Vi&#347;vedevas.",
+    "key": "10157",
+    "title": "HYMN CLVII. Devas.",
     "describe": "WE will, with Indra and all Devas to aid us, bring these existing worlds into subjection.",
-    "feecting": "p:WE will, with Indra and all Devas to aid us, bring these existing worlds into subjection.\np:Our offering, our bodies, and our offspr. let Indra form together with &#256;dityas.\np:With the &#256;dityas, with the band of Devas. May Indra be Protector of our bodies.\np:As when the Devas came, after they had slaughtered the Devass, keeping safe their Godlike nature,\np:Brought the Sun hitherward with mighty powers, and looked about them on their vigorous Godhead.",
-    "next": "10158",
-    "previous": "10156",
-    "book": "10"
+    "feecting": "p:WE will, with Indra and all Devas to aid us, bring these existing worlds into subjection.\np:Our offering, our bodies, and our offspr. let Indra form together with Ādityas.\np:With the Ādityas, with the band of Devas. May Indra be Protector of our bodies.\np:As when the Devas came, after they had slaughtered the Devass, keeping safe their Godlike nature,\np:Brought the Sun hitherward with mighty powers, and looked about them on their vigorous Godhead.",
+    "meta": {
+      "next": "10158",
+      "previous": "10156",
+      "book": "10",
+      "source": "https://sacred-texts.com/hin/rigveda/rv10157.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv10157.htm"
+    },
+    "deities": []
   },
   "created": 1638558269280,
-  "updated": 1638792008594
+  "updated": 1638830293244
 }

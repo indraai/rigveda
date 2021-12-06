@@ -5,13 +5,19 @@
   "link": "hymns/02021.html",
   "api": "json/hymns/02021.json",
   "data": {
+    "key": "02021",
     "title": "HYMN XXI.",
     "describe": "To him the Lord of all, the Lord of wealth, of light;",
-    "feecting": "p:To him the Lord of all, the Lord of wealth, of light; him who is Lord forever, Lord of men and tilth, him who is Lord of horses, Lord of kine, of floods, to Indra, to the Holy bring sweet Soma juice.\np:To him the potent One, who conquers and breaks down, the Victor never vanquished who disposes all, the mighty-voiced, the rider, unassailable, to Indra everconquering speak your reverent prayer.\np:Still Victor, loved by mortals, ruler over men, o&#146;erthrower, warrior, he hath waxen as he would; Host-gatherer, triumphant, honoured mid the folk. Indra's heroic deeds will I tell forth to all.\np:The strong who never yields, who slew the furious fiend, the deep, the vast, of wisdom unattainable. Who speeds the good, the breaker-down, the firm, the vast,&#151;Indra whose rites bring joy hath made the light of Dawn.\np:By offering the yearning sages sending forth their songs found furtherance from him who speeds the flood.\np: In Indra seeking help with worship and with hymn, they drew him to themselves and won them kine and wealth.\r\np:Indra, bestow on us the best of treasures, the spirit of ability and fortune; Increase of riches, safety of our bodies, charm of sweet speech, and days of pleasant weather.",
-    "next": "02022",
-    "previous": "02020",
-    "book": "02"
+    "feecting": "p:To him the Lord of all, the Lord of wealth, of light; him who is Lord forever, Lord of men and tilth, him who is Lord of horses, Lord of kine, of floods, to Indra, to the Holy bring sweet Soma juice.\np:To him the potent One, who conquers and breaks down, the Victor never vanquished who disposes all, the mighty-voiced, the rider, unassailable, to Indra everconquering speak your reverent prayer.\np:Still Victor, loved by mortals, ruler over men, o’erthrower, warrior, he hath waxen as he would; Host-gatherer, triumphant, honoured mid the folk. Indra's heroic deeds will I tell forth to all.\np:The strong who never yields, who slew the furious fiend, the deep, the vast, of wisdom unattainable. Who speeds the good, the breaker-down, the firm, the vast.Indra whose rites bring joy hath made the light of Dawn.\np:By offering the yearning sages sending forth their songs found furtherance from him who speeds the flood.\np: In Indra seeking help with worship and with hymn, they drew him to themselves and won them kine and wealth.\r\np:Indra, bestow on us the best of treasures, the spirit of ability and fortune; Increase of riches, safety of our bodies, charm of sweet speech, and days of pleasant weather.",
+    "meta": {
+      "next": "02022",
+      "previous": "02020",
+      "book": "02",
+      "source": "https://sacred-texts.com/hin/rigveda/rv02021.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv02021.htm"
+    },
+    "deities": []
   },
   "created": 1638554133468,
-  "updated": 1638792007545
+  "updated": 1638830291960
 }

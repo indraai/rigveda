@@ -5,13 +5,19 @@
   "link": "hymns/05080.html",
   "api": "json/hymns/05080.json",
   "data": {
+    "key": "05080",
     "title": "HYMN LXXX. Dawn.",
     "describe": "THE singers welcome with their hymns and praises the Goddess Dawn who bringeth in the sunlight, Sublime, by Law true to eternal Order, bright on her path, red-tinted, far-refulgent.",
-    "feecting": "p:THE singers welcome with their hymns and praises the Goddess Dawn who bringeth in the sunlight, Sublime, by Law true to eternal Order, bright on her path, red-tinted, far-refulgent.\np:She comes in front, fair, rousing up the people, making the pathways easy to be travelled.\np: High, on her lofty chariot, all-impelling, Dawn gives her splendour at the days' beginning.\r\np:She, harnessing her car with purple oxen. injuring none, hath brought perpetual riches. Opening paths to happinessdess shines, praised by all, giver of every blessing.\np:With changing tints she gleams in double splendour while from the eastward she displays her body. She travels perfectly the path of Order, nor fails to reach, as one who knows, the quarters.\np:As conscious that her limbs are bright with bathing, she stands, as &#146;twere, erect that we may see her. Driving away malignity and darkness, Dawn, Child of Heaven, hath come to us with lustre.\np:The Daughter of the Sky, like some chaste woman, bends, opposite to men, her forehead downward. The Maid, disclosing boons to him who worships, hath brought again the daylight as aforetime.",
-    "next": "05081",
-    "previous": "05079",
-    "book": "05"
+    "feecting": "p:THE singers welcome with their hymns and praises the Goddess Dawn who bringeth in the sunlight, Sublime, by Law true to eternal Order, bright on her path, red-tinted, far-refulgent.\np:She comes in front, fair, rousing up the people, making the pathways easy to be travelled.\np: High, on her lofty chariot, all-impelling, Dawn gives her splendour at the days' beginning.\r\np:She, harnessing her car with purple oxen. injuring none, hath brought perpetual riches. Opening paths to happinessdess shines, praised by all, giver of every blessing.\np:With changing tints she gleams in double splendour while from the eastward she displays her body. She travels perfectly the path of Order, nor fails to reach, as one who knows, the quarters.\np:As conscious that her limbs are bright with bathing, she stands, as ’twere, erect that we may see her. Driving away malignity and darkness, Dawn, Child of Heaven, hath come to us with lustre.\np:The Daughter of the Sky, like some chaste woman, bends, opposite to men, her forehead downward. The Maid, disclosing boons to him who worships, hath brought again the daylight as aforetime.",
+    "meta": {
+      "next": "05081",
+      "previous": "05079",
+      "book": "05",
+      "source": "https://sacred-texts.com/hin/rigveda/rv05080.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv05080.htm"
+    },
+    "deities": []
   },
   "created": 1638555309454,
-  "updated": 1638792007839
+  "updated": 1638830292327
 }

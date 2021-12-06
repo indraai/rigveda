@@ -5,13 +5,47 @@
   "link": "hymns/02014.html",
   "api": "json/hymns/02014.json",
   "data": {
+    "key": "02014",
     "title": "HYMN XIV. Indra.",
     "describe": "MINISTERS, bring the Soma juice for Indra, pour forth the gladdening liquor with the beakers.",
-    "feecting": "p:MINISTERS, bring the Soma juice for Indra, pour forth the gladdening liquor with the beakers.\np: To drink of this the Hero longeth ever; offer it to the Bull, for this he willeth.\r\np:Ye ministers, to him who with the lightning smote, like a tree, the rain-withholding V&#7771;tra&#151; Bring it to him, him who is fain to taste it, a draught of this which Indra here deserveth.\np:Ye ministers, to him who smote D&#7771;bh&#299;ka, who drove the kine forth, and discovered Vala, Offer this draught, like Vita in the region: clothe him with Soma even as steeds with trappings.\np:Him who did Ura&#7751;a to death, Adhvaryus! though showing arms ninety-and-nine in number. Who cast down headlong Arbuda and slew him,&#151;speed ye that Indra to our offered Soma.\np:Ye ministers, to him who struck down Sva&#347;na, and did to death Vya&#7745;sa and greedy &#346;u&#7779;&#7751;a, and Rudhikr&#257;s and Namuci and Pipru,&#151;to him, to Indra, pour ye forth libation.\np:Ye ministers, to him who as with thunder demolished &#346;ambara's hundred ancient castles. Who cast down Varcin's sons, a hundred thousand,&#151;to him, to Indra, offer ye the Soma.\np:Ye ministers, to him who slew a hundred thousand, and cast them down upon Earth's bosom. Who quelled the valiant men of Atithigva, Kutsa, and &#256;yu,&#151;bring to him the Soma.\np:Ministers, men, whatever thing ye long for obtain ye quickly bringing gifts to Indra. Bring to the Glorious One what bands have cleansed; to Indra bring, ye pious ones, the Soma.\np:Do ye, O ministers, obey his order: that purified in wood, in wood uplift ye. Well pleased he longs for what your hands have tended: offer the gladdening Soma juice to Indra.\np:As the cow's udder teems with milk, Adhvaryus, so fill with Soma Indra, liberal giver. I know him: I am sure of this, the Holy knows that I fain would give to him more largely.\np:Him, ministers, the Lord of heavenly treasure and all terrestrial wealth that Earth possesses, him, Indra, fill with Soma as a garner is filled with barley full: be this your labour.\np:Prepare thyself to grant us that great booty, O Vasu, for abundant is thy treasure. Gather up wondrous wealth, O Indra, daily. Lou. May we speak, with heroes, in assembly.",
-    "next": "02015",
-    "previous": "02013",
-    "book": "02"
+    "feecting": "p:MINISTERS, bring the Soma juice for Indra, pour forth the gladdening liquor with the beakers.\np: To drink of this the Hero longeth ever; offer it to the Bull, for this he willeth.\r\np:Ye ministers, to him who with the lightning smote, like a tree, the rain-withholding Vṛtra— Bring it to him, him who is fain to taste it, a draught of this which Indra here deserveth.\np:Ye ministers, to him who smote Dṛbhīka, who drove the kine forth, and discovered Vala, Offer this draught, like Vita in the region: clothe him with Soma even as steeds with trappings.\np:Him who did Uraṇa to death, Adhvaryus! though showing arms ninety-and-nine in number. Who cast down headlong Arbuda and slew him.speed ye that Indra to our offered Soma.\np:Ye ministers, to him who struck down Svaśna, and did to death Vyaṁsa and greedy Śuṣṇa, and Rudhikrās and Namuci and Pipru.to him, to Indra, pour ye forth libation.\np:Ye ministers, to him who as with thunder demolished Śambara's hundred ancient castles. Who cast down Varcin's sons, a hundred thousand.to him, to Indra, offer ye the Soma.\np:Ye ministers, to him who slew a hundred thousand, and cast them down upon Earth's bosom. Who quelled the valiant men of Atithigva, Kutsa, and Āyu.bring to him the Soma.\np:Ministers, men, whatever thing ye long for obtain ye quickly bringing gifts to Indra. Bring to the Glorious One what bands have cleansed; to Indra bring, ye pious ones, the Soma.\np:Do ye, O ministers, obey his order: that purified in wood, in wood uplift ye. Well pleased he longs for what your hands have tended: offer the gladdening Soma juice to Indra.\np:As the cow's udder teems with milk, Adhvaryus, so fill with Soma Indra, liberal giver. I know him: I am sure of this, the Holy knows that I fain would give to him more largely.\np:Him, ministers, the Lord of heavenly treasure and all terrestrial wealth that Earth possesses, him, Indra, fill with Soma as a garner is filled with barley full: be this your labour.\np:Prepare thyself to grant us that great booty, O Vasu, for abundant is thy treasure. Gather up wondrous wealth, O Indra, daily. Lou. May we speak, with heroes, in assembly.",
+    "meta": {
+      "next": "02015",
+      "previous": "02013",
+      "book": "02",
+      "source": "https://sacred-texts.com/hin/rigveda/rv02014.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv02014.htm"
+    },
+    "deities": [
+      {
+        "name": "O ministers",
+        "hymns": [
+          {
+            "key": "02014",
+            "title": "HYMN XIV. Indra."
+          }
+        ]
+      },
+      {
+        "name": "O Vasu",
+        "hymns": [
+          {
+            "key": "02014",
+            "title": "HYMN XIV. Indra."
+          }
+        ]
+      },
+      {
+        "name": "O Indra",
+        "hymns": [
+          {
+            "key": "02014",
+            "title": "HYMN XIV. Indra."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638554096632,
-  "updated": 1638792007538
+  "updated": 1638830291946
 }

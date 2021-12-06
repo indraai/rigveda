@@ -5,13 +5,29 @@
   "link": "hymns/03050.html",
   "api": "json/hymns/03050.json",
   "data": {
+    "key": "03050",
     "title": "HYMN L. Indra.",
     "describe": "LET Indra drink, All-hail!",
-    "feecting": "p:LET Indra drink, All-hail! for his is Soma,&#151;the mighty Bull come, girt by Devas, hither.\np: Far-reaching, let him fill him with these offerings, and let our offering sate his body's longing.\r\np:I yoke thy pair of trusty Steeds for swiftness, whose faithful service from of old thou lovest. Here, fair of cheek! let thy Bay Coursers place thee: drink of this lovely welleffused libation.\np:With milk they made Indra their good Preserver, lauding for help and rule the bounteous rainer. Impetuous Deva, when thou hast drunk the Soma, enraptured send us cattle in abundance.\np:With kine and horses satisfy this longing with very splendid bounty still extend it. Seeking the light, with hymns to thee, O Indra, the Ku&#347;ikas have brought their gift, the singers.\np:Call we on Indra, auspicious Indra, best Hero in the fight where spoil is gathered; The Strong, who listens, who gives aid in battles, who subdues the V&#7771;tras, wins and gathers riches.",
-    "next": "03051",
-    "previous": "03049",
-    "book": "03"
+    "feecting": "p:LET Indra drink, All-hail! for his is Soma.the mighty Bull come, girt by Devas, hither.\np: Far-reaching, let him fill him with these offerings, and let our offering sate his body's longing.\r\np:I yoke thy pair of trusty Steeds for swiftness, whose faithful service from of old thou lovest. Here, fair of cheek! let thy Bay Coursers place thee: drink of this lovely welleffused libation.\np:With milk they made Indra their good Preserver, lauding for help and rule the bounteous rainer. Impetuous Deva, when thou hast drunk the Soma, enraptured send us cattle in abundance.\np:With kine and horses satisfy this longing with very splendid bounty still extend it. Seeking the light, with hymns to thee, O Indra, the Kuśikas have brought their gift, the singers.\np:Call we on Indra, auspicious Indra, best Hero in the fight where spoil is gathered; The Strong, who listens, who gives aid in battles, who subdues the Vṛtras, wins and gathers riches.",
+    "meta": {
+      "next": "03051",
+      "previous": "03049",
+      "book": "03",
+      "source": "https://sacred-texts.com/hin/rigveda/rv03050.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv03050.htm"
+    },
+    "deities": [
+      {
+        "name": "O Indra",
+        "hymns": [
+          {
+            "key": "03050",
+            "title": "HYMN L. Indra."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638554515313,
-  "updated": 1638792007651
+  "updated": 1638830292078
 }

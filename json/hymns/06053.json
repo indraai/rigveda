@@ -5,13 +5,51 @@
   "link": "hymns/06053.html",
   "api": "json/hymns/06053.json",
   "data": {
-    "title": "HYMN LIII. P&#363;&#7779;an.",
-    "describe": "LORD of the path, O P&#363;",
-    "feecting": "p:LORD of the path, O P&#363;&#7779;an, we have yoked and bound thee to our hymn, Even as a car, to win the prize.\np:Bring us the wealth that men require, a manly master of a house, free-handed with the liberal meed.\np:Even him who would not give, do thou, O glowing P&#363;&#7779;an, urge to give, and make the niggard's soul grow soft.\np:Clear paths that we may win the prize; scatter our enemies afar.\np: Strong Deva, be all our thoughts fulfilled.\r\np:Penetrate with an awl, O Sage, the hearts of avaricious churls, and make them subject to our will.\np:Thrust with thine awl, O P&#363;&#7779;an: seek that which the niggard's heart holds dear, and make him subject to our will.\np:Tear up and read in pieces, Sage, the hearts of avaricious churls, and make them subject to our will.\np:Thou, glowing P&#363;&#7779;an, carriest an awl that urges men to prayer; Therewith do thou tear up and rend to shreds the heart of every one.\np:Thou bearest, glowing Lord! a goad with horny point that guides the cows Thence do we seek thy gift of bliss.\np:And make this hymn of ours produce kine, horses, and a store of wealth For our delight and use as men.",
-    "next": "06054",
-    "previous": "06052",
-    "book": "06"
+    "key": "06053",
+    "title": "HYMN LIII. Pūṣan.",
+    "describe": "LORD of the path, O Pūṣan, we have yoked and bound thee to our hymn, Even as a car, to win the prize.",
+    "feecting": "p:LORD of the path, O Pūṣan, we have yoked and bound thee to our hymn, Even as a car, to win the prize.\np:Bring us the wealth that men require, a manly master of a house, free-handed with the liberal meed.\np:Even him who would not give, do thou, O glowing Pūṣan, urge to give, and make the niggard's soul grow soft.\np:Clear paths that we may win the prize; scatter our enemies afar.\np: Strong Deva, be all our thoughts fulfilled.\r\np:Penetrate with an awl, O Sage, the hearts of avaricious churls, and make them subject to our will.\np:Thrust with thine awl, O Pūṣan: seek that which the niggard's heart holds dear, and make him subject to our will.\np:Tear up and read in pieces, Sage, the hearts of avaricious churls, and make them subject to our will.\np:Thou, glowing Pūṣan, carriest an awl that urges men to prayer; Therewith do thou tear up and rend to shreds the heart of every one.\np:Thou bearest, glowing Lord! a goad with horny point that guides the cows Thence do we seek thy gift of bliss.\np:And make this hymn of ours produce kine, horses, and a store of wealth For our delight and use as men.",
+    "meta": {
+      "next": "06054",
+      "previous": "06052",
+      "book": "06",
+      "source": "https://sacred-texts.com/hin/rigveda/rv06053.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv06053.htm"
+    },
+    "deities": [
+      {
+        "name": "O Pūṣ",
+        "hymns": [
+          {
+            "key": "06053",
+            "title": "HYMN LIII. Pūṣan."
+          },
+          {
+            "key": "06053",
+            "title": "HYMN LIII. Pūṣan."
+          }
+        ]
+      },
+      {
+        "name": "O glowing",
+        "hymns": [
+          {
+            "key": "06053",
+            "title": "HYMN LIII. Pūṣan."
+          }
+        ]
+      },
+      {
+        "name": "O Sage",
+        "hymns": [
+          {
+            "key": "06053",
+            "title": "HYMN LIII. Pūṣan."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638555625907,
-  "updated": 1638792007915
+  "updated": 1638830292423
 }

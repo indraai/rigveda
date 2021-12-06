@@ -5,13 +5,42 @@
   "link": "hymns/04056.html",
   "api": "json/hymns/04056.json",
   "data": {
+    "key": "04056",
     "title": "HYMN LVI. Heaven and Earth.",
     "describe": "MAY mighty Heaven and Earth, most meet for honour, be present here with light and gleaming splendours;",
     "feecting": "p:MAY mighty Heaven and Earth, most meet for honour, be present here with light and gleaming splendours; When, fixing them apart, vast, most extensive, the Steer roars loudly in far-reaching courses.\np:The Goddesses with Devas, holy with holy, the Two stand pouring out their rain, exhaustless: Faithful and guileless, having Devas for children, leaders of offering with shining splendours.\np:Sure in the worlds he was a skilful Craftsman, he who produced these Twain the Earth and Heaven.\np: Wise, with his power he brought both realms, together spacious and deep, well-fashioned, unsupported.\r\np:O Heaven and Earth, with one accord promoting, with high protection as of Queens, our welfare, Far-reaching, universal, holy, guard us. May we, car-borne, through song be victors ever.\np:To both of you, O Heaven and Earth, we bring our lofty song of praise, Pure Ones! to glorify you both.\np:Ye sanctify each other's form, by your own proper might ye rule, and from of old observe the Law.\np:Furthering and fulfilling, ye, O Mighty, perfect Mitra's Law. Ye sit around our offering.",
-    "next": "04057",
-    "previous": "04055",
-    "book": "04"
+    "meta": {
+      "next": "04057",
+      "previous": "04055",
+      "book": "04",
+      "source": "https://sacred-texts.com/hin/rigveda/rv04056.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv04056.htm"
+    },
+    "deities": [
+      {
+        "name": "O Heaven",
+        "hymns": [
+          {
+            "key": "04056",
+            "title": "HYMN LVI. Heaven and Earth."
+          },
+          {
+            "key": "04056",
+            "title": "HYMN LVI. Heaven and Earth."
+          }
+        ]
+      },
+      {
+        "name": "O Mighty",
+        "hymns": [
+          {
+            "key": "04056",
+            "title": "HYMN LVI. Heaven and Earth."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638554874185,
-  "updated": 1638792007740
+  "updated": 1638830292206
 }

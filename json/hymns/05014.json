@@ -5,13 +5,19 @@
   "link": "hymns/05014.html",
   "api": "json/hymns/05014.json",
   "data": {
+    "key": "05014",
     "title": "HYMN XIV. Agni.",
     "describe": "ENKINDLING the Immortal, wake Agni with song of praise.",
     "feecting": "p:ENKINDLING the Immortal, wake Agni with song of praise. May he bear our oblations to the Devas.\np:At high solemnities mortal men glorify him the Immortal, best At offering among mankind.\np:That h. May bear their gifts to Heaven, all glorify him Agni, Deva, with ladle that distilleth oil.\np:Agni shone bright when born, with light killing the Dasyus and the dark: He found the Kine, the Floods, the Sun.\np:Serve Agni, God adorable, the Sage whose back is balmed with oil: Let him approach, and hear my call.\np:They have exalted Agni, God of all mankind, with oil and hymns Of praise, devout and eloquent.",
-    "next": "05015",
-    "previous": "05013",
-    "book": "05"
+    "meta": {
+      "next": "05015",
+      "previous": "05013",
+      "book": "05",
+      "source": "https://sacred-texts.com/hin/rigveda/rv05014.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv05014.htm"
+    },
+    "deities": []
   },
   "created": 1638554959122,
-  "updated": 1638792007760
+  "updated": 1638830292230
 }

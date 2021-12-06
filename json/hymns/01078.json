@@ -5,13 +5,29 @@
   "link": "hymns/01078.html",
   "api": "json/hymns/01078.json",
   "data": {
+    "key": "01078",
     "title": "HYMN LXXVIII. Agni.",
-    "describe": "O J&#256;",
-    "feecting": "p:O J&#256;TAVEDAS, keen and swift, we Gotamas with sacred son exalt thee for thy glories' sake.\np:Thee, as thou art, desiring wealth Gotama worships with his song: We laud thee for thy glories' sake.\np:As such, like A&#7749;giras we call on thee best winner of the spoil: We laud thee for thy glories' sake.\np:Thee, best of V&#7771;tra-slayers, thee who shakest off our Dasyu foes: We laud thee for thy glories' sake.\np:A pleasant song to Agni we, sons of Rah&#363;ga&#7749;a, have sung: We laud thee for thy glories' sake.",
-    "next": "01079",
-    "previous": "01077",
-    "book": "01"
+    "describe": "O JĀTAVEDAS, keen and swift, we Gotamas with sacred son exalt thee for thy glories' sake.",
+    "feecting": "p:O JĀTAVEDAS, keen and swift, we Gotamas with sacred son exalt thee for thy glories' sake.\np:Thee, as thou art, desiring wealth Gotama worships with his song: We laud thee for thy glories' sake.\np:As such, like Aṅgiras we call on thee best winner of the spoil: We laud thee for thy glories' sake.\np:Thee, best of Vṛtra-slayers, thee who shakest off our Dasyu foes: We laud thee for thy glories' sake.\np:A pleasant song to Agni we, sons of Rahūgaṅa, have sung: We laud thee for thy glories' sake.",
+    "meta": {
+      "next": "01079",
+      "previous": "01077",
+      "book": "01",
+      "source": "https://sacred-texts.com/hin/rigveda/rv01078.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv01078.htm"
+    },
+    "deities": [
+      {
+        "name": "O JĀTAVEDAS",
+        "hymns": [
+          {
+            "key": "01078",
+            "title": "HYMN LXXVIII. Agni."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638553424603,
-  "updated": 1638792007378
+  "updated": 1638830291700
 }

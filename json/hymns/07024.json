@@ -5,13 +5,42 @@
   "link": "hymns/07024.html",
   "api": "json/hymns/07024.json",
   "data": {
+    "key": "07024",
     "title": "HYMN XXIV. Indra.",
     "describe": "A HOME is made for thee to dwell in, Indra: O Much-invoked, go thitherwith the heroes.",
-    "feecting": "p:A HOME is made for thee to dwell in, Indra: O Much-invoked, go thitherwith the heroes.\np: That thou, to prosper us. Mayst be our Helper, vouchsafe us wealth, rejoice with draughts of Soma.\r\np:Indra, thy wish, twice-strong, is comprehended: pressed is the Soma, poured are pleasant juices. This hymn of praise, from loosened tongue, made perfect, draws Indra to itself with loud invoking.\np:Come, thou Impetuous; Deva, from Earth or Heaven; come to our holy grass . Hither to me let thy Bay Horses bring thee to listen to our hymns and make thee joyful.\np:Come unto us with all thine aids, accordant, Lord of Bay Steeds, accepting our devotions, Fair-helmeted, o&#146;ercoming with the mighty, and lending us the strength of bulls, O Indra.\np:As to the chariot pole a vigorous courser, this laud is brought to the great strong Upholder. This hymn solicits wealth of thee: in Heaven, as &#146;twere above the sky, set thou our glory.\np:With precious things. O Indra, thus content us. May we attain to thine exalted favour. Send our chiefs plenteous food with hero children. Preserve us evermore, ye Devas, with blessings.",
-    "next": "07025",
-    "previous": "07023",
-    "book": "07"
+    "feecting": "p:A HOME is made for thee to dwell in, Indra: O Much-invoked, go thitherwith the heroes.\np: That thou, to prosper us. Mayst be our Helper, vouchsafe us wealth, rejoice with draughts of Soma.\r\np:Indra, thy wish, twice-strong, is comprehended: pressed is the Soma, poured are pleasant juices. This hymn of praise, from loosened tongue, made perfect, draws Indra to itself with loud invoking.\np:Come, thou Impetuous; Deva, from Earth or Heaven; come to our holy grass . Hither to me let thy Bay Horses bring thee to listen to our hymns and make thee joyful.\np:Come unto us with all thine aids, accordant, Lord of Bay Steeds, accepting our devotions, Fair-helmeted, o’ercoming with the mighty, and lending us the strength of bulls, O Indra.\np:As to the chariot pole a vigorous courser, this laud is brought to the great strong Upholder. This hymn solicits wealth of thee: in Heaven, as ’twere above the sky, set thou our glory.\np:With precious things. O Indra, thus content us. May we attain to thine exalted favour. Send our chiefs plenteous food with hero children. Preserve us evermore, ye Devas, with blessings.",
+    "meta": {
+      "next": "07025",
+      "previous": "07023",
+      "book": "07",
+      "source": "https://sacred-texts.com/hin/rigveda/rv07024.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv07024.htm"
+    },
+    "deities": [
+      {
+        "name": "O Much",
+        "hymns": [
+          {
+            "key": "07024",
+            "title": "HYMN XXIV. Indra."
+          }
+        ]
+      },
+      {
+        "name": "O Indra",
+        "hymns": [
+          {
+            "key": "07024",
+            "title": "HYMN XXIV. Indra."
+          },
+          {
+            "key": "07024",
+            "title": "HYMN XXIV. Indra."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638555869233,
-  "updated": 1638792007964
+  "updated": 1638830292516
 }

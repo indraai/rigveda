@@ -5,13 +5,41 @@
   "link": "hymns/06043.html",
   "api": "json/hymns/06043.json",
   "data": {
+    "key": "06043",
     "title": "HYMN XLIII. Indra",
-    "describe": "IN whose wild joy thou madest once &#346;",
-    "feecting": "p:IN whose wild joy thou madest once &#346;ambara Divod&#257;sa's prey, This Soma is pressed out for thee, O Indra: drink!\np:Whose gladdening draught, shed from the points, thou guardest in the midst and end, This Soma is pressed out for thee, O Indra drink!\np:In whose wild joy thou settest free the kine held fast within the rock, This Soma is pressed out for thee, O Indra: drink!\np:This, in whose juice delighting thou gainest the might of Indra, This Soma is pressed out for thee, O Indra drink!",
-    "next": "06044",
-    "previous": "06042",
-    "book": "06"
+    "describe": "IN whose wild joy thou madest once Śambara Divodāsa's prey, This Soma is pressed out for thee, O Indra: drink!",
+    "feecting": "p:IN whose wild joy thou madest once Śambara Divodāsa's prey, This Soma is pressed out for thee, O Indra: drink!\np:Whose gladdening draught, shed from the points, thou guardest in the midst and end, This Soma is pressed out for thee, O Indra drink!\np:In whose wild joy thou settest free the kine held fast within the rock, This Soma is pressed out for thee, O Indra: drink!\np:This, in whose juice delighting thou gainest the might of Indra, This Soma is pressed out for thee, O Indra drink!",
+    "meta": {
+      "next": "06044",
+      "previous": "06042",
+      "book": "06",
+      "source": "https://sacred-texts.com/hin/rigveda/rv06043.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv06043.htm"
+    },
+    "deities": [
+      {
+        "name": "O Indra",
+        "hymns": [
+          {
+            "key": "06043",
+            "title": "HYMN XLIII. Indra"
+          },
+          {
+            "key": "06043",
+            "title": "HYMN XLIII. Indra"
+          },
+          {
+            "key": "06043",
+            "title": "HYMN XLIII. Indra"
+          },
+          {
+            "key": "06043",
+            "title": "HYMN XLIII. Indra"
+          }
+        ]
+      }
+    ]
   },
   "created": 1638555573134,
-  "updated": 1638792007898
+  "updated": 1638830292399
 }

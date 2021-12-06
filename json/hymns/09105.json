@@ -5,13 +5,38 @@
   "link": "hymns/09105.html",
   "api": "json/hymns/09105.json",
   "data": {
+    "key": "09105",
     "title": "HYMN CV. Indu",
     "describe": "SING;",
     "feecting": "p:SING; ye aloud, O friends, to him who makes him pure for gladdening drink: They shall make sweet the Child with offering and laud.\np:Like as a calf with mother cows, so Indu is urged forth and sent, Glorified by our hymns-delighting juice.\np:Effectual means of power is he, he is a banquet for the Troop. He who hath been effused, most rich in meath, for Devas.\np:Flow to us, indu, passing, strong, effused, with wealth of kine and steeds: I will spread forth above the milk thy radiant hue.\np:Lord of the tawny, indu thou who art the Deva's most special food, as Friend to friend, for splendour be thou good to men.\np:Drive utterly, far away from us each godless, each voracious foe.\np: O Indu, overcome and drive the false afar.",
-    "next": "09106",
-    "previous": "09104",
-    "book": "09"
+    "meta": {
+      "next": "09106",
+      "previous": "09104",
+      "book": "09",
+      "source": "https://sacred-texts.com/hin/rigveda/rv09105.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv09105.htm"
+    },
+    "deities": [
+      {
+        "name": "O friends",
+        "hymns": [
+          {
+            "key": "09105",
+            "title": "HYMN CV. Indu"
+          }
+        ]
+      },
+      {
+        "name": "O Indu",
+        "hymns": [
+          {
+            "key": "09105",
+            "title": "HYMN CV. Indu"
+          }
+        ]
+      }
+    ]
   },
   "created": 1638557388747,
-  "updated": 1638792008311
+  "updated": 1638830292951
 }

@@ -5,13 +5,19 @@
   "link": "hymns/04009.html",
   "api": "json/hymns/04009.json",
   "data": {
+    "key": "04009",
     "title": "HYMN IX. Agni.",
     "describe": "AGNI, show favour: great art thou who to this pious man art come, to seat thee on the sacred grass.",
-    "feecting": "p:AGNI, show favour: great art thou who to this pious man art come, to seat thee on the sacred grass.\np:May he the Immortal. Helper, bard to be deceived among mankind, become the messenger of all.\np:Around the altar is he led, welcome Chief Monk at solemn rites, or as the Potar sits him down.\np:Agni in fire at offering, and in the house as Lord thereof, and as a Brahman takes his seat.\np:Thou comest as the guide of folk who celebrate a offering, and to oblations brought by men.\np:Thou servest as his messenger whose offering thou lovest well, to bear the mortal's gifts to Heaven.\np:Accept our solemn rite; be pleased, A&#7749;giras, with our offering: Give ear and listen to our call.\np:May thine inviolable car, wherewith thou guardest those who give, Come near to us from every side.",
-    "next": "04010",
-    "previous": "04008",
-    "book": "04"
+    "feecting": "p:AGNI, show favour: great art thou who to this pious man art come, to seat thee on the sacred grass.\np:May he the Immortal. Helper, bard to be deceived among mankind, become the messenger of all.\np:Around the altar is he led, welcome Chief Monk at solemn rites, or as the Potar sits him down.\np:Agni in fire at offering, and in the house as Lord thereof, and as a Brahman takes his seat.\np:Thou comest as the guide of folk who celebrate a offering, and to oblations brought by men.\np:Thou servest as his messenger whose offering thou lovest well, to bear the mortal's gifts to Heaven.\np:Accept our solemn rite; be pleased, Aṅgiras, with our offering: Give ear and listen to our call.\np:May thine inviolable car, wherewith thou guardest those who give, Come near to us from every side.",
+    "meta": {
+      "next": "04010",
+      "previous": "04008",
+      "book": "04",
+      "source": "https://sacred-texts.com/hin/rigveda/rv04009.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv04009.htm"
+    },
+    "deities": []
   },
   "created": 1638554625764,
-  "updated": 1638792007679
+  "updated": 1638830292130
 }

@@ -5,13 +5,38 @@
   "link": "hymns/09029.html",
   "api": "json/hymns/09029.json",
   "data": {
+    "key": "09029",
     "title": "HYMN XXIX. Indu.",
     "describe": "FORWARD with mighty force have flowed the currents of this Steer effused, Of him who sets him by the Devas.",
     "feecting": "p:FORWARD with mighty force have flowed the currents of this Steer effused, Of him who sets him by the Devas.\np:The singers praise him with their song, and learned monks adorn the Steed, Brought forth as light that merits laud.\np:These things thou winnest lightly while purified, Soma, Lord of wealth: Fill full the sea that claims our praise.\np:Winning all precious things at once, flow on, O Soma, with thy stream Drive to one place our enemies.\np:Preserve us from the godless, from ill-omened voice of one and all, that so we may be freed from blame.\np:O Indu, as thou flowest on bring us the wealth of Earth and Heaven, and splendid vigour, in thy stream.",
-    "next": "09030",
-    "previous": "09028",
-    "book": "09"
+    "meta": {
+      "next": "09030",
+      "previous": "09028",
+      "book": "09",
+      "source": "https://sacred-texts.com/hin/rigveda/rv09029.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv09029.htm"
+    },
+    "deities": [
+      {
+        "name": "O Soma",
+        "hymns": [
+          {
+            "key": "09029",
+            "title": "HYMN XXIX. Indu."
+          }
+        ]
+      },
+      {
+        "name": "O Indu",
+        "hymns": [
+          {
+            "key": "09029",
+            "title": "HYMN XXIX. Indu."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638556987753,
-  "updated": 1638792008224
+  "updated": 1638830292845
 }

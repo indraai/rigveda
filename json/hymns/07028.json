@@ -5,13 +5,51 @@
   "link": "hymns/07028.html",
   "api": "json/hymns/07028.json",
   "data": {
+    "key": "07028",
     "title": "HYMN XXVIII. Indra.",
     "describe": "COME to our meditations, O Indra, thou who knowest: let thy Bay Steeds be yoked and guided hither.",
-    "feecting": "p:COME to our meditations, O Indra, thou who knowest: let thy Bay Steeds be yoked and guided hither.\np: Though mortal men on every side invoke thee, still give thine ear to us, O All-impeller.\r\np:Thy greatness reacheth to our invocation, the sages' prayer which, Potent Deva, thou guardest. What time thy hand, O Mighty, holds the thunder, awful in strength thou hast become resistless.\np:What time thou drewest both world-halves together, like heroes led by thee who call each other- For thou wast born for strength and high dominion-then e&#146;en the active overthrew the sluggish.\np:Honour us in these present days, O Indra, for hostile men are making expiation. Our sin that sinless Varu&#7751;a discovered, the Wondrous-Wise hath long ago forgiven.\np:We will address this liberal Lord, this Indra, that h. May grant us gifts of ample riches, best favourer of the singer's prayer and praises. Preserve us evermore, ye Devas, with blessings.",
-    "next": "07029",
-    "previous": "07027",
-    "book": "07"
+    "feecting": "p:COME to our meditations, O Indra, thou who knowest: let thy Bay Steeds be yoked and guided hither.\np: Though mortal men on every side invoke thee, still give thine ear to us, O All-impeller.\r\np:Thy greatness reacheth to our invocation, the sages' prayer which, Potent Deva, thou guardest. What time thy hand, O Mighty, holds the thunder, awful in strength thou hast become resistless.\np:What time thou drewest both world-halves together, like heroes led by thee who call each other- For thou wast born for strength and high dominion-then e’en the active overthrew the sluggish.\np:Honour us in these present days, O Indra, for hostile men are making expiation. Our sin that sinless Indra discovered, the Wondrous-Wise hath long ago forgiven.\np:We will address this liberal Lord, this Indra, that h. May grant us gifts of ample riches, best favourer of the singer's prayer and praises. Preserve us evermore, ye Devas, with blessings.",
+    "meta": {
+      "next": "07029",
+      "previous": "07027",
+      "book": "07",
+      "source": "https://sacred-texts.com/hin/rigveda/rv07028.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv07028.htm"
+    },
+    "deities": [
+      {
+        "name": "O Indra",
+        "hymns": [
+          {
+            "key": "07028",
+            "title": "HYMN XXVIII. Indra."
+          },
+          {
+            "key": "07028",
+            "title": "HYMN XXVIII. Indra."
+          }
+        ]
+      },
+      {
+        "name": "O All",
+        "hymns": [
+          {
+            "key": "07028",
+            "title": "HYMN XXVIII. Indra."
+          }
+        ]
+      },
+      {
+        "name": "O Mighty",
+        "hymns": [
+          {
+            "key": "07028",
+            "title": "HYMN XXVIII. Indra."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638555890302,
-  "updated": 1638792007967
+  "updated": 1638830292522
 }

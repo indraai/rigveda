@@ -5,13 +5,19 @@
   "link": "hymns/10158.html",
   "api": "json/hymns/10158.json",
   "data": {
-    "title": "HYMN CLVIII. S&#363;rya.",
-    "describe": "MAY S&#363;",
-    "feecting": "p:MAY S&#363;rya guard us out of Heaven, and V&#257;ta from the Firmament, and Agni from terrestrial spots.\np:Thou Indra whose flame deserves hundred libations, be thou pleased: From failing lightning keep us safe.\np:May Indra the Deva, an. May Parvata also give us sight; May the Creator give us sight.\np:Give sight unto our eye, give thou our bodies sight that the, may see: May we survey, discern this world.\np:Thus, S&#363;rya. May we look on thee, on thee most lovely to behold, See clearly with the eyes of men.",
-    "next": "10159",
-    "previous": "10157",
-    "book": "10"
+    "key": "10158",
+    "title": "HYMN CLVIII. Sūrya.",
+    "describe": "MAY Sūrya guard us out of Heaven, and Vāta from the Firmament, and Agni from terrestrial spots.",
+    "feecting": "p:MAY Sūrya guard us out of Heaven, and Vāta from the Firmament, and Agni from terrestrial spots.\np:Thou Indra whose flame deserves hundred libations, be thou pleased: From failing lightning keep us safe.\np:May Indra the Deva, an. May Parvata also give us sight; May the Creator give us sight.\np:Give sight unto our eye, give thou our bodies sight that the, may see: May we survey, discern this world.\np:Thus, Sūrya. May we look on thee, on thee most lovely to behold, See clearly with the eyes of men.",
+    "meta": {
+      "next": "10159",
+      "previous": "10157",
+      "book": "10",
+      "source": "https://sacred-texts.com/hin/rigveda/rv10158.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv10158.htm"
+    },
+    "deities": []
   },
   "created": 1638558274545,
-  "updated": 1638792008595
+  "updated": 1638830293244
 }

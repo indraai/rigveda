@@ -5,13 +5,19 @@
   "link": "hymns/09014.html",
   "api": "json/hymns/09014.json",
   "data": {
+    "key": "09014",
     "title": "HYMN XIV. Indu.",
     "describe": "REPOSING on the river's wave the Sage hath widely flowed around, bearing the hymn which many love.",
-    "feecting": "p:REPOSING on the river's wave the Sage hath widely flowed around, bearing the hymn which many love.\np:When the Five kindred Companies, active in duty, with the song Establish him, the Powerful,\np:Then in his juice whose strength is great, have all the Devas rejoiced themselves, when he hath clothed him in the milk.\np:Freeing himself he flows away, leaving his body's severed limbs, and meets his own Companion here.\np:He by the daughters of the priest, like a fair youth, hath been adorned, Making the milk, as &#146;twere, his robe.\np:O'er the fine fingers, through desire of milk, in winding course he goes, and utters voice which he hath found.\np:The nimble fingers have approached, adorning him the Lord of Strength: They grasp the vigorous Courser's back.\np:Comprising all the treasures that are in the heavens and on the Earth, Come, Soma, as our faithful Friend.",
-    "next": "09015",
-    "previous": "09013",
-    "book": "09"
+    "feecting": "p:REPOSING on the river's wave the Sage hath widely flowed around, bearing the hymn which many love.\np:When the Five kindred Companies, active in duty, with the song Establish him, the Powerful,\np:Then in his juice whose strength is great, have all the Devas rejoiced themselves, when he hath clothed him in the milk.\np:Freeing himself he flows away, leaving his body's severed limbs, and meets his own Companion here.\np:He by the daughters of the priest, like a fair youth, hath been adorned, Making the milk, as ’twere, his robe.\np:O'er the fine fingers, through desire of milk, in winding course he goes, and utters voice which he hath found.\np:The nimble fingers have approached, adorning him the Lord of Strength: They grasp the vigorous Courser's back.\np:Comprising all the treasures that are in the heavens and on the Earth, Come, Soma, as our faithful Friend.",
+    "meta": {
+      "next": "09015",
+      "previous": "09013",
+      "book": "09",
+      "source": "https://sacred-texts.com/hin/rigveda/rv09014.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv09014.htm"
+    },
+    "deities": []
   },
   "created": 1638556908828,
-  "updated": 1638792008211
+  "updated": 1638830292830
 }

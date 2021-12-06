@@ -5,13 +5,29 @@
   "link": "hymns/01170.html",
   "api": "json/hymns/01170.json",
   "data": {
+    "key": "01170",
     "title": "HYMN CLXX. Indra. Devas.",
     "describe": "NAUGHT is to-day, to-morrow naught.",
     "feecting": "p:NAUGHT is to-day, to-morrow naught. Who comprehends the mystery? We must address ourselves unto another's thought.\np:The Devas are thy brothers. Agree with them in friendly wise.\np: We know the nature of thy mind. Verity thou wilt give us naught.\np:Let them prepare the altar, let them kindle fire in front, we will prepare the offering for the Immortal to observe.\np:Thou, Lord of Wealth, art Master of all treasures Lord of friends, art thy friends' best supporter.\np: O Indra, speak thou kindly with the Devas, and taste oblations in their proper season.",
-    "next": "01171",
-    "previous": "01169",
-    "book": "01"
+    "meta": {
+      "next": "01171",
+      "previous": "01169",
+      "book": "01",
+      "source": "https://sacred-texts.com/hin/rigveda/rv01170.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv01170.htm"
+    },
+    "deities": [
+      {
+        "name": "O Indra",
+        "hymns": [
+          {
+            "key": "01170",
+            "title": "HYMN CLXX. Indra. Devas."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638553911431,
-  "updated": 1638792007498
+  "updated": 1638830291892
 }

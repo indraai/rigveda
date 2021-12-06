@@ -5,13 +5,33 @@
   "link": "hymns/07071.html",
   "api": "json/hymns/07071.json",
   "data": {
-    "title": "HYMN LXXI. A&#347;vins.",
+    "key": "07071",
+    "title": "HYMN LXXI. Aśvins.",
     "describe": "THE Night retireth from the Dawn her Sister;",
-    "feecting": "p:THE Night retireth from the Dawn her Sister; the Dark one yieldeth to the Red her pathway.\np: Let us invoke you rich in steeds and cattle - by day and night keep far from us the arrow.\r\np:Bearing rich treasure in your car, O A&#347;vins, come to the mortal who presents oblation. Keep at a distance penury and sickness; Lovers of Sweetness, day and night preserve us.\np:May your strong horses, seeking bliss, bring hither your chariot at the earliest flush of morning. With coursers yoked by Law drive hither, A&#347;vins, your car whose reins are light, laden with treasure.\np:The chariot, Princes, that conveys you, moving at daylight, triple-seated, fraught with riches, Even with this come unto us, N&#257;satyas, that laden with all food i. May approach us.\np:Ye freed Cyav&#257;na from old age and weakness: ye brought the courser fleet of food to Pedu. Ye rescued Atri from distress and darkness, and loosed for J&#257;hu&#7779;a the bonds that bound him.\np:This is the thought, this is the song, O A&#347;vins: accept this hymn of ours, ye Steers, with favour. May these our meditations addressed to you come nigh you. Preserve us evermore, ye Devas, with blessings.",
-    "next": "07072",
-    "previous": "07070",
-    "book": "07"
+    "feecting": "p:THE Night retireth from the Dawn her Sister; the Dark one yieldeth to the Red her pathway.\np: Let us invoke you rich in steeds and cattle - by day and night keep far from us the arrow.\r\np:Bearing rich treasure in your car, O Aśvins, come to the mortal who presents oblation. Keep at a distance penury and sickness; Lovers of Sweetness, day and night preserve us.\np:May your strong horses, seeking bliss, bring hither your chariot at the earliest flush of morning. With coursers yoked by Law drive hither, Aśvins, your car whose reins are light, laden with treasure.\np:The chariot, Princes, that conveys you, moving at daylight, triple-seated, fraught with riches, Even with this come unto us, Nāsatyas, that laden with all food i. May approach us.\np:Ye freed Cyavāna from old age and weakness: ye brought the courser fleet of food to Pedu. Ye rescued Atri from distress and darkness, and loosed for Jāhuṣa the bonds that bound him.\np:This is the thought, this is the song, O Aśvins: accept this hymn of ours, ye Steers, with favour. May these our meditations addressed to you come nigh you. Preserve us evermore, ye Devas, with blessings.",
+    "meta": {
+      "next": "07072",
+      "previous": "07070",
+      "book": "07",
+      "source": "https://sacred-texts.com/hin/rigveda/rv07071.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv07071.htm"
+    },
+    "deities": [
+      {
+        "name": "O Aśvins",
+        "hymns": [
+          {
+            "key": "07071",
+            "title": "HYMN LXXI. Aśvins."
+          },
+          {
+            "key": "07071",
+            "title": "HYMN LXXI. Aśvins."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638556117379,
-  "updated": 1638792008015
+  "updated": 1638830292594
 }

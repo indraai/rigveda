@@ -5,13 +5,38 @@
   "link": "hymns/07081.html",
   "api": "json/hymns/07081.json",
   "data": {
+    "key": "07081",
     "title": "HYMN LXXXI. Dawn.",
     "describe": "ADVANCING, sending forth her rays, the Daughter of the Sky is seen.",
-    "feecting": "p:ADVANCING, sending forth her rays, the Daughter of the Sky is seen.\np: Uncovering, that we may see, the mighty gloom, the friendly Lady makes the light.\r\np:The Sun ascending, the refulgent Star, pours down his beams together with the Dawn. O Dawn, at thine arising, and the Sun's. May we attain the share allotted us.\np:Promptly we woke to welcome thee, O U&#7779;as, Daughter of the Sky, thee, Bounteous One, who bringest all we long to have, and to the offerer health and wealth.\np:Thou, dawning, workest fain to light the great world, yea. Heaven, Goddess! that i. May be seen. We yearn to be thine own, Dealer of Wealth. May we be to this Mother like her sons.\np:Bring us that wondrous bounty, Dawn, that shall be famed most far away. What, Child of Heaven, thou hast of nourishment for man, bestow thou on us to enjoy.\np:Give to our princes opulence and immortal fame, and strength in herds of kine to us. May she who prompts the wealthy, Lady of sweet strains. May U&#7779;as dawn our foes away.",
-    "next": "07082",
-    "previous": "07080",
-    "book": "07"
+    "feecting": "p:ADVANCING, sending forth her rays, the Daughter of the Sky is seen.\np: Uncovering, that we may see, the mighty gloom, the friendly Lady makes the light.\r\np:The Sun ascending, the refulgent Star, pours down his beams together with the Dawn. O Dawn, at thine arising, and the Sun's. May we attain the share allotted us.\np:Promptly we woke to welcome thee, O Uṣas, Daughter of the Sky, thee, Bounteous One, who bringest all we long to have, and to the offerer health and wealth.\np:Thou, dawning, workest fain to light the great world, yea. Heaven, Goddess! that he may be seen. We yearn to be thine own, Dealer of Wealth. May we be to this Mother like her sons.\np:Bring us that wondrous bounty, Dawn, that shall be famed most far away. What, Child of Heaven, thou hast of nourishment for man, bestow thou on us to enjoy.\np:Give to our princes opulence and immortal fame, and strength in herds of kine to us. May she who prompts the wealthy, Lady of sweet strains. May Uṣas dawn our foes away.",
+    "meta": {
+      "next": "07082",
+      "previous": "07080",
+      "book": "07",
+      "source": "https://sacred-texts.com/hin/rigveda/rv07081.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv07081.htm"
+    },
+    "deities": [
+      {
+        "name": "O Dawn",
+        "hymns": [
+          {
+            "key": "07081",
+            "title": "HYMN LXXXI. Dawn."
+          }
+        ]
+      },
+      {
+        "name": "O Uṣas",
+        "hymns": [
+          {
+            "key": "07081",
+            "title": "HYMN LXXXI. Dawn."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638556170043,
-  "updated": 1638792008024
+  "updated": 1638830292605
 }

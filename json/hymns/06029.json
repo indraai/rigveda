@@ -5,13 +5,19 @@
   "link": "hymns/06029.html",
   "api": "json/hymns/06029.json",
   "data": {
+    "key": "06029",
     "title": "HYMN XXIX Indra.",
     "describe": "YOUR men have followed Indra for his friendship, and for his loving-kindness glorified him.",
-    "feecting": "p:YOUR men have followed Indra for his friendship, and for his loving-kindness glorified him.\np: For he bestows great wealth, the Thunder-wielder: worship him, Great and Kind, to win his favour.\r\np:Him to whose hand, men closely cling, and drivers stand on his golden chariot firmly stationed. With his firm arms he holds the reins; his Horses, the Stallions, are yoked ready for the journey.\np:Thy devotees embrace thy feet for glory. Bold, thunder-armed, rich, through thy strength, in guerdon, Robed in a garment fair as Heaven to look on, thou hast displayed thee like an active dancer.\np:That Soma when effused hath best consistence, for which the food is dressed and grain is mingled; By which the men who pray, extolling Indra chief favourites of Devas, recite their praises.\np:No limit of thy might hath been appointed, which by its greatness sundered Earth and Heaven. These the Prince filleth full with stron endeavour, driving, as &#146;twere, with help his flocks to waters.\np:So be the lofty Indra prompt to listen. Helper unaided, golden-visored Hero. Yea, s. May he, shown forth in might unequalled, smite down the many V&#7771;tras and the Dasyus.",
-    "next": "06030",
-    "previous": "06028",
-    "book": "06"
+    "feecting": "p:YOUR men have followed Indra for his friendship, and for his loving-kindness glorified him.\np: For he bestows great wealth, the Thunder-wielder: worship him, Great and Kind, to win his favour.\r\np:Him to whose hand, men closely cling, and drivers stand on his golden chariot firmly stationed. With his firm arms he holds the reins; his Horses, the Stallions, are yoked ready for the journey.\np:Thy devotees embrace thy feet for glory. Bold, thunder-armed, rich, through thy strength, in guerdon, Robed in a garment fair as Heaven to look on, thou hast displayed thee like an active dancer.\np:That Soma when effused hath best consistence, for which the food is dressed and grain is mingled; By which the men who pray, extolling Indra chief favourites of Devas, recite their praises.\np:No limit of thy might hath been appointed, which by its greatness sundered Earth and Heaven. These the Prince filleth full with stron endeavour, driving, as ’twere, with help his flocks to waters.\np:So be the lofty Indra prompt to listen. Helper unaided, golden-visored Hero. Yea, s. May he, shown forth in might unequalled, smite down the many Vṛtras and the Dasyus.",
+    "meta": {
+      "next": "06030",
+      "previous": "06028",
+      "book": "06",
+      "source": "https://sacred-texts.com/hin/rigveda/rv06029.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv06029.htm"
+    },
+    "deities": []
   },
   "created": 1638555499512,
-  "updated": 1638792007885
+  "updated": 1638830292384
 }

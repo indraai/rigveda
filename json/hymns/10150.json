@@ -5,13 +5,29 @@
   "link": "hymns/10150.html",
   "api": "json/hymns/10150.json",
   "data": {
+    "key": "10150",
     "title": "HYMN CL. Agni.",
     "describe": "THOU, bearer of oblations, though kindled, art kindled for the Devas.",
-    "feecting": "p:THOU, bearer of oblations, though kindled, art kindled for the Devas.\np: With the &#256;dityas, Somas, Devas, come to us: to show us favour come to us.\r\np:Come hither and accept with joy this offering and hymn of ours. O kindled Deva, we mortals are invoking thee, calling on thee to show us grace.\np:I laud thee J&#257;tavedas, thee Lord of all blessings, with my song. Agni, bring hitherward the Devas whose Laws we love, whose laws we love, to show us grace.\np:Agni the Deva was made the great High-Monk of Devas, &#7770;&#7779;is have kindled Agni, men of mortal mould. Agni I invocate for winning ample wealth. kindly disposed for winning wealth.\np:Atri and Bharadv&#257;ja and Gavisthira, Ka&#7751;va and Trasadasyu, in our fight he helped. On Agni calls Vasi&#7779;&#7789;ha, even the household priest, the household priest to win his grace.",
-    "next": "10151",
-    "previous": "10149",
-    "book": "10"
+    "feecting": "p:THOU, bearer of oblations, though kindled, art kindled for the Devas.\np: With the Ādityas, Somas, Devas, come to us: to show us favour come to us.\r\np:Come hither and accept with joy this offering and hymn of ours. O kindled Deva, we mortals are invoking thee, calling on thee to show us grace.\np:I laud thee Jātavedas, thee Lord of all blessings, with my song. Agni, bring hitherward the Devas whose Laws we love, whose laws we love, to show us grace.\np:Agni the Deva was made the great High-Monk of Devas, Ṛṣis have kindled Agni, men of mortal mould. Agni I invocate for winning ample wealth. kindly disposed for winning wealth.\np:Atri and Bharadvāja and Gavisthira, Kaṇva and Trasadasyu, in our fight he helped. On Agni calls Vasiṣṭha, even the household priest, the household priest to win his grace.",
+    "meta": {
+      "next": "10151",
+      "previous": "10149",
+      "book": "10",
+      "source": "https://sacred-texts.com/hin/rigveda/rv10150.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv10150.htm"
+    },
+    "deities": [
+      {
+        "name": "O kindled",
+        "hymns": [
+          {
+            "key": "10150",
+            "title": "HYMN CL. Agni."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638558232136,
-  "updated": 1638792008587
+  "updated": 1638830293237
 }

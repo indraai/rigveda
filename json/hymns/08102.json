@@ -5,13 +5,19 @@
   "link": "hymns/08102.html",
   "api": "json/hymns/08102.json",
   "data": {
-    "title": "HYMN X. Vi&#347;vedevas.",
+    "key": "08102",
+    "title": "HYMN X. Devas.",
     "describe": "HE whom the monks in sundry ways arranging the offering, of one accord, bring hither, who was appointed as a learned Brahman, -what is the knowledge of him?",
-    "feecting": "p:HE whom the monks in sundry ways arranging the offering, of one accord, bring hither, who was appointed as a learned Brahman, -what is the knowledge of him?\np:Kindled in many a spot, still One is Agni; Silrya is One though high o&#146;er all he shineth.\np: Illumining this All, still One is usas. That which is One hath into All developed.\r\np:The chariot bright and radiant, treasure-laden, three-wheeled, with easy seat, and lightly rolling, Which She of Wondrous Wealth was born to harness,&#151;this car of yours I call. Drink what remaineth.",
-    "next": "08103",
-    "previous": "08101",
-    "book": "08"
+    "feecting": "p:HE whom the monks in sundry ways arranging the offering, of one accord, bring hither, who was appointed as a learned Brahman, -what is the knowledge of him?\np:Kindled in many a spot, still One is Agni; Silrya is One though high o’er all he shineth.\np: Illumining this All, still One is usas. That which is One hath into All developed.\r\np:The chariot bright and radiant, treasure-laden, three-wheeled, with easy seat, and lightly rolling, Which She of Wondrous Wealth was born to harness.this car of yours I call. Drink what remaineth.",
+    "meta": {
+      "next": "08103",
+      "previous": "08101",
+      "book": "08",
+      "source": "https://sacred-texts.com/hin/rigveda/rv08102.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv08102.htm"
+    },
+    "deities": []
   },
   "created": 1638556829919,
-  "updated": 1638792008194
+  "updated": 1638830292815
 }

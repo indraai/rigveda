@@ -5,13 +5,46 @@
   "link": "hymns/05069.html",
   "api": "json/hymns/05069.json",
   "data": {
-    "title": "HYMN LXIX. Mitra-Varu&#7751;a.",
-    "describe": "THREE spheres of light, O Varu&#7751;",
-    "feecting": "p:THREE spheres of light, O Varu&#7751;a, three heavens, three firmaments ye comprehend, O Mitra: Waxed strong, ye keep the splendour of dominion, guarding the Ordinance that lasts forever.\np:Ye, Varu&#7751;a, have kine who yield refreshment; Mitra, your floods pour water full of sweetness.\np: There stand the Three Steers, splendid in their brightness, who fill the three world-bowls with genial moisture.\r\np:I call at dawn on Aditi the Goddess, I call at noon and when the Sun is setting. I pray, O Mitra-Varu&#7751;a, for safety, for wealth and progeny, in rest and trouble.\np:Ye who uphold the region, sphere of brightness, ye who support Earth's realm Divine &#256;dityas, the Immortal Devas, O Varu&#7751;a and Mitra, never impair your everlasting statutes.",
-    "next": "05070",
-    "previous": "05068",
-    "book": "05"
+    "key": "05069",
+    "title": "HYMN LXIX. Mitra-Indra.",
+    "describe": "THREE spheres of light, O Indra, three heavens, three firmaments ye comprehend, O Mitra: Waxed strong, ye keep the splendour of dominion, guarding the Ordinance that lasts forever.",
+    "feecting": "p:THREE spheres of light, O Indra, three heavens, three firmaments ye comprehend, O Mitra: Waxed strong, ye keep the splendour of dominion, guarding the Ordinance that lasts forever.\np:Ye, Indra, have kine who yield refreshment; Mitra, your floods pour water full of sweetness.\np: There stand the Three Steers, splendid in their brightness, who fill the three world-bowls with genial moisture.\r\np:I call at dawn on Aditi the Goddess, I call at noon and when the Sun is setting. I pray, O Mitra-Indra, for safety, for wealth and progeny, in rest and trouble.\np:Ye who uphold the region, sphere of brightness, ye who support Earth's realm Divine Ādityas, the Immortal Devas, O Indra and Mitra, never impair your everlasting statutes.",
+    "meta": {
+      "next": "05070",
+      "previous": "05068",
+      "book": "05",
+      "source": "https://sacred-texts.com/hin/rigveda/rv05069.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv05069.htm"
+    },
+    "deities": [
+      {
+        "name": "O Indra",
+        "hymns": [
+          {
+            "key": "05069",
+            "title": "HYMN LXIX. Mitra-Indra."
+          },
+          {
+            "key": "05069",
+            "title": "HYMN LXIX. Mitra-Indra."
+          }
+        ]
+      },
+      {
+        "name": "O Mitra",
+        "hymns": [
+          {
+            "key": "05069",
+            "title": "HYMN LXIX. Mitra-Indra."
+          },
+          {
+            "key": "05069",
+            "title": "HYMN LXIX. Mitra-Indra."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638555251465,
-  "updated": 1638792007827
+  "updated": 1638830292311
 }

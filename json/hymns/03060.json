@@ -5,13 +5,47 @@
   "link": "hymns/03060.html",
   "api": "json/hymns/03060.json",
   "data": {
-    "title": "HYMN LX. &#7770;bhus.",
+    "key": "03060",
+    "title": "HYMN LX. Ṛbhus.",
     "describe": "HERE is your ghostly kinship, here, O Men: they came desirous to these holy rites with store of wealth, with wondrous arts, whereby, with schemes to meet each need, Ye gained, Sudhanvan's Sons!",
-    "feecting": "p:HERE is your ghostly kinship, here, O Men: they came desirous to these holy rites with store of wealth, with wondrous arts, whereby, with schemes to meet each need, Ye gained, Sudhanvan's Sons! your share in offering.\np:The mighty powers wherewith. ye formed the chalices, the thought by which ye drew the cow from out the hide, the intellect wherewith ye wrought the two Bay Steeds,&#151;through these, O &#7770;bhus, ye attained divinity.\np:Friendship with Indra have the &#7770;bhus, fully gained: grandsons of Manu, they skilfully urged the work.\np: Sudhanvan's Children won them everlasting life, serving with holy rites, pious with noble acts.\r\np::In company with Indra come ye to the juice, then gloriously shall your wishes be fulfilled. Not to be paragoned, ye Monks, are your good deeds, nor your heroic acts, &#7770;bhus, Sudhanvan's Sons.\np:O Indra, with the &#7770;bhus, Mighty Ones, pour down the Soma juice effused, well-blent, from both thy hands. Maghalan, urged by song, in the drink-offerer's house rejoice thee with the Heroes, with Sudhanvan's Sons.\np:With &#7770;bhu near, and V&#257;ja, Indra, here exult, with Saci, praised of many, in the juice we pour. These homes wherein we dwell have turned themselves to thee, -devotions to the Devas, as laws of men ordain.\np:Come with the mighty &#7770;bhus, Indra, come to us, strengthening with thy help the singer's holy praise; At hundred eager calls come to the living man, with thousand arts attend the act of offering.",
-    "next": "03061",
-    "previous": "03059",
-    "book": "03"
+    "feecting": "p:HERE is your ghostly kinship, here, O Men: they came desirous to these holy rites with store of wealth, with wondrous arts, whereby, with schemes to meet each need, Ye gained, Sudhanvan's Sons! your share in offering.\np:The mighty powers wherewith. ye formed the chalices, the thought by which ye drew the cow from out the hide, the intellect wherewith ye wrought the two Bay Steeds.through these, O Ṛbhus, ye attained divinity.\np:Friendship with Indra have the Ṛbhus, fully gained: grandsons of Manu, they skilfully urged the work.\np: Sudhanvan's Children won them everlasting life, serving with holy rites, pious with noble acts.\r\np::In company with Indra come ye to the juice, then gloriously shall your wishes be fulfilled. Not to be paragoned, ye Monks, are your good deeds, nor your heroic acts, Ṛbhus, Sudhanvan's Sons.\np:O Indra, with the Ṛbhus, Mighty Ones, pour down the Soma juice effused, well-blent, from both thy hands. Maghalan, urged by song, in the drink-offerer's house rejoice thee with the Heroes, with Sudhanvan's Sons.\np:With Ṛbhu near, and Vāja, Indra, here exult, with Saci, praised of many, in the juice we pour. These homes wherein we dwell have turned themselves to thee, -devotions to the Devas, as laws of men ordain.\np:Come with the mighty Ṛbhus, Indra, come to us, strengthening with thy help the singer's holy praise; At hundred eager calls come to the living man, with thousand arts attend the act of offering.",
+    "meta": {
+      "next": "03061",
+      "previous": "03059",
+      "book": "03",
+      "source": "https://sacred-texts.com/hin/rigveda/rv03060.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv03060.htm"
+    },
+    "deities": [
+      {
+        "name": "O Men",
+        "hymns": [
+          {
+            "key": "03060",
+            "title": "HYMN LX. Ṛbhus."
+          }
+        ]
+      },
+      {
+        "name": "O Ṛbhus",
+        "hymns": [
+          {
+            "key": "03060",
+            "title": "HYMN LX. Ṛbhus."
+          }
+        ]
+      },
+      {
+        "name": "O Indra",
+        "hymns": [
+          {
+            "key": "03060",
+            "title": "HYMN LX. Ṛbhus."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638554567887,
-  "updated": 1638792007664
+  "updated": 1638830292105
 }

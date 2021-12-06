@@ -5,13 +5,38 @@
   "link": "hymns/07009.html",
   "api": "json/hymns/07009.json",
   "data": {
+    "key": "07009",
     "title": "HYMN IX. Agni.",
     "describe": "ROUSED from their bosom is the Dawns' beloved, the joyous Monk, most sapient, Purifier.",
-    "feecting": "p:ROUSED from their bosom is the Dawns' beloved, the joyous Monk, most sapient, Purifier.\np: He gives a signal both to Devas and mortals, to Devas oblations, riches to the pious.\r\np:Most wise is he who, forcing doors of Pa&#7751;is, brought the bright Sun to us who feedeth many. The cheerful Monk, men's Friend and home-companion, through still night's darkness he is made apparent.\np:Wise, our gracious guest, a friend with good attendants. Shines forth with wondrous light before the Mornings; the young plants hath he entered, Child of Waters.\np:Seeking our gatherings, he, your J&#257;tavedas, hath shone adorable through human ages, who gleams refulgent with his lovely lustre.\np:Go on thy message to the Devas, and fail not, O Agni, with their band who meditate and make offerings. Bring all the Devas that the, may give us riches, Sarasvat&#299;, the Devas, A&#347;vins, Waters.\np:Vasi&#7779;&#7789;ha, when enkindling thee, O Agni, hath slain jarutha. Sing praise in choral song, O J&#257;tavedas. Ye Devas, preserve us evermore with blessings.",
-    "next": "07010",
-    "previous": "07008",
-    "book": "07"
+    "feecting": "p:ROUSED from their bosom is the Dawns' beloved, the joyous Monk, most sapient, Purifier.\np: He gives a signal both to Devas and mortals, to Devas oblations, riches to the pious.\r\np:Most wise is he who brought the bright Sun to us who feedeth many. The cheerful Monk, men's Friend and home-companion, through still night's darkness he is made apparent.\np:Wise, our gracious guest, a friend with good attendants. Shines forth with wondrous light before the Mornings; the young plants hath he entered, Child of Waters.\np:Seeking our gatherings, he, your Jātavedas, hath shone adorable through human ages, who gleams refulgent with his lovely lustre.\np:Go on thy message to the Devas, and fail not, O Agni, with their band who meditate and make offerings. Bring all the Devas, Aśvins, Waters.\np:Sing praise in choral song, O Jātavedas. Ye Devas, preserve us evermore with blessings.",
+    "meta": {
+      "next": "07010",
+      "previous": "07008",
+      "book": "07",
+      "source": "https://sacred-texts.com/hin/rigveda/rv07009.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv07009.htm"
+    },
+    "deities": [
+      {
+        "name": "O Agni",
+        "hymns": [
+          {
+            "key": "07009",
+            "title": "HYMN IX. Agni."
+          }
+        ]
+      },
+      {
+        "name": "O Jātavedas",
+        "hymns": [
+          {
+            "key": "07009",
+            "title": "HYMN IX. Agni."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638555789899,
-  "updated": 1638792007948
+  "updated": 1638830292486
 }

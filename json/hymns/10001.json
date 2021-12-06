@@ -5,13 +5,47 @@
   "link": "hymns/10001.html",
   "api": "json/hymns/10001.json",
   "data": {
+    "key": "10001",
     "title": "HYMN I. Agni.",
     "describe": "HIGH hath the Mighty risen before the dawning, and come to us with light from out the darkness.",
-    "feecting": "p:HIGH hath the Mighty risen before the dawning, and come to us with light from out the darkness.\np: Fair-shapen Agni with white-shining splendour hath filled at birth all human habitations.\r\np:Thou, being born, art Child of Earth and Heaven, parted among the plants in beauty, Agni! The glooms of night thou, Brilliant Babe, subduest, and art come forth, loud roaring, from thy Mothers.\np:Here, being manifested, lofty Vi&#7779;&#7751;u, full wise, protects his own supremest station. When they have offered in his mouth their sweet milk, to him with one accord they sing forth praises.\np:Thence bearing food the Mothers come to meet thee, with food for thee who givest food its increase. These in their altered form again thou meetest. Thou art Invoking Monk in homes of mortals.\np:Monk of the holy rite, with car that glitters, refulgent Banner of each act of worship, Sharinging every God through might and glory, even Agni Guest of men I summon hither.\np:So Agni stands on Earth's most central station, invested in well-decorated garments. Born, red of hue, where men pour out libations, O King, as great High Monk bring the Devas hither.\np:Over the Earth and over Heaven, O Agni Son, hast ever spread above thy Parents. Come, Youthfullest! to those who long to meet thee, and hither bring the Devas, O Mighty Victor.",
-    "next": "10002",
-    "previous": "09114",
-    "book": "10"
+    "feecting": "p:HIGH hath the Mighty risen before the dawning, and come to us with light from out the darkness.\np: Fair-shapen Agni with white-shining splendour hath filled at birth all human habitations.\r\np:Thou, being born, art Child of Earth and Heaven, parted among the plants in beauty, Agni! The glooms of night thou, Brilliant Babe, subduest, and art come forth, loud roaring, from thy Mothers.\np:Here, being manifested, lofty Indra, full wise, protects his own supremest station. When they have offered in his mouth their sweet milk, to him with one accord they sing forth praises.\np:Thence bearing food the Mothers come to meet thee, with food for thee who givest food its increase. These in their altered form again thou meetest. Thou art Invoking Monk in homes of mortals.\np:Monk of the holy rite, with car that glitters, refulgent Banner of each act of worship, Sharinging every God through might and glory, even Agni Guest of men I summon hither.\np:So Agni stands on Earth's most central station, invested in well-decorated garments. Born, red of hue, where men pour out libations, O King, as great High Monk bring the Devas hither.\np:Over the Earth and over Heaven, O Agni Son, hast ever spread above thy Parents. Come, Youthfullest! to those who long to meet thee, and hither bring the Devas, O Mighty Victor.",
+    "meta": {
+      "next": "10002",
+      "previous": "09114",
+      "book": "10",
+      "source": "https://sacred-texts.com/hin/rigveda/rv10001.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv10001.htm"
+    },
+    "deities": [
+      {
+        "name": "O King",
+        "hymns": [
+          {
+            "key": "10001",
+            "title": "HYMN I. Agni."
+          }
+        ]
+      },
+      {
+        "name": "O Agni",
+        "hymns": [
+          {
+            "key": "10001",
+            "title": "HYMN I. Agni."
+          }
+        ]
+      },
+      {
+        "name": "O Mighty",
+        "hymns": [
+          {
+            "key": "10001",
+            "title": "HYMN I. Agni."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638557441340,
-  "updated": 1638792008356
+  "updated": 1638830292965
 }

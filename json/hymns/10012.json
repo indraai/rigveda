@@ -5,13 +5,29 @@
   "link": "hymns/10012.html",
   "api": "json/hymns/10012.json",
   "data": {
+    "key": "10012",
     "title": "HYMN XII. Agni",
     "describe": "HEAVEN and Earth, first by everlasting Order, speakers of truth, are near enough to hear us, when the Deva, urging men to worship.",
-    "feecting": "p:HEAVEN and Earth, first by everlasting Order, speakers of truth, are near enough to hear us, when the Deva, urging men to worship. sitteth as Monk, assuming all his vital vigour.\np:As God comprising Devas by Law Eternal, bear, as the Chief who knoweth, our oblation, Smoke-bannered with the fuel, radiant, joyous, better to praise and worship, Monk forever.\np:When the cow's nectar wins the Deva completely, men here below are Heaven's sustainers.\np: All the Devas came to this thy heavenly Yajus which from the motley Pair milked oil and water.\r\np:1 praise your work that y. May make me prosper: hear. Heaven and Earth, Twain Worlds that drop with fatness. While days and nights go to the world of spirits, here let the Parents with sweet meath refresh us\np:Hath the King siezed us? How have we offended against his holy ordinance? Who knoweth? For even Mitra mid the Devas is angry there are both song and strength for those who come not.\np:&#146;Tis hard to understand the Immortal's nature, where she who is akin becomes astranger. Guard ceaselessly, great Agni, him who ponders Yama's name, easy to be comprehended.\np:They in the synod where the Devas rejoice them, where they are seated in Vivasv&#257;n's dwelling, have given the Moon his beams, the Sun his splendour-the Two unweariedly maintain their brightness.\np:The counsel which the Devas meet to consider, their secret plan,&#151;of that we have no knowledge. There let God Indra, Aditi, and Mitra proclaim to Varu&#7751;a that we are sinless.\np:Hear us, O Agni, in your comninn dwell ing: harness thy rapid car, the car of Am&#7771;ta. Bring Heaven and Earth, the Deities' Parents, hither: stay with us here, nor from the Devas be distant.",
-    "next": "10013",
-    "previous": "10011",
-    "book": "10"
+    "feecting": "p:HEAVEN and Earth, first by everlasting Order, speakers of truth, are near enough to hear us, when the Deva, urging men to worship. sitteth as Monk, assuming all his vital vigour.\np:As God comprising Devas by Law Eternal, bear, as the Chief who knoweth, our oblation, Smoke-bannered with the fuel, radiant, joyous, better to praise and worship, Monk forever.\np:When the cow's nectar wins the Deva completely, men here below are Heaven's sustainers.\np: All the Devas came to this thy heavenly Yajus which from the motley Pair milked oil and water.\r\np:1 praise your work that y. May make me prosper: hear. Heaven and Earth, Twain Worlds that drop with fatness. While days and nights go to the world of spirits, here let the Parents with sweet meath refresh us\np:Hath the King siezed us? How have we offended against his holy ordinance? Who knoweth? For even Mitra mid the Devas is angry there are both song and strength for those who come not.\np:’Tis hard to understand the Immortal's nature, where she who is akin becomes astranger. Guard ceaselessly, great Agni, him who ponders Yama's name, easy to be comprehended.\np:They in the synod where the Devas rejoice them, where they are seated in Vivasvān's dwelling, have given the Moon his beams, the Sun his splendour-the Two unweariedly maintain their brightness.\np:The counsel which the Devas meet to consider, their secret plan.of that we have no knowledge. There let God Indra, Aditi, and Mitra proclaim to Indra that we are sinless.\np:Hear us, O Agni, in your comninn dwell ing: harness thy rapid car, the car of Amṛta. Bring Heaven and Earth, the Deities' Parents, hither: stay with us here, nor from the Devas be distant.",
+    "meta": {
+      "next": "10013",
+      "previous": "10011",
+      "book": "10",
+      "source": "https://sacred-texts.com/hin/rigveda/rv10012.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv10012.htm"
+    },
+    "deities": [
+      {
+        "name": "O Agni",
+        "hymns": [
+          {
+            "key": "10012",
+            "title": "HYMN XII. Agni"
+          }
+        ]
+      }
+    ]
   },
   "created": 1638557499215,
-  "updated": 1638792008368
+  "updated": 1638830292979
 }

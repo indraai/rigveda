@@ -5,13 +5,19 @@
   "link": "hymns/05067.html",
   "api": "json/hymns/05067.json",
   "data": {
-    "title": "HYMN LXVII. Mitra-Varu&#7751;a.",
-    "describe": "YE Devas, &#256;",
-    "feecting": "p:YE Devas, &#256;dityas, Varu&#7751;a, Aryaman, Mitra, verily Have here obtained supremest sway, high, holy, set apart for you.\np:When, Varu&#7751;a and Mitra, ye sit in your golden dwelling-place, Ye Twain, supporters of mankind, foeslayers, give felicity.\np:All these, possessors of all wealth, Varu&#7751;a, Mitra, Aryaman, Follow their ways, as if with feet, and guard from injury mortal man.\np:For they are true, they cleave to Law, held holy amon every race, Good leaders, bounteous in their gifts, deliverers even from distress.\np:Which of your persons, Varu&#7751;a or Mitra, merits not our praise? Therefore our thought is turned to you, the Atris' thought is turned to you.",
-    "next": "05068",
-    "previous": "05066",
-    "book": "05"
+    "key": "05067",
+    "title": "HYMN LXVII. Mitra-Indra.",
+    "describe": "YE Devas Devas Indra, Aryaman, Mitra, verily Have here obtained supremest sway, high, holy, set apart for you.",
+    "feecting": "p:YE Devas Devas Indra, Aryaman, Mitra, verily Have here obtained supremest sway, high, holy, set apart for you.\np:When, Indra and Mitra, ye sit in your golden dwelling-place, Ye Twain, supporters of mankind, foeslayers, give felicity.\np:All these, possessors of all wealth, Indra, Mitra, Aryaman, Follow their ways, as if with feet, and guard from injury mortal man.\np:For they are true, they cleave to Law, held holy amon every race, Good leaders, bounteous in their gifts, deliverers even from distress.\np:Which of your persons, Indra or Mitra, merits not our praise? Therefore our thought is turned to you, the Atris' thought is turned to you.",
+    "meta": {
+      "next": "05068",
+      "previous": "05066",
+      "book": "05",
+      "source": "https://sacred-texts.com/hin/rigveda/rv05067.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv05067.htm"
+    },
+    "deities": []
   },
   "created": 1638555240652,
-  "updated": 1638792007825
+  "updated": 1638830292309
 }

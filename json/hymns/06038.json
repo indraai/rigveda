@@ -5,13 +5,29 @@
   "link": "hymns/06038.html",
   "api": "json/hymns/06038.json",
   "data": {
+    "key": "06038",
     "title": "HYMN XXXVIII. Indra.",
     "describe": "HE hath drunk hence, most Marvellous, and carried away our great and splendid call on Indra.",
-    "feecting": "p:HE hath drunk hence, most Marvellous, and carried away our great and splendid call on Indra.\np: The Bounteous, when we serve the Devas, accepteth song yet more famous and the gifts we bring him.\r\np:The speaker filleth with a cry to Indra his ears who cometh nigh e&#146;en from a distance. May this my call bring Indra to my presence, this call to Devas composed in sacred verses.\np:Him have I sung with my best song and praises, Indra of ancient birth and Everlasting. For prayer and songs in him are concentrated: let laud wax mighty when addressed to Indra:\np:Indra, whom offering shall strengthen, Soma, and song and hymn, and praises and devotion, whom Dawns shall strengthen when the night departeth, Indra whom days shall strengthen, months, and autumns.\np:Him, born for conquering might in full perfection, and waxen strongfor bounty and for glory, Great, Powerful, will we to-day, O singer, invite to aid. us and to quell our foemen.",
-    "next": "06039",
-    "previous": "06037",
-    "book": "06"
+    "feecting": "p:HE hath drunk hence, most Marvellous, and carried away our great and splendid call on Indra.\np: The Bounteous, when we serve the Devas, accepteth song yet more famous and the gifts we bring him.\r\np:The speaker filleth with a cry to Indra his ears who cometh nigh e’en from a distance. May this my call bring Indra to my presence, this call to Devas composed in sacred verses.\np:Him have I sung with my best song and praises, Indra of ancient birth and Everlasting. For prayer and songs in him are concentrated: let laud wax mighty when addressed to Indra:\np:Indra, whom offering shall strengthen, Soma, and song and hymn, and praises and devotion, whom Dawns shall strengthen when the night departeth, Indra whom days shall strengthen, months, and autumns.\np:Him, born for conquering might in full perfection, and waxen strongfor bounty and for glory, Great, Powerful, will we to-day, O singer, invite to aid. us and to quell our foemen.",
+    "meta": {
+      "next": "06039",
+      "previous": "06037",
+      "book": "06",
+      "source": "https://sacred-texts.com/hin/rigveda/rv06038.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv06038.htm"
+    },
+    "deities": [
+      {
+        "name": "O singer",
+        "hymns": [
+          {
+            "key": "06038",
+            "title": "HYMN XXXVIII. Indra."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638555546811,
-  "updated": 1638792007894
+  "updated": 1638830292394
 }

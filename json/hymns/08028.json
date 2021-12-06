@@ -5,13 +5,19 @@
   "link": "hymns/08028.html",
   "api": "json/hymns/08028.json",
   "data": {
-    "title": "HYMN XXVIII. Vi&#347;vedevas.",
+    "key": "08028",
+    "title": "HYMN XXVIII. Devas.",
     "describe": "THE Thirty Devas and Three besides, whose seat hath been the sacred grass, From time of old have found and gained.",
-    "feecting": "p:THE Thirty Devas and Three besides, whose seat hath been the sacred grass, From time of old have found and gained.\np:Varu&#7751;a, Mitra, Aryaman, Agnis, with Consorts, sending boons, to whom our Va&#7779;a&#7789;! is addressed:\np:These are our guardians in the west, and northward here, and in the south, and on the cast, with all the tribe.\np:Even as the Devas desire so verily shall it be. None minisheth this power of theirs, No demon, and no mortal\np:The Seven carry seven spears; seven are the splendours they possess, and seven the glories they assume.",
-    "next": "08029",
-    "previous": "08027",
-    "book": "08"
+    "feecting": "p:THE Thirty Devas and Three besides, whose seat hath been the sacred grass, From time of old have found and gained.\np:Indra, Mitra, Aryaman, Agnis, with Consorts, sending boons, to whom our Vaṣaṭ! is addressed:\np:These are our guardians in the west, and northward here, and in the south, and on the cast, with all the tribe.\np:Even as the Devas desire so verily shall it be. None minisheth this power of theirs, No demon, and no mortal\np:The Seven carry seven spears; seven are the splendours they possess, and seven the glories they assume.",
+    "meta": {
+      "next": "08029",
+      "previous": "08027",
+      "book": "08",
+      "source": "https://sacred-texts.com/hin/rigveda/rv08028.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv08028.htm"
+    },
+    "deities": []
   },
   "created": 1638556439062,
-  "updated": 1638792008095
+  "updated": 1638830292699
 }

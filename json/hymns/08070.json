@@ -5,13 +5,38 @@
   "link": "hymns/08070.html",
   "api": "json/hymns/08070.json",
   "data": {
+    "key": "08070",
     "title": "HYMN LXX. Indra.",
     "describe": "INDRA, God of the mighty arm, gather for us with thy right hand Manifold and nutritious spoil.",
-    "feecting": "p:INDRA, God of the mighty arm, gather for us with thy right hand Manifold and nutritious spoil.\np:We know thee mighty in thy deeds, of mighty bounty, mighty wealth, Mighty in measure, prompt to aid.\np:Hero, when thou art fain to give, neithe, may Devas nor mortal men Restrain thee like a fearful Bull.\np:Come, let us glorify Indra, Lord supreme of wealth, Self-ruling King: In bount. May he harm us not.\np:Let prelude sound and following chant so let him hear the S&#257;man sung, and with his bounty answer us.\np:O Indra, with thy right hand bring, and with thy left remember us.\np: Let us not lose our share of wealth.\r\np:Come nigh, O Bold One, boldly bring hither the riches of the churl Who giveth least of all the folk.\np:Indra, the booty which thou hast with holy singers to receive, Even that booty win with us.\np:Indra, thy swiftly-coming spoil, the booty which rejoices all, Sounds quick in concert with our hopes.",
-    "next": "08071",
-    "previous": "08069",
-    "book": "08"
+    "feecting": "p:INDRA, God of the mighty arm, gather for us with thy right hand Manifold and nutritious spoil.\np:We know thee mighty in thy deeds, of mighty bounty, mighty wealth, Mighty in measure, prompt to aid.\np:Hero, when thou art fain to give, neithe, may Devas nor mortal men Restrain thee like a fearful Bull.\np:Come, let us glorify Indra, Lord supreme of wealth, Self-ruling King: In bount. May he harm us not.\np:Let prelude sound and following chant so let him hear the Sāman sung, and with his bounty answer us.\np:O Indra, with thy right hand bring, and with thy left remember us.\np: Let us not lose our share of wealth.\r\np:Come nigh, O Bold One, boldly bring hither the riches of the churl Who giveth least of all the folk.\np:Indra, the booty which thou hast with holy singers to receive, Even that booty win with us.\np:Indra, thy swiftly-coming spoil, the booty which rejoices all, Sounds quick in concert with our hopes.",
+    "meta": {
+      "next": "08071",
+      "previous": "08069",
+      "book": "08",
+      "source": "https://sacred-texts.com/hin/rigveda/rv08070.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv08070.htm"
+    },
+    "deities": [
+      {
+        "name": "O Indra",
+        "hymns": [
+          {
+            "key": "08070",
+            "title": "HYMN LXX. Indra."
+          }
+        ]
+      },
+      {
+        "name": "O Bold",
+        "hymns": [
+          {
+            "key": "08070",
+            "title": "HYMN LXX. Indra."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638556660910,
-  "updated": 1638792008155
+  "updated": 1638830292772
 }

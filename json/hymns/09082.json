@@ -5,13 +5,38 @@
   "link": "hymns/09082.html",
   "api": "json/hymns/09082.json",
   "data": {
+    "key": "09082",
     "title": "HYMN LXXXII. Indu.",
     "describe": "EVEN as a King hath Soma, red and tawny Bull, been pressed: the Wondrous One hath bellowed to the kine.",
     "feecting": "p:EVEN as a King hath Soma, red and tawny Bull, been pressed: the Wondrous One hath bellowed to the kine.\np: While purified he passes through the filtering fleece to seat him hawk-like on the place that drops with oil.\r\np:To glory goest thou, Sage with disposing skill, like a groomed steed thou rusbest forward to the prize. O Soma, be thou gracious, driving off distress: thou goest, clothed in butter, to a robe of state.\np:Parjanya is the Father of the Mighty Bird: on mountains, in Earth's centre hath he made his home. The waters too have flowed, the Sisters, to the kine: he meets the pressing-stones at the beloved rite.\np:Thou givest pleasure as a wife delights her lord. Listen, O Child of Pajri, for to thee I speak. Amid the holy songs go on that we may live: in time of trouble, Soma, watch thou free from blame.\np:As to the men of old thou camest, indu unharmed, to strengthen, winning hundreds, thousands, So now for new felicity flow onward: the waters follow as thy law ordaineth.",
-    "next": "09083",
-    "previous": "09081",
-    "book": "09"
+    "meta": {
+      "next": "09083",
+      "previous": "09081",
+      "book": "09",
+      "source": "https://sacred-texts.com/hin/rigveda/rv09082.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv09082.htm"
+    },
+    "deities": [
+      {
+        "name": "O Soma",
+        "hymns": [
+          {
+            "key": "09082",
+            "title": "HYMN LXXXII. Indu."
+          }
+        ]
+      },
+      {
+        "name": "O Child",
+        "hymns": [
+          {
+            "key": "09082",
+            "title": "HYMN LXXXII. Indu."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638557267269,
-  "updated": 1638792008276
+  "updated": 1638830292913
 }

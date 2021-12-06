@@ -5,13 +5,38 @@
   "link": "hymns/10122.html",
   "api": "json/hymns/10122.json",
   "data": {
+    "key": "10122",
     "title": "HYMN CXXII. Agni.",
     "describe": "I PRAISE the Deva of wondrous might like Indra, the lovely pleasant Guest whom all must welcome.",
-    "feecting": "p:I PRAISE the Deva of wondrous might like Indra, the lovely pleasant Guest whom all must welcome.\np: May Agni, Monk and Master of the household, give hero strength and all-sustaining riches.\r\np:O Agni, graciously accept this song of mine, thou passing-wise who knowest every ordinance. Enwrapped in holy oil further the course of prayer: the Devas bestow according to thy holy law.\np:Immortal, wandering round the seven stations, give, a liberal Giver, to the pious worshipper, Wealth, Agni, with brave sons and ready for his use: welcome the man who comes with fuel unto thee.\np:The seven who bring oblations worship thee, the Strong, the first, the Great Chief Monk, Ensign of offering, the oil-anointed Bull, Agni who hears, who sends as God full hero strength to him who freely gives.\np:First messenger art thou, meet for election: drink thou thy fill invited to the Anirta, the Devas in the votary's house adorned thee; with lauds the Bh&#7771;gus gave thee light and glory.\np:Milking the teeming Cow for all-sustaining food. O Wise One, for the worship-loving worshipper, Thou, Agni, dropping oil, thrice lighting works of Law, showest thy wisdom circling home and offering.\np:They who at flushing of this dawn appointed thee their messenger, these men have paid thee reverence. Devas strengthened thee for work that must be glorified, Agni, while they made butter pure for offering.\np:Arrangers in our synods, Agni, while they sang Vasisistha s sons have called thee down, the Potent One. Maintain the growth of wealth with men who offering. Ye Devas, preserve us with your blessings evermore.",
-    "next": "10123",
-    "previous": "10121",
-    "book": "10"
+    "feecting": "p:I PRAISE the Deva of wondrous might like Indra, the lovely pleasant Guest whom all must welcome.\np: May Agni, Monk and Master of the household, give hero strength and all-sustaining riches.\r\np:O Agni, graciously accept this song of mine, thou passing-wise who knowest every ordinance. Enwrapped in holy oil further the course of prayer: the Devas bestow according to thy holy law.\np:Immortal, wandering round the seven stations, give, a liberal Giver, to the pious worshipper, Wealth, Agni, with brave sons and ready for his use: welcome the man who comes with fuel unto thee.\np:The seven who bring oblations worship thee, the Strong, the first, the Great Chief Monk, Ensign of offering, the oil-anointed Bull, Agni who hears, who sends as God full hero strength to him who freely gives.\np:First messenger art thou, meet for election: drink thou thy fill invited to the Anirta, the Devas in the votary's house adorned thee; with lauds the Bhṛgus gave thee light and glory.\np:Milking the teeming Cow for all-sustaining food. O Wise One, for the worship-loving worshipper, Thou, Agni, dropping oil, thrice lighting works of Law, showest thy wisdom circling home and offering.\np:They who at flushing of this dawn appointed thee their messenger, these men have paid thee reverence. Devas strengthened thee for work that must be glorified, Agni, while they made butter pure for offering.\np:Arrangers in our synods, Agni, while they sang Vasisistha s sons have called thee down, the Potent One. Maintain the growth of wealth with men who offering. Ye Devas, preserve us with your blessings evermore.",
+    "meta": {
+      "next": "10123",
+      "previous": "10121",
+      "book": "10",
+      "source": "https://sacred-texts.com/hin/rigveda/rv10122.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv10122.htm"
+    },
+    "deities": [
+      {
+        "name": "O Agni",
+        "hymns": [
+          {
+            "key": "10122",
+            "title": "HYMN CXXII. Agni."
+          }
+        ]
+      },
+      {
+        "name": "O Wise",
+        "hymns": [
+          {
+            "key": "10122",
+            "title": "HYMN CXXII. Agni."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638558083512,
-  "updated": 1638792008560
+  "updated": 1638830293204
 }

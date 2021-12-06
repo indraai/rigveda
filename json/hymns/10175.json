@@ -5,13 +5,33 @@
   "link": "hymns/10175.html",
   "api": "json/hymns/10175.json",
   "data": {
+    "key": "10175",
     "title": "HYMN CLXXV. Press-stones.",
     "describe": "MAY Indra the Deva, O Stones, stir you according to the Law: Be harnessed to the shafts, and press.",
     "feecting": "p:MAY Indra the Deva, O Stones, stir you according to the Law: Be harnessed to the shafts, and press.\np:Stones, drive calamity away, drive ye away malevolence: Make ye the Cows our medicine.\np:Of one accord the upper Stones, giving the Bull his bull-like strength, Look down with pride on those below.\np:May Indra the Deva, O Stones, stir you as Law commands for him Who offers, pouring juice.",
-    "next": "10176",
-    "previous": "10174",
-    "book": "10"
+    "meta": {
+      "next": "10176",
+      "previous": "10174",
+      "book": "10",
+      "source": "https://sacred-texts.com/hin/rigveda/rv10175.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv10175.htm"
+    },
+    "deities": [
+      {
+        "name": "O Stones",
+        "hymns": [
+          {
+            "key": "10175",
+            "title": "HYMN CLXXV. Press-stones."
+          },
+          {
+            "key": "10175",
+            "title": "HYMN CLXXV. Press-stones."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638558364631,
-  "updated": 1638792008608
+  "updated": 1638830293260
 }

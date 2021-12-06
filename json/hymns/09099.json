@@ -5,13 +5,19 @@
   "link": "hymns/09099.html",
   "api": "json/hymns/09099.json",
   "data": {
+    "key": "09099",
     "title": "HYMN XCIX. Indu.",
     "describe": "THEY for the Bold and Lovely One ply manly vigour like a bow: joyous, in front of songs they weave bright raiment for the Lord Divine.",
-    "feecting": "p:THEY for the Bold and Lovely One ply manly vigour like a bow: joyous, in front of songs they weave bright raiment for the Lord Divine.\np:And he, made beautiful by night, dips forward into strengthening food', what time the thoughts speed on his way the Golden-hued.\np:We cleanse this gladdening drink of his the juice which Indra chiefly drinks&#151;- That which kine took into their mouths, of old, and princes take it now.\np:To him, while purifying, they have raised the ancient psalm of praise: And sacred songs which bear the names of Devas have supplicated him.\np:They purify him as he drops, courageous, in the fleecy sieve.\np: Him they instruct as messenger to bear the sage's morning prayer.\r\np:Soma, best Cheerer, takes his seat, the while they cleanse him in the bowls. He as it were impregns the cow, and babbles on, the Lord of Song.\np:He is effused and beautified, a God for Devas, by skilful men. He penetrates the mighty floods collecting all he knows therein.\np:Pressed, indu, guided by the men, thou art led to the cleaning sieve. Thou, yielding Indra highest joy, takest thy seat within the bowls.",
-    "next": "09100",
-    "previous": "09098",
-    "book": "09"
+    "feecting": "p:THEY for the Bold and Lovely One ply manly vigour like a bow: joyous, in front of songs they weave bright raiment for the Lord Divine.\np:And he, made beautiful by night, dips forward into strengthening food', what time the thoughts speed on his way the Golden-hued.\np:We cleanse this gladdening drink of his the juice which Indra chiefly drinks—- That which kine took into their mouths, of old, and princes take it now.\np:To him, while purifying, they have raised the ancient psalm of praise: And sacred songs which bear the names of Devas have supplicated him.\np:They purify him as he drops, courageous, in the fleecy sieve.\np: Him they instruct as messenger to bear the sage's morning prayer.\r\np:Soma, best Cheerer, takes his seat, the while they cleanse him in the bowls. He as it were impregns the cow, and babbles on, the Lord of Song.\np:He is effused and beautified, a God for Devas, by skilful men. He penetrates the mighty floods collecting all he knows therein.\np:Pressed, indu, guided by the men, thou art led to the cleaning sieve. Thou, yielding Indra highest joy, takest thy seat within the bowls.",
+    "meta": {
+      "next": "09100",
+      "previous": "09098",
+      "book": "09",
+      "source": "https://sacred-texts.com/hin/rigveda/rv09099.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv09099.htm"
+    },
+    "deities": []
   },
   "created": 1638557357199,
-  "updated": 1638792008302
+  "updated": 1638830292944
 }

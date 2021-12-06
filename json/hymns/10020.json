@@ -5,13 +5,38 @@
   "link": "hymns/10020.html",
   "api": "json/hymns/10020.json",
   "data": {
+    "key": "10020",
     "title": "HYMN XX. Agni.",
     "describe": "SEND unto us a good and happy mind.",
     "feecting": "p:SEND unto us a good and happy mind.\np:1 worship Agni, Youthfullest of Devas, resistless, Friend of laws; Under whose guard and heavenly light the Spotted seek the Mother's breast:\np:Whom with their mouth they magnify, bannered with flame and homed in light.\np: He glitters with his row of teeth.\r\np:Kind, Furtherer of men, he comes, when he hath reached the ends of Heaven, Sage, giving splendour to the clouds.\np:To taste man's offerings, he, the Strong, hath risen erect at offerings: Fixing his dwelling he proceeds.\np:Here are oblation, worship, rest: rapidly comes his furtherance. To sword-armed Agni come the Devas.\np:With service for chief bliss I seek the Lord of Offering, Agni, whom They call the Living, Son of Cloud.\np:Blest evermore be all the men who come from us, who magnify Agni with sacrificial gifts.\np:The path he treads is black and white and red, and striped, and brown, crimson, and glorious. His sire begat him bright with hues of gold.\np:Thus with his thoughts, O Son of Strength, O Agni, hath Vimada, accordant with the Immortals, Offered thee hymns, soliciting thy favour. Thou hast brought all food, strength, a prosperous dwelling.",
-    "next": "10021",
-    "previous": "10019",
-    "book": "10"
+    "meta": {
+      "next": "10021",
+      "previous": "10019",
+      "book": "10",
+      "source": "https://sacred-texts.com/hin/rigveda/rv10020.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv10020.htm"
+    },
+    "deities": [
+      {
+        "name": "O Son",
+        "hymns": [
+          {
+            "key": "10020",
+            "title": "HYMN XX. Agni."
+          }
+        ]
+      },
+      {
+        "name": "O Agni",
+        "hymns": [
+          {
+            "key": "10020",
+            "title": "HYMN XX. Agni."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638557541685,
-  "updated": 1638792008380
+  "updated": 1638830292993
 }

@@ -5,13 +5,65 @@
   "link": "hymns/05051.html",
   "api": "json/hymns/05051.json",
   "data": {
-    "title": "HYMN LI. Vi&#347;vedevas.",
+    "key": "05051",
+    "title": "HYMN LI. Devas.",
     "describe": "WITH all assistants, Agni, come hither -juice;",
-    "feecting": "p:WITH all assistants, Agni, come hither -juice; With Devas unto our sacred gifts.\np:Come to the offering, O ye whose ways are right, whose laws are true, and drink the draught with Agni's tongue.\np:O Singer, with the singers, O Gracious, with those who move at dawn, Come to the Soma-draught with Devas.\np:To Indra and to V&#257;yu dear, this Soma, by the mortar pressed, is now poured forth to fill the jar.\np:V&#257;yu, come hither to the feast, wellpleased unto our sacred gifts: Drink of the Soma juice effused come to the food.\np:Ye, Indra, V&#257;yu, well deserve to drink the juices pressed by us.\np: Gladly accept them, spotless Pair come to the food.\r\np:For Indra and for V&#257;yu pressed are Soma juices blent with curd, as rivers to the lowland flow: come to the food.\np:Associate with all the Devas, come, with the A&#347;vins and with Dawn, Agni, as erst with Atri, so enjoy the juice.\np:Associate with Varu&#7751;a, with Mitra, Soma, Vi&#7779;&#7751;u, come, Agni, as erstwith Atri, so enjoy the juice.\np:Associate with Devas, with &#256;dityas, Indra, Viyu, come, Agni as erst with Atri, so enjoy the juice.\np:May Bhaga and the A&#347;vins grant us health and wealth, and Goddess Adid and he whom none resist. The Devas P&#363;&#7779;an grant us all prosperity, and Heaven and Earth most wise vouchsafe us happiness.\np:Let us solicit V&#257;yu for prosperity, and Soma who is Lord of all the world for weal; For weal B&#7771;haspati with all his company. May the &#256;dityas bring us health and happiness.\np:May all the Devas. May Agni the beneficent, God of all men, this day be with us for our weal. Help us the &#7770;bhus, the Divine Ones, for our good. May Soma bless and keep us from calamity.\np:Prosper us, Mitra, Varu&#7751;a. O wealthy Pathya, prosper us. Indra and Agni, prosper us; prosper us thou, O Aditi.\np:Like Sun and Moo. May we pursue in full prosperity our path, and meet with one who gives again, -who knows us well and subdues us not.",
-    "next": "05052",
-    "previous": "05050",
-    "book": "05"
+    "feecting": "p:WITH all assistants, Agni, come hither -juice; With Devas unto our sacred gifts.\np:Come to the offering, O ye whose ways are right, whose laws are true, and drink the draught with Agni's tongue.\np:O Singer, with the singers, O Gracious, with those who move at dawn, Come to the Soma-draught with Devas.\np:To Indra and to Soma dear, this Soma, by the mortar pressed, is now poured forth to fill the jar.\np:Soma, come hither to the feast, wellpleased unto our sacred gifts: Drink of the Soma juice effused come to the food.\np:Ye, Indra, Soma, well deserve to drink the juices pressed by us.\np: Gladly accept them, spotless Pair come to the food.\r\np:For Indra and for Soma pressed are Soma juices blent with curd, as rivers to the lowland flow: come to the food.\np:Associate with all the Devas, come, with the Aśvins and with Dawn, Agni, as erst with Atri, so enjoy the juice.\np:Associate with Indra, with Mitra, Soma, Indra, come, Agni, as erstwith Atri, so enjoy the juice.\np:Associate with Devas, with Ādityas, Indra, Viyu, come, Agni as erst with Atri, so enjoy the juice.\np:May Bhaga and the Aśvins grant us health and wealth, and Goddess Adid and he whom none resist. The Devas Pūṣan grant us all prosperity, and Heaven and Earth most wise vouchsafe us happiness.\np:Let us solicit Soma for prosperity, and Soma who is Lord of all the world for weal; For weal Soma with all his company. May the Ādityas bring us health and happiness.\np:May all the Devas. May Agni the beneficent, God of all men, this day be with us for our weal. Help us the Ṛbhus, the Divine Ones, for our good. May Soma bless and keep us from calamity.\np:Prosper us, Indra. O wealthy Pathya, prosper us. Indra and Agni, prosper us; prosper us thou, O Aditi.\np:Like Sun and Moo. May we pursue in full prosperity our path, and meet with one who gives again, -who knows us well and subdues us not.",
+    "meta": {
+      "next": "05052",
+      "previous": "05050",
+      "book": "05",
+      "source": "https://sacred-texts.com/hin/rigveda/rv05051.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv05051.htm"
+    },
+    "deities": [
+      {
+        "name": "O ye ",
+        "hymns": [
+          {
+            "key": "05051",
+            "title": "HYMN LI. Devas."
+          }
+        ]
+      },
+      {
+        "name": "O Singer",
+        "hymns": [
+          {
+            "key": "05051",
+            "title": "HYMN LI. Devas."
+          }
+        ]
+      },
+      {
+        "name": "O Gracious",
+        "hymns": [
+          {
+            "key": "05051",
+            "title": "HYMN LI. Devas."
+          }
+        ]
+      },
+      {
+        "name": "O wealthy",
+        "hymns": [
+          {
+            "key": "05051",
+            "title": "HYMN LI. Devas."
+          }
+        ]
+      },
+      {
+        "name": "O Aditi",
+        "hymns": [
+          {
+            "key": "05051",
+            "title": "HYMN LI. Devas."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638555155724,
-  "updated": 1638792007807
+  "updated": 1638830292281
 }

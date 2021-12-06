@@ -5,13 +5,19 @@
   "link": "hymns/01056.html",
   "api": "json/hymns/01056.json",
   "data": {
+    "key": "01056",
     "title": "HYMN LVI. Indra.",
     "describe": "FOR this man's full libations held in ladles, he hath roused him, eager, as a horse to meet the mare.",
-    "feecting": "p:FOR this man's full libations held in ladles, he hath roused him, eager, as a horse to meet the mare.\np: He stays his golden car, yoked with Bay Horses, swift,  which strengthens for great deeds.\r\np:To him the guidance-following songs of praise flow full, as those who seek gain go in company to the flood. To him the Lord of power, the holy synod's might, as to a hill, with speed, ascend the loving ones.\np:Victorious, great is he; in manly battle shines, unstained with dust, his might, as shines a mountain peak; Wherewith the iron one, fierce e&#146;en against the strong, in rapture, fettered wily &#346;ush&#7751;a fast in bonds.\np:When strength, made more strong for help by thee, waits upon Indra , then he who with his might unflinching kills the gloom stirs up the dust aloft, with joy and triumphing.\np:When thou with might, upon the framework of the Heaven, didst fix, across, air's region firmly, unremoved. In the light-winning war, Indra, in rapturous joy, thou smotest V&#7771;tra dead and broughtest floods of rain.\np:Thou with thy might didst grasp, the holder-up of Heaven, thou who art mighty also in the seats of Earth. Thou, gladdened by the juice, hast set the waters free, and broken V&#7771;tra's stony fences through and through.",
-    "next": "01057",
-    "previous": "01055",
-    "book": "01"
+    "feecting": "p:FOR this man's full libations held in ladles, he hath roused him, eager, as a horse to meet the mare.\np: He stays his golden car, yoked with Bay Horses, swift,  which strengthens for great deeds.\r\np:To him the guidance-following songs of praise flow full, as those who seek gain go in company to the flood. To him the Lord of power, the holy synod's might, as to a hill, with speed, ascend the loving ones.\np:Victorious, great is he; in manly battle shines, unstained with dust, his might, as shines a mountain peak; Wherewith the iron one, fierce e’en against the strong, in rapture, fettered fast in bonds.\np:When strength, made more strong for help by thee, waits upon Indra , then he who with his might unflinching kills the gloom stirs up the dust aloft, with joy and triumphing.\np:When thou with might, upon the framework of the Heaven, didst fix, across, air's region firmly, unremoved. In the light-winning war, Indra, in rapturous joy broughtest floods of rain.\np:Thou with thy might didst grasp, the holder-up of Heaven, thou who art mighty also in the seats of Earth. Thou, gladdened by the juice, hast set the waters free.",
+    "meta": {
+      "next": "01057",
+      "previous": "01055",
+      "book": "01",
+      "source": "https://sacred-texts.com/hin/rigveda/rv01056.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv01056.htm"
+    },
+    "deities": []
   },
   "created": 1638553308627,
-  "updated": 1638792007352
+  "updated": 1638830291670
 }

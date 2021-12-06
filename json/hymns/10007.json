@@ -5,13 +5,60 @@
   "link": "hymns/10007.html",
   "api": "json/hymns/10007.json",
   "data": {
+    "key": "10007",
     "title": "HYMN VII. Agni.",
     "describe": "O AGNI, shared by all men living bring us good luck for offering from Earth and Heaven.",
-    "feecting": "p:O AGNI, shared by all men living bring us good luck for offering from Earth and Heaven.\np: With us be thine intelligence, WonderWorker! Protect us, Deva, with thy far-reaching blessings.\r\np:These hymns brought forth for thee, O Agni, laud thee for bounteous gifts, with cattle and with horses. Good Lord, when man from thee hath gained enjoyment, by hymns, O noblyborn, hath he obtained it.\np:Agni I deem my Kinsman and my Father, count him my Brother and my Friend forever. I honour as the face of lofty Agni in Heaven the bright and holy light of S&#363;rya.\np:Effectual, Agni, are our meditations for profit. He whom, at home thou, Monk forever, guardest Is rich in food, drawn by red steeds, and holy: by day and night to him shall all be pleasant.\np:Men with their arms have generated Agni, helpful as some kind friend, adorned with splendours, and stablished as Invoker mid the people the ancient Monk the offering's lover.\np:Worship, thyself, O Devas in Heaven: what, void of knowledge, shall the fool avail thee? As thou, hast worshipped Devas by seasons, so, nobly-born! to thine own self pay worship.\np:Agni, be thou our Guardian and Protector bestow upon us life and vital vigour. Accept, O Mighty One, the gifts we offer, and with unceasing care protect our bodies.",
-    "next": "10008",
-    "previous": "10006",
-    "book": "10"
+    "feecting": "p:O AGNI, shared by all men living bring us good luck for offering from Earth and Heaven.\np: With us be thine intelligence, WonderWorker! Protect us, Deva, with thy far-reaching blessings.\r\np:These hymns brought forth for thee, O Agni, laud thee for bounteous gifts, with cattle and with horses. Good Lord, when man from thee hath gained enjoyment, by hymns, O noblyborn, hath he obtained it.\np:Agni I deem my Kinsman and my Father, count him my Brother and my Friend forever. I honour as the face of lofty Agni in Heaven the bright and holy light of Sūrya.\np:Effectual, Agni, are our meditations for profit. He whom, at home thou, Monk forever, guardest Is rich in food, drawn by red steeds, and holy: by day and night to him shall all be pleasant.\np:Men with their arms have generated Agni, helpful as some kind friend, adorned with splendours, and stablished as Invoker mid the people the ancient Monk the offering's lover.\np:Worship, thyself, O Devas in Heaven: what, void of knowledge, shall the fool avail thee? As thou, hast worshipped Devas by seasons, so, nobly-born! to thine own self pay worship.\np:Agni, be thou our Guardian and Protector bestow upon us life and vital vigour. Accept, O Mighty One, the gifts we offer, and with unceasing care protect our bodies.",
+    "meta": {
+      "next": "10008",
+      "previous": "10006",
+      "book": "10",
+      "source": "https://sacred-texts.com/hin/rigveda/rv10007.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv10007.htm"
+    },
+    "deities": [
+      {
+        "name": "O AGNI",
+        "hymns": [
+          {
+            "key": "10007",
+            "title": "HYMN VII. Agni."
+          },
+          {
+            "key": "10007",
+            "title": "HYMN VII. Agni."
+          }
+        ]
+      },
+      {
+        "name": "O noblyborn",
+        "hymns": [
+          {
+            "key": "10007",
+            "title": "HYMN VII. Agni."
+          }
+        ]
+      },
+      {
+        "name": "O Devas",
+        "hymns": [
+          {
+            "key": "10007",
+            "title": "HYMN VII. Agni."
+          }
+        ]
+      },
+      {
+        "name": "O Mighty",
+        "hymns": [
+          {
+            "key": "10007",
+            "title": "HYMN VII. Agni."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638557472870,
-  "updated": 1638792008362
+  "updated": 1638830292972
 }

@@ -5,13 +5,60 @@
   "link": "hymns/01039.html",
   "api": "json/hymns/01039.json",
   "data": {
+    "key": "01039",
     "title": "HYMN XXXIX Devas.",
     "describe": "WHEN thus, like flame, from far away, Devas, ye cast your measure forth, to whom go Ye, to whom, O shakers of the Earth, moved by whose wisdom, whose design?",
-    "feecting": "p:WHEN thus, like flame, from far away, Devas, ye cast your measure forth, to whom go Ye, to whom, O shakers of the Earth, moved by whose wisdom, whose design?\np:Strong let your weapons be to drive away your foes, firm for resistance let them be.\np: Yea, passing glorious must be your warrior might, not as a guileful mortal's strength.\r\np:When what is strong ye overthrow, and whirl about each ponderous thing. Heroes, your course is through the forest trees of Earth, and through the fissures of the rocks.\np:Consumers of your foes, no enemy of yours is found in Heaven or on the Earth: Ye Somas. May the strength, held in this bond, be yours, to bid defiance even now.\np:They make the mountains rock and reel, they rend the forest-kings apart. Onward, ye Devas, drive, like creatures drunk with wine, ye, Devas with all your company.\np:Ye to your chariot have yoked the spotted deer: a red deer, as a leader, draws. Even the Earth herself listened as ye came near, and men were sorely terrified.\np:O Somas, quickly we desire your succour for this work of ours. Come to us with your aid as in the days of old, so now for frightened Ka&#7751;va's sake.\np:Should any monstrous foe, O Devas, sent by you or sent by mortals threaten us, Tear ye him from us with your power and with your might, and with the succours that are yours.\np:For ye, the worshipful and wise, have guarded Ka&#7751;va perfectly. O Devas, come to us with full protecting help, as lightning flashes seek the rain.\np:Whole strength have ye, O Bounteous Ones; perfect, Earth-shakers, is your might. Devas, against the poet's wrathful enemy send ye an enemy like a dart.",
-    "next": "01040",
-    "previous": "01038",
-    "book": "01"
+    "feecting": "p:WHEN thus, like flame, from far away, Devas, ye cast your measure forth, to whom go Ye, to whom, O shakers of the Earth, moved by whose wisdom, whose design?\np:Strong let your weapons be to drive away your foes, firm for resistance let them be.\np: Yea, passing glorious must be your warrior might, not as a guileful mortal's strength.\r\np:When what is strong ye overthrow, and whirl about each ponderous thing. Heroes, your course is through the forest trees of Earth, and through the fissures of the rocks.\np:Consumers of your foes, no enemy of yours is found in Heaven or on the Earth: Ye Somas. May the strength, held in this bond, be yours, to bid defiance even now.\np:They make the mountains rock and reel, they rend the forest-kings apart. Onward, ye Devas, drive, like creatures drunk with wine, ye, Devas with all your company.\np:Ye to your chariot have yoked the spotted deer: a red deer, as a leader, draws. Even the Earth herself listened as ye came near, and men were sorely terrified.\np:O Somas, quickly we desire your assist for this work of ours. Come to us with your aid as in the days of old, so now for frightened Kaṇva's sake.\np:Should any monstrous foe, O Devas, sent by you or sent by mortals threaten us, Tear ye him from us with your power and with your might, and with the assists that are yours.\np:For ye, the worshipful and wise, have guarded Kaṇva perfectly. O Devas, come to us with full protecting help, as lightning flashes seek the rain.\np:Whole strength have ye, O Bounteous Ones; perfect, Earth-shakers, is your might. Devas, against the poet's wrathful enemy send ye an enemy like a dart.",
+    "meta": {
+      "next": "01040",
+      "previous": "01038",
+      "book": "01",
+      "source": "https://sacred-texts.com/hin/rigveda/rv01039.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv01039.htm"
+    },
+    "deities": [
+      {
+        "name": "O shakers",
+        "hymns": [
+          {
+            "key": "01039",
+            "title": "HYMN XXXIX Devas."
+          }
+        ]
+      },
+      {
+        "name": "O Somas",
+        "hymns": [
+          {
+            "key": "01039",
+            "title": "HYMN XXXIX Devas."
+          }
+        ]
+      },
+      {
+        "name": "O Devas",
+        "hymns": [
+          {
+            "key": "01039",
+            "title": "HYMN XXXIX Devas."
+          },
+          {
+            "key": "01039",
+            "title": "HYMN XXXIX Devas."
+          }
+        ]
+      },
+      {
+        "name": "O Bounteous",
+        "hymns": [
+          {
+            "key": "01039",
+            "title": "HYMN XXXIX Devas."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638553218879,
-  "updated": 1638792007327
+  "updated": 1638830291642
 }

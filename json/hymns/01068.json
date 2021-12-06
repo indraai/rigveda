@@ -5,13 +5,19 @@
   "link": "hymns/01068.html",
   "api": "json/hymns/01068.json",
   "data": {
+    "key": "01068",
     "title": "HYMN LXVIII. Agni.",
     "describe": "COMMINGLING, restless, he ascends the sky, unveiling nights and all that stands or moves, as he the sole Deva is preeminent in greatness among all these other Devas.",
     "feecting": "p:COMMINGLING, restless, he ascends the sky, unveiling nights and all that stands or moves, as he the sole Deva is preeminent in greatness among all these other Devas.\np:All men are joyful in thy power, that living from the dry wood thou art born.\np: All truly share thy Godhead while they keep, in their accustomed ways, eternal Law.\r\np:Strong is the thought of Law, the Law's behest; all works have they performed; he quickens all. Whoso will bring oblation, gifts to thee, to him, bethinking thee, vouchsafe thou wealth.\np:Seated as Monk with Manu's progeny, of all these treasures he alone is Lord. Men yearn for children to prolong their line, and are not disappointed in their hope.\np:Eagerly they who hear his word fulfil his wish as sons obey their sire's behest. He, rich in food, unbars his wealth like doors: he, the House-Friend, hath decked Heaven's vault with stars.",
-    "next": "01069",
-    "previous": "01067",
-    "book": "01"
+    "meta": {
+      "next": "01069",
+      "previous": "01067",
+      "book": "01",
+      "source": "https://sacred-texts.com/hin/rigveda/rv01068.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv01068.htm"
+    },
+    "deities": []
   },
   "created": 1638553371964,
-  "updated": 1638792007368
+  "updated": 1638830291688
 }

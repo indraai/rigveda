@@ -5,13 +5,42 @@
   "link": "hymns/10038.html",
   "api": "json/hymns/10038.json",
   "data": {
+    "key": "10038",
     "title": "HYMN XXXVIII. Indra.",
     "describe": "O INDRA, in this battle great and glorious, in this loud din of war help us to victory, Where in the strife for kine among bold ring-decked men arrows fly all around and heroes are subdued.",
-    "feecting": "p:O INDRA, in this battle great and glorious, in this loud din of war help us to victory, Where in the strife for kine among bold ring-decked men arrows fly all around and heroes are subdued.\np:At home disclose to us opulence rich in food, streaming with milk, O Indra, meet to be renowned.\np: &#346;akra. May we be thine, the friendly Conqueror's: even as we desire, O Vasu, so do thou.\r\np:The godless man, much-lauded Indra, whether he be D&#257;sa or be &#256;rya, who would war with us,&#151; Easy to conquer he for thee, with us, these foes: with the, may we subdue them in the clash of fight.\np:Him who must be invoked by many and by few, who standeth nigh with comfort in the war of men, Indra, famed Hero, winner in the deadly strife, let us bring hitherward to-day to favour us.\np:For, Indra, I have heard thee called Self. capturer, One, Steer! who never yields, who urges even the churl. Release thyself from Kutsa and come hither. How shall one like thee sit still bound that h. May not move?",
-    "next": "10039",
-    "previous": "10037",
-    "book": "10"
+    "feecting": "p:O INDRA, in this battle great and glorious, in this loud din of war help us to victory, Where in the strife for kine among bold ring-decked men arrows fly all around and heroes are subdued.\np:At home disclose to us opulence rich in food, streaming with milk, O Indra, meet to be renowned.\np: Indra, may we be thine, the friendly Conqueror's: even as we desire, O Vasu, so do thou.\r\np:The godless man, much-lauded Indra, whether he be Dāsa or be Ārya, who would war with us. Easy to conquer he for thee, with us, these foes: with the, may we subdue them in the clash of fight.\np:Him who must be invoked by many and by few, who standeth nigh with comfort in the war of men, Indra, famed Hero, winner in the deadly strife, let us bring hitherward to-day to favour us.\np:For, Indra, I have heard thee called Self. capturer, One, Steer! who never yields, who urges even the churl. Release thyself from Kutsa and come hither. How shall one like thee sit still bound that h. May not move?",
+    "meta": {
+      "next": "10039",
+      "previous": "10037",
+      "book": "10",
+      "source": "https://sacred-texts.com/hin/rigveda/rv10038.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv10038.htm"
+    },
+    "deities": [
+      {
+        "name": "O INDRA",
+        "hymns": [
+          {
+            "key": "10038",
+            "title": "HYMN XXXVIII. Indra."
+          },
+          {
+            "key": "10038",
+            "title": "HYMN XXXVIII. Indra."
+          }
+        ]
+      },
+      {
+        "name": "O Vasu",
+        "hymns": [
+          {
+            "key": "10038",
+            "title": "HYMN XXXVIII. Indra."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638557639348,
-  "updated": 1638792008406
+  "updated": 1638830293022
 }

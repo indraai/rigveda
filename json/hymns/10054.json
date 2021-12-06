@@ -5,13 +5,37 @@
   "link": "hymns/10054.html",
   "api": "json/hymns/10054.json",
   "data": {
+    "key": "10054",
     "title": "HYMN LIV. Indra.",
-    "describe": "I SING thy fame that, Indra, through thy Greatness the heavens and Earth invoked thee in their terror, Thou, aiding Devas, didst quell the power of D&#257;",
-    "feecting": "p:I SING thy fame that, Indra, through thy Greatness the heavens and Earth invoked thee in their terror, Thou, aiding Devas, didst quell the power of D&#257;sas, what time thou holpest many a race, O Indra.\np:When thou wast roaming, waxen strong in body, telling thy might, Indra, among the people, All that men called thy battles was illusion: no foe hast thou to-day, nor erst hast found one.\np:Who are the &#7770;&#7779;is, then, who comprehended before our time the bounds of all thy greatness? For from thy body thou hast generated at the same time the Mother and the Father.\np:Thou, Mighty Steer, hast four supremest natures, Devas natures tha. May ne&#146;er be injured.\np: All these, O Indra, thou surely knowest, wherewith thou hast performed thy great achievements.\r\np:Thou hast all treasures in thy sole possession, treasures made manifest and treasures hidden. Defer not thou, O Indra, my longing: thou, art Director, Indra, thou art Giver.\np:To him who set the light in things of splendour, and with all sweetness blent essential sweetness, to Indra hath this welcome hymn that strengthens been uttered by the votary B&#7771;haduktha.",
-    "next": "10055",
-    "previous": "10053",
-    "book": "10"
+    "describe": "I SING thy fame that, Indra, through thy Greatness the heavens and Earth invoked thee in their terror, Thou, aiding Devas, didst quell the power of Dāsas, what time thou holpest many a race, O Indra.",
+    "feecting": "p:I SING thy fame that, Indra, through thy Greatness the heavens and Earth invoked thee in their terror, Thou, aiding Devas, didst quell the power of Dāsas, what time thou holpest many a race, O Indra.\np:When thou wast roaming, waxen strong in body, telling thy might, Indra, among the people, All that men called thy battles was illusion: no foe hast thou to-day, nor erst hast found one.\np:Who are the Ṛṣis, then, who comprehended before our time the bounds of all thy greatness? For from thy body thou hast generated at the same time the Mother and the Father.\np:Thou, Mighty Steer, hast four supremest natures, Devas natures tha. May ne’er be injured.\np: All these, O Indra, thou surely knowest, wherewith thou hast performed thy great achievements.\r\np:Thou hast all treasures in thy sole possession, treasures made manifest and treasures hidden. Defer not thou, O Indra, my longing: thou, art Director, Indra, thou art Giver.\np:To him who set the light in things of splendour, and with all sweetness blent essential sweetness, to Indra hath this welcome hymn that strengthens been uttered by the votary Bṛhaduktha.",
+    "meta": {
+      "next": "10055",
+      "previous": "10053",
+      "book": "10",
+      "source": "https://sacred-texts.com/hin/rigveda/rv10054.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv10054.htm"
+    },
+    "deities": [
+      {
+        "name": "O Indra",
+        "hymns": [
+          {
+            "key": "10054",
+            "title": "HYMN LIV. Indra."
+          },
+          {
+            "key": "10054",
+            "title": "HYMN LIV. Indra."
+          },
+          {
+            "key": "10054",
+            "title": "HYMN LIV. Indra."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638557724237,
-  "updated": 1638792008460
+  "updated": 1638830293088
 }

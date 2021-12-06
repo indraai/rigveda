@@ -5,13 +5,55 @@
   "link": "hymns/05029.html",
   "api": "json/hymns/05029.json",
   "data": {
+    "key": "05029",
     "title": "HYMN XXIX. Agni.",
-    "describe": "MAN'S worship of the Devas hath three great lustres, and three celestial lights have they established The Devas gifted with pure strength adore thee, for thou, O Indra, art their sapient &#7770;",
-    "feecting": "p:MAN'S worship of the Devas hath three great lustres, and three celestial lights have they established The Devas gifted with pure strength adore thee, for thou, O Indra, art their sapient &#7770;&#7779;i.\np:What time the Devas sang their song to Indra, joyous when he had drunk of Soma juices. He grasped his thunderbolt to subdue the Dragon, and loosed, that they might flow, the youthful Waters.\np:And, O ye Brahmans, Devas, s. May Indra drink draughts of this my carefully pressed Soma; For this oblation found for man the cattle, and Indra, having quaffed it, slew the Dragon.\np:Then Heaven and Earth he sundered and supported: wrapped even in these he struck the Beast with terror.\np: So Indra forced the Engulfer to disgorgement, and slew the D&#257;nava. panting against him.\r\np:Thus all the Devas, O Indra, delivered to thee of their free will the draught of Soma; When thou for Eta&#347;a didst cause to tarry the flying mares of S&#363;rya racing forward.\np:When Indra with the thunderbolt demolished his nine-and-ninety castles all together, the Devas, where they met, glorified Indra: ye with the T&#7771;&#7779;&#7789;up hymn obstructed Heaven.\np:As friend to aid a friend, Agni dressed quickly three hundred buffaloes, even as he willed it. And Indra, from man's gift, for V&#7771;tra's slaughter, drank ofr at once three lakes of pressed-out Soma.\np:When thou three hundred buffaloes' flesh hadst eaten, and drunk, as Indra, three lakes of Soma, All the Devas raised as &#146;twere a shout of triumph to Indra praise because.\np:What time ye came with strong steeds swiftly speeding, O U&#347;an&#257; and Indra, to the dwelling, Thou camest thither -conquering together with Kutsa and the Devas: thou slewest &#346;u&#7779;&#7751;a.\np:One car-wheel of the Sun thou rolledst forward, and one thou settest free to move for Kutsa. Thou slewest noseless Dasyus with thy weapon, and in their home o&#146;erthrewest hostile speakers.\np:The lauds of Gauriviti made thee mighty to Vidathin's son, as prey, thou gavest Pipru. Rjisivan drew thee into friendship dressing the sacred food, and thou hast drunk his Soma.\np:Navagvas and Dasgvas with libations of Soma juice sing hymns of praise to Indra. Labouring at their task the men laid open the stall of Kine though firmly closed and fastened.\np:How shall I serve thee, Indra, though knowing full well what hero deeds thou hast accomplished? And the fresh deeds which thou wilt do, most Mighty! these, too, will we tell forth in sacred synods.\np:Resistless from of old through hero courage, thou hast done all these many acts, O Indra. What thou wilt do in bravery, Thunder-wielder! none is there wh. May hinder this thy prowess.\np:Indra, accept the prayers which now are offered, accept the new prayers, Mightiest! which we utter. Like fair and well-made robes, I, seeking riches, as a deft craftsman makes a car, have wrought them.",
-    "next": "05030",
-    "previous": "05028",
-    "book": "05"
+    "describe": "MAN'S worship of the Devas hath three great lustres, and three celestial lights have they established The Devas gifted with pure strength adore thee, for thou, O Indra, art their sapient Ṛṣi.",
+    "feecting": "p:MAN'S worship of the Devas hath three great lustres, and three celestial lights have they established The Devas gifted with pure strength adore thee, for thou, O Indra, art their sapient Ṛṣi.\np:What time the Devas sang their song to Indra, joyous when he had drunk of Soma juices. He grasped his thunderbolt to subdue the Dragon, and loosed, that they might flow, the youthful Waters.\np:And, O ye Brahmans, Devas, s. May Indra drink draughts of this my carefully pressed Soma; For this oblation found for man the cattle, and Indra, having quaffed it, slew the Dragon.\np:Then Heaven and Earth he sundered and supported: wrapped even in these he struck the Beast with terror.\np: So Indra forced the Engulfer to disgorgement, and slew the Dānava. panting against him.\r\np:Thus all the Devas, O Indra, delivered to thee of their free will the draught of Soma; When thou for Etaśa didst cause to tarry the flying mares of Sūrya racing forward.\np:When Indra with the thunderbolt demolished his nine-and-ninety castles all together, the Devas, where they met, glorified Indra: ye with the Tṛṣṭup hymn obstructed Heaven.\np:As friend to aid a friend, Agni dressed quickly three hundred buffaloes, even as he willed it. And Indra, from man's gift, for Vṛtra's slaughter, drank ofr at once three lakes of pressed-out Soma.\np:When thou three hundred buffaloes' flesh hadst eaten, and drunk, as Indra, three lakes of Soma, All the Devas raised as ’twere a shout of triumph to Indra praise because.\np:What time ye came with strong steeds swiftly speeding, O Uśanā and Indra, to the dwelling, Thou camest thither -conquering together with Kutsa and the Devas: thou slewest Śuṣṇa.\np:One car-wheel of the Sun thou rolledst forward, and one thou settest free to move for Kutsa. Thou slewest noseless Dasyus with thy weapon, and in their home o’erthrewest hostile speakers.\np:The lauds of Gauriviti made thee mighty to Vidathin's son, as prey, thou gavest Pipru. Rjisivan drew thee into friendship dressing the sacred food, and thou hast drunk his Soma.\np:Navagvas and Dasgvas with libations of Soma juice sing hymns of praise to Indra. Labouring at their task the men laid open the stall of Kine though firmly closed and fastened.\np:How shall I serve thee, Indra, though knowing full well what hero deeds thou hast accomplished? And the fresh deeds which thou wilt do, most Mighty! these, too, will we tell forth in sacred synods.\np:Resistless from of old through hero courage, thou hast done all these many acts, O Indra. What thou wilt do in bravery, Thunder-wielder! none is there wh. May hinder this thy prowess.\np:Indra, accept the prayers which now are offered, accept the new prayers, Mightiest! which we utter. Like fair and well-made robes, I, seeking riches, as a deft craftsman makes a car, have wrought them.",
+    "meta": {
+      "next": "05030",
+      "previous": "05028",
+      "book": "05",
+      "source": "https://sacred-texts.com/hin/rigveda/rv05029.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv05029.htm"
+    },
+    "deities": [
+      {
+        "name": "O Indra",
+        "hymns": [
+          {
+            "key": "05029",
+            "title": "HYMN XXIX. Agni."
+          },
+          {
+            "key": "05029",
+            "title": "HYMN XXIX. Agni."
+          },
+          {
+            "key": "05029",
+            "title": "HYMN XXIX. Agni."
+          }
+        ]
+      },
+      {
+        "name": "O ye ",
+        "hymns": [
+          {
+            "key": "05029",
+            "title": "HYMN XXIX. Agni."
+          }
+        ]
+      },
+      {
+        "name": "O Uśan",
+        "hymns": [
+          {
+            "key": "05029",
+            "title": "HYMN XXIX. Agni."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638555038417,
-  "updated": 1638792007779
+  "updated": 1638830292245
 }

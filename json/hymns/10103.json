@@ -5,13 +5,55 @@
   "link": "hymns/10103.html",
   "api": "json/hymns/10103.json",
   "data": {
+    "key": "10103",
     "title": "HYMN CIII. Indra.",
     "describe": "SWIFT, rapidly striking, like a bull who sharpens his horns, terrific, stirring up the people, with eyes that close not, bellowing, Sole Hero, Indra.",
-    "feecting": "p:SWIFT, rapidly striking, like a bull who sharpens his horns, terrific, stirring up the people, with eyes that close not, bellowing, Sole Hero, Indra. subdued at once a hundred armies.\np:With him loud-roaring, ever watchful, Victor, bold, hard to overthrow, Rouser of battle, Indra. the Strong, whose hand bears arrows, conquer, ye warriors, now, now vanquish in the combat.\np:He rules with those who carry shafts and quivers, Indra who with his band rings hosts together, Foe-conquering, strong of arm, Soma, with mighty bow, shooting with well-laid arrows.\np:B&#7771;haspati, fly with thy chariot hither, slayer of demons, driving off our foemen.\np: Be thou protector of our cars, destroyer, victor in battle, breaker-up of armies.\r\np:Conspicuous by thy strength, firm, foremost fighter, mighty and fierce, victorious, all-subduing, the Son of Conquest, passing men and heroes, kine-winner, mount thy conquering car, O Indra.\np:Cleaver of stalls, kine-winner, armed with thunder, who quells an army and with might destroys it.- Follow him, brothers! quit yourselves like heroes, and like this Indra show your zeal and courage.\np:Piercing the cow-stalls with surpassing vigour, Indra, the pitiless Hero, wild with anger, Victor in fight, unshaken and resistless,may he protect our armies in our battles.\np:Indra guide these: B&#7771;haspati precede them, the guerdon, and the offering, and Soma; And let the banded Devas march in forefront of heavenly hosts that conquer and demolish.\np:Ours be the potent host of mighty Indra, King Varu&#7751;a, and Devas, and &#256;dityas. Uplifted is the shout of Devas who conquer high-minded Devas who cause the worlds to tremble.\np:Bristle thou up, O Indra, our weapons: excite the spirits of my warring heroes. Urge on the strong steeds' might, O V&#7771;tra-slayer, and let the din of conquering cars go upward.\np:May Indra aid us when our flags are gathered: victorious be the arrows of our army. May our brave men of war prevail in battle. Ye Devas, protect us in the shout of onset.\np:Bewildering the senses of our foemen, seize thou their bodies and depart, O Apva. Attack them, set their hearts on fire and burn them: so let our foes abide in utter darkness.\np:Advance, O heroes, win the day. May Indra be your sure defence. Exceeding mighty be your arms, that non. May wound or injure you.",
-    "next": "10104",
-    "previous": "10102",
-    "book": "10"
+    "feecting": "p:SWIFT, rapidly striking, like a bull who sharpens his horns, terrific, stirring up the people, with eyes that close not, bellowing, Sole Hero, Indra. subdued at once a hundred armies.\np:With him loud-roaring, ever watchful, Victor, bold, hard to overthrow, Rouser of battle, Indra. the Strong, whose hand bears arrows, conquer, ye warriors, now, now vanquish in the combat.\np:He rules with those who carry shafts and quivers, Indra who with his band rings hosts together, Foe-conquering, strong of arm, Soma, with mighty bow, shooting with well-laid arrows.\np:Soma, fly with thy chariot hither, slayer of demons, driving off our foemen.\np: Be thou protector of our cars, destroyer, victor in battle, breaker-up of armies.\r\np:Conspicuous by thy strength, firm, foremost fighter, mighty and fierce, victorious, all-subduing, the Son of Conquest, passing men and heroes, kine-winner, mount thy conquering car, O Indra.\np:Cleaver of stalls, kine-winner, armed with thunder, who quells an army and with might destroys it.- Follow him, brothers! quit yourselves like heroes, and like this Indra show your zeal and courage.\np:Piercing the cow-stalls with surpassing vigour, Indra, the pitiless Hero, wild with anger, Victor in fight, unshaken and resistless,may he protect our armies in our battles.\np:Indra guide these: Soma precede them, the guerdon, and the offering, and Soma; And let the banded Devas march in forefront of heavenly hosts that conquer and demolish.\np:Ours be the potent host of mighty Indra, King Indra, and Devas, and Ādityas. Uplifted is the shout of Devas who conquer high-minded Devas who cause the worlds to tremble.\np:Bristle thou up, O Indra, our weapons: excite the spirits of my warring heroes. Urge on the strong steeds' might, O Indra, and let the din of conquering cars go upward.\np:May Indra aid us when our flags are gathered: victorious be the arrows of our army. May our brave men of war prevail in battle. Ye Devas, protect us in the shout of onset.\np:Bewildering the senses of our foemen, seize thou their bodies and depart, O Apva. Attack them, set their hearts on fire and burn them: so let our foes abide in utter darkness.\np:Advance, O heroes, win the day. May Indra be your sure defence. Exceeding mighty be your arms, that non. May wound or injure you.",
+    "meta": {
+      "next": "10104",
+      "previous": "10102",
+      "book": "10",
+      "source": "https://sacred-texts.com/hin/rigveda/rv10103.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv10103.htm"
+    },
+    "deities": [
+      {
+        "name": "O Indra",
+        "hymns": [
+          {
+            "key": "10103",
+            "title": "HYMN CIII. Indra."
+          },
+          {
+            "key": "10103",
+            "title": "HYMN CIII. Indra."
+          },
+          {
+            "key": "10103",
+            "title": "HYMN CIII. Indra."
+          }
+        ]
+      },
+      {
+        "name": "O Apva",
+        "hymns": [
+          {
+            "key": "10103",
+            "title": "HYMN CIII. Indra."
+          }
+        ]
+      },
+      {
+        "name": "O heroes",
+        "hymns": [
+          {
+            "key": "10103",
+            "title": "HYMN CIII. Indra."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638557983377,
-  "updated": 1638792008537
+  "updated": 1638830293176
 }

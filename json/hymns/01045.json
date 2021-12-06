@@ -5,13 +5,42 @@
   "link": "hymns/01045.html",
   "api": "json/hymns/01045.json",
   "data": {
+    "key": "01045",
     "title": "HYMN XLV. Agni.",
     "describe": "WORSHIP the Devas, Agni!",
-    "feecting": "p:WORSHIP the Devas, Agni! here, the Somas, the &#256;dityas, all Who spring from Manu, those who know fair rites, who pour their blessings down.\np:Agnis who understand give ear unto the worshipper: Lord of Red Steeds, who lovest song, bring thou those Three-and-Thirty Devas.\np:O J&#257;tavedas, great in act, hearken thou to Praska&#7751;va's call, as Priyamedha erst was heard, Atri, Vir&#363;pa, A&#7749;giras.\np:The sons  skilled in lofty praise have called for help On Agni who with fulgent flame is Ruler of all holy rites.\np:Hear thou, invoked with holy oil, bountiful giver of rewards, these eulogies, whereby the sons of Ka&#7751;va call thee to their aid.\np:O Agni, loved by many, thou of fame most wondrous, in their homes Men call on thee whose hair is flame, to be the bearer of their gifts.\np:Thee, Agni, best to find out wealth, most widely famous, quick to hear, Singers have stablished in their rites Herald and ministering Monk.\np:Singershave made thee, Agni, hasten to the feast, Great light to mortal worshipper, what time they bring the sacred gift.\np:Good, bounteous, Son of Strength, this day seat here on sacred grass the Devas Who come at early morn, the host of Heaven,  juice\np:Bring with joint invocations thou, O Agni, the celestial host: Here  bounteous Devas drink this expressed ere yesterday.",
-    "next": "01046",
-    "previous": "01044",
-    "book": "01"
+    "feecting": "p:WORSHIP the Devas, Agni! here, the Somas, the Ādityas, all Who spring from Manu, those who know fair rites, who pour their blessings down.\np:Agnis who understand give ear unto the worshipper: Lord of Red Steeds, who lovest song, bring thou those Three-and-Thirty Devas.\np:O Jātavedas, great in act, hearken thou to our call.\np:The sons  skilled in lofty praise have called for help On Agni who with fulgent flame is Ruler of all holy rites.\np:Hear thou, invoked with holy oil, bountiful giver of rewards, these eulogies, whereby the sons of Kaṇva call thee to their aid.\np:O Agni, loved by many, thou of fame most wondrous, in their homes Men call on thee whose hair is flame, to be the bearer of their gifts.\np:Thee, Agni, best to find out wealth, most widely famous, quick to hear, Singers have stablished in their rites Herald and ministering Monk.\np:Singershave made thee, Agni, hasten to the feast, Great light to mortal worshipper, what time they bring the sacred gift.\np:Good, bounteous, Son of Strength, this day seat here on sacred grass the Devas Who come at early morn, the host of Heaven,  juice\np:Bring with joint invocations thou, O Agni, the celestial host: Here  bounteous Devas drink this expressed ere yesterday.",
+    "meta": {
+      "next": "01046",
+      "previous": "01044",
+      "book": "01",
+      "source": "https://sacred-texts.com/hin/rigveda/rv01045.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv01045.htm"
+    },
+    "deities": [
+      {
+        "name": "O Jātavedas",
+        "hymns": [
+          {
+            "key": "01045",
+            "title": "HYMN XLV. Agni."
+          }
+        ]
+      },
+      {
+        "name": "O Agni",
+        "hymns": [
+          {
+            "key": "01045",
+            "title": "HYMN XLV. Agni."
+          },
+          {
+            "key": "01045",
+            "title": "HYMN XLV. Agni."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638553250730,
-  "updated": 1638792007336
+  "updated": 1638830291651
 }

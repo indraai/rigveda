@@ -5,13 +5,33 @@
   "link": "hymns/02043.html",
   "api": "json/hymns/02043.json",
   "data": {
-    "title": "HYMN XLIII. Kapi&ntilde;jala.",
+    "key": "02043",
+    "title": "HYMN XLIII. Kapiñjala.",
     "describe": "HERE on the right sing forth chanters of hymns of praise, even the winged birds that in due season speak.",
-    "feecting": "p:HERE on the right sing forth chanters of hymns of praise, even the winged birds that in due season speak.\np: He, like: a S&#257;ma-chanter utters both the notes, skilled in the mode of T&#7771;&#7779;&#7789;up and of G&#257;yatr&#299;.\r\np:Thou like the chanter-priest chantest the S&#257;ma, Bird; thou singest at libations like a Brahman's son. Even as a vigorous horse when he comes near the mare, announce to us good fortune, Bird, on every side, proclaim in all directions happy luck, O Bird.\np:When singing here, O Bird. announce good luck to us, and when thou sittest still think on us with kind thoughts.",
-    "next": "03001",
-    "previous": "02042",
-    "book": "02"
+    "feecting": "p:HERE on the right sing forth chanters of hymns of praise, even the winged birds that in due season speak.\np: He, like: a Sāma-chanter utters both the notes, skilled in the mode of Tṛṣṭup and of Gāyatrī.\r\np:Thou like the chanter-priest chantest the Sāma, Bird; thou singest at libations like a Brahman's son. Even as a vigorous horse when he comes near the mare, announce to us good fortune, Bird, on every side, proclaim in all directions happy luck, O Bird.\np:When singing here, O Bird. announce good luck to us, and when thou sittest still think on us with kind thoughts.",
+    "meta": {
+      "next": "03001",
+      "previous": "02042",
+      "book": "02",
+      "source": "https://sacred-texts.com/hin/rigveda/rv02043.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv02043.htm"
+    },
+    "deities": [
+      {
+        "name": "O Bird",
+        "hymns": [
+          {
+            "key": "02043",
+            "title": "HYMN XLIII. Kapiñjala."
+          },
+          {
+            "key": "02043",
+            "title": "HYMN XLIII. Kapiñjala."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638554250670,
-  "updated": 1638792007578
+  "updated": 1638830291998
 }

@@ -5,13 +5,19 @@
   "link": "hymns/01126.html",
   "api": "json/hymns/01126.json",
   "data": {
-    "title": "HYMN CXXVI. Bh&#257;vayavya.",
-    "describe": "WITH wisdom I present these lively praises of Bh&#257;",
-    "feecting": "p:WITH wisdom I present these lively praises of Bh&#257;vya dweller on the bank of Sindhu; For he, unconquered King, desiring glory, hath furnished me a thousand offers.\np:A hundred necklets from the King, beseeching, a hundred gift-steeds I at once accepted; Of the lord's cows a thousand, I Kak&#7779;&#299;v&#257;n. His deathless glory hath he spread to Heaven.\np:Horses of dusky colour stood beside me, ten chariots, Svanaya's gift, with mares to draw them.\np: Kine numbering sixty thousand followed after. Kak&#7779;&#299;v&#257;n gained them when the days were closing.\r\np:Forty bay horses of the ten cars' master before a thousand lead the long procession. Reeling in joy Kak&#7779;&#299;v&#257;n's sons and Pajra's have grounded the coursers decked with pearly trappings.\np:An earlier gift for you have I accepted eight cows, good milkers, and three harnessed horses, Pajras, who with your wains with your great kinsman, like troops of subjects, have been fain for glory.\np:[Ille loquitur]. Adhaerens, arcte adhaerens, illa quae mustelae similis se abdidit, multum humorem effundens, dat mihi complexuum centum gaudia.\np:[Ille loquitur]. Prope, prope accede; molliter me tange. Ne putes pilos corporis mei-paucos esse: tota sum villosa sicut Gandharium ovis.",
-    "next": "01127",
-    "previous": "01125",
-    "book": "01"
+    "key": "01126",
+    "title": "HYMN CXXVI. Bhāvayavya.",
+    "describe": "WITH wisdom I present these lively praises of Bhāvya dweller on the bank of Sindhu;",
+    "feecting": "p:WITH wisdom I present these lively praises of Bhāvya dweller on the bank of Sindhu; For he, unconquered King, desiring glory, hath furnished me a thousand offers.\np:A hundred necklets from the King, beseeching, a hundred gift-steeds I at once accepted; Of the lord's cows a thousand, I Kakṣīvān. His deathless glory hath he spread to Heaven.\np:Horses of dusky colour stood beside me, ten chariots, Svanaya's gift, with mares to draw them.\np: Kine numbering sixty thousand followed after. Kakṣīvān gained them when the days were closing.\r\np:Forty bay horses of the ten cars' master before a thousand lead the long procession. Reeling in joy Kakṣīvān's sons and Pajra's have grounded the coursers decked with pearly trappings.\np:An earlier gift for you have I accepted eight cows, good milkers, and three harnessed horses, Pajras, who with your wains with your great kinsman, like troops of subjects, have been fain for glory.\np:[Ille loquitur]. Adhaerens, arcte adhaerens, illa quae mustelae similis se abdidit, multum humorem effundens, dat mihi complexuum centum gaudia.\np:[Ille loquitur]. Prope, prope accede; molliter me tange. Ne putes pilos corporis mei-paucos esse: tota sum villosa sicut Gandharium ovis.",
+    "meta": {
+      "next": "01127",
+      "previous": "01125",
+      "book": "01",
+      "source": "https://sacred-texts.com/hin/rigveda/rv01126.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv01126.htm"
+    },
+    "deities": []
   },
   "created": 1638553678021,
-  "updated": 1638792007441
+  "updated": 1638830291812
 }

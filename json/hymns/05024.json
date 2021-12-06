@@ -5,13 +5,47 @@
   "link": "hymns/05024.html",
   "api": "json/hymns/05024.json",
   "data": {
+    "key": "05024",
     "title": "HYMN XXIV. Agni.",
     "describe": "O AGNI, be our nearest Friend, be thou a kind deliverer and a gracious Friend.",
     "feecting": "p:O AGNI, be our nearest Friend, be thou a kind deliverer and a gracious Friend.\np:Excellent Agni, come thou nigh to us, and give us wealth most splendidly renowned.\np:So hear us, listen to this call of ours, and keep us far from every sinful man.\np:To thee then, O Most Bright, O Radiant Deva, we come with prayer for happiness for our friends.",
-    "next": "05025",
-    "previous": "05023",
-    "book": "05"
+    "meta": {
+      "next": "05025",
+      "previous": "05023",
+      "book": "05",
+      "source": "https://sacred-texts.com/hin/rigveda/rv05024.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv05024.htm"
+    },
+    "deities": [
+      {
+        "name": "O AGNI",
+        "hymns": [
+          {
+            "key": "05024",
+            "title": "HYMN XXIV. Agni."
+          }
+        ]
+      },
+      {
+        "name": "O Most",
+        "hymns": [
+          {
+            "key": "05024",
+            "title": "HYMN XXIV. Agni."
+          }
+        ]
+      },
+      {
+        "name": "O Radiant",
+        "hymns": [
+          {
+            "key": "05024",
+            "title": "HYMN XXIV. Agni."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638555011849,
-  "updated": 1638792007770
+  "updated": 1638830292239
 }

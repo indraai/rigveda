@@ -5,13 +5,73 @@
   "link": "hymns/08055.html",
   "api": "json/hymns/08055.json",
   "data": {
+    "key": "08055",
     "title": "HYMN LV. Indra.",
     "describe": "LOUD singing at the sacred rite where Soma flows we monks invoke With haste, that h.",
-    "feecting": "p:LOUD singing at the sacred rite where Soma flows we monks invoke With haste, that h. May help, as the bard's Cherisher, Indra who findeth wealth for you.\np:Whom with fair helm, in rapture of the juice, the firm resistless slayers hinder not: Giver of glorious wealth to him who sing a his praise, honouring him who toils and pours:\np:&#346;akra, who like a curry-comb for horses or a golden goad, Indra, the V&#7771;tra-slayer, urges eagerly the opening of the stall of kine:\np:Who for the worshipper scatters forth ample wealth, even though buried, piled in heaps: May Indra, Lord of Bay Steeds, fair-helmed Thunderer, act at his pleasure, as he lists.\np:Hero whom many praise, what thou hast longed for, oven of old, from men.\np: All that we offer unto thee, O Indra, now, offering, laud, effectual speech.\r\np:To Soma, Much-invoked, Bolt-armed! for thy carouse, Celestial, Soma-drinker come. Thou to the man who- prays and pours the juice hast been best giver of delightful wealth.\np:Here, verily, yesterday we let the Thunder-wielder drink his fill. So in like manner offer him the juice today. Now range you by the Glorious One.\np:Even the wolf, the savage beast that rends the sheep, follows the path of his decrees. So graciously accepting, Indra, this our praise, with wondrous thought come forth to us.\np:What manly deed of vigour now remains that Indra hath not done? Who hath not heard his glorious title and his fame, the V&#7771;tra-slayer from his birth?\np:'How great his power resistless! how invincible the V&#7771;tra-slayer's matchless might! Indra excels all usurers who see the day, excels all traffickers in strength.\np:O Indra, V&#7771;tra-slayer, we, thy very constant worshippers, Bring prayers ne&#146;er heard before to thee, O Much-invoked, O Thunder-armed, to be thy meed.\np:O thou of mighty acts, the aids that are in thee call forward many an eager hope. Past the water-offerings, Vasu, even of the good, hear my call, Strongest Deva, and come.\np:Verily, Indra, we are thine, we worshippers depend on thee. For there is none but only thou to show us race, O Indra, thou much invoked.\np:From this our misery and famine set us free, from this dire curse deliver us. Succour us with thine help and with thy wondrous thought. Most Mighty, finder of the way.\np:Now let your Soma juice be poured; be not afraid, O Kali's sons. This darkening sorrow goes away; yea, of itself it vanishes.",
-    "next": "08056",
-    "previous": "08054",
-    "book": "08"
+    "feecting": "p:LOUD singing at the sacred rite where Soma flows we monks invoke With haste, that h. May help, as the bard's Cherisher, Indra who findeth wealth for you.\np:Whom with fair helm, in rapture of the juice, the firm resistless slayers hinder not: Giver of glorious wealth to him who sing a his praise, honouring him who toils and pours:\np:Indra, who like a curry-comb for horses or a golden goad, Indra, urges eagerly the opening of the stall of kine:\np:Who for the worshipper scatters forth ample wealth, even though buried, piled in heaps: May Indra, Lord of Bay Steeds, fair-helmed Thunderer, act at his pleasure, as he lists.\np:Hero whom many praise, what thou hast longed for, oven of old, from men.\np: All that we offer unto thee, O Indra, now, offering, laud, effectual speech.\r\np:To Soma, Much-invoked, Bolt-armed! for thy carouse, Celestial, Soma-drinker come. Thou to the man who- prays and pours the juice hast been best giver of delightful wealth.\np:Here, verily, yesterday we let the Thunder-wielder drink his fill. So in like manner offer him the juice today. Now range you by the Glorious One.\np:Even the wolf, the savage beast that rends the sheep, follows the path of his decrees. So graciously accepting, Indra, this our praise, with wondrous thought come forth to us.\np:What manly deed of vigour now remains that Indra hath not done? Who hath not heard his glorious title and his fame, from his birth?\np:'How great his power resistless! how invincible's matchless might! Indra excels all usurers who see the day, excels all traffickers in strength.\np:O Indra, Vṛtra-slayer, we, thy very constant worshippers, Bring prayers ne’er heard before to thee, O Much-invoked, O Thunder-armed, to be thy meed.\np:O thou of mighty acts, the aids that are in thee call forward many an eager hope. Past the water-offerings, Vasu, even of the good, hear my call, Strongest Deva, and come.\np:Verily, Indra, we are thine, we worshippers depend on thee. For there is none but only thou to show us race, O Indra, thou much invoked.\np:From this our misery and famine set us free, from this dire curse deliver us. Succour us with thine help and with thy wondrous thought. Most Mighty, finder of the way.\np:Now let your Soma juice be poured; be not afraid, O Kali's sons. This darkening sorrow goes away; yea, of itself it vanishes.",
+    "meta": {
+      "next": "08056",
+      "previous": "08054",
+      "book": "08",
+      "source": "https://sacred-texts.com/hin/rigveda/rv08055.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv08055.htm"
+    },
+    "deities": [
+      {
+        "name": "O Indra",
+        "hymns": [
+          {
+            "key": "08055",
+            "title": "HYMN LV. Indra."
+          },
+          {
+            "key": "08055",
+            "title": "HYMN LV. Indra."
+          },
+          {
+            "key": "08055",
+            "title": "HYMN LV. Indra."
+          }
+        ]
+      },
+      {
+        "name": "O Much",
+        "hymns": [
+          {
+            "key": "08055",
+            "title": "HYMN LV. Indra."
+          }
+        ]
+      },
+      {
+        "name": "O Thunder",
+        "hymns": [
+          {
+            "key": "08055",
+            "title": "HYMN LV. Indra."
+          }
+        ]
+      },
+      {
+        "name": "O thou",
+        "hymns": [
+          {
+            "key": "08055",
+            "title": "HYMN LV. Indra."
+          }
+        ]
+      },
+      {
+        "name": "O Kali",
+        "hymns": [
+          {
+            "key": "08055",
+            "title": "HYMN LV. Indra."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638556581121,
-  "updated": 1638792008135
+  "updated": 1638830292750
 }

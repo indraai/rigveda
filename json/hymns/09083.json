@@ -5,13 +5,19 @@
   "link": "hymns/09083.html",
   "api": "json/hymns/09083.json",
   "data": {
+    "key": "09083",
     "title": "HYMN LXXXIII. Indu.",
-    "describe": "SPREAD is thy cleansing filter, Brahma&#7751;",
-    "feecting": "p:SPREAD is thy cleansing filter, Brahma&#7751;aspati: as Prince, thou enterest its limbs from every side.\np: The raw, whose mass hath not been heated gains not this: they only which are dressed, which bear, attain to it.\r\np:High in the seat of Heaven is spread the Scorcher's sieve: its threads are standing separate, glittering with light. The Swift Ones favour him who purifieth this: with consciousness they stand upon the height of Heaven.\np:The foremost spotted Steer hath made the Mornings shine, and yearning after strength sustains all things that be. By his high wisdom have the mighty Sages wrought: the Fathers who behold mankind laid down the germ,\np:Gandharva verily protects his dwellingplace; Wondrous, he guards the generations of the Devas. Lord of the snare, he takes the foeman with the snare: those who are most devout have gained a share of meath.\np:Rich in oblations! robed in cloud, thou corapassest oblation, offering, the mighty seat of Devas. King, on thy chariot-sieve thou goest up to war, and with a thousand weapons winnest lofty fame.",
-    "next": "09084",
-    "previous": "09082",
-    "book": "09"
+    "describe": "SPREAD is thy cleansing filter, Soma: as Prince, thou enterest its limbs from every side.",
+    "feecting": "p:SPREAD is thy cleansing filter, Soma: as Prince, thou enterest its limbs from every side.\np: The raw, whose mass hath not been heated gains not this: they only which are dressed, which bear, attain to it.\r\np:High in the seat of Heaven is spread the Scorcher's sieve: its threads are standing separate, glittering with light. The Swift Ones favour him who purifieth this: with consciousness they stand upon the height of Heaven.\np:The foremost spotted Steer hath made the Mornings shine, and yearning after strength sustains all things that be. By his high wisdom have the mighty Sages wrought: the Fathers who behold mankind laid down the germ,\np:Gandharva verily protects his dwellingplace; Wondrous, he guards the generations of the Devas. Lord of the snare, he takes the foeman with the snare: those who are most devout have gained a share of meath.\np:Rich in oblations! robed in cloud, thou corapassest oblation, offering, the mighty seat of Devas. King, on thy chariot-sieve thou goest up to war, and with a thousand weapons winnest lofty fame.",
+    "meta": {
+      "next": "09084",
+      "previous": "09082",
+      "book": "09",
+      "source": "https://sacred-texts.com/hin/rigveda/rv09083.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv09083.htm"
+    },
+    "deities": []
   },
   "created": 1638557272532,
-  "updated": 1638792008277
+  "updated": 1638830292914
 }

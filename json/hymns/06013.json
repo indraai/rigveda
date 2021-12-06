@@ -5,13 +5,33 @@
   "link": "hymns/06013.html",
   "api": "json/hymns/06013.json",
   "data": {
+    "key": "06013",
     "title": "HYMN XIII. Agni.",
     "describe": "FROM thee, as branches from a tree, O Agni, from thee, Auspicious God!",
-    "feecting": "p:FROM thee, as branches from a tree, O Agni, from thee, Auspicious God! spring all our blessings- Wealth swiftly, strength in battle with our foemen, the rain besought of Heaven, the flow of waters.\np:Thou art our Bhaga to send wealth thou dwellest, like circumambient air, with wondrous splendour.\np: Friend art thou of the lofty Law, like Mitra, Controller, Agni! God! of many a blessing.\r\np:Agni! the hero subdues with might his foeman; the singer bears away the Pa&#7751;i's booty- Even he whom thou, Sage, born in Law, incitest by wealth, accordant with the Child of Waters.\np:The man who, Son of Strength 1 with offers, hymns, lauds, attracts thy fervour to the altar, Enjoys each precious thing, O Agni, gains wealth of corn and is the lord of treasures.\np:Grant, Son of Strength, to men for their subsistence such things as bring high fame and hero children. For thou with might givest much food in cattle even to the wicked wolf when he is hungry.\np:Eloquent, Son of Strength, most Mighty, Agni, vouchsafe us seed and offspring, full of vigour. May I by all my songs obtain abundance. May brave sons gladden us through a hundred winters.",
-    "next": "06014",
-    "previous": "06012",
-    "book": "06"
+    "feecting": "p:FROM thee, as branches from a tree, O Agni, from thee, Auspicious God! spring all our blessings- Wealth swiftly, strength in battle with our foemen, the rain besought of Heaven, the flow of waters.\np:Thou art our Bhaga to send wealth thou dwellest, like circumambient air, with wondrous splendour.\np: Friend art thou of the lofty Law, like Mitra, Controller, Agni! God! of many a blessing.\r\np:Agni! the hero subdues with might his foeman; the singer bears away the Paṇi's booty- Even he whom thou, Sage, born in Law, incitest by wealth, accordant with the Child of Waters.\np:The man who, Son of Strength 1 with offers, hymns, lauds, attracts thy fervour to the altar, Enjoys each precious thing, O Agni, gains wealth of corn and is the lord of treasures.\np:Grant, Son of Strength, to men for their subsistence such things as bring high fame and hero children. For thou with might givest much food in cattle even to the wicked wolf when he is hungry.\np:Eloquent, Son of Strength, most Mighty, Agni, vouchsafe us seed and offspring, full of vigour. May I by all my songs obtain abundance. May brave sons gladden us through a hundred winters.",
+    "meta": {
+      "next": "06014",
+      "previous": "06012",
+      "book": "06",
+      "source": "https://sacred-texts.com/hin/rigveda/rv06013.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv06013.htm"
+    },
+    "deities": [
+      {
+        "name": "O Agni",
+        "hymns": [
+          {
+            "key": "06013",
+            "title": "HYMN XIII. Agni."
+          },
+          {
+            "key": "06013",
+            "title": "HYMN XIII. Agni."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638555415208,
-  "updated": 1638792007860
+  "updated": 1638830292354
 }

@@ -5,13 +5,19 @@
   "link": "hymns/01099.html",
   "api": "json/hymns/01099.json",
   "data": {
+    "key": "01099",
     "title": "HYMN XCIX. Agni.",
-    "describe": "FOR J&#257;",
-    "feecting": "p:FOR J&#257;tavedas let us press the Soma. May he consume the wealth of the malignant.\np: May Agni carry us through all our troubles, through grief as in a boat across the river.",
-    "next": "01100",
-    "previous": "01098",
-    "book": "01"
+    "describe": "FOR Jātavedas let us press the Soma.",
+    "feecting": "p:FOR Jātavedas let us press the Soma. May he consume the wealth of the malignant.\np: May Agni carry us through all our troubles, through grief as in a boat across the river.",
+    "meta": {
+      "next": "01100",
+      "previous": "01098",
+      "book": "01",
+      "source": "https://sacred-texts.com/hin/rigveda/rv01099.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv01099.htm"
+    },
+    "deities": []
   },
   "created": 1638553535432,
-  "updated": 1638792007403
+  "updated": 1638830291741
 }

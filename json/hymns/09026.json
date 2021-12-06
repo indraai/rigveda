@@ -5,13 +5,29 @@
   "link": "hymns/09026.html",
   "api": "json/hymns/09026.json",
   "data": {
+    "key": "09026",
     "title": "HYMN XXVI. Indu.",
     "describe": false,
-    "feecting": "p:THE sages with the fingers' art have dressed and decked that vigorous Steed Upon the lap of Aditi,\np:The kine have called aloud to him exhaustless with a thousand streams, to Indu who supporteth Heaven.\np:Him, nourisher of many, Sage, creative Indu, they Have sent, by wisdom, to the sky.\np:Him, dweller with Vivasv&#257;n, they with use of both arms have sent forth, the Lord of Speech infallible.\np:Him, green, beloved, many eyed, the Sisters with prosing stones Send down to ridges of the sieve.\np:O Indu, indu, monks hurry thee on to Indra, thee Who aidest song and cheerest him.",
-    "next": "09027",
-    "previous": "09025",
-    "book": "09"
+    "feecting": "p:THE sages with the fingers' art have dressed and decked that vigorous Steed Upon the lap of Aditi,\np:The kine have called aloud to him exhaustless with a thousand streams, to Indu who supporteth Heaven.\np:Him, nourisher of many, Sage, creative Indu, they Have sent, by wisdom, to the sky.\np:Him, dweller with Vivasvān, they with use of both arms have sent forth, the Lord of Speech infallible.\np:Him, green, beloved, many eyed, the Sisters with prosing stones Send down to ridges of the sieve.\np:O Indu, indu, monks hurry thee on to Indra, thee Who aidest song and cheerest him.",
+    "meta": {
+      "next": "09027",
+      "previous": "09025",
+      "book": "09",
+      "source": "https://sacred-texts.com/hin/rigveda/rv09026.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv09026.htm"
+    },
+    "deities": [
+      {
+        "name": "O Indu",
+        "hymns": [
+          {
+            "key": "09026",
+            "title": "HYMN XXVI. Indu."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638556971894,
-  "updated": 1638792008222
+  "updated": 1638830292840
 }

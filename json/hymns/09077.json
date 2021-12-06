@@ -5,13 +5,19 @@
   "link": "hymns/09077.html",
   "api": "json/hymns/09077.json",
   "data": {
+    "key": "09077",
     "title": "HYMN LXXVII. Indu.",
     "describe": "MORE beauteous than the beautiful, as Indra's bolt, this Soma, rich in sweets, hath clamoured in the vat.",
-    "feecting": "p:MORE beauteous than the beautiful, as Indra's bolt, this Soma, rich in sweets, hath clamoured in the vat.\np: Dropping with oil, abundant, streams of offering flow unto him like milch-kine, lowing, with their milk.\r\np:On flows that Ancient One whom, hitherward, from Heaven, sped through the region of the air, the Falcon snatched. He, quivering with alarm and terrified in heart before bow-armed K&#7771;&#347;&#257;nu, holdeth fast the sweet.\np:May those first freshest drops of Soma juice effused flow on, their way to bring us mighty strength in kine. Beauteous as serpents, worthy to be looked upon, they whom each sacred gift and all our meditations have pleased.\np:May that much-lauded Indu, with a heart inclined to us, well-knowing, fight against our enemies. He who hath brought the germ beside the Strong One's seat moves onward to the widely-opcned stall of kine.\np:The active potent juice of Heaven is flowing on, great Varu&#7751;a whom the forward man can ne&#146;er deceive. Mitra, the Holy, hath been pressed for troubled times, neighing like an impatient horse amid the herd,",
-    "next": "09078",
-    "previous": "09076",
-    "book": "09"
+    "feecting": "p:MORE beauteous than the beautiful, as Indra's bolt, this Soma, rich in sweets, hath clamoured in the vat.\np: Dropping with oil, abundant, streams of offering flow unto him like milch-kine, lowing, with their milk.\r\np:On flows that Ancient One whom, hitherward, from Heaven, sped through the region of the air, the Falcon snatched. He, quivering with alarm and terrified in heart before bow-armed Kṛśānu, holdeth fast the sweet.\np:May those first freshest drops of Soma juice effused flow on, their way to bring us mighty strength in kine. Beauteous as serpents, worthy to be looked upon, they whom each sacred gift and all our meditations have pleased.\np:May that much-lauded Indu, with a heart inclined to us, well-knowing, fight against our enemies. He who hath brought the germ beside the Strong One's seat moves onward to the widely-opcned stall of kine.\np:The active potent juice of Heaven is flowing on, great Indra whom the forward man can ne’er deceive. Mitra, the Holy, hath been pressed for troubled times, neighing like an impatient horse amid the herd,",
+    "meta": {
+      "next": "09078",
+      "previous": "09076",
+      "book": "09",
+      "source": "https://sacred-texts.com/hin/rigveda/rv09077.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv09077.htm"
+    },
+    "deities": []
   },
   "created": 1638557240957,
-  "updated": 1638792008271
+  "updated": 1638830292907
 }

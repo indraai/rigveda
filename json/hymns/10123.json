@@ -5,13 +5,19 @@
   "link": "hymns/10123.html",
   "api": "json/hymns/10123.json",
   "data": {
+    "key": "10123",
     "title": "HYMN CXXIII. Vena.",
-    "describe": "SEE, Vena, born in light, hath driven hither, on chariot of the air, the Calves of P&#7771;",
-    "feecting": "p:SEE, Vena, born in light, hath driven hither, on chariot of the air, the Calves of P&#7771;&#347;ni.\np: Singers with hymns caress him as an infant there where the waters and the sunlight mingle.\r\np:Vena draws up his wave from out the ocean. mist-born, the fair one's back is made apparent, Brightly he shone aloft on Order's summit: the hosts sang glory to their common birthplace.\np:Full many, lowing to their joint-possession, dwelling together stood the Darling's Mothers. Ascending to the lofty height of Order, the bands of singers 'sip the sweets of Am&#7771;ta.\np:Knowing his form, the sages yearned to meet him: they have come nigh to hear the wild Bull's bellow. Performing offering they reached the river: for the Gandharva found the immortal waters.\np:The Apsaras, the Lady, sweetly smiling, supports her Lover in sublimest Heaven. In his Friend's dwelling as a friend he wanders: he, Vena, rests him on his golden pinion.\np:They gaze on thee with longing in their spirit, as on a strong-winged bird that mounteth sky-ward; On thee with wings of gold, Varu&#7751;a's envoy, the Bird that hasteneth to the home of Yama.\np:Erect, to Heaven hath the Gandharva mounted, pointing at us his many-coloured weapons; Clad in sweet raiment beautiful to look on, for he, as light, produceth forms that please us.\np:When as a spark he cometh near the ocean, still looking with a vulture's eye to Heaven, His lustre, joying in its own bright splendour, maketh dear glories in the lowest region.",
-    "next": "10124",
-    "previous": "10122",
-    "book": "10"
+    "describe": "SEE, Vena, born in light, hath driven hither, on chariot of the air, the Calves of Pṛśni.",
+    "feecting": "p:SEE, Vena, born in light, hath driven hither, on chariot of the air, the Calves of Pṛśni.\np: Singers with hymns caress him as an infant there where the waters and the sunlight mingle.\r\np:Vena draws up his wave from out the ocean. mist-born, the fair one's back is made apparent, Brightly he shone aloft on Order's summit: the hosts sang glory to their common birthplace.\np:Full many, lowing to their joint-possession, dwelling together stood the Darling's Mothers. Ascending to the lofty height of Order, the bands of singers 'sip the sweets of Amṛta.\np:Knowing his form, the sages yearned to meet him: they have come nigh to hear the wild Bull's bellow. Performing offering they reached the river: for the Gandharva found the immortal waters.\np:The Apsaras, the Lady, sweetly smiling, supports her Lover in sublimest Heaven. In his Friend's dwelling as a friend he wanders: he, Vena, rests him on his golden pinion.\np:They gaze on thee with longing in their spirit, as on a strong-winged bird that mounteth sky-ward; On thee with wings of gold, Indra's envoy, the Bird that hasteneth to the home of Yama.\np:Erect, to Heaven hath the Gandharva mounted, pointing at us his many-coloured weapons; Clad in sweet raiment beautiful to look on, for he, as light, produceth forms that please us.\np:When as a spark he cometh near the ocean, still looking with a vulture's eye to Heaven, His lustre, joying in its own bright splendour, maketh dear glories in the lowest region.",
+    "meta": {
+      "next": "10124",
+      "previous": "10122",
+      "book": "10",
+      "source": "https://sacred-texts.com/hin/rigveda/rv10123.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv10123.htm"
+    },
+    "deities": []
   },
   "created": 1638558088760,
-  "updated": 1638792008561
+  "updated": 1638830293205
 }

@@ -5,13 +5,19 @@
   "link": "hymns/09017.html",
   "api": "json/hymns/09017.json",
   "data": {
+    "key": "09017",
     "title": "HYMN XVII. Indu.",
-    "describe": "LIKE rivers down a steep descent, subduing the V&#7771;",
-    "feecting": "p:LIKE rivers down a steep descent, subduing the V&#7771;tras, full of zeal, the rapid Soma-streams have flowed.\np:The drops of Soma juice effused fall like the rain upon the Earth: To Indra flow the Soma-streams.\np:With swelling wave the gladdening drink, the Soma, flows into&#7789;he sieve, Loving the Devas and subduing fiends.\np:It hastens to the pitchers, poured upon the sieve it waxes strong At offers through the lauds.\np:Soma, thou shinest mounting Heaven as &#146;twere above light's triple realm, and moving secm'st to speed the Sun.\np:To him, the head of sacnfice, singers and bards have sung their songs, Offering what he loves to see.\np:The men, the sages with their hymns, eager for help, deck thee strong &amp;teed, Deck thee for service of the Devas.\np:Flow onward to the stream of meath rest efficacious in thy home, Fair, to be drunk at offering.",
-    "next": "09018",
-    "previous": "09016",
-    "book": "09"
+    "describe": "LIKE rivers down a steep descent, subduing the Vṛtras, full of zeal, the rapid Soma-streams have flowed.",
+    "feecting": "p:LIKE rivers down a steep descent, subduing the Vṛtras, full of zeal, the rapid Soma-streams have flowed.\np:The drops of Soma juice effused fall like the rain upon the Earth: To Indra flow the Soma-streams.\np:With swelling wave the gladdening drink, the Soma, flows intoṭhe sieve, Loving the Devas and subduing fiends.\np:It hastens to the pitchers, poured upon the sieve it waxes strong At offers through the lauds.\np:Soma, thou shinest mounting Heaven as ’twere above light's triple realm, and moving secm'st to speed the Sun.\np:To him, the head of sacnfice, singers and bards have sung their songs, Offering what he loves to see.\np:The men, the sages with their hymns, eager for help, deck thee strong &teed, Deck thee for service of the Devas.\np:Flow onward to the stream of meath rest efficacious in thy home, Fair, to be drunk at offering.",
+    "meta": {
+      "next": "09018",
+      "previous": "09016",
+      "book": "09",
+      "source": "https://sacred-texts.com/hin/rigveda/rv09017.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv09017.htm"
+    },
+    "deities": []
   },
   "created": 1638556924572,
-  "updated": 1638792008214
+  "updated": 1638830292833
 }

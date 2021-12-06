@@ -5,13 +5,54 @@
   "link": "hymns/01108.html",
   "api": "json/hymns/01108.json",
   "data": {
+    "key": "01108",
     "title": "HYMN CVIII. Indra-Agni.",
     "describe": "ON that most wondrous car of yours, O Indra and Agni, which looks round on all things living, Take ye your stand and come to us together, and drink libations of the flowing Soma.",
-    "feecting": "p:ON that most wondrous car of yours, O Indra and Agni, which looks round on all things living, Take ye your stand and come to us together, and drink libations of the flowing Soma.\np:As vast as all this world is in its compass, deep as it is, with its far-stretching surface, So let this Soma be, Indra and Agni, made for your drinking till your soul be sated.\np:For ye have won a blessed name together: yea, with one aim ye strove, O V&#7771;tra-slayers.\np: So Indra-Agni, seated here together, pour in, ye Mighty Ones, the mighty Soma.\r\np:Both stand adorned, when fires are duly kindled, spreading the sacred grass, with lifted ladles. Drawn by strong Soma juice poured forth around us, come, Indra-Agni, and display your favour.\np:The brave deeds ye have done, Indra and Agni, the forms ye have displayed and mighty exploits, the ancient and auspicious bonds of friendship,&#151;for sake of these drink of the flowing Soma.\np:As first I said when choosing you, in battle we must contend with Devass for this Soma. So came ye unto this my true conviction, and drank libations of the flowing Soma.\np:If in your dwelling, or with prince or Brahman, ye, Indra-Agni, Holy Ones, rejoice you, Even from thence, ye mighty Lords, come hither, and drink libation of the flowing Soma.\np:If with, the Yadus, Turva&#347;as, ye sojourn, with Druhyus, Anus, P&#363;rus, Indra-Agni! Even from thence, ye mighty Lords, come hither, and drink libations of the flowing Soma.\np:Whether, O Indra-Agni, ye be dwelling in lowest Earth, in central, or in highest. Even from thence, ye mighty Lords, come hither, and drink libations of the flowing Soma.\np:Whether, O Indra-Agni, ye be dwelling in highest Earth, in central, or in lowest, Even from thence, ye mighty Lords, come hither, and drink libations of the flowing Soma.\np:Whether ye be in Heaven, O Indra-Agni, on Earth, on mountains, in the herbs, or waters, Even from thence, ye mighty Lords, come hither, and drink libations of the flowing Soma.\np:If, when the Sun to the mid-Heaven hath mounted, ye take delight in food, O Indra-Agni, Even from thence, ye mighty Lords, come hither, and drink libations of the flowing Soma.\np:Thus having drunk your fill of our libation, win us all kinds of wealth, Indra and Agni. This prayer of our. May Varu&#7751;a grant, and Mitra, and Aditi and Sindhu, Earth and Heaven.",
-    "next": "01109",
-    "previous": "01107",
-    "book": "01"
+    "feecting": "p:ON that most wondrous car of yours, O Indra and Agni, which looks round on all things living, Take ye your stand and come to us together, and drink libations of the flowing Soma.\np:As vast as all this world is in its compass, deep as it is, with its far-stretching surface, So let this Soma be, Indra and Agni, made for your drinking till your soul be sated.\np:For ye have won a blessed name together: yea, with one aim ye strove, O Vṛtra-slayers.\np: So Indra-Agni, seated here together, pour in, ye Mighty Ones, the mighty Soma.\r\np:Both stand adorned, when fires are duly kindled, spreading the sacred grass, with lifted ladles. Drawn by strong Soma juice poured forth around us, come, Indra-Agni, and display your favour.\np:The brave deeds ye have done, Indra and Agni, the forms ye have displayed and mighty exploits, the ancient and auspicious bonds of friendship.for sake of these drink of the flowing Soma.\np:As first I said when choosing you, in battle we must contend with Devass for this Soma. So came ye unto this my true conviction, and drank libations of the flowing Soma.\np:If in your dwelling, or with prince or Brahman, ye, Indra-Agni, Holy Ones, rejoice you, Even from thence, ye mighty Lords, come hither, and drink libation of the flowing Soma.\np:If with, the Yadus, Turvaśas, ye sojourn, with Druhyus, Anus, Pūrus, Indra-Agni! Even from thence, ye mighty Lords, come hither, and drink libations of the flowing Soma.\np:Whether, O Indra-Agni, ye be dwelling in lowest Earth, in central, or in highest. Even from thence, ye mighty Lords, come hither, and drink libations of the flowing Soma.\np:Whether, O Indra-Agni, ye be dwelling in highest Earth, in central, or in lowest, Even from thence, ye mighty Lords, come hither, and drink libations of the flowing Soma.\np:Whether ye be in Heaven, O Indra-Agni, on Earth, on mountains, in the herbs, or waters, Even from thence, ye mighty Lords, come hither, and drink libations of the flowing Soma.\np:If, when the Sun to the mid-Heaven hath mounted, ye take delight in food, O Indra-Agni, Even from thence, ye mighty Lords, come hither, and drink libations of the flowing Soma.\np:Thus having drunk your fill of our libation, win us all kinds of wealth, Indra and Agni. This prayer of our. May Indra grant, and Mitra, and Aditi and Sindhu, Earth and Heaven.",
+    "meta": {
+      "next": "01109",
+      "previous": "01107",
+      "book": "01",
+      "source": "https://sacred-texts.com/hin/rigveda/rv01108.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv01108.htm"
+    },
+    "deities": [
+      {
+        "name": "O Indra",
+        "hymns": [
+          {
+            "key": "01108",
+            "title": "HYMN CVIII. Indra-Agni."
+          },
+          {
+            "key": "01108",
+            "title": "HYMN CVIII. Indra-Agni."
+          },
+          {
+            "key": "01108",
+            "title": "HYMN CVIII. Indra-Agni."
+          },
+          {
+            "key": "01108",
+            "title": "HYMN CVIII. Indra-Agni."
+          },
+          {
+            "key": "01108",
+            "title": "HYMN CVIII. Indra-Agni."
+          }
+        ]
+      },
+      {
+        "name": "O Vṛtra",
+        "hymns": [
+          {
+            "key": "01108",
+            "title": "HYMN CVIII. Indra-Agni."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638553583069,
-  "updated": 1638792007414
+  "updated": 1638830291765
 }

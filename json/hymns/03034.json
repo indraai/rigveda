@@ -5,13 +5,29 @@
   "link": "hymns/03034.html",
   "api": "json/hymns/03034.json",
   "data": {
+    "key": "03034",
     "title": "HYMN XXXIV. Indra.",
-    "describe": "FORT-RENDER, Lord of Wealth, dispelling foemen, Indra with lightnings hath o&#146;",
-    "feecting": "p:FORT-RENDER, Lord of Wealth, dispelling foemen, Indra with lightnings hath o&#146;ercome the D&#257;sa.\np: Impelled by prayer and waxen great in body, he hath filled Earth and Heaven, the Bounteous Giver.\r\np:I stimulate thy zeal, the Strong, the Hero decking my song of praise forth; Immortal. O Indra, thou art equally the Leader of heavenly hosts and human generations.\np:Leading, his band Indra encompassed V&#7771;tra; weak grew the wily leader of enchanters. He who burns fierce in forests slaughtered Vya&#7745;sa, and made the Milch-kine of the nights apparent.\np:Indra, light-winner, days' Creator, conquered, victorious, hostile bands with those who loved him. For man the days' bright ensign he illumined, and found the light for his joy and gladness.\np:Forward to fiercely falling blows pressed Indra, herolike doing many hero exploits. These holy songs he taught the bard who gaised him, and widely spread these Dawns' resplendent colour.\np:They laud the mighty acts of him the Mighty, the many glorious deeds performed by Indra. He in his strength, with all-surpassing prowess, through wondrous arts crushed the malignant Dasyus.\np:Lord of the brave, Indra who rules the people gave freedom to the Devas by might and battle. Wise singers glorify with chanted praises these his achievements in Vivasv&#257;n's dwelling.\np:Excellent, Conqueror, the victory-giver, the winner of the light and Godlike Waters. He who hath won this broad Earth and this Heaven, -in Indra they rejoice who love devotions.\np:He gained possession of the Sun and Horses, Indra obtained the Cow who feedeth many. Treasure of gold he won; he smote the Dasyus, and gave protection to the &#256;ryan colour.\np:He took the plants and days for his possession; he gained the forest trees and air's mid-region. Vala he cleft, and chased away opponents: thus was he tamer of the overweening.\np:Call we on Indra, auspicious Indra, best Hero in the fight where spoil is gathered, the Strong, who listens, who gives aid in battles, who subdues the V&#7771;tras, wins and gathers treasures.",
-    "next": "03035",
-    "previous": "03033",
-    "book": "03"
+    "describe": "FORT-RENDER, Lord of Wealth, dispelling foemen, Indra with lightnings hath o’ercome the Dāsa.",
+    "feecting": "p:FORT-RENDER, Lord of Wealth, dispelling foemen, Indra with lightnings hath o’ercome the Dāsa.\np: Impelled by prayer and waxen great in body, he hath filled Earth and Heaven, the Bounteous Giver.\r\np:I stimulate thy zeal, the Strong, the Hero decking my song of praise forth; Immortal. O Indra, thou art equally the Leader of heavenly hosts and human generations.\np:Leading, his band Indra encompassed Vṛtra; weak grew the wily leader of enchanters. He who burns fierce in forests slaughtered Vyaṁsa, and made the Milch-kine of the nights apparent.\np:Indra, light-winner, days' Creator, conquered, victorious, hostile bands with those who loved him. For man the days' bright ensign he illumined, and found the light for his joy and gladness.\np:Forward to fiercely falling blows pressed Indra, herolike doing many hero exploits. These holy songs he taught the bard who gaised him, and widely spread these Dawns' resplendent colour.\np:They laud the mighty acts of him the Mighty, the many glorious deeds performed by Indra. He in his strength, with all-surpassing prowess, through wondrous arts crushed the malignant Dasyus.\np:Lord of the brave, Indra who rules the people gave freedom to the Devas by might and battle. Wise singers glorify with chanted praises these his achievements in Vivasvān's dwelling.\np:Excellent, Conqueror, the victory-giver, the winner of the light and Godlike Waters. He who hath won this broad Earth and this Heaven, -in Indra they rejoice who love devotions.\np:He gained possession of the Sun and Horses, Indra obtained the Cow who feedeth many. Treasure of gold he won; he smote the Dasyus, and gave protection to the Āryan colour.\np:He took the plants and days for his possession; he gained the forest trees and air's mid-region. Vala he cleft, and chased away opponents: thus was he tamer of the overweening.\np:Call we on Indra, auspicious Indra, best Hero in the fight where spoil is gathered, the Strong, who listens, who gives aid in battles, who subdues the Vṛtras, wins and gathers treasures.",
+    "meta": {
+      "next": "03035",
+      "previous": "03033",
+      "book": "03",
+      "source": "https://sacred-texts.com/hin/rigveda/rv03034.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv03034.htm"
+    },
+    "deities": [
+      {
+        "name": "O Indra",
+        "hymns": [
+          {
+            "key": "03034",
+            "title": "HYMN XXXIV. Indra."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638554430492,
-  "updated": 1638792007631
+  "updated": 1638830292053
 }

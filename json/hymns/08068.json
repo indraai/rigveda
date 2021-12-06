@@ -5,13 +5,42 @@
   "link": "hymns/08068.html",
   "api": "json/hymns/08068.json",
   "data": {
+    "key": "08068",
     "title": "HYMN LXVIII. Soma.",
-    "describe": "THIS here is Soma, ne&#146;",
-    "feecting": "p:THIS here is Soma, ne&#146;er restrained, active, all-conquering bursting forth, &#7770;&#7779;i and Sage by sapience,\np:All that is bare he covers o&#146;er, all that is sick he medicines; The blind man sees, the cripple walks.\np:Thou, Soma, givest wide defence against the hate of alien men, Hatreds that waste and weaken us.\np:Thou by thine insight and thy skill, Impetuous One, from Heaven and Earth Drivest the sinner's enmity.\np:When to their task they come with zeal. May they obtain the Giver's grace, and satisfy his wish who thirsts.\np:May he find what erst was lost, s. May be speed the pious man, and lengthen his remaining life.\np:Gracious, displaying tender love, unconquered, gentle in thy thoughts, be sweet, O Soma, to our heart.\np:O Soma, terrify us not; strike us not with alarm, O King: Wound not our heart with dazzling flame.\np:When in my dwelling-place I see the wicked enemies of Devas, King, chase their hatred far away, thou Bounteous One, dispel our foes.",
-    "next": "08069",
-    "previous": "08067",
-    "book": "08"
+    "describe": false,
+    "feecting": "p:THIS here is Soma, ne’er restrained, active, all-conquering bursting forth, Ṛṣi and Sage by sapience,\np:All that is bare he covers o’er, all that is sick he medicines; The blind man sees, the cripple walks.\np:Thou, Soma, givest wide defence against the hate of alien men, Hatreds that waste and weaken us.\np:Thou by thine insight and thy skill, Impetuous One, from Heaven and Earth Drivest the sinner's enmity.\np:When to their task they come with zeal. May they obtain the Giver's grace, and satisfy his wish who thirsts.\np:May he find what erst was lost, s. May be speed the pious man, and lengthen his remaining life.\np:Gracious, displaying tender love, unconquered, gentle in thy thoughts, be sweet, O Soma, to our heart.\np:O Soma, terrify us not; strike us not with alarm, O King: Wound not our heart with dazzling flame.\np:When in my dwelling-place I see the wicked enemies of Devas, King, chase their hatred far away, thou Bounteous One, dispel our foes.",
+    "meta": {
+      "next": "08069",
+      "previous": "08067",
+      "book": "08",
+      "source": "https://sacred-texts.com/hin/rigveda/rv08068.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv08068.htm"
+    },
+    "deities": [
+      {
+        "name": "O Soma",
+        "hymns": [
+          {
+            "key": "08068",
+            "title": "HYMN LXVIII. Soma."
+          },
+          {
+            "key": "08068",
+            "title": "HYMN LXVIII. Soma."
+          }
+        ]
+      },
+      {
+        "name": "O King",
+        "hymns": [
+          {
+            "key": "08068",
+            "title": "HYMN LXVIII. Soma."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638556650371,
-  "updated": 1638792008153
+  "updated": 1638830292770
 }

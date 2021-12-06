@@ -5,13 +5,46 @@
   "link": "hymns/06026.html",
   "api": "json/hymns/06026.json",
   "data": {
+    "key": "06026",
     "title": "HYMN XXVI. Indra.",
     "describe": "O INDRA, hear us.",
-    "feecting": "p:O INDRA, hear us. Raining down the Soma, we call on thee to win us mighty valour.\np: Give us strong succour on the day of trial, when the tribes gather on the field of battle.\r\np:The warrior, son of warrior sire, invokes thee, to gain great strength tha. May be won as booty: To thee, the brave man's Lord, the fiends' subduer, he looks when fighting hand to hand for cattle.\np:Thou didst impel the sage to win the daylight, didst ruin &#346;u&#7779;&#7751;a for the pious Kutsa. The invulnerable demon's head thou clavest when thou wouldst win the praise of Atithigva.\np:The lofty battle-car thou broughtest forward; thou holpest Dasadyu the strong when fighting. Along with Vetasu thou slewest Tugra, and madest Tuji strong, who praised thee, Indra.\np:Thou madest good the laud, what time thou rentest a hundred thousand fighting . O Hero, Slewest the D&#257;sa &#346;ambara of the mountain, and with strange aids didst succour Divod&#257;sa.\np:Made glad with Soma-draughts and faith, thou sentest Cumuri to his sleep, to please Dabh&#299;ti. Thou, kindly giving Raji to Pithinas, slewest with might, at once, the sixty thousand.\np:May I too, with the liberal chiefs, O Indra, acquire thy blin supreme and domination, when, Mightiest! Hero-girt! Nahu&#7779;a heroes boast them in thee, the triply-strong Defender.\np:May we he thy friends, thy best beloved, O Indra, at this holy invocation. Best be Pratardani, illustrious ruler, in subduing foemen and in gaining riches.",
-    "next": "06027",
-    "previous": "06025",
-    "book": "06"
+    "feecting": "p:O INDRA, hear us. Raining down the Soma, we call on thee to win us mighty valour.\np: Give us strong assist on the day of trial, when the tribes gather on the field of battle.\r\np:The warrior, son of warrior sire, invokes thee, to gain great strength tha. May be won as booty: To thee, the brave man's Lord, the fiends' subduer, he looks when fighting hand to hand for cattle.\np:Thou didst impel the sage to win the daylight, didst ruin Śuṣṇa for the pious Kutsa. The invulnerable demon's head thou clavest when thou wouldst win the praise of Atithigva.\np:The lofty battle-car thou broughtest forward; thou holpest Dasadyu the strong when fighting. Along with Vetasu thou slewest Tugra, and madest Tuji strong, who praised thee, Indra.\np:Thou madest good the laud, what time thou rentest a hundred thousand fighting . O Hero, Slewest the Dāsa Śambara of the mountain, and with strange aids didst assist Divodāsa.\np:Made glad with Soma-draughts and faith, thou sentest Cumuri to his sleep, to please Dabhīti. Thou, kindly giving Raji to Pithinas, slewest with might, at once, the sixty thousand.\np:May I too, with the liberal chiefs, O Indra, acquire thy blin supreme and domination, when, Mightiest! Hero-girt! Nahuṣa heroes boast them in thee, the triply-strong Defender.\np:May we he thy friends, thy best beloved, O Indra, at this holy invocation. Best be Pratardani, illustrious ruler, in subduing foemen and in gaining riches.",
+    "meta": {
+      "next": "06027",
+      "previous": "06025",
+      "book": "06",
+      "source": "https://sacred-texts.com/hin/rigveda/rv06026.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv06026.htm"
+    },
+    "deities": [
+      {
+        "name": "O INDRA",
+        "hymns": [
+          {
+            "key": "06026",
+            "title": "HYMN XXVI. Indra."
+          },
+          {
+            "key": "06026",
+            "title": "HYMN XXVI. Indra."
+          },
+          {
+            "key": "06026",
+            "title": "HYMN XXVI. Indra."
+          }
+        ]
+      },
+      {
+        "name": "O Hero",
+        "hymns": [
+          {
+            "key": "06026",
+            "title": "HYMN XXVI. Indra."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638555483762,
-  "updated": 1638792007882
+  "updated": 1638830292381
 }

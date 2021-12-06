@@ -5,13 +5,38 @@
   "link": "hymns/07002.html",
   "api": "json/hymns/07002.json",
   "data": {
-    "title": "HYMN II. &#256;pr&#299;s.",
+    "key": "07002",
+    "title": "HYMN II. Indu.",
     "describe": "GLADLY accept, this day, our fuel, Agni: send up thy sacred smoke and shine sublimely.",
-    "feecting": "p:GLADLY accept, this day, our fuel, Agni: send up thy sacred smoke and shine sublimely.\np: Touch the celestial summits with thy columns, and overspread thee with the rays of S&#363;rya.\r\np:With offering to these we men will honour the majesty of holy Nar&#257;&#347;a&#7745;sa- To these the pure, most wise, the thought. inspirers, Devas who enjoy both sorts of our oblations.\np:We will extol at offering forever, as me. May do, Agni whom Manu kindled, Your very skilful Devas, meet for worship, envoy between both worlds, the truthful speaker.\np:Bearing the sacred grass, the men who serve him strew it with reverence, on their knees, by Agni. Calling him to the spotted grass, oil-sprinkled, adorn him, ye Adhvaryus, with oblation.\np:With holy thoughts the pious have thrown open Doors fain for chariots in the Devas&#146; assembly. Like two full mother cows who lick their youngling, like maidens for the gathering, they adorn them.\np:And let the two exalted Heavenly Ladies, Morning and Night, like a cow good at milking, Come, much-invoked, and on our grass be seated ' wealthy, deserving worship, for our welfare.\np:You, Bards and Singers at men's offers, both filled with wisdom, I incline to worship. Send up our offerings when we call upon you, and so among the Devas obtain us treasures.\np:May Bh&#257;rat&#299; with all her Sisters, I&#7735;&#257; accordant with the Devas, with mortals Agni, Sarasvat&#299; with all her kindred Rivers, come to this grass, Three Goddesses, and seat them.\np:Well pleased with us do thou, O Tva&#7779;&#7789;ar, give ready issue to our procreant vigour, whence springs the hero, powerful, skilled in action, lover of Devas, adjuster of the press-stones.\np:Send to the Devas the oblation, Lord of Forests, and let the Immolator, Agni, dress it. He as the truer Monk shall offer worship, for the Deva'sgenerations well he knoweth.\np:Come thou to us, O Agni, duly kindled, together with the potent Devas and Indra. On this our grass sit Aditi, happy Mother, and let our Hail! delight the Devas Immortal.",
-    "next": "07003",
-    "previous": "07001",
-    "book": "07"
+    "feecting": "p:GLADLY accept, this day, our fuel, Agni: send up thy sacred smoke and shine sublimely.\np: Touch the celestial summits with thy columns, and overspread thee with the rays of Sūrya.\r\np:With offering to these we men will honour the majesty of holy Narāśaṁsa- To these the pure, most wise, the thought. inspirers, Devas who enjoy both sorts of our oblations.\np:We will extol at offering forever, as me. May do, Agni whom Manu kindled, Your very skilful Devas, meet for worship, envoy between both worlds, the truthful speaker.\np:Bearing the sacred grass, the men who serve him strew it with reverence, on their knees, by Agni. Calling him to the spotted grass, oil-sprinkled, adorn him, ye Adhvaryus, with oblation.\np:With holy thoughts the pious have thrown open Doors fain for chariots in the Devas’ assembly. Like two full mother cows who lick their youngling, like maidens for the gathering, they adorn them.\np:And let the two exalted Heavenly Ladies, Morning and Night, like a cow good at milking, Come, much-invoked, and on our grass be seated ' wealthy, deserving worship, for our welfare.\np:You, Bards and Singers at men's offers, both filled with wisdom, I incline to worship. Send up our offerings when we call upon you, and so among the Devas obtain us treasures.\np:May Bhāratī with all her Sisters, Iḷā accordant with the Devas, with mortals Agni, Sarasvatī with all her kindred Rivers, come to this grass, Three Goddesses, and seat them.\np:Well pleased with us do thou, O Tvaṣṭar, give ready issue to our procreant vigour, whence springs the hero, powerful, skilled in action, lover of Devas, adjuster of the press-stones.\np:Send to the Devas the oblation, Lord of Forests, and let the Immolator, Agni, dress it. He as the truer Monk shall offer worship, for the Deva'sgenerations well he knoweth.\np:Come thou to us, O Agni, duly kindled, together with the potent Devas and Indra. On this our grass sit Aditi, happy Mother, and let our Hail! delight the Devas Immortal.",
+    "meta": {
+      "next": "07003",
+      "previous": "07001",
+      "book": "07",
+      "source": "https://sacred-texts.com/hin/rigveda/rv07002.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv07002.htm"
+    },
+    "deities": [
+      {
+        "name": "O Tva",
+        "hymns": [
+          {
+            "key": "07002",
+            "title": "HYMN II. Indu."
+          }
+        ]
+      },
+      {
+        "name": "O Agni",
+        "hymns": [
+          {
+            "key": "07002",
+            "title": "HYMN II. Indu."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638555752829,
-  "updated": 1638792007942
+  "updated": 1638830292470
 }

@@ -5,13 +5,42 @@
   "link": "hymns/10167.html",
   "api": "json/hymns/10167.json",
   "data": {
+    "key": "10167",
     "title": "HYMN CLXVII. Indra.",
     "describe": "THIS pleasant meath, O Indra, is effused for thee: thou art the ruling Lord of beaker and of juice.",
-    "feecting": "p:THIS pleasant meath, O Indra, is effused for thee: thou art the ruling Lord of beaker and of juice.\np: Bestow upon us wealth with many hero sons: thou, having glowed with Fervour, wonnest heavenly light.\r\np:Let us call &#346;akra to libations here effused, winner of light who joyeth in the potent juice. Mark well this offering of ours and come to us: we pray to Indra the Vanquisher of hosts.\np:By royal Soma's and by Varu&#7751;a's decree, under B&#7771;haspati's and Anumati's guard, This day by thine authority, O Indra, maker, Disposer thou! have I enjoyed the jars.\np:1, too, urged on, have had my portion, in the bowl, and as first Prince I drew forth this my hymn of praise, when with the prize I came unto the flowing juice, O Vi&#347;v&#257;mitra, Jamadagni, to your home.",
-    "next": "10168",
-    "previous": "10166",
-    "book": "10"
+    "feecting": "p:THIS pleasant meath, O Indra, is effused for thee: thou art the ruling Lord of beaker and of juice.\np: Bestow upon us wealth with many hero sons: thou, having glowed with Fervour, wonnest heavenly light.\r\np:Let us call Indra to libations here effused, winner of light who joyeth in the potent juice. Mark well this offering of ours and come to us: we pray to Indra the Vanquisher of hosts.\np:By royal Soma's and by Indra's decree, under Soma's and Anumati's guard, This day by thine authority, O Indra, maker, Disposer thou! have I enjoyed the jars.\np:1, too, urged on, have had my portion, in the bowl, and as first Prince I drew forth this my hymn of praise, when with the prize I came unto the flowing juice, O Viśvāmitra, Jamadagni, to your home.",
+    "meta": {
+      "next": "10168",
+      "previous": "10166",
+      "book": "10",
+      "source": "https://sacred-texts.com/hin/rigveda/rv10167.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv10167.htm"
+    },
+    "deities": [
+      {
+        "name": "O Indra",
+        "hymns": [
+          {
+            "key": "10167",
+            "title": "HYMN CLXVII. Indra."
+          },
+          {
+            "key": "10167",
+            "title": "HYMN CLXVII. Indra."
+          }
+        ]
+      },
+      {
+        "name": "O Viś",
+        "hymns": [
+          {
+            "key": "10167",
+            "title": "HYMN CLXVII. Indra."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638558321904,
-  "updated": 1638792008602
+  "updated": 1638830293253
 }

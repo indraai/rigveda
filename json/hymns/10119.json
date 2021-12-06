@@ -5,13 +5,19 @@
   "link": "hymns/10119.html",
   "api": "json/hymns/10119.json",
   "data": {
+    "key": "10119",
     "title": "HYMN CXIX. Indra.",
     "describe": "THIS, even this was my resolve, to win a cow, to win a steed: Have I not drunk of Soma juice?",
     "feecting": "p:THIS, even this was my resolve, to win a cow, to win a steed: Have I not drunk of Soma juice?\np:Like violent gusts of wind the draughts that I have drunk have lifted me Have I not drunk of Soma juice?\np:The draughts I drank have borne me up, as fleet-foot horses draw a car: Have I not drunk of Soma juice?\np:The hymn hath reached me, like a cow who lows to meet her darling calf: Have I not drunk of Soma juice?\np:As a wright bends a chariot-seat so round my heart I bend the hymn: Have I not drunk of Soma juice?\np:Not as a mote within the eye count the Five Tribes of men with me: Have I not drunk of Soma juice?\np:The heavens and Earth themselves have not grown equal to one half of me Have I not drunk of Soma juice?\np:I in my grandeur have surpassed the heavens and all this spacious Earth Have I not drunk of Soma juice?\np:Aha! this spacious Earth will I deposit either here or there Have I not drunk of Soma juice?\np:In one short moment will I smite the Earth in fury here or there: Have I not drunk of Soma juice?\np:One of my flanks is in the sky; I let the other trail below: Have I not drunk of Soma juice?\np:1, greatest of the Mighty Ones, am lifted to the Firmament: Have I not drunk of Soma juice?\np:I seek the worshipper's abode; oblation-bearer to the Devas: Have I not drunk of Soma juice?",
-    "next": "10120",
-    "previous": "10118",
-    "book": "10"
+    "meta": {
+      "next": "10120",
+      "previous": "10118",
+      "book": "10",
+      "source": "https://sacred-texts.com/hin/rigveda/rv10119.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv10119.htm"
+    },
+    "deities": []
   },
   "created": 1638558067736,
-  "updated": 1638792008557
+  "updated": 1638830293200
 }

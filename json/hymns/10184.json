@@ -5,13 +5,29 @@
   "link": "hymns/10184.html",
   "api": "json/hymns/10184.json",
   "data": {
+    "key": "10184",
     "title": "HYMN CLXXXIV.",
-    "describe": "MAY Vi&#7779;",
-    "feecting": "p:MAY Vi&#7779;&#7751;u form and mould the womb. May Tva&#7779;&#7789;ar duly shape the forms, Praj&#257;pati infuse the stream, and Dh&#257;tar lay the germ for thee.\np:O Sin&#299;v&#257;l&#299;, set the germ, set thou the germ, Sarasvat&#299;: May the Twain Devas bestow the germ, the A&#347;vins crowned with lotuses.\np:That which the A&#347;vins Twain rub forth with the attrition-sticks of gold,&#151; That germ of thine we invocate, that in the tenth month tho. Mayst bear.",
-    "next": "10185",
-    "previous": "10183",
-    "book": "10"
+    "describe": "MAY Indra form and mould the womb.",
+    "feecting": "p:MAY Indra form and mould the womb. May Tvaṣṭar duly shape the forms, Prajāpati infuse the stream, and Dhātar lay the germ for thee.\np:O Sinīvālī, set the germ, set thou the germ, Sarasvatī: May the Twain Devas bestow the germ, the Aśvins crowned with lotuses.\np:That which the Aśvins Twain rub forth with the attrition-sticks of gold. That germ of thine we invocate, that in the tenth month tho. Mayst bear.",
+    "meta": {
+      "next": "10185",
+      "previous": "10183",
+      "book": "10",
+      "source": "https://sacred-texts.com/hin/rigveda/rv10184.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv10184.htm"
+    },
+    "deities": [
+      {
+        "name": "O Sin",
+        "hymns": [
+          {
+            "key": "10184",
+            "title": "HYMN CLXXXIV."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638558412636,
-  "updated": 1638792008614
+  "updated": 1638830293267
 }

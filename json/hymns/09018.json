@@ -5,13 +5,19 @@
   "link": "hymns/09018.html",
   "api": "json/hymns/09018.json",
   "data": {
+    "key": "09018",
     "title": "HYMN XVIII. Indu.",
     "describe": "THOU, Soma, dweller on the hills, effused, hast flowed into the sieve,: All-bounteous art thou in carouse.",
     "feecting": "p:THOU, Soma, dweller on the hills, effused, hast flowed into the sieve,: All-bounteous art thou in carouse.\np:Thou art a sacred Bard, a Sage; the meath is offipring of thy sap: All-bountcous art thou in carouse.\np:All Deities of one accord have come that the, may drink of thee: All-bounteous art thou in carouse.\np:He who containeth in his hands all treasures much to be desired: All-bounteous art thou in carouse.\np:Who milketh out this mighty Pair, the Earth and Heaven, like mother kine All-bounteous art thou in carouse.\np:Who in a moment mightily floweth around these two world-halvcs: All-bounteous art thou in carouse.\np:The Strong One, being purified, hath in the pitchers cried aloud: All-bounteous art thou in carouse.",
-    "next": "09019",
-    "previous": "09017",
-    "book": "09"
+    "meta": {
+      "next": "09019",
+      "previous": "09017",
+      "book": "09",
+      "source": "https://sacred-texts.com/hin/rigveda/rv09018.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv09018.htm"
+    },
+    "deities": []
   },
   "created": 1638556929819,
-  "updated": 1638792008215
+  "updated": 1638830292834
 }

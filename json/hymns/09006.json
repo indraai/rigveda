@@ -5,13 +5,19 @@
   "link": "hymns/09006.html",
   "api": "json/hymns/09006.json",
   "data": {
+    "key": "09006",
     "title": "HYMN VI. Indu.",
     "describe": "Indu, flow on with pleasant stream, to the Devas, Our Friend, unto the woollen sieve.",
-    "feecting": "p:Indu, flow on with pleasant stream, to the Devas, Our Friend, unto the woollen sieve.\np:Pour hitherward, as Indra's Self, indu, that gladdening stream of thine.\np:Flow to the filter hitherward, pouring that ancient gladdening juice, Streaming forth power and high renown.\np:Hither the sparkling drops have flowed, like waters down a steep descent, they have reached Indra purified.\np:Whom, having passed the filter, ten dames cleanse, as &#146;twere a vigorous steed, While he disports him in the wood,&#151;\np:The juice pour forth, for offering and service of the Devas, to him who bears away the draught.\np:Effused flows onward with his stream to Indra, to the Deva, so that his will may strengthen him.\np:Soul of the offering, the juice effused flows quickly on, he keeps his ancient wisdom of a Sage.\np:So pouring forth, as Indra's Friend, best Gladdener! For the banquet, even in secret, he storest hymns.",
-    "next": "09007",
-    "previous": "09005",
-    "book": "09"
+    "feecting": "p:Indu, flow on with pleasant stream, to the Devas, Our Friend, unto the woollen sieve.\np:Pour hitherward, as Indra's Self, indu, that gladdening stream of thine.\np:Flow to the filter hitherward, pouring that ancient gladdening juice, Streaming forth power and high renown.\np:Hither the sparkling drops have flowed, like waters down a steep descent, they have reached Indra purified.\np:Whom, having passed the filter, While he disports him in the wood.\np:The juice pour forth, for offering and service of the Devas, to him who bears away the draught.\np:Effused flows onward with his stream to Indra, to the Deva, so that his will may strengthen him.\np:Soul of the offering, the juice effused flows quickly on, he keeps his ancient wisdom of a Sage.\np:So pouring forth, as Indra's Friend, best Gladdener! For the banquet, even in secret, he storest hymns.",
+    "meta": {
+      "next": "09007",
+      "previous": "09005",
+      "book": "09",
+      "source": "https://sacred-texts.com/hin/rigveda/rv09006.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv09006.htm"
+    },
+    "deities": []
   },
   "created": 1638556866731,
-  "updated": 1638792008203
+  "updated": 1638830292823
 }

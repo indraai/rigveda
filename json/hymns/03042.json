@@ -5,13 +5,19 @@
   "link": "hymns/03042.html",
   "api": "json/hymns/03042.json",
   "data": {
+    "key": "03042",
     "title": "HYMN XLII. Indra.",
     "describe": "COME to the juice that we have pressed, to Soma, Indra, bleat with milk: Come, favouring us, thy Bay-drawn car!",
-    "feecting": "p:COME to the juice that we have pressed, to Soma, Indra, bleat with milk: Come, favouring us, thy Bay-drawn car!\np:Come, Indra, to this gladdening drink, placed on the grass, pressed out with stones: Wilt thou not drink thy fill thereof?\np:To Indra have my songs of praise gone forth, thus rapidly sent hence, to turn him to the Soma-draught.\np:Hither with songs of praise we call Indra  juice: Will he not come to us by lauds?\np:Indra, these Somas are expressed. Take them within thy belly, Lord Of Hundred Powers, thou Prince of Wealth.\np:We know thee winner of the spoil, and resolute in battles, Sage! Therefore thy blessing we implore.\np:Borne hither by thy Stallions, drink, Indra, this juice which we have pressed, Mingled with barley and with milk.\np:Indra, for thee, in thine own place, I urge the Soma for thy draught: Deep in thy heart let it remain,\np:We call on thee, the Ancient One, Indra,  juice, We Ku&#347;ikas who seek thine aid.",
-    "next": "03043",
-    "previous": "03041",
-    "book": "03"
+    "feecting": "p:COME to the juice that we have pressed, to Soma, Indra, bleat with milk: Come, favouring us, thy Bay-drawn car!\np:Come, Indra, to this gladdening drink, placed on the grass, pressed out with stones: Wilt thou not drink thy fill thereof?\np:To Indra have my songs of praise gone forth, thus rapidly sent hence, to turn him to the Soma-draught.\np:Hither with songs of praise we call Indra  juice: Will he not come to us by lauds?\np:Indra, these Somas are expressed. Take them within thy belly, Lord Of Hundred Powers, thou Prince of Wealth.\np:We know thee winner of the spoil, and resolute in battles, Sage! Therefore thy blessing we implore.\np:Borne hither by thy Stallions, drink, Indra, this juice which we have pressed, Mingled with barley and with milk.\np:Indra, for thee, in thine own place, I urge the Soma for thy draught: Deep in thy heart let it remain,\np:We call on thee, the Ancient One, Indra,  juice, We Kuśikas who seek thine aid.",
+    "meta": {
+      "next": "03043",
+      "previous": "03041",
+      "book": "03",
+      "source": "https://sacred-texts.com/hin/rigveda/rv03042.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv03042.htm"
+    },
+    "deities": []
   },
   "created": 1638554472838,
-  "updated": 1638792007643
+  "updated": 1638830292068
 }

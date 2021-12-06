@@ -5,13 +5,55 @@
   "link": "hymns/04041.html",
   "api": "json/hymns/04041.json",
   "data": {
-    "title": "HYMN XLI. Indra-Varu&#7751;a.",
-    "describe": "WHAT laud, O Indra-Varu&#7751;",
-    "feecting": "p:WHAT laud, O Indra-Varu&#7751;a, with oblation, hath like the Immortal Monk obtained your favour? Hath our effectual laud, addressed with homage, touched you, O Indra-Varu&#7751;a, in spirit?\np:He who with dainty food hath won you, Indra and Varu&#7751;a, Devas, as his allies to friendship, Slayeth the V&#7771;tras and his foes in battles, and through your mighty favours is made famous.\np:Indra and Varu&#7751;a are most liberal givers of treasure to the men who toil to serve them, when they, as Friends inclined to friendship, honoured with dainty food, delight in flowing Soma.\np:Indra and Varu&#7751;a, ye hurl, O Mighty, on him your strongest flashing bolt of thunder Who treats us ill, the robber and oppressor: measure on him your overwhelming vigour.\np:O Indra-Varu&#7751;a, be ye the lovers of this my song, as steers who love the milch-Cow.\np: Mil. May it yield us as, gone forth to pasture, the great Cow pouring out her thousand rivers.\r\np:For fertile fields, for worthy sons and grandsons, for the Sun's beauty and for steer-like vigour, May Indra-Varu&#7751;a with gracious favours work marvels for us in the stress of battle.\np:For you, as Princes, for your ancient kindness, good comrades of the man who seeks for booty, We choose to us for the dear bond of friendship, most liberal Heroes bringing bliss like parents.\np:Showing their strength, these hymns for grace, free-givers I have gone to you, devoted, as to battle. For glory have they gone, as milk to Soma, to Indra-Varu&#7751;a my thoughts and praises.\np:To Indra and to Varu&#7751;a, desirous of gaining wealth have these my thoughts proceeded. They have come nigh to you as treasure-lovers, like mares, fleet-footed, eager for the glory.\np:May we ourselves be lords of during riches, of ample sustenance for car and hones. May the Twain who work with newest succours bring yoked teams hitherward to us and riches.\np:Come with your mighty succours, O ye Mighty; come, Indra-Varu&#7751;a, to us in battle. What time the flashing arrows play in combat. May we through you be winners in the contest.",
-    "next": "04042",
-    "previous": "04040",
-    "book": "04"
+    "key": "04041",
+    "title": "HYMN XLI. Indra.",
+    "describe": "WHAT laud, O Indra, with oblation, hath like the Immortal Monk obtained your favour?",
+    "feecting": "p:WHAT laud, O Indra, with oblation, hath like the Immortal Monk obtained your favour? Hath our effectual laud, addressed with homage, touched you, O Indra, in spirit?\np:He who with dainty food hath won you Devas, as his allies to friendship, Slayeth the Vṛtras and his foes in battles, and through your mighty favours is made famous.\np:Indra and IndraDeva are most liberal givers of treasure to the men who toil to serve them, when they, as Friends inclined to friendship, honoured with dainty food, delight in flowing Soma.\np:Indra and IndraDeva, ye hurl, O Mighty, on him your strongest flashing bolt of thunder Who treats us ill, the robber and oppressor: measure on him your overwhelming vigour.\np:O Indra, be ye the lovers of this my song, as steers who love the milch-Cow.\np: Mil. May it yield us as, gone forth to pasture, the great Cow pouring out her thousand rivers.\r\np:For fertile fields, for worthy sons and grandsons, for the Sun's beauty and for steer-like vigour, may Indra with gracious favours work marvels for us in the stress of battle.\np:For you, as Princes, for your ancient kindness, good comrades of the man who seeks for booty, We choose to us for the dear bond of friendship, most liberal Heroes bringing bliss like parents.\np:Showing their strength, these hymns for grace, free-givers I have gone to you, devoted, as to battle. For glory have they gone, as milk to Soma, to Indra my thoughts and praises.\np:To Indra and to Indra, desirous of gaining wealth have these my thoughts proceeded. They have come nigh to you as treasure-lovers, like mares, fleet-footed, eager for the glory.\np:May we ourselves be lords of during riches, of ample sustenance for car and hones. May the Twain who work with newest assists bring yoked teams hitherward to us and riches.\np:Come with your mighty assists, O ye Mighty; come, Indra, to us in battle. What time the flashing arrows play in combat. May we through you be winners in the contest.",
+    "meta": {
+      "next": "04042",
+      "previous": "04040",
+      "book": "04",
+      "source": "https://sacred-texts.com/hin/rigveda/rv04041.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv04041.htm"
+    },
+    "deities": [
+      {
+        "name": "O Indra",
+        "hymns": [
+          {
+            "key": "04041",
+            "title": "HYMN XLI. Indra."
+          },
+          {
+            "key": "04041",
+            "title": "HYMN XLI. Indra."
+          },
+          {
+            "key": "04041",
+            "title": "HYMN XLI. Indra."
+          }
+        ]
+      },
+      {
+        "name": "O Mighty",
+        "hymns": [
+          {
+            "key": "04041",
+            "title": "HYMN XLI. Indra."
+          }
+        ]
+      },
+      {
+        "name": "O ye ",
+        "hymns": [
+          {
+            "key": "04041",
+            "title": "HYMN XLI. Indra."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638554794197,
-  "updated": 1638792007725
+  "updated": 1638830292184
 }

@@ -5,13 +5,19 @@
   "link": "hymns/01082.html",
   "api": "json/hymns/01082.json",
   "data": {
+    "key": "01082",
     "title": "HYMN LXXXII. Indra.",
     "describe": "GRACIOUSLY listen to our songs, Indra, be not negligent.",
-    "feecting": "p:GRACIOUSLY listen to our songs, Indra, be not negligent.\np: As thou hast made us full of joy and lettest us solicit thee, now, Indra, yoke thy two Bay Steeds.\r\np:Well have they eaten and rejoiced; the friends have risen and passed away. The sages luminous in themselves have. praised thee with their latest hymn. Now, Indra, yoke thy two Bay Steeds.\np:Indra, we will reverence thee who art so fair to look upon. Thus praised, according to our wish come now with richly laden car. Now, Indra, yoke thy two Bay Steeds.\np:He will in very truth ascend the powerful car that finds the kine, who thinks upon the well-filled bowl, the Tawny Coursers' harnesser. Now, Indra, yoke thy two Bay Steeds.\np:Let, Lord of Hundred Powers, thy Steeds be harnessed on the right and left. Therewith in rapture of the juice, draw near to thy beloved Spouse. Now, Indra, yoke thy two Bay Steeds.\np:With holy prayer I yoke thy long-maned pair of Bays: come hitherward; thou holdest them in both thy hands. The stirring draughts of have made thee glad: thou, Thunderer, hast rejoiced with P&#363;&#7779;an and thy Spouse.",
-    "next": "01083",
-    "previous": "01081",
-    "book": "01"
+    "feecting": "p:GRACIOUSLY listen to our songs, Indra, be not negligent.\np: As thou hast made us full of joy and lettest us solicit thee, now, Indra, yoke thy two Bay Steeds.\r\np:Well have they eaten and rejoiced; the friends have risen and passed away. The sages luminous in themselves have. praised thee with their latest hymn. Now, Indra, yoke thy two Bay Steeds.\np:Indra, we will reverence thee who art so fair to look upon. Thus praised, according to our wish come now with richly laden car. Now, Indra, yoke thy two Bay Steeds.\np:He will in very truth ascend the powerful car that finds the kine, who thinks upon the well-filled bowl, the Tawny Coursers' harnesser. Now, Indra, yoke thy two Bay Steeds.\np:Let, Lord of Hundred Powers, thy Steeds be harnessed on the right and left. Therewith in rapture of the juice, draw near to thy beloved Spouse. Now, Indra, yoke thy two Bay Steeds.\np:With holy prayer I yoke thy long-maned pair of Bays: come hitherward; thou holdest them in both thy hands. The stirring draughts of have made thee glad: thou, Thunderer, hast rejoiced with Pūṣan and thy Spouse.",
+    "meta": {
+      "next": "01083",
+      "previous": "01081",
+      "book": "01",
+      "source": "https://sacred-texts.com/hin/rigveda/rv01082.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv01082.htm"
+    },
+    "deities": []
   },
   "created": 1638553445672,
-  "updated": 1638792007383
+  "updated": 1638830291706
 }

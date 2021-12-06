@@ -5,13 +5,29 @@
   "link": "hymns/07078.html",
   "api": "json/hymns/07078.json",
   "data": {
+    "key": "07078",
     "title": "HYMN LXXVIII. Dawn.",
     "describe": "WE have beheld her earliest lights approaching: her many glories part, on high, asunder.",
-    "feecting": "p:WE have beheld her earliest lights approaching: her many glories part, on high, asunder.\np: On car sublime, refulgent, wending hither, O U&#7779;as, bring the Wealth that makes us happy.\r\np:The fire well-kindIed sings aloud to greet her, and with their hymns the monks are chaming welcome. U&#7779;as approaches in her splendour, driving all evil darkness far awaydess.\np:Apparent eastward are those lights of Morning, sending out lustre, as they rise, around them. She hath brought forth Sun, offering, and Agni, and far away hath fled detested darkness.\np:Rich Daughter of the Sky, we all behold her, yea, all men look on Dawn as she is breaking. fler car that moves self-harnessed hath she mounted, the car drawn onward by her well-yoked horses.\np:Inspired with loving thoughts this day to greet thee, we and our wealthy nobles have awakened. Show yourselves fruitful, Dawns, as ye are rising. Preserve us evermore, ye Devas, with blessings.",
-    "next": "07079",
-    "previous": "07077",
-    "book": "07"
+    "feecting": "p:WE have beheld her earliest lights approaching: her many glories part, on high, asunder.\np: On car sublime, refulgent, wending hither, O Uṣas, bring the Wealth that makes us happy.\r\np:The fire well-kindIed sings aloud to greet her, and with their hymns the monks are chaming welcome. Uṣas approaches in her splendour, driving all evil darkness far awaydess.\np:Apparent eastward are those lights of Morning, sending out lustre, as they rise, around them. She hath brought forth Sun, offering, and Agni, and far away hath fled detested darkness.\np:Rich Daughter of the Sky, we all behold her, yea, all men look on Dawn as she is breaking. fler car that moves self-harnessed hath she mounted, the car drawn onward by her well-yoked horses.\np:Inspired with loving thoughts this day to greet thee, we and our wealthy nobles have awakened. Show yourselves fruitful, Dawns, as ye are rising. Preserve us evermore, ye Devas, with blessings.",
+    "meta": {
+      "next": "07079",
+      "previous": "07077",
+      "book": "07",
+      "source": "https://sacred-texts.com/hin/rigveda/rv07078.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv07078.htm"
+    },
+    "deities": [
+      {
+        "name": "O Uṣas",
+        "hymns": [
+          {
+            "key": "07078",
+            "title": "HYMN LXXVIII. Dawn."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638556154262,
-  "updated": 1638792008021
+  "updated": 1638830292603
 }

@@ -5,13 +5,51 @@
   "link": "hymns/07097.html",
   "api": "json/hymns/07097.json",
   "data": {
-    "title": "HYMN XCVIL B&#7771;haspati.",
+    "key": "07097",
+    "title": "HYMN XCVIL Soma.",
     "describe": "WHERE Heaven and Earth combine in men's assembly, and ttose who love the Devas delight in worship, Where the libations are effused for Indra, may he come first to drink and make him stronger.",
-    "feecting": "p:WHERE Heaven and Earth combine in men's assembly, and ttose who love the Devas delight in worship, Where the libations are effused for Indra, may he come first to drink and make him stronger.\np:We crave the heavenly grace of Devas to guard us-s. May B&#7771;haspati, O friends, exalt us- That he, the Bounteous Deva. May find us sintess, who giveth from a distance like a father.\np:That Brahma&#7751;aspati, most High and Gracious, I glorify with offerings and with homage.\np: May the great song of praise divine, reach Indra who is the King of prayer the Devas&#146; creation.\r\np:May that B&#7771;haspati who brings all blessings, most dearly loved, be seated by our altar. Heroes and wealth we crave. May he bestow them, and bear us safe beyond the men who vex us.\np:To us these Deathless Ones, erst born, have granted this laud of ours which gives the Immortal pleasure. Let us invoke B&#7771;haspati, the foeless, the clear-voiced Deva, the Holy One of households\np:Him, this B&#7771;haspati, his red-hued horses, drawing together, full of strength, bring hither. Robed in red colour like the cloud, they carry the Lord of Might whose friendship gives a dwelling.\np:For he is pure, with hundred wings, refulgent, with sword of gold, impetuous, winning sunlight. Sublime B&#7771;haspati, easy of access granteth his friends most bountiful refreshment.\np:Both Heaven and Earth, divine, the Deity's Parents, have made B&#7771;haspati increase in grandeur. Glorify him, O friends, who merits glory. May he give prayer fair way and easy passage.\np:This, Brahma&#7751;aspati, is your laudation prayer hath been made to thunderwielding Indra. Favour our songs, wake up our thought and spirit: destroy the godless and our foemen's malice.\np:Ye Twain are Lords of wealth in Earth and Heaven O B&#7771;haspati, and thou, O Indra. Mean though he be, give wealth to him who lauds you. Preserve us evermore, ye Devas, with blessings.",
-    "next": "07098",
-    "previous": "07096",
-    "book": "07"
+    "feecting": "p:WHERE Heaven and Earth combine in men's assembly, and ttose who love the Devas delight in worship, Where the libations are effused for Indra, may he come first to drink and make him stronger.\np:We crave the heavenly grace of Devas to guard us-s. May Soma, O friends, exalt us- That he, the Bounteous Deva. May find us sintess, who giveth from a distance like a father.\np:That Soma, most High and Gracious, I glorify with offerings and with homage.\np: May the great song of praise divine, reach Indra who is the King of prayer the Devas’ creation.\r\np:May that Soma who brings all blessings, most dearly loved, be seated by our altar. Heroes and wealth we crave. May he bestow them, and bear us safe beyond the men who vex us.\np:To us these Deathless Ones, erst born, have granted this laud of ours which gives the Immortal pleasure. Let us invoke Soma, the foeless, the clear-voiced Deva, the Holy One of households\np:Him, this Soma, his red-hued horses, drawing together, full of strength, bring hither. Robed in red colour like the cloud, they carry the Lord of Might whose friendship gives a dwelling.\np:For he is pure, with hundred wings, refulgent, with sword of gold, impetuous, winning sunlight. Sublime Soma, easy of access granteth his friends most bountiful refreshment.\np:Both Heaven and Earth, divine, the Deity's Parents, have made Soma increase in grandeur. Glorify him, O friends, who merits glory. May he give prayer fair way and easy passage.\np:This, Soma, is your laudation prayer hath been made to thunderwielding Indra. Favour our songs, wake up our thought and spirit: destroy the godless and our foemen's malice.\np:Ye Twain are Lords of wealth in Earth and Heaven O Soma, and thou, O Indra. Mean though he be, give wealth to him who lauds you. Preserve us evermore, ye Devas, with blessings.",
+    "meta": {
+      "next": "07098",
+      "previous": "07096",
+      "book": "07",
+      "source": "https://sacred-texts.com/hin/rigveda/rv07097.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv07097.htm"
+    },
+    "deities": [
+      {
+        "name": "O friends",
+        "hymns": [
+          {
+            "key": "07097",
+            "title": "HYMN XCVIL Soma."
+          },
+          {
+            "key": "07097",
+            "title": "HYMN XCVIL Soma."
+          }
+        ]
+      },
+      {
+        "name": "O Soma",
+        "hymns": [
+          {
+            "key": "07097",
+            "title": "HYMN XCVIL Soma."
+          }
+        ]
+      },
+      {
+        "name": "O Indra",
+        "hymns": [
+          {
+            "key": "07097",
+            "title": "HYMN XCVIL Soma."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638556254452,
-  "updated": 1638792008038
+  "updated": 1638830292623
 }

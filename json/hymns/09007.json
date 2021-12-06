@@ -5,13 +5,19 @@
   "link": "hymns/09007.html",
   "api": "json/hymns/09007.json",
   "data": {
+    "key": "09007",
     "title": "HYMN VII. Indu.",
     "describe": "FORTH on their way the glorious drops have flowed for maintenance of Law, knowing the offerings course.",
-    "feecting": "p:FORTH on their way the glorious drops have flowed for maintenance of Law, knowing the offerings course.\np:Down in the mighty waters sinks the stream, most excellent, oblation best of all in worth.\np:About the holy place, the true, guileless, noblest, hath sent forth Continuous voices in the wood.\np:When, clothed in manly strength, the Sage flows in celestial wisdom round the strong would win the light of Heaven.\np:When purified, he sits as King above the hosts, among his folk.\np:Dear, golden-coloured, in the fleece he sinks and settles in the wood.\np:The Singer shows his zeal in hymns.\np:He goes to Indra, V&#257;yu, to the A&#347;vins, as his custom is, with gladdening juice which gives them joy.\np:Tle streams of pleasant Soma flow to Bhaga, Mitra-Varu&#7751;a,&#151; Well-knowing through his mighty powers.\np: Heaven and Earth, gain for us treasures and renown.",
-    "next": "09008",
-    "previous": "09006",
-    "book": "09"
+    "feecting": "p:FORTH on their way the glorious drops have flowed for maintenance of Law, knowing the offerings course.\np:Down in the mighty waters sinks the stream, most excellent, oblation best of all in worth.\np:About the holy place, the true, guileless, noblest, hath sent forth Continuous voices in the wood.\np:When, clothed in manly strength, the Sage flows in celestial wisdom round the strong would win the light of Heaven.\np:When purified, he sits as King above the hosts, among his folk.\np:Dear, golden-coloured, in the fleece he sinks and settles in the wood.\np:The Singer shows his zeal in hymns.\np:He goes to Indra, as his custom is, with gladdening juice which gives them joy.\np:Well-knowing through his mighty powers.\np: Heaven and Earth, gain for us treasures and renown.",
+    "meta": {
+      "next": "09008",
+      "previous": "09006",
+      "book": "09",
+      "source": "https://sacred-texts.com/hin/rigveda/rv09007.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv09007.htm"
+    },
+    "deities": []
   },
   "created": 1638556871990,
-  "updated": 1638792008204
+  "updated": 1638830292824
 }

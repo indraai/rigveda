@@ -5,13 +5,29 @@
   "link": "hymns/09108.html",
   "api": "json/hymns/09108.json",
   "data": {
+    "key": "09108",
     "title": "HYMN CVIII. Indu.",
     "describe": "FOR Indra, flow thou Soma on, as gladdening juice most sweet, intelligent, Great, cheering, dwelling most in Heaven.",
-    "feecting": "p:FOR Indra, flow thou Soma on, as gladdening juice most sweet, intelligent, Great, cheering, dwelling most in Heaven.\np:Thou, of whom having drunk the Steer acts like a steer. drinking of this that finds the light. He, Excellently Wise, is come to strengthening food, to spoil and wealth like Eta&#347;a.\np:For, verily, indu, thou hast, splendidest, called all the generations of The Devas to immortality.\np:By whom Dadhyac Navagva opens fastened doors, by whom the sages gained their wish, by whom they won the fame of lovely Am&#7771;ta in the felicity of Devas.\np:Effused, he floweth in a stream, best rapture-giver, in the long wool of the sheep, Sporting, as &#146;twere the waters' wave.\np:He who from out the rocky cavern took with might the redmrefulgent watery Cows, Thou masterest the stable full of kine and steeds: burst it, brave Lord, like one in mail.\np:Press ye and pour him, like a steed, laudworthy, speeding through the region and the flood, who swims in water, roan in wood;\np:Increaser of the water, Steer with thousand streams, dear to the race of Deities. Who born in Law hath waxen mighty by the Law, King, Deva, and lofty Ordinance.\np:Make splendid glory shine on us, thou Lord of strengthening food, Deva, as the Friend of Devas: Unclose the fount of middle air.\np:Roll onward to the bowls, O Mighty One, effused, as Prince supporter of the tribes.\np: Pour on us rain from Heaven, send us the waters' flow: incite our thoughts to win the spoil.\r\np:They have drained him the Steer of Heaven, him with a thousand streams, distilling rapturous joy, him who brings all things excellent.\np:The Mighty One was born Immortal, giving life, lightening darkness with his shine. Wcll-praised by. sages he hath. by his wondrous power assumed the Threefold as his robe.\np:Effused is he who brings good things, who brings us bounteous gifts and sweet refreshing food, Soma who brings us quiet homes:\np:He whom our Indra and the Marut host shall drink, Bhaga shall drink with Aryarnan, by whom we bring to us Mitra and Varu&#7751;a and Indra for our great defence.\np:Soma, for Indra's drink do thou, led by the men, well-wcaponcd and most gladdening, Flow on with greatest store of sweets.\np:Enter the Soma-holder, even Indra's heart, as rivers pass into the sea, acceptable to Mitra, V&#257;yu, Varu&#7751;a, the noblest Pillar of the heavens.",
-    "next": "09109",
-    "previous": "09107",
-    "book": "09"
+    "feecting": "p:FOR Indra, flow thou Soma on, as gladdening juice most sweet, intelligent, Great, cheering, dwelling most in Heaven.\np:Thou, of whom having drunk the Steer acts like a steer. drinking of this that finds the light. He, Excellently Wise, is come to strengthening food, to spoil and wealth like Etaśa.\np:For, verily, indu, thou hast, splendidest, called all the generations of The Devas to immortality.\np:By whom Dadhyac Navagva opens fastened doors, by whom the sages gained their wish, by whom they won the fame of lovely Amṛta in the felicity of Devas.\np:Effused, he floweth in a stream, best rapture-giver, in the long wool of the sheep, Sporting, as ’twere the waters' wave.\np:He who from out the rocky cavern took with might the redmrefulgent watery Cows, Thou masterest the stable full of kine and steeds: burst it, brave Lord, like one in mail.\np:Press ye and pour him, like a steed, laudworthy, speeding through the region and the flood, who swims in water, roan in wood;\np:Increaser of the water, Steer with thousand streams, dear to the race of Deities. Who born in Law hath waxen mighty by the Law, King, Deva, and lofty Ordinance.\np:Make splendid glory shine on us, thou Lord of strengthening food, Deva, as the Friend of Devas: Unclose the fount of middle air.\np:Roll onward to the bowls, O Mighty One, effused, as Prince supporter of the tribes.\np: Pour on us rain from Heaven, send us the waters' flow: incite our thoughts to win the spoil.\r\np:They have drained him the Steer of Heaven, him with a thousand streams, distilling rapturous joy, him who brings all things excellent.\np:The Mighty One was born Immortal, giving life, lightening darkness with his shine. Wcll-praised by. sages he hath. by his wondrous power assumed the Threefold as his robe.\np:Effused is he who brings good things, who brings us bounteous gifts and sweet refreshing food, Soma who brings us quiet homes:\np:He whom our Indra and the Marut host shall drink, Bhaga shall drink with Aryarnan, by whom we bring to us Mitra and Indra and IndraDeva for our great defence.\np:Soma, for Indra's drink do thou, led by the men, well-wcaponcd and most gladdening, Flow on with greatest store of sweets.\np:Enter the Soma-holder, even Indra's heart, as rivers pass into the sea, acceptable to Mitra, Soma, Indra, the noblest Pillar of the heavens.",
+    "meta": {
+      "next": "09109",
+      "previous": "09107",
+      "book": "09",
+      "source": "https://sacred-texts.com/hin/rigveda/rv09108.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv09108.htm"
+    },
+    "deities": [
+      {
+        "name": "O Mighty",
+        "hymns": [
+          {
+            "key": "09108",
+            "title": "HYMN CVIII. Indu."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638557404514,
-  "updated": 1638792008316
+  "updated": 1638830292956
 }

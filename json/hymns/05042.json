@@ -5,13 +5,47 @@
   "link": "hymns/05042.html",
   "api": "json/hymns/05042.json",
   "data": {
-    "title": "HYMN XLII. Vi&#347;vedevas.",
+    "key": "05042",
+    "title": "HYMN XLII. Devas.",
     "describe": "No.",
-    "feecting": "p:No. May our sweetest song with deep devotion reach Varu&#7751;a, Mitra, Aditi, and Bhaga.\np: May the Five Monks' Lord, dwelling in oblations, bliss-giving Devas, hear, whose paths are open.\r\np:May Aditi welcome, even as a mother her dear heart-gladdening son, my song that lauds her. The prayer they love, bliss-giving, God-appointed, I offer unto Varu&#7751;a and Mitra.\np:In spirit him, the Sagest of the Sages; with sacrificial oil and meath bedew him  So then let him, God Indra, provide us excellent, ready, and resplendent treasures.\np:With willing mind, Indra, vouchsafe us cattle, prosperity, Lord of Bays! and pious patrons; And, with the sacred prayer by Devas appointed, give us the holy Deities' lovingkindness.\np:God Bhaga, Indra who deals forth riches, Indra, and they who conquer V&#7771;tra's treasures, and V&#257;ja and &#7770;bhuk&#7779;an and Purandhi, the Mighty and Immortal Ones, protect us!\np:Let us declare his deeds, the undecaying unrivalled Victor whom the Devas follow. None of old times, O Indra, nor later, none of these days hath reached thy hero prowess.\np:Praise him the Chief who gives the boon of riches, B&#7771;haspati distributor of treasures, who, blessing most the man who sings and praises, comes with abundant wealth to his invoker.\np:Tended, with thy protections, the princes are unharmed and girt by heroes. Wealth that brings bliss is found among the givers of horses and of cattle and of raiment.\np:Make their wealth flee who, through our hymns enjoying their riches, yield us not an ample guerdon. Far from the sun keep those who hate devotion, the godless, prospering in their vocation.\np:With wheelless chariots drive down him, O Devas, who at the feasts of Devas regards the demons. May he, though bathed in sweat, form empty wishes, who blames his sacred rite who toils to serve you.\np:Praise him whose bow is strong and sure his arrow, him who is Lord of every balm that bealeth. Worship thou Soma for his great good favour: adore the Devas, Deva, with salutations.\np:May the House-friends, the cunning-handed Artists. May the Steer's Wives, the streams carved out by Vibhvan, an. May the fair Ones honour and befriend us, Sarasvat&#299;, Brhaddiva, and R&#257;k&#257;.\np:My newest song, thought that now springs within me, I offer to the Great, the Sure Protector, who made for us this All, in fond love laying each varied form within his Daughter's bosom.\np:Now, even nowe may thy fair praise, O Singer, attain Idaspati who roars and thunders, who, rich in clouds and waters with his lightning speeds forth bedewing both the Earth and Heaven.\np:May this my laud attain the troop of Devas, those who are youths in act, the Sons of Soma. The wish calls me to riches and well-being: praise the unwearied Ones whose steeds are dappled.\np:May this my laud reach Earth and air's mid-region, and forest trees and plants to win me riches. May every Deity be swift to listen, and Mother Earth with no ill thought regard me.\np:Devas. May we dwell in free untroubled bliss.\np:May we obtain the A&#347;vins' newest favour, and gain their health-bestowing happy guidance. Bring riches hither unto us, and heroes, and all felicity and joy, Immortals!",
-    "next": "05043",
-    "previous": "05041",
-    "book": "05"
+    "feecting": "p:No. May our sweetest song with deep devotion reach Indra, Mitra, Aditi, and Bhaga.\np: May the Five Monks' Lord, dwelling in oblations, bliss-giving Devas, hear, whose paths are open.\r\np:May Aditi welcome, even as a mother her dear heart-gladdening son, my song that lauds her. The prayer they love, bliss-giving, God-appointed, I offer unto Indra and Mitra.\np:In spirit him, the Sagest of the Sages; with sacrificial oil and meath bedew him  So then let him, God Indra, provide us excellent, ready, and resplendent treasures.\np:With willing mind, Indra, vouchsafe us cattle, prosperity, Lord of Bays! and pious patrons; And, with the sacred prayer by Devas appointed, give us the holy Deities' lovingkindness.\np:God Bhaga, Indra who deals forth riches, Indra, and they who conquer Vṛtra's treasures, and Vāja and Ṛbhukṣan and Purandhi, the Mighty and Immortal Ones, protect us!\np:Let us declare his deeds, the undecaying unrivalled Victor whom the Devas follow. None of old times, O Indra, nor later, none of these days hath reached thy hero prowess.\np:Praise him the Chief who gives the boon of riches, Soma distributor of treasures, who, blessing most the man who sings and praises, comes with abundant wealth to his invoker.\np:Tended, Soma, with thy protections, the princes are unharmed and girt by heroes. Wealth that brings bliss is found among the givers of horses and of cattle and of raiment.\np:Make their wealth flee who, through our hymns enjoying their riches, yield us not an ample guerdon. Far from the sun keep those who hate devotion, the godless, prospering in their vocation.\np:With wheelless chariots drive down him, O Devas, who at the feasts of Devas regards the demons. May he, though bathed in sweat, form empty wishes, who blames his sacred rite who toils to serve you.\np:Praise him whose bow is strong and sure his arrow, him who is Lord of every balm that bealeth. Worship thou Soma for his great good favour: adore the Devas, Deva, with salutations.\np:May the House-friends, the cunning-handed Artists. May the Steer's Wives, the streams carved out by Vibhvan, an. May the fair Ones honour and befriend us, Sarasvatī, Brhaddiva, and Rākā.\np:My newest song, thought that now springs within me, I offer to the Great, the Sure Protector, who made for us this All, in fond love laying each varied form within his Daughter's bosom.\np:Now, even nowe may thy fair praise, O Singer, attain Idaspati who roars and thunders, who, rich in clouds and waters with his lightning speeds forth bedewing both the Earth and Heaven.\np:May this my laud attain the troop of Devas, those who are youths in act, the Sons of Soma. The wish calls me to riches and well-being: praise the unwearied Ones whose steeds are dappled.\np:May this my laud reach Earth and air's mid-region, and forest trees and plants to win me riches. May every Deity be swift to listen, and Mother Earth with no ill thought regard me.\np:Devas. May we dwell in free untroubled bliss.\np:May we obtain the Aśvins' newest favour, and gain their health-bestowing happy guidance. Bring riches hither unto us, and heroes, and all felicity and joy, Immortals!",
+    "meta": {
+      "next": "05043",
+      "previous": "05041",
+      "book": "05",
+      "source": "https://sacred-texts.com/hin/rigveda/rv05042.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv05042.htm"
+    },
+    "deities": [
+      {
+        "name": "O Indra",
+        "hymns": [
+          {
+            "key": "05042",
+            "title": "HYMN XLII. Devas."
+          }
+        ]
+      },
+      {
+        "name": "O Devas",
+        "hymns": [
+          {
+            "key": "05042",
+            "title": "HYMN XLII. Devas."
+          }
+        ]
+      },
+      {
+        "name": "O Singer",
+        "hymns": [
+          {
+            "key": "05042",
+            "title": "HYMN XLII. Devas."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638555108034,
-  "updated": 1638792007796
+  "updated": 1638830292266
 }

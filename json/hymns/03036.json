@@ -5,13 +5,42 @@
   "link": "hymns/03036.html",
   "api": "json/hymns/03036.json",
   "data": {
+    "key": "03036",
     "title": "HYMN XXXVI. Indra.",
-    "describe": "WITH constant succours, fain thyself to share it, make this oblation which we bring effective.",
-    "feecting": "p:WITH constant succours, fain thyself to share it, make this oblation which we bring effective.\np: Grown great through strengthening gifts at each libation, he hath become renowned by mighty exploits.\r\np:For Indra were the Somas erst- discovered, whereby he grew strong-jointed, vast, and skilful. Indra , take quickly these presented juices: drink of the strong, that which the strong have shaken.\np:Drink and wax great. Thine are the juices, Indra, both Somas of old time and these we bring thee. Even as thou drankest, Indra, earlier Somas, so drink to-day, a new guest, meet for praises.\np:Great and impetuous, mighty-voiced in battle, surpassing power is his, and strength resistless. Him the broad Earth hath never comprehended when Somas cheered the Lord of Tawny Coursers.\np:Mighty and strong he waxed for hero exploit: the Bull was furnished a Sage's wisdom. Indra is our kind Lord; his steers have vigour; his cows are many with abundant offspring.\np:As floods according to their stream flow onward, so to the sea, as borne on cars, the waters. Vaster is Indra even than his dwelling, what time the stalk milked out, the Soma, fills him.\np:Eager to mingle with the sea, the rivers carry the well-pressed Soma juice to Indra. They drain the stalk out with their arms, quick-banded, and cleanse it with a stream of mead and filters.\np:Like lakes appear his flanks filled full with Soma: yea, he contains libations in abundance. When Indra had consumed the first sweet offerings, he, after subduing V&#7771;tra, claimed the Soma.\np:Then bring thou hither, and let none prevent it: we know thee well, the Lord of wealth and treasure. That splendid gift which is thine own, O Indra, vouchsafe to us, Lord of the Tawny Coursers.\np:O Indra, Indra, impetuous mover, grant us abundant wealth that brings all blessings. Give us a hundred autumns for our lifetime: give us, O fair-checked Indra, store of heroes.\np:Call we on Indra, Indra, auspicious, best Hero in the fight where spoil is gathered, the Strong, who listens, who gives aid in battles, who subdues the V&#7771;tras, wins and gathers riches.",
-    "next": "03037",
-    "previous": "03035",
-    "book": "03"
+    "describe": "WITH constant assists, fain thyself to share it, make this oblation which we bring effective.",
+    "feecting": "p:WITH constant assists, fain thyself to share it, make this oblation which we bring effective.\np: Grown great through strengthening gifts at each libation, he hath become renowned by mighty exploits.\r\np:For Indra were the Somas erst- discovered, whereby he grew strong-jointed, vast, and skilful. Indra , take quickly these presented juices: drink of the strong, that which the strong have shaken.\np:Drink and wax great. Thine are the juices, Indra, both Somas of old time and these we bring thee. Even as thou drankest, Indra, earlier Somas, so drink to-day, a new guest, meet for praises.\np:Great and impetuous, mighty-voiced in battle, surpassing power is his, and strength resistless. Him the broad Earth hath never comprehended when Somas cheered the Lord of Tawny Coursers.\np:Mighty and strong he waxed for hero exploit: the Bull was furnished a Sage's wisdom. Indra is our kind Lord; his steers have vigour; his cows are many with abundant offspring.\np:As floods according to their stream flow onward, so to the sea, as borne on cars, the waters. Vaster is Indra even than his dwelling, what time the stalk milked out, the Soma, fills him.\np:Eager to mingle with the sea, the rivers carry the well-pressed Soma juice to Indra. They drain the stalk out with their arms, quick-banded, and cleanse it with a stream of mead and filters.\np:Like lakes appear his flanks filled full with Soma: yea, he contains libations in abundance. When Indra had consumed the first sweet offerings, he, after subduing Vṛtra, claimed the Soma.\np:Then bring thou hither, and let none prevent it: we know thee well, the Lord of wealth and treasure. That splendid gift which is thine own, O Indra, vouchsafe to us, Lord of the Tawny Coursers.\np:O Indra, Indra, impetuous mover, grant us abundant wealth that brings all blessings. Give us a hundred autumns for our lifetime: give us, O fair-checked Indra, store of heroes.\np:Call we on Indra, Indra, auspicious, best Hero in the fight where spoil is gathered, the Strong, who listens, who gives aid in battles, who subdues the Vṛtras, wins and gathers riches.",
+    "meta": {
+      "next": "03037",
+      "previous": "03035",
+      "book": "03",
+      "source": "https://sacred-texts.com/hin/rigveda/rv03036.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv03036.htm"
+    },
+    "deities": [
+      {
+        "name": "O Indra",
+        "hymns": [
+          {
+            "key": "03036",
+            "title": "HYMN XXXVI. Indra."
+          },
+          {
+            "key": "03036",
+            "title": "HYMN XXXVI. Indra."
+          }
+        ]
+      },
+      {
+        "name": "O fair",
+        "hymns": [
+          {
+            "key": "03036",
+            "title": "HYMN XXXVI. Indra."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638554441257,
-  "updated": 1638792007635
+  "updated": 1638830292057
 }

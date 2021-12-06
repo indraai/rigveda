@@ -5,13 +5,51 @@
   "link": "hymns/07091.html",
   "api": "json/hymns/07091.json",
   "data": {
-    "title": "HYMN XCI. V&#257;yu.",
+    "key": "07091",
+    "title": "HYMN XCI. Soma.",
     "describe": "WERE not in sooths aforetime blameless, whose pleasure was increased by adoration?",
-    "feecting": "p:WERE not in sooths aforetime blameless, whose pleasure was increased by adoration? For V&#257;yu and for man in his affliction they caused the Morning to arise with S&#363;rya.\np:Guardians infallible, eager as envoys' preserve us safe through many months and autumns.\np: Addressed to you, our fair praise, Indra-V&#257;yu, implores your favour and renewed well-being.\r\np:Wise, bright, arranger of his teams, he. seeketh men with rich food whose treasures are abundant. They have arranged them of one mind with V&#257;yu: the men have wrought all noble operations.\np:So far as native power and strength permit you, so far as men behold whose eyes have vision, O ye pure-drinkers, drink with us pure Soma: sit on this sacred grass, Indra and V&#257;yu.\np:Driving down teams that bear the lovely Heroes, hitherward, Indra-V&#257;yu, come together. To you this prime of savoury juice is offered: here loose your horses and be friendly-minded.\np:Your hundred and your thousand teams, O Indra and V&#257;yu, all-munificent, which attend you, with these most gracious-minded come ye hither, and drink, O Heroes of the meath we offer.\np:Like coursers seeking fame will we Vasisthas, O Indra-V&#257;yu, with our fair laudations, Exerting all our powe-, call you to aid us. Preserve us evermore, ye Devas, with blessings.",
-    "next": "07092",
-    "previous": "07090",
-    "book": "07"
+    "feecting": "p:WERE not in sooths aforetime blameless, whose pleasure was increased by adoration? For Soma and for man in his affliction they caused the Morning to arise with Sūrya.\np:Guardians infallible, eager as envoys' preserve us safe through many months and autumns.\np: Addressed to you, our fair praise, Indra-Soma, implores your favour and renewed well-being.\r\np:Wise, bright, arranger of his teams, he. seeketh men with rich food whose treasures are abundant. They have arranged them of one mind with Soma: the men have wrought all noble operations.\np:So far as native power and strength permit you, so far as men behold whose eyes have vision, O ye pure-drinkers, drink with us pure Soma: sit on this sacred grass, Indra and Soma.\np:Driving down teams that bear the lovely Heroes, hitherward, Indra-Soma, come together. To you this prime of savoury juice is offered: here loose your horses and be friendly-minded.\np:Your hundred and your thousand teams, O Indra and Soma, all-munificent, which attend you, with these most gracious-minded come ye hither, and drink, O Heroes of the meath we offer.\np:Like coursers seeking fame will we Vasisthas, O Indra-Soma, with our fair laudations, Exerting all our powe-, call you to aid us. Preserve us evermore, ye Devas, with blessings.",
+    "meta": {
+      "next": "07092",
+      "previous": "07090",
+      "book": "07",
+      "source": "https://sacred-texts.com/hin/rigveda/rv07091.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv07091.htm"
+    },
+    "deities": [
+      {
+        "name": "O ye ",
+        "hymns": [
+          {
+            "key": "07091",
+            "title": "HYMN XCI. Soma."
+          }
+        ]
+      },
+      {
+        "name": "O Indra",
+        "hymns": [
+          {
+            "key": "07091",
+            "title": "HYMN XCI. Soma."
+          },
+          {
+            "key": "07091",
+            "title": "HYMN XCI. Soma."
+          }
+        ]
+      },
+      {
+        "name": "O Heroes",
+        "hymns": [
+          {
+            "key": "07091",
+            "title": "HYMN XCI. Soma."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638556222892,
-  "updated": 1638792008032
+  "updated": 1638830292616
 }

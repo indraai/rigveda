@@ -5,13 +5,73 @@
   "link": "hymns/04022.html",
   "api": "json/hymns/04022.json",
   "data": {
+    "key": "04022",
     "title": "HYMN XXII. Indra.",
     "describe": "THAT gift of ours which Indra loves and welcomes, even that he makes for us, the Great and Strong One.",
-    "feecting": "p:THAT gift of ours which Indra loves and welcomes, even that he makes for us, the Great and Strong One.\np: He who comes wielding in his might the thunder, Indra, gives prayer, praise, and laud, and Soma.\r\np:Bull, hurler of the four-edged rain-producer with both his arms, strong, mighty, most heroic; Wearing as wool Paru&#7779;&#7751;&#299; for adornment, whose joints for sake of friendship he hath covered.\np:Deva who of all the Devas was born divinest, endowed with ample strength and mighty powers, and bearing in his arms the yearning thunder, with violent rush caused Heaven and Earth to tremble.\np:Before the High Deva, at his birth. Heaven trembled, Earth, many floods and all the precipices. The Strong One bringeth nigh the Bull's two Parents: loud sing the winds, like men, in air's mid-region.\np:These are thy great deeds, Indra, thine, the Mighty, deeds to be told aloud at all libations, that thou, O Hero, bold and boldly daring, didst with thy bolt, by strength, destroy the Dragon.\np:True are all these thy deeds, O Most Heroic. The Milch-kine issued from the streaming udder. In fear of thee, O thou of manly spirit, the rivers swiftly set themselves in motion.\np:With joy, O Indra, Lord of Tawny Coursers, the Sisters then, these Goddesses, extolled thee, when thou didst give the prisoned ones their freedom to wander at their will in long succession.\np:Pressed is the gladdening stalk as &#146;twere a river: so let the rite, the toiler's power, attract thee To us-ward, of the Bright One, as the courser strains his. exceedingly strong leather bridle.\np:Ever by us perform thy most heroic, thine highest, best victorious deeds, O Victor. For us make V&#7771;tras easy to be conquered: destroy the weapon of our mortal foeman.\np:Graciously listen to our meditation, O Indra, and strength of varied sort bestow thou on us. Send to us all intelligence arid wisdom O Indra, be he who gives us cattle.\np:Now, Indra! lauded, glorified with praises, let wealth swell high like rivers to the singer. For thee a new hymn, Lord of Bays, is fashioned. May we, car-borne, through song be victors ever.",
-    "next": "04023",
-    "previous": "04021",
-    "book": "04"
+    "feecting": "p:THAT gift of ours which Indra loves and welcomes, even that he makes for us, the Great and Strong One.\np: He who comes wielding in his might the thunder, Indra, gives prayer, praise, and laud, and Soma.\r\np:Bull, hurler of the four-edged rain-producer with both his arms, strong, mighty, most heroic; Wearing as wool Paruṣṇī for adornment, whose joints for sake of friendship he hath covered.\np:Deva who of all the Devas was born divinest, endowed with ample strength and mighty powers, and bearing in his arms the yearning thunder, with violent rush caused Heaven and Earth to tremble.\np:Before the High Deva, at his birth. Heaven trembled, Earth, many floods and all the precipices. The Strong One bringeth nigh the Bull's two Parents: loud sing the winds, like men, in air's mid-region.\np:These are thy great deeds, Indra, thine, the Mighty, deeds to be told aloud at all libations, that thou, O Hero, bold and boldly daring, didst with thy bolt, by strength, destroy the Dragon.\np:True are all these thy deeds, O Most Heroic. The Milch-kine issued from the streaming udder. In fear of thee, O thou of manly spirit, the rivers swiftly set themselves in motion.\np:With joy, O Indra, Lord of Tawny Coursers, the Sisters then, these Goddesses, extolled thee, when thou didst give the prisoned ones their freedom to wander at their will in long succession.\np:Pressed is the gladdening stalk as ’twere a river: so let the rite, the toiler's power, attract thee To us-ward, of the Bright One, as the courser strains his. exceedingly strong leather bridle.\np:Ever by us perform thy most heroic, thine highest, best victorious deeds, O Victor. For us make Vṛtras easy to be conquered: destroy the weapon of our mortal foeman.\np:Graciously listen to our meditation, O Indra, and strength of varied sort bestow thou on us. Send to us all intelligence arid wisdom O Indra, be he who gives us cattle.\np:Now, Indra! lauded, glorified with praises, let wealth swell high like rivers to the singer. For thee a new hymn, Lord of Bays, is fashioned. May we, car-borne, through song be victors ever.",
+    "meta": {
+      "next": "04023",
+      "previous": "04021",
+      "book": "04",
+      "source": "https://sacred-texts.com/hin/rigveda/rv04022.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv04022.htm"
+    },
+    "deities": [
+      {
+        "name": "O Hero",
+        "hymns": [
+          {
+            "key": "04022",
+            "title": "HYMN XXII. Indra."
+          }
+        ]
+      },
+      {
+        "name": "O Most",
+        "hymns": [
+          {
+            "key": "04022",
+            "title": "HYMN XXII. Indra."
+          }
+        ]
+      },
+      {
+        "name": "O thou",
+        "hymns": [
+          {
+            "key": "04022",
+            "title": "HYMN XXII. Indra."
+          }
+        ]
+      },
+      {
+        "name": "O Indra",
+        "hymns": [
+          {
+            "key": "04022",
+            "title": "HYMN XXII. Indra."
+          },
+          {
+            "key": "04022",
+            "title": "HYMN XXII. Indra."
+          },
+          {
+            "key": "04022",
+            "title": "HYMN XXII. Indra."
+          }
+        ]
+      },
+      {
+        "name": "O Victor",
+        "hymns": [
+          {
+            "key": "04022",
+            "title": "HYMN XXII. Indra."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638554694154,
-  "updated": 1638792007700
+  "updated": 1638830292154
 }

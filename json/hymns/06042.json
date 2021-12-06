@@ -5,13 +5,19 @@
   "link": "hymns/06042.html",
   "api": "json/hymns/06042.json",
   "data": {
+    "key": "06042",
     "title": "HYMN XLII. Indra.",
     "describe": "BRING sacrificial gifts to him, Omniscient, for he longs to drink, the Wanderer who comes with speed, the Hero ever in the van.",
     "feecting": "p:BRING sacrificial gifts to him, Omniscient, for he longs to drink, the Wanderer who comes with speed, the Hero ever in the van.\np:With Soma go ye nigh to him chief drinker of the Soma's juice: With beakers to the Impetuous Deva, to Indra with the drops effused.\np:What time, with Soma, with the juice effused, ye come before the Deva, Full wise he knows the hope of each, and, Bold One, strikes this foe and that.\np:To him, Adhvaryu! yea, to him give offerings of the juice expressed.\np: Will he not keep us safely from the spiteful curse of each presumptuous high-born foe?",
-    "next": "06043",
-    "previous": "06041",
-    "book": "06"
+    "meta": {
+      "next": "06043",
+      "previous": "06041",
+      "book": "06",
+      "source": "https://sacred-texts.com/hin/rigveda/rv06042.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv06042.htm"
+    },
+    "deities": []
   },
   "created": 1638555567858,
-  "updated": 1638792007897
+  "updated": 1638830292398
 }

@@ -5,13 +5,29 @@
   "link": "hymns/01153.html",
   "api": "json/hymns/01153.json",
   "data": {
-    "title": "HYMN CLIII. Mitra-Varu&#7751;a.",
-    "describe": "WE worship with our reverence and oblations you, Mitra Varu&#7751;",
-    "feecting": "p:WE worship with our reverence and oblations you, Mitra Varu&#7751;a, accordant, mighty, So that with us, ye Twain whose backs are sprinkled with oil, the monks with oil and hymns support you.\np:Your praise is like a mighty power, an impulse: to you, Twain Devas, a well-formed hymn is offered, as the Monk decks yon, Strong Ones, in assemblies, and the prince fain to worship you for blessings.\np:O Mitra-Varu&#7751;a, Aditi the Milch-cow streams for the rite, for folk who bring oblation, when in the assembly he who worships moves you, like to a human priest, with gifts presented.\np:May the kine and heavenly Waters pour you sweet drink in families that make you joyful.\np: Of thi. May he, the ancient House-Lord, give us. Enjoy, drink of the milk the cow provideth.",
-    "next": "01154",
-    "previous": "01152",
-    "book": "01"
+    "key": "01153",
+    "title": "HYMN CLIII. Mitra-Indra.",
+    "describe": "WE worship with our reverence and oblations you, Mitra Indra, accordant, mighty, So that with us, ye Twain whose backs are sprinkled with oil, the monks with oil and hymns support you.",
+    "feecting": "p:WE worship with our reverence and oblations you, Mitra Indra, accordant, mighty, So that with us, ye Twain whose backs are sprinkled with oil, the monks with oil and hymns support you.\np:Your praise is like a mighty power, an impulse: to you, Twain Devas, a well-formed hymn is offered, as the Monk decks yon, Strong Ones, in assemblies, and the prince fain to worship you for blessings.\np:O Mitra-Indra, Aditi the Milch-cow streams for the rite, for folk who bring oblation, when in the assembly he who worships moves you, like to a human priest, with gifts presented.\np:May the kine and heavenly Waters pour you sweet drink in families that make you joyful.\np: Of thi. May he, the ancient House-Lord, give us. Enjoy, drink of the milk the cow provideth.",
+    "meta": {
+      "next": "01154",
+      "previous": "01152",
+      "book": "01",
+      "source": "https://sacred-texts.com/hin/rigveda/rv01153.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv01153.htm"
+    },
+    "deities": [
+      {
+        "name": "O Mitra",
+        "hymns": [
+          {
+            "key": "01153",
+            "title": "HYMN CLIII. Mitra-Indra."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638553820716,
-  "updated": 1638792007475
+  "updated": 1638830291862
 }

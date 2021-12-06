@@ -5,13 +5,42 @@
   "link": "hymns/10180.html",
   "api": "json/hymns/10180.json",
   "data": {
+    "key": "10180",
     "title": "HYMN CLXXX. Indra.",
     "describe": "O MUCH-INVOKED, thou hast subdued thy foemen: thy might is loftiest;",
-    "feecting": "p:O MUCH-INVOKED, thou hast subdued thy foemen: thy might is loftiest; here display thy bounty.\np: In thy right hand, O Indra, bring us treasures: thou art the Lord of rivers filled with riches.\r\np:Like a dread wild beast roaming on the mountain thou hast approached us from the farthest distance. Whetting thy bold and thy sharp blade, O Indra, crush thou the foe and scatter those who hate us.\np:Thou, mighty Indra, sprangest into being as strength for lovely lordship o&#146;er the people. Thou drovest off the folk who were unfriendly, and to the Devas thou gavest room and freedom.",
-    "next": "10181",
-    "previous": "10179",
-    "book": "10"
+    "feecting": "p:O MUCH-INVOKED, thou hast subdued thy foemen: thy might is loftiest; here display thy bounty.\np: In thy right hand, O Indra, bring us treasures: thou art the Lord of rivers filled with riches.\r\np:Like a dread wild beast roaming on the mountain thou hast approached us from the farthest distance. Whetting thy bold and thy sharp blade, O Indra, crush thou the foe and scatter those who hate us.\np:Thou, mighty Indra, sprangest into being as strength for lovely lordship o’er the people. Thou drovest off the folk who were unfriendly, and to the Devas thou gavest room and freedom.",
+    "meta": {
+      "next": "10181",
+      "previous": "10179",
+      "book": "10",
+      "source": "https://sacred-texts.com/hin/rigveda/rv10180.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv10180.htm"
+    },
+    "deities": [
+      {
+        "name": "O MUCH",
+        "hymns": [
+          {
+            "key": "10180",
+            "title": "HYMN CLXXX. Indra."
+          }
+        ]
+      },
+      {
+        "name": "O Indra",
+        "hymns": [
+          {
+            "key": "10180",
+            "title": "HYMN CLXXX. Indra."
+          },
+          {
+            "key": "10180",
+            "title": "HYMN CLXXX. Indra."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638558391251,
-  "updated": 1638792008611
+  "updated": 1638830293264
 }

@@ -5,13 +5,29 @@
   "link": "hymns/01067.html",
   "api": "json/hymns/01067.json",
   "data": {
+    "key": "01067",
     "title": "HYMN LXVII. Agni.",
     "describe": "VICTORIOUS in the wood, Friend among men, ever he claims obedience as a King.",
-    "feecting": "p:VICTORIOUS in the wood, Friend among men, ever he claims obedience as a King.\np: Gracious like peace, blessing like mental power, Monk was he, offering-bearer, full of thought.\r\np:He, bearing in his hand all manly might, crouched in the cavern, struck the Devas with fear. Men filled with understanding find him there, when they have sting prayers formed within their heart.\np:He, like the Unborn, holds the broad Earth up; and with effective utterance fixed the sky. O Agni, guard the spots which cattle love: thou, life of all, hast gone from lair to lair.\np:Whoso hath known him dwelling in his lair, and hath approached the stream of holy Law,&#151; They who release him, paying sacred rites,&#151;truly to such doth he announce great wealth.\np:He who grows mightily in herbs, within each fruitful mother and each babe she bears, Wise, life of all men, in the waters&#146; home,&#151;for him have sages built as &#146;twere a seat.",
-    "next": "01068",
-    "previous": "01066",
-    "book": "01"
+    "feecting": "p:VICTORIOUS in the wood, Friend among men, ever he claims obedience as a King.\np: Gracious like peace, blessing like mental power, Monk was he, offering-bearer, full of thought.\r\np:He, bearing in his hand all manly might, crouched in the cavern, struck the Devas with fear. Men filled with understanding find him there, when they have sting prayers formed within their heart.\np:He, like the Unborn, holds the broad Earth up; and with effective utterance fixed the sky. O Agni, guard the spots which cattle love: thou, life of all, hast gone from lair to lair.\np:Whoso hath known him dwelling in his lair, and hath approached the stream of holy Law. They who release him, paying sacred rites.truly to such doth he announce great wealth.\np:He who grows mightily in herbs, within each fruitful mother and each babe she bears, Wise, life of all men, in the waters’ home.for him have sages built as ’twere a seat.",
+    "meta": {
+      "next": "01068",
+      "previous": "01066",
+      "book": "01",
+      "source": "https://sacred-texts.com/hin/rigveda/rv01067.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv01067.htm"
+    },
+    "deities": [
+      {
+        "name": "O Agni",
+        "hymns": [
+          {
+            "key": "01067",
+            "title": "HYMN LXVII. Agni."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638553366700,
-  "updated": 1638792007367
+  "updated": 1638830291686
 }

@@ -5,13 +5,29 @@
   "link": "hymns/01089.html",
   "api": "json/hymns/01089.json",
   "data": {
-    "title": "HYMN LXXXIX. Vi&#347;vedevas.",
+    "key": "01089",
+    "title": "HYMN LXXXIX. Devas.",
     "describe": "MAY powers auspicious come to us from every side, never deceived, unhindered, and victorious, that the Devas eve.",
-    "feecting": "p:MAY powers auspicious come to us from every side, never deceived, unhindered, and victorious, that the Devas eve. May be with us for our gain, our guardians day by day unceasing in their care.\np:May the auspicious favour of the Devas be ours, on us descend the bounty of the righteous Devas.\np: The friendship of the Devas have we devoutly sought: s. May the Devas extend our life that we may live.\r\np:We call them hither with a hymn of olden time, Bhaga, the friendly Dak&#7779;a, Mitra, Aditi, Aryaman, Varu&#7751;a, Soma, the A&#347;vins. May Sarasvat&#299;, auspicious, grant felicity.\np:May the Wind waft to us that pleasant medicine. May Earth our Mother give it, and our Father Heaven, and the joy-giving stones that press the Soma's juice. A&#347;vins. May ye, for whom our spirits long, hear this.\np:Him we invoke for aid who reigns supreme, the Lord of all that stands or moves, inspirer of the soul, that P&#363;&#7779;a. May promote the increase of our wealth, our keeper and our guard infallible for our good.\np:Illustrious far and wide. May Indra prosper us. May P&#363;&#7779;an prosper us, the Master of all wealth. May T&#257;rk&#7779;ya with uninjured fellies prosper us: B&#7771;haspati vouchsafe to us prosperity.\np:The Devas, Sons of P&#7771;&#347;ni, borne by spotted steeds, moving in glory, oft visiting holy rites, Sages whose tongue is Agni, brilliant as the Sun,&#151;hither let all the Devas for our protection come.\np:Devas. May we with our ears listen to what is good, and with our eyes see what is good, ye Holy Ones. With limbs and bodies fir. May we extolling you attain the term of life appointed by the Devas.\np:A hundred autumns stand before us, O ye Devas, within whose space ye bring our bodies to decay; Within whose space our sons become fathers in turn. Break ye not in the midst our course of fleeting life.\np:Aditi is the Heaven, Aditi is mid-air, Aditi is the Mother and the Sire and Son. Aditi is all Devas, Aditi five-classed men, Aditi all that hath been born and shall be born.",
-    "next": "01090",
-    "previous": "01088",
-    "book": "01"
+    "feecting": "p:MAY powers auspicious come to us from every side, never deceived, unhindered, and victorious, that the Devas eve. May be with us for our gain, our guardians day by day unceasing in their care.\np:May the auspicious favour of the Devas be ours, on us descend the bounty of the righteous Devas.\np: The friendship of the Devas have we devoutly sought: s. May the Devas extend our life that we may live.\r\np:We call them hither with a hymn of olden time, Bhaga, the friendly Dakṣa, Mitra, Aditi, Aryaman, Indra, Soma, the Aśvins. May Sarasvatī, auspicious, grant felicity.\np:May the Wind waft to us that pleasant medicine. May Earth our Mother give it, and our Father Heaven, and the joy-giving stones that press the Soma's juice. Aśvins. May ye, for whom our spirits long, hear this.\np:Him we invoke for aid who reigns supreme, the Lord of all that stands or moves, inspirer of the soul, that Pūṣa. May promote the increase of our wealth, our keeper and our guard infallible for our good.\np:Illustrious far and wide. May Indra prosper us. May Pūṣan prosper us, the Master of all wealth. May Tārkṣya with uninjured fellies prosper us: Soma vouchsafe to us prosperity.\np:The Devas, Sons of Pṛśni, borne by spotted steeds, moving in glory, oft visiting holy rites, Sages whose tongue is Agni, brilliant as the Sun.hither let all the Devas for our protection come.\np:Devas. May we with our ears listen to what is good, and with our eyes see what is good, ye Holy Ones. With limbs and bodies fir. May we extolling you attain the term of life appointed by the Devas.\np:A hundred autumns stand before us, O ye Devas, within whose space ye bring our bodies to decay; Within whose space our sons become fathers in turn. Break ye not in the midst our course of fleeting life.\np:Aditi is the Heaven, Aditi is mid-air, Aditi is the Mother and the Sire and Son. Aditi is all Devas, Aditi five-classed men, Aditi all that hath been born and shall be born.",
+    "meta": {
+      "next": "01090",
+      "previous": "01088",
+      "book": "01",
+      "source": "https://sacred-texts.com/hin/rigveda/rv01089.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv01089.htm"
+    },
+    "deities": [
+      {
+        "name": "O ye ",
+        "hymns": [
+          {
+            "key": "01089",
+            "title": "HYMN LXXXIX. Devas."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638553482528,
-  "updated": 1638792007392
+  "updated": 1638830291718
 }

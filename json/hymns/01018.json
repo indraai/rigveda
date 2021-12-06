@@ -5,13 +5,29 @@
   "link": "hymns/01018.html",
   "api": "json/hymns/01018.json",
   "data": {
-    "title": "HYMN XVIII. Brahma&#7751;aspati.",
-    "describe": "Make him who presses Soma glorious.",
-    "feecting": "p:Make him who presses Soma glorious. \np:The rich, the healer of disease, who giveth wealth, increaseth store, the prompt,&#151;may he be with us still.\np:Let not the foeman's curse, let not a mortal's onslaught fall on us .\np:Ne&#146;er is the mortal hero harmed whom Indra,  Soma graciously inspire.\np:Do O  Indra, Soma, Dak&#7779;i&#7751;&#257;, Preserve that mortal from distress.\np:To the Assembly's wondrous Lord, to Indra's lovely Friend who gives Wisdom, have I drawn near in meditation.\np:He without whom no offering, e&#146;en of the wise man, prospers; he stirs up the series of thoughts.\np:He makes the oblation prosper, he promotes the course of offering.\np:I have seen Nar&#257;&#347;a&#7745;sa, him most resolute, most widely famed, as &#146;twere the Household Monk of Heaven.",
-    "next": "01019",
-    "previous": "01017",
-    "book": "01"
+    "key": "01018",
+    "title": "HYMN XVIII. Soma.",
+    "describe": "The rich, the healer of disease, who giveth wealth, increaseth store, the prompt.",
+    "feecting": "p:The rich, the healer of disease, who giveth wealth, increaseth store, the prompt.\np:Let not the foeman's curse, let not a mortal's onslaught fall on us .\np:Ne’er is the mortal hero harmed whom Indra, Soma, and Soma graciously inspire.\np:Do O Soma, and Indra, preserve that mortal from distress.\np:To the Assembly's wondrous Lord, to Indra's lovely Friend who gives Wisdom, have I drawn near in meditation.\np:He without whom no offering, e’en of the wise man, prospers; he stirs up the series of thoughts.\np:He makes the oblation prosper, he promotes the course of offering.\np:Him most resolute, most widely famed, as ’twere the Household Monk of Heaven.",
+    "meta": {
+      "next": "01019",
+      "previous": "01017",
+      "book": "01",
+      "source": "https://sacred-texts.com/hin/rigveda/rv01018.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv01018.htm"
+    },
+    "deities": [
+      {
+        "name": "O Soma",
+        "hymns": [
+          {
+            "key": "01018",
+            "title": "HYMN XVIII. Soma."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638553107685,
-  "updated": 1638792007293
+  "updated": 1638830291601
 }

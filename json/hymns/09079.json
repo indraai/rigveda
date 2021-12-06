@@ -5,13 +5,38 @@
   "link": "hymns/09079.html",
   "api": "json/hymns/09079.json",
   "data": {
+    "key": "09079",
     "title": "HYMN LXXIX. Indu.",
     "describe": "SPONTANEOUS let our drops of Soma juice flow on, pressed, golden-hued, among the Devas of lofty Heaven.",
     "feecting": "p:SPONTANEOUS let our drops of Soma juice flow on, pressed, golden-hued, among the Devas of lofty Heaven.\np: Perish among us they who give no gifts of food! perish the godless! May our meditations obtain success.\r\np:Forward to us the drops, distilling meath, shall flow, like riches for whose sake we urge the horses on. Beyond the crafty hindering of all mortal me. May we continually bear precious wealth away.\np:Yea, yerily, foe of hate shown to himself is he, yea, verity, destroyer too of other hate. As thirst subdueth in the desert, conquer thou, O Soma Pavarnana, men of evil thoughts.\np:Near kin to thee is he, raised loftiest in the heavens: upon the Earth's high ridge thy scions have grown forth. The press-stones chew and crunch thee on the ox's hide: sages have milked thee with their hands into the streams.\np:So do they hurry on thy strong and beauteous juice, O Indu, as the first ingredient of the draught. Bring low, thou Indu, every single foe, and be thy might shown forth as sweet and gladdening drink.",
-    "next": "09080",
-    "previous": "09078",
-    "book": "09"
+    "meta": {
+      "next": "09080",
+      "previous": "09078",
+      "book": "09",
+      "source": "https://sacred-texts.com/hin/rigveda/rv09079.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv09079.htm"
+    },
+    "deities": [
+      {
+        "name": "O Soma",
+        "hymns": [
+          {
+            "key": "09079",
+            "title": "HYMN LXXIX. Indu."
+          }
+        ]
+      },
+      {
+        "name": "O Indu",
+        "hymns": [
+          {
+            "key": "09079",
+            "title": "HYMN LXXIX. Indu."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638557251494,
-  "updated": 1638792008273
+  "updated": 1638830292910
 }

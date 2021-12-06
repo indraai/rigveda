@@ -5,13 +5,38 @@
   "link": "hymns/09090.html",
   "api": "json/hymns/09090.json",
   "data": {
+    "key": "09090",
     "title": "HYMN XC. Indu,",
     "describe": "URGED On, the Father of the Earth and Heaven hath gone forth like a car to gather booty, Going to Indra, sharpening his weapons, and in his hand containing every treasure.",
-    "feecting": "p:URGED On, the Father of the Earth and Heaven hath gone forth like a car to gather booty, Going to Indra, sharpening his weapons, and in his hand containing every treasure.\np:To him the tones of sacred song have sounded, Steer of the triple height, the Life-bestower.\np: Dwelling in wood as Varu&#7751;a in rivers, lavishing treasure he distributes blessings\r\np:Great Conqueror, warnor-girt, Lord of all heroes, flow on thy way as he who winneth riches; With sharpened. arms, with swift bow, never vanquished in battle, vanquishing in fight the foemen.\np:Giving security, Lord of wide dominion, send us both Earth and Heaven with all their fulness. Striving to win the Dawns, the light, the waters, and cattle, call to us abundant vigour.\np:O Soma, gladden Varu&#7751;a and Mitra; cheer, indu Indu! Indra, Vi&#7779;&#7751;u. Cheer thou the Devas, the Company of Devas: Indu, cheer mighty Indra to rejoicing.\np:Thus like a wise and potent King flow onward, destroying with thy vigour all misfortunes. For our well-spoken hymn give life, O Indu. Do ye preserve us evermore with blessings.",
-    "next": "09091",
-    "previous": "09089",
-    "book": "09"
+    "feecting": "p:URGED On, the Father of the Earth and Heaven hath gone forth like a car to gather booty, Going to Indra, sharpening his weapons, and in his hand containing every treasure.\np:To him the tones of sacred song have sounded, Steer of the triple height, the Life-bestower.\np: Dwelling in wood as Indra in rivers, lavishing treasure he distributes blessings\r\np:Great Conqueror, warnor-girt, Lord of all heroes, flow on thy way as he who winneth riches; With sharpened. arms, with swift bow, never vanquished in battle, vanquishing in fight the foemen.\np:Giving security, Lord of wide dominion, send us both Earth and Heaven with all their fulness. Striving to win the Dawns, the light, the waters, and cattle, call to us abundant vigour.\np:O Soma, gladden Indra and Mitra; cheer, indu Indu! Indra, Indra. Cheer thou the Devas, the Company of Devas: Indu, cheer mighty Indra to rejoicing.\np:Thus like a wise and potent King flow onward, destroying with thy vigour all misfortunes. For our well-spoken hymn give life, O Indu. Do ye preserve us evermore with blessings.",
+    "meta": {
+      "next": "09091",
+      "previous": "09089",
+      "book": "09",
+      "source": "https://sacred-texts.com/hin/rigveda/rv09090.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv09090.htm"
+    },
+    "deities": [
+      {
+        "name": "O Soma",
+        "hymns": [
+          {
+            "key": "09090",
+            "title": "HYMN XC. Indu,"
+          }
+        ]
+      },
+      {
+        "name": "O Indu",
+        "hymns": [
+          {
+            "key": "09090",
+            "title": "HYMN XC. Indu,"
+          }
+        ]
+      }
+    ]
   },
   "created": 1638557309666,
-  "updated": 1638792008288
+  "updated": 1638830292927
 }

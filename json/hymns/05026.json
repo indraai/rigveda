@@ -5,13 +5,46 @@
   "link": "hymns/05026.html",
   "api": "json/hymns/05026.json",
   "data": {
+    "key": "05026",
     "title": "HYMN XXVI. Agni.",
     "describe": "O AGNI, Holy and Divine, with splendour and thy pleasant tongue Bring hither and adore the Devas.",
-    "feecting": "p:O AGNI, Holy and Divine, with splendour and thy pleasant tongue Bring hither and adore the Devas.\np:We meditate thee, thou who droppest oil, bright-rayed! who lookest on the Sun, Bring the Devas hither to the feast.\np:We have enkindled thee, O Sage, bright caller of the Devas to feast.\np: O Agni, great in Offering.\r\np:O Agni, come with all the Devas, come to our sacrificial gift: We choose thee as Invoking Monk.\np:Bring, Agni, to the worshipper who pours the juice, heroic strength: Sit with the Devas upon the grass.\np:Victor of thousands, Agni enkindled, cherishest the laws, Laud-worthy, envoy of the Devas.\np:Set Agni J&#257;tavedas down, the bearer of our sacred gifts, mostYouthful, God and Minister.\np:Duly proceed our offering, comprising all the Devas, to-day: Strew holy grass to be their seat.\np:May the Devas sit thereon, the A&#347;vins, Mitra, Varu&#7751;a: The Devas with all their company.",
-    "next": "05027",
-    "previous": "05025",
-    "book": "05"
+    "feecting": "p:O AGNI, Holy and Divine, with splendour and thy pleasant tongue Bring hither and adore the Devas.\np:We meditate thee, thou who droppest oil, bright-rayed! who lookest on the Sun, Bring the Devas hither to the feast.\np:We have enkindled thee, O Sage, bright caller of the Devas to feast.\np: O Agni, great in Offering.\r\np:O Agni, come with all the Devas, come to our sacrificial gift: We choose thee as Invoking Monk.\np:Bring, Agni, to the worshipper who pours the juice, heroic strength: Sit with the Devas upon the grass.\np:Victor of thousands, Agni enkindled, cherishest the laws, Laud-worthy, envoy of the Devas.\np:Set Agni Jātavedas down, the bearer of our sacred gifts, mostYouthful, God and Minister.\np:Duly proceed our offering, comprising all the Devas, to-day: Strew holy grass to be their seat.\np:May the Devas sit thereon, the Aśvins, Indra: The Devas with all their company.",
+    "meta": {
+      "next": "05027",
+      "previous": "05025",
+      "book": "05",
+      "source": "https://sacred-texts.com/hin/rigveda/rv05026.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv05026.htm"
+    },
+    "deities": [
+      {
+        "name": "O AGNI",
+        "hymns": [
+          {
+            "key": "05026",
+            "title": "HYMN XXVI. Agni."
+          },
+          {
+            "key": "05026",
+            "title": "HYMN XXVI. Agni."
+          },
+          {
+            "key": "05026",
+            "title": "HYMN XXVI. Agni."
+          }
+        ]
+      },
+      {
+        "name": "O Sage",
+        "hymns": [
+          {
+            "key": "05026",
+            "title": "HYMN XXVI. Agni."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638555022358,
-  "updated": 1638792007773
+  "updated": 1638830292241
 }

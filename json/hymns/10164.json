@@ -5,13 +5,19 @@
   "link": "hymns/10164.html",
   "api": "json/hymns/10164.json",
   "data": {
+    "key": "10164",
     "title": "HYMN CLXIV. Dream-charm.",
     "describe": "AVAUNT, thou Master of the mind Depart, and vanish far away.",
-    "feecting": "p:AVAUNT, thou Master of the mind Depart, and vanish far away.\np: Look on Destruction far from hence. The live man's mind is manifold.\r\np:A happy boon do men elect, a mighty blessing they obtain. Bliss with Vaivasvata they see. The live man's mind seeks many a place.\np:If by address, by blame, by imprecation we have committed sin, awake or sleeping, All hateful acts of ours, all evil doing. May Agni bear away to distant places.\np:When, Indra, Brahma&#7751;aspati, our deeds are wrongful and unjust, May provident A&#7749;girasa prevent our foes from troubling, us.\np:We have prevailed this day and won: we are made free from sin and guilt. Ill thoughts, that visit us awake or sleeping, seize the man we hate, yea, seize the man who hateth us.",
-    "next": "10165",
-    "previous": "10163",
-    "book": "10"
+    "feecting": "p:AVAUNT, thou Master of the mind Depart, and vanish far away.\np: Look on Destruction far from hence. The live man's mind is manifold.\r\np:A happy boon do men elect, a mighty blessing they obtain. Bliss with Vaivasvata they see. The live man's mind seeks many a place.\np:If by address, by blame, by imprecation we have committed sin, awake or sleeping, All hateful acts of ours, all evil doing. May Agni bear away to distant places.\np:When, Indra, Soma, our deeds are wrongful and unjust, may provident Aṅgirasa prevent our foes from troubling, us.\np:We have prevailed this day and won: we are made free from sin and guilt. Ill thoughts, that visit us awake or sleeping, seize the man we hate, yea, seize the man who hateth us.",
+    "meta": {
+      "next": "10165",
+      "previous": "10163",
+      "book": "10",
+      "source": "https://sacred-texts.com/hin/rigveda/rv10164.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv10164.htm"
+    },
+    "deities": []
   },
   "created": 1638558306152,
-  "updated": 1638792008599
+  "updated": 1638830293251
 }

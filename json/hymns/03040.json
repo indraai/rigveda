@@ -5,13 +5,29 @@
   "link": "hymns/03040.html",
   "api": "json/hymns/03040.json",
   "data": {
+    "key": "03040",
     "title": "HYMN XL. Indra.",
     "describe": "THEE, Indra, we invoke, the Bull, what time the Soma is expressed.",
-    "feecting": "p:THEE, Indra, we invoke, the Bull, what time the Soma is expressed.\np: So drink thou of the savoury juice.\r\np:Indra, whom many laud, accept the strength-conferring Soma juice: Quaff, pour down drink that satisfies.\np:Indra, with all the Devas promote our wealth-bestowing offering, Thou highly-lauded Lord of men.\np:Lord of the brave, to thee proceed these drops of Soma juice expressed, the bright drops to thy dwelling-place.\np:Within thy belly, Indra, take juice, Soma the most excellent: Thine are the drops celestial.\np:Drink our libation, Lord of hymns: with streams of meath thou art bedewed Our glory, Indra, is thy gift.\np:To Indra go the treasures of the worshipper, which never fail: He drinks the Soma and is strong\np:From far away, from near at hand, O V&#7771;tra-slayer, come to us: Accept the songs we sing to thee.\np:When from the space between the near and far thou art invoked by us, thence, Indra. come thou hitherward.",
-    "next": "03041",
-    "previous": "03039",
-    "book": "03"
+    "feecting": "p:THEE, Indra, we invoke, the Bull, what time the Soma is expressed.\np: So drink thou of the savoury juice.\r\np:Indra, whom many laud, accept the strength-conferring Soma juice: Quaff, pour down drink that satisfies.\np:Indra, with all the Devas promote our wealth-bestowing offering, Thou highly-lauded Lord of men.\np:Lord of the brave, to thee proceed these drops of Soma juice expressed, the bright drops to thy dwelling-place.\np:Within thy belly, Indra, take juice, Soma the most excellent: Thine are the drops celestial.\np:Drink our libation, Lord of hymns: with streams of meath thou art bedewed Our glory, Indra, is thy gift.\np:To Indra go the treasures of the worshipper, which never fail: He drinks the Soma and is strong\np:From far away, from near at hand, O Indra, come to us: Accept the songs we sing to thee.\np:When from the space between the near and far thou art invoked by us, thence, Indra. come thou hitherward.",
+    "meta": {
+      "next": "03041",
+      "previous": "03039",
+      "book": "03",
+      "source": "https://sacred-texts.com/hin/rigveda/rv03040.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv03040.htm"
+    },
+    "deities": [
+      {
+        "name": "O Indra",
+        "hymns": [
+          {
+            "key": "03040",
+            "title": "HYMN XL. Indra."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638554462300,
-  "updated": 1638792007640
+  "updated": 1638830292064
 }

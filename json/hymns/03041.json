@@ -5,13 +5,42 @@
   "link": "hymns/03041.html",
   "api": "json/hymns/03041.json",
   "data": {
+    "key": "03041",
     "title": "HYMN XLI. Indra.",
     "describe": "INVOKED  juice, come with thy Bay Steeds, Thunder-armed Come, Indra, hitherward to me.",
-    "feecting": "p:INVOKED  juice, come with thy Bay Steeds, Thunder-armed Come, Indra, hitherward to me.\np:Our priest is seated, true to time; the grass is regularly strewn; The pressing-stones were set at morn.\np:These prayers, O thou who hearest prayer are offered: seat thee on the grass.\np: Hero, enjoy the offered cake.\r\np:O V&#7771;tra-slayer, be thou pleased with these libations, with these hymns, Song-loving Indra, with our lauds.\np:Our hymns caress the Lord of Strength, vast, drinker of the Soma's juice, Indra, as mother-cows their calf.\np:Delight thee with the juice we pour for thine own great munificence: Yield not thy singer to reproach.\np:We, Indra, dearly loving thee, bearing oblation, sing thee hymns Thou, Vasu, dearly lovest us.\np:O thou to whom thy Bays are dear, loose not thy Horses far from us: Here glad thee, Indra, Lord divine.\np:May long-maned Coursers, dropping oil, bring thee on swift car hitherward, Indra, to seat thee on the grass.",
-    "next": "03042",
-    "previous": "03040",
-    "book": "03"
+    "feecting": "p:INVOKED  juice, come with thy Bay Steeds, Thunder-armed Come, Indra, hitherward to me.\np:Our priest is seated, true to time; the grass is regularly strewn; The pressing-stones were set at morn.\np:These prayers, O thou who hearest prayer are offered: seat thee on the grass.\np: Hero, enjoy the offered cake.\r\np:O Indra, be thou pleased with these libations, with these hymns, Song-loving Indra, with our lauds.\np:Our hymns caress the Lord of Strength, vast, drinker of the Soma's juice, Indra, as mother-cows their calf.\np:Delight thee with the juice we pour for thine own great munificence: Yield not thy singer to reproach.\np:We, Indra, dearly loving thee, bearing oblation, sing thee hymns Thou, Vasu, dearly lovest us.\np:O thou to whom thy Bays are dear, loose not thy Horses far from us: Here glad thee, Indra, Lord divine.\np:May long-maned Coursers, dropping oil, bring thee on swift car hitherward, Indra, to seat thee on the grass.",
+    "meta": {
+      "next": "03042",
+      "previous": "03040",
+      "book": "03",
+      "source": "https://sacred-texts.com/hin/rigveda/rv03041.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv03041.htm"
+    },
+    "deities": [
+      {
+        "name": "O thou",
+        "hymns": [
+          {
+            "key": "03041",
+            "title": "HYMN XLI. Indra."
+          },
+          {
+            "key": "03041",
+            "title": "HYMN XLI. Indra."
+          }
+        ]
+      },
+      {
+        "name": "O Indra",
+        "hymns": [
+          {
+            "key": "03041",
+            "title": "HYMN XLI. Indra."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638554467560,
-  "updated": 1638792007643
+  "updated": 1638830292065
 }

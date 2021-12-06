@@ -5,13 +5,29 @@
   "link": "hymns/10166.html",
   "api": "json/hymns/10166.json",
   "data": {
-    "title": "HYMN CLXVI. Sapatnan&#257;&#347;anam.",
+    "key": "10166",
+    "title": "HYMN CLXVI. Sapatnanāśanam.",
     "describe": false,
-    "feecting": "p:MAKE me a bull among my peers, make me my rivals, conqueror: Make me the slayer of my foes, a sovran ruler, lord of kine\np:I am my rivals&#146; slayer, like Indra unwounded and unhurt, and all these enemies of mine are vanquished and beneath my feet.\np:Here, verily, I bind you fast, as the two bow-ends with the string.\np: Press down these men, O Lord of Speech, that the, may humbly speak to me.\r\np:Hither I came as conqueror with mighty all-effecting power, and I have mastered all your thought, your synod, and your holy work.\np:May I be highest, having gained your strength in war, your skill in peace my feet have trodden on your heads. Speak to me from beneath my feet, as frogs from out the water croak, as frogs from out the water croak.",
-    "next": "10167",
-    "previous": "10165",
-    "book": "10"
+    "feecting": "p:MAKE me a bull among my peers, make me my rivals, conqueror: Make me the slayer of my foes, a sovran ruler, lord of kine\np:I am my rivals’ slayer, like Indra unwounded and unhurt, and all these enemies of mine are vanquished and beneath my feet.\np:Here, verily, I bind you fast, as the two bow-ends with the string.\np: Press down these men, O Lord of Speech, that the, may humbly speak to me.\r\np:Hither I came as conqueror with mighty all-effecting power, and I have mastered all your thought, your synod, and your holy work.\np:May I be highest, having gained your strength in war, your skill in peace my feet have trodden on your heads. Speak to me from beneath my feet, as frogs from out the water croak, as frogs from out the water croak.",
+    "meta": {
+      "next": "10167",
+      "previous": "10165",
+      "book": "10",
+      "source": "https://sacred-texts.com/hin/rigveda/rv10166.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv10166.htm"
+    },
+    "deities": [
+      {
+        "name": "O Lord",
+        "hymns": [
+          {
+            "key": "10166",
+            "title": "HYMN CLXVI. Sapatnanāśanam."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638558316646,
-  "updated": 1638792008601
+  "updated": 1638830293252
 }

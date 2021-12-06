@@ -5,13 +5,19 @@
   "link": "hymns/10189.html",
   "api": "json/hymns/10189.json",
   "data": {
-    "title": "HYMN CLXXXIX. S&#363;rya.",
+    "key": "10189",
+    "title": "HYMN CLXXXIX. Sūrya.",
     "describe": "THIS spotted Bull hath come, and sat before the Mother in the east, Advancing to his Father Heaven.",
     "feecting": "p:THIS spotted Bull hath come, and sat before the Mother in the east, Advancing to his Father Heaven.\np:Expiring when he draws his breath, she moves along the lucid spheres: The Bull shines out through all the sky.\np:Song is bestowed upon the Bird: it rules supreme through thirty realms Throughout the days at break of morn.",
-    "next": "10190",
-    "previous": "10188",
-    "book": "10"
+    "meta": {
+      "next": "10190",
+      "previous": "10188",
+      "book": "10",
+      "source": "https://sacred-texts.com/hin/rigveda/rv10189.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv10189.htm"
+    },
+    "deities": []
   },
   "created": 1638558439167,
-  "updated": 1638792008617
+  "updated": 1638830293270
 }

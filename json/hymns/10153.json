@@ -5,13 +5,29 @@
   "link": "hymns/10153.html",
   "api": "json/hymns/10153.json",
   "data": {
+    "key": "10153",
     "title": "HYMN CLIII. Indra.",
     "describe": "SWAYING about, the Active Ones came nigh to Indra at his birth, and shared his great heroic might.",
-    "feecting": "p:SWAYING about, the Active Ones came nigh to Indra at his birth, and shared his great heroic might.\np:Based upon strength and victory and power, O Indra is thy birth: Thou, Mighty One, art strong indeed.\np:Thou art the V&#7771;tra-slayer Indra, hast spread the Firmament: Thou hast with might upheld the heavens.\np:Thou, Indra, bearest in thine arms the lightning that accords with thee, Whetting thy thunderbolt with might.\np:Thou, Indra, art preeminent over all creatures in thy might: Thou hast pervaded every place.",
-    "next": "10154",
-    "previous": "10152",
-    "book": "10"
+    "feecting": "p:SWAYING about, the Active Ones came nigh to Indra at his birth, and shared his great heroic might.\np:Based upon strength and victory and power, O Indra is thy birth: Thou, Mighty One, art strong indeed.\np:Thou art Indra, hast spread the Firmament: Thou hast with might upheld the heavens.\np:Thou, Indra, bearest in thine arms the lightning that accords with thee, Whetting thy thunderbolt with might.\np:Thou, Indra, art preeminent over all creatures in thy might: Thou hast pervaded every place.",
+    "meta": {
+      "next": "10154",
+      "previous": "10152",
+      "book": "10",
+      "source": "https://sacred-texts.com/hin/rigveda/rv10153.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv10153.htm"
+    },
+    "deities": [
+      {
+        "name": "O Indra",
+        "hymns": [
+          {
+            "key": "10153",
+            "title": "HYMN CLIII. Indra."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638558247919,
-  "updated": 1638792008589
+  "updated": 1638830293240
 }

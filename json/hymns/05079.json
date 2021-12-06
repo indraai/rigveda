@@ -5,13 +5,83 @@
   "link": "hymns/05079.html",
   "api": "json/hymns/05079.json",
   "data": {
+    "key": "05079",
     "title": "HYMN LXXIX. Dawn.",
     "describe": "O HEAVENLY Dawn, awaken us to ample opulence to-day Even as thou hast wakened us with Satyasravas, Vayya's son, high-born!",
-    "feecting": "p:O HEAVENLY Dawn, awaken us to ample opulence to-day Even as thou hast wakened us with Satyasravas, Vayya's son, high-born! delightful with thy steeds!\np:Daughter of Heaven, thou dawnedst on Sunitha Sucadratha's son, So dawn thou on one mightier still, on Satyasravas, Vayya's son, high-born! delightful with thy steeds!\np:So, bringing treasure, dawn to-day on us thou Daughter of the Sky, as thou, O mightier yet. didst shine for Satyatravas, Vayya's son, high-born! delightful with thy steeds!\np:Here round about thee are the monks who laud thee, Bright One, with their hymns, and men with gifts, O Bounteous Dame, splendid with wealth and offering much, high-born! delightful with thy steeds!\np:Whatever these thy bands perform to please thee or to win them wealth, E&#146;en fain they gird us round and give rich gifts which ne&#146;er are reft away, high-born! delightful with thy steeds!\np:Give to these wealthy patrons fame, O affluent Dawn, with hero sons, to these our princes who have brought rich gifts ne&#146;er to be reft away, highborn! delightful with thy steeds!\np:Bring lofty and resplendent fame, O thou munificent Dawn, to these Our wealthy patrons who bestow rich gifts on us of steeds and kine, high-born! delightful with thy steeds!\np:Bring us, subsistence in our herds of kine, together with the sunbeams, with the shine of pure refulgent flames, highborn! delightful with thy steeds!\np:O Daughter of the Sky, shine forth; delay not to perform thy task.\np: Let not the Sun with fervent heat consume thee like a robber foe, high-born! delightful with the steeds!\r\np:So much, and more exceedingly, O Dawn, it suits thee to bestow, Thou Radiant One who ceasest not to shine for those who sing thy praise, highborn! delightful with thy steeds!",
-    "next": "05080",
-    "previous": "05078",
-    "book": "05"
+    "feecting": "p:O HEAVENLY Dawn, awaken us to ample opulence to-day Even as thou hast wakened us with Satyasravas, Vayya's son, high-born! delightful with thy steeds!\np:Daughter of Heaven, thou dawnedst on Sunitha Sucadratha's son, So dawn thou on one mightier still, on Satyasravas, Vayya's son, high-born! delightful with thy steeds!\np:So, bringing treasure, dawn to-day on us thou Daughter of the Sky, as thou, O mightier yet. didst shine for Satyatravas, Vayya's son, high-born! delightful with thy steeds!\np:Here round about thee are the monks who laud thee, Bright One, with their hymns, and men with gifts, O Bounteous Dame, splendid with wealth and offering much, high-born! delightful with thy steeds!\np:Whatever these thy bands perform to please thee or to win them wealth, E’en fain they gird us round and give rich gifts which ne’er are reft away, high-born! delightful with thy steeds!\np:Give to these wealthy patrons fame, O affluent Dawn, with hero sons, to these our princes who have brought rich gifts ne’er to be reft away, highborn! delightful with thy steeds!\np:Bring lofty and resplendent fame, O thou munificent Dawn, to these Our wealthy patrons who bestow rich gifts on us of steeds and kine, high-born! delightful with thy steeds!\np:Bring us, subsistence in our herds of kine, together with the sunbeams, with the shine of pure refulgent flames, highborn! delightful with thy steeds!\np:O Daughter of the Sky, shine forth; delay not to perform thy task.\np: Let not the Sun with fervent heat consume thee like a robber foe, high-born! delightful with the steeds!\r\np:So much, and more exceedingly, O Dawn, it suits thee to bestow, Thou Radiant One who ceasest not to shine for those who sing thy praise, highborn! delightful with thy steeds!",
+    "meta": {
+      "next": "05080",
+      "previous": "05078",
+      "book": "05",
+      "source": "https://sacred-texts.com/hin/rigveda/rv05079.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv05079.htm"
+    },
+    "deities": [
+      {
+        "name": "O HEAVENLY",
+        "hymns": [
+          {
+            "key": "05079",
+            "title": "HYMN LXXIX. Dawn."
+          }
+        ]
+      },
+      {
+        "name": "O mightier",
+        "hymns": [
+          {
+            "key": "05079",
+            "title": "HYMN LXXIX. Dawn."
+          }
+        ]
+      },
+      {
+        "name": "O Bounteous",
+        "hymns": [
+          {
+            "key": "05079",
+            "title": "HYMN LXXIX. Dawn."
+          }
+        ]
+      },
+      {
+        "name": "O affluent",
+        "hymns": [
+          {
+            "key": "05079",
+            "title": "HYMN LXXIX. Dawn."
+          }
+        ]
+      },
+      {
+        "name": "O thou",
+        "hymns": [
+          {
+            "key": "05079",
+            "title": "HYMN LXXIX. Dawn."
+          }
+        ]
+      },
+      {
+        "name": "O Daughter",
+        "hymns": [
+          {
+            "key": "05079",
+            "title": "HYMN LXXIX. Dawn."
+          }
+        ]
+      },
+      {
+        "name": "O Dawn",
+        "hymns": [
+          {
+            "key": "05079",
+            "title": "HYMN LXXIX. Dawn."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638555304190,
-  "updated": 1638792007837
+  "updated": 1638830292325
 }

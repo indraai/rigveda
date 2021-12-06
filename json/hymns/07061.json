@@ -5,13 +5,42 @@
   "link": "hymns/07061.html",
   "api": "json/hymns/07061.json",
   "data": {
-    "title": "HYMN LXI. Mitra-Varu&#7751;a.",
-    "describe": "O VARUNA and Mitra, S&#363;",
-    "feecting": "p:O VARUNA and Mitra, S&#363;rya spreading the beauteous light of you Twain Devas ariseth.\np: He who beholdetb all existing creatures observetb well the zeal that is in mortals.\r\np:The holy sage, renowned afar, directeth his hymns to you, O Varu&#7751;a and Mitra,&#151; He whose devotions, sapient Devas, ye favour so that ye fill, as &#146;twere, with power his autumns.\np:From the wide Earth, O Varu&#7751;a and Mitra from the great lofty Heaven, ye, Bounteous Givers, - Have in the fields and houses set your warder-, who visit every spot and watch unceasing.\np:I praise the strength of Varu&#7751;a and Mitra that strength, by mightiness, keeps both worlds asunder. Heroless pass the months of the ungodly he who loves offering makes his home enduring.\np:Steers, all infallible are these your people in whom no wondrous thing is seen, no worship. Guile follows close the men who are untruthful: no secret. May be hidden from your knowledge.\np:I will exalt your offering with homage: as priest, I, Mitra-Varu&#7751;a, invoke you. May these new hymns and prayers that I have fashioned delight you to the profit of the singer.\np:This priestly task, Devas! Varu&#7751;a and Mitra! hath been performed for you at offers. Convey us safely over every peril. Preserve us evermore, ye Devas, with blessings.",
-    "next": "07062",
-    "previous": "07060",
-    "book": "07"
+    "key": "07061",
+    "title": "HYMN LXI. Mitra-Indra.",
+    "describe": "O VARUNA and Mitra, Sūrya spreading the beauteous light of you Twain Devas ariseth.",
+    "feecting": "p:O VARUNA and Mitra, Sūrya spreading the beauteous light of you Twain Devas ariseth.\np: He who beholdetb all existing creatures observetb well the zeal that is in mortals.\r\np:The holy sage, renowned afar, directeth his hymns to you, O Indra and Mitra. He whose devotions, sapient Devas, ye favour so that ye fill, as ’twere, with power his autumns.\np:From the wide Earth, O Indra and Mitra from the great lofty Heaven, ye, Bounteous Givers, - Have in the fields and houses set your warder-, who visit every spot and watch unceasing.\np:I praise the strength of Indra and Mitra that strength, by mightiness, keeps both worlds asunder. Heroless pass the months of the ungodly he who loves offering makes his home enduring.\np:Steers, all infallible are these your people in whom no wondrous thing is seen, no worship. Guile follows close the men who are untruthful: no secret. May be hidden from your knowledge.\np:I will exalt your offering with homage: as priest, I invoke you. May these new hymns and prayers that I have fashioned delight you to the profit of the singer.\np:This priestly task, Devas! Indra and Mitra! hath been performed for you at offers. Convey us safely over every peril. Preserve us evermore, ye Devas, with blessings.",
+    "meta": {
+      "next": "07062",
+      "previous": "07060",
+      "book": "07",
+      "source": "https://sacred-texts.com/hin/rigveda/rv07061.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv07061.htm"
+    },
+    "deities": [
+      {
+        "name": "O VARUNA",
+        "hymns": [
+          {
+            "key": "07061",
+            "title": "HYMN LXI. Mitra-Indra."
+          }
+        ]
+      },
+      {
+        "name": "O Indra",
+        "hymns": [
+          {
+            "key": "07061",
+            "title": "HYMN LXI. Mitra-Indra."
+          },
+          {
+            "key": "07061",
+            "title": "HYMN LXI. Mitra-Indra."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638556064494,
-  "updated": 1638792008005
+  "updated": 1638830292580
 }

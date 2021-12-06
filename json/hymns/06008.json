@@ -5,13 +5,51 @@
   "link": "hymns/06008.html",
   "api": "json/hymns/06008.json",
   "data": {
+    "key": "06008",
     "title": "HYMN VIII. Agni.",
-    "describe": "AT J&#257;",
-    "feecting": "p:AT J&#257;tavedas' holy gathering I will tell aloud the conquering might of the swift red-hued Steer.\np: A pure and fresher hymn flows to Vai&#347;v&#257;nara, even as for Agni lovely Soma is made pure.\r\np:That Agni, when in loftiest Heaven he sprang to life, Guardian of Holy Laws, kept and observed them well. Exceeding wise, he measured out the Firmament. Vai&#347;v&#257;nara attained to Heaven by mightiness.\np:Wonderful Mitra propped the Heaven and Earth apart, and covered and concealed the darkness with his light. He made the two bowls part asunder like two skins. Vai&#347;v&#257;nara put forth all his creative power.\np:The Migbty seized him in the bosom of the floods: the people waited on the King who should be praised. As envoy of Vivasv&#257;n MatariSvan brought Agni Vai&#347;v&#257;nara hither from far away.\np:In every age bestow upon the singers wealth, worthy of holy synods, glorious, ever new. King, undecaying, as it were with sharpened bolt, smite down the sinner like a tree with lightning-flash.\np:Do thou bestow, O Agni, on our wealthy chiefs, rule, with good heroes, undecaying, bending not. May we win for us strength. O Vai&#347;v&#257;nara, hundredfold, thousandfold, O Agni, by thy help.\np:O thou who dwellest in three places. Helper, keep with effective guards our princely patrons. Keep our band, Agni, who have brought thee presents. Lengthen their lives, Vai&#347;v&#257;nara, when lauded.",
-    "next": "06009",
-    "previous": "06007",
-    "book": "06"
+    "describe": "AT Jātavedas' holy gathering I will tell aloud the conquering might of the swift red-hued Steer.",
+    "feecting": "p:AT Jātavedas' holy gathering I will tell aloud the conquering might of the swift red-hued Steer.\np: A pure and fresher hymn flows to Vaiśvānara, even as for Agni lovely Soma is made pure.\r\np:That Agni, when in loftiest Heaven he sprang to life, Guardian of Holy Laws, kept and observed them well. Exceeding wise, he measured out the Firmament. Vaiśvānara attained to Heaven by mightiness.\np:Wonderful Mitra propped the Heaven and Earth apart, and covered and concealed the darkness with his light. He made the two bowls part asunder like two skins. Vaiśvānara put forth all his creative power.\np:The Migbty seized him in the bosom of the floods: the people waited on the King who should be praised. As envoy of Vivasvān MatariSvan brought Agni Vaiśvānara hither from far away.\np:In every age bestow upon the singers wealth, worthy of holy synods, glorious, ever new. King, undecaying, as it were with sharpened bolt, smite down the sinner like a tree with lightning-flash.\np:Do thou bestow, O Agni, on our wealthy chiefs, rule, with good heroes, undecaying, bending not. May we win for us strength. O Vaiśvānara, hundredfold, thousandfold, O Agni, by thy help.\np:O thou who dwellest in three places. Helper, keep with effective guards our princely patrons. Keep our band, Agni, who have brought thee presents. Lengthen their lives when lauded.",
+    "meta": {
+      "next": "06009",
+      "previous": "06007",
+      "book": "06",
+      "source": "https://sacred-texts.com/hin/rigveda/rv06008.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv06008.htm"
+    },
+    "deities": [
+      {
+        "name": "O Agni",
+        "hymns": [
+          {
+            "key": "06008",
+            "title": "HYMN VIII. Agni."
+          },
+          {
+            "key": "06008",
+            "title": "HYMN VIII. Agni."
+          }
+        ]
+      },
+      {
+        "name": "O Vai",
+        "hymns": [
+          {
+            "key": "06008",
+            "title": "HYMN VIII. Agni."
+          }
+        ]
+      },
+      {
+        "name": "O thou",
+        "hymns": [
+          {
+            "key": "06008",
+            "title": "HYMN VIII. Agni."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638555388660,
-  "updated": 1638792007855
+  "updated": 1638830292347
 }

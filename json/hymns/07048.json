@@ -5,13 +5,19 @@
   "link": "hymns/07048.html",
   "api": "json/hymns/07048.json",
   "data": {
-    "title": "HYMN XLVIII. &#7770;bhus.",
-    "describe": "YE liberal Heroes, V&#257;",
-    "feecting": "p:YE liberal Heroes, V&#257;jas and &#7770;bhuk&#7779;ans, come and delight you with our flowing Soma.\np: May your strength, Vibhus, as ye come to meet us, turn hitherward your car that brings men profit.\r\np:May we as &#7770;bhu with your &#7770;bhus conquer strength with our strength, as Vibhus with the Vibhus. May V&#257;ja aid us in the fight for booty, and helped by Indr. May we quell the foeman.\np:For they rule many tribes with high dominion, and conquer all their foes in close encounter. May Indra, Vibhvan, V&#257;ja, and &#7770;bhuk&#7779;an destroy by turns the wicked foeman's valour.\np:Now, Deities, give us ample room and freedom: be all of you, one-minded, our protection. So let the Devas grant us strength and vigour. Preserve us evermore, ye Devas, with blessings.",
-    "next": "07049",
-    "previous": "07047",
-    "book": "07"
+    "key": "07048",
+    "title": "HYMN XLVIII. Ṛbhus.",
+    "describe": "YE liberal Heroes, Vājas and Ṛbhukṣans, come and delight you with our flowing Soma.",
+    "feecting": "p:YE liberal Heroes, Vājas and Ṛbhukṣans, come and delight you with our flowing Soma.\np: May your strength, Vibhus, as ye come to meet us, turn hitherward your car that brings men profit.\r\np:May we as Ṛbhu with your Ṛbhus conquer strength with our strength, as Vibhus with the Vibhus. May Vāja aid us in the fight for booty, and helped by Indr. May we quell the foeman.\np:For they rule many tribes with high dominion, and conquer all their foes in close encounter. May Indra, Vibhvan, Vāja, and Ṛbhukṣan destroy by turns the wicked foeman's valour.\np:Now, Deities, give us ample room and freedom: be all of you, one-minded, our protection. So let the Devas grant us strength and vigour. Preserve us evermore, ye Devas, with blessings.",
+    "meta": {
+      "next": "07049",
+      "previous": "07047",
+      "book": "07",
+      "source": "https://sacred-texts.com/hin/rigveda/rv07048.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv07048.htm"
+    },
+    "deities": []
   },
   "created": 1638555995700,
-  "updated": 1638792007990
+  "updated": 1638830292564
 }

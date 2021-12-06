@@ -5,13 +5,29 @@
   "link": "hymns/05016.html",
   "api": "json/hymns/05016.json",
   "data": {
+    "key": "05016",
     "title": "HYMN XVI. Agni.",
     "describe": "GREAT power is in the beam of light, sing praise to, Agni, to the Deva Whom men have set in foremost place like Mitra with their eulogies.",
     "feecting": "p:GREAT power is in the beam of light, sing praise to, Agni, to the Deva Whom men have set in foremost place like Mitra with their eulogies.\np:He by the splendour of his arms is Monk of every able man.\np: Agni conveys oblation straight, and deals, as Bhaga deals, his boons.\r\np:All rests upon the laud and love of him the rich, high-flaming Deva, On whom, loud-roaring, men have laid great strength as on a faithful friend.\np:So, Agni, be the Friend of these with liberal gift of hero strength. Yea. Heaven and Earth have not surpassed this Youthful One in glorious fame.\np:O Agni, quickly come to us, and, glorified, bring precious wealth. So we and these our princes will assemble for the good of all. Be near in fight to prosper us.",
-    "next": "05017",
-    "previous": "05015",
-    "book": "05"
+    "meta": {
+      "next": "05017",
+      "previous": "05015",
+      "book": "05",
+      "source": "https://sacred-texts.com/hin/rigveda/rv05016.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv05016.htm"
+    },
+    "deities": [
+      {
+        "name": "O Agni",
+        "hymns": [
+          {
+            "key": "05016",
+            "title": "HYMN XVI. Agni."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638554969675,
-  "updated": 1638792007762
+  "updated": 1638830292232
 }

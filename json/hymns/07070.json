@@ -5,13 +5,33 @@
   "link": "hymns/07070.html",
   "api": "json/hymns/07070.json",
   "data": {
-    "title": "HYMN LXX. A&#347;vins.",
-    "describe": "RICH in all blessings, A&#347;",
-    "feecting": "p:RICH in all blessings, A&#347;vins come ye hither: this place on Earth is called your own possession, like a strong horse with a fair back it standeth, whereon, as in a lap, ye seat you firmly.\np:This most delightful eulogy awaits you in the man's house drink-offering hath been heated, Which bringeth you over the seas and rivers, yoking as&#146;twere two well-matched shining horses.\np:Whatever dwellings ye possess, O A&#347;vins, in fields of men or in the streams of Heaven, Resting upon the summit of the mountain, or bringing food to him who gives oblation,\np:Delight yourselves, ye Devas, in plants and waters when &#7770;&#7779;is give them and ye find they suit You.\np: Enriching us with treasures in abundance ye have looked back to former generations.\r\np:A&#347;vins, though ye have heard them oft aforetime, regard the many prayers which &#7770;&#7779;is offer. Come to the man even as his heart desireth. May we enjoy your most delightful favour.\np:Come to the offering offered you, N&#257;satyas, with men, oblations, and prayer duly uttered. Come to Vasi&#7779;&#7789;ha as his heart desireth, for unto you these holy hymns are chanted.\np:This is the thought, this is the song, O A&#347;vins: accept this hymn of ours, ye Steers, with favour. May these our meditations addressed to you come nigh you. Preserve us evermore, ye Devas, with blessings.",
-    "next": "07071",
-    "previous": "07069",
-    "book": "07"
+    "key": "07070",
+    "title": "HYMN LXX. Aśvins.",
+    "describe": "RICH in all blessings, Aśvins come ye hither: this place on Earth is called your own possession, like a strong horse with a fair back it standeth, whereon, as in a lap, ye seat you firmly.",
+    "feecting": "p:RICH in all blessings, Aśvins come ye hither: this place on Earth is called your own possession, like a strong horse with a fair back it standeth, whereon, as in a lap, ye seat you firmly.\np:This most delightful eulogy awaits you in the man's house drink-offering hath been heated, Which bringeth you over the seas and rivers, yoking as’twere two well-matched shining horses.\np:Whatever dwellings ye possess, O Aśvins, in fields of men or in the streams of Heaven, Resting upon the summit of the mountain, or bringing food to him who gives oblation,\np:Delight yourselves, ye Devas, in plants and waters when Ṛṣis give them and ye find they suit You.\np: Enriching us with treasures in abundance ye have looked back to former generations.\r\np:Aśvins, though ye have heard them oft aforetime, regard the many prayers which Ṛṣis offer. Come to the man even as his heart desireth. May we enjoy your most delightful favour.\np:Come to the offering offered you, Nāsatyas, with men, oblations, and prayer duly uttered. Come to Vasiṣṭha as his heart desireth, for unto you these holy hymns are chanted.\np:This is the thought, this is the song, O Aśvins: accept this hymn of ours, ye Steers, with favour. May these our meditations addressed to you come nigh you. Preserve us evermore, ye Devas, with blessings.",
+    "meta": {
+      "next": "07071",
+      "previous": "07069",
+      "book": "07",
+      "source": "https://sacred-texts.com/hin/rigveda/rv07070.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv07070.htm"
+    },
+    "deities": [
+      {
+        "name": "O Aśvins",
+        "hymns": [
+          {
+            "key": "07070",
+            "title": "HYMN LXX. Aśvins."
+          },
+          {
+            "key": "07070",
+            "title": "HYMN LXX. Aśvins."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638556112139,
-  "updated": 1638792008014
+  "updated": 1638830292593
 }

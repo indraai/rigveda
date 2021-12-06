@@ -5,13 +5,38 @@
   "link": "hymns/01171.html",
   "api": "json/hymns/01171.json",
   "data": {
+    "key": "01171",
     "title": "HYMN CLXXI. Devas.",
     "describe": "To you I come with this mine adoration, and with a hymn I crave the Strong Ones' favour a hymn that truly makes you joyful, Devas.",
-    "feecting": "p:To you I come with this mine adoration, and with a hymn I crave the Strong Ones' favour a hymn that truly makes you joyful, Devas. Suppress your anger and unyoke your horses.\np:Devas, to you this laud with prayer and worship, formed in the mind and heart, ye Devas, is offered.\np: Come ye to us, rejoicing in your spirit, for ye are they who make our meditation effective.\r\np:The Devas, praised by us, shall show us favour; Indra, lauded, shall be most propitious. Devas. May all our days that are to follow be very pleasant, lovely and triumphant.\np:O Devas, offerings meant for you have been made ready; these have we set aside.\np:By whom the M&#257;nas recognize the day-springs, by whose strength at the dawn of endless mornings. Give us, thou Mighty, glory with Devas. The Strong who givest triumph.\np:Do thou, O Indra, guard the conquering Heroes, and the Devas, with them the wise victorious and bestowing. May we find strengthening food in full abundance.",
-    "next": "01172",
-    "previous": "01170",
-    "book": "01"
+    "feecting": "p:To you I come with this mine adoration, and with a hymn I crave the Strong Ones' favour a hymn that truly makes you joyful, Devas. Suppress your anger and unyoke your horses.\np:Devas, to you this laud with prayer and worship, formed in the mind and heart, ye Devas, is offered.\np: Come ye to us, rejoicing in your spirit, for ye are they who make our meditation effective.\r\np:The Devas, praised by us, shall show us favour; Indra, lauded, shall be most propitious. Devas. May all our days that are to follow be very pleasant, lovely and triumphant.\np:O Devas, offerings meant for you have been made ready; these have we set aside.\np:By whose strength at the dawn of endless mornings. Give us, thou Mighty, glory with Devas. The Strong who givest triumph.\np:Do thou, O Indra, guard the conquering Heroes, and the Devas, with them the wise victorious and bestowing. May we find strengthening food in full abundance.",
+    "meta": {
+      "next": "01172",
+      "previous": "01170",
+      "book": "01",
+      "source": "https://sacred-texts.com/hin/rigveda/rv01171.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv01171.htm"
+    },
+    "deities": [
+      {
+        "name": "O Devas",
+        "hymns": [
+          {
+            "key": "01171",
+            "title": "HYMN CLXXI. Devas."
+          }
+        ]
+      },
+      {
+        "name": "O Indra",
+        "hymns": [
+          {
+            "key": "01171",
+            "title": "HYMN CLXXI. Devas."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638553916693,
-  "updated": 1638792007499
+  "updated": 1638830291893
 }

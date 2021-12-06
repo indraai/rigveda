@@ -5,13 +5,29 @@
   "link": "hymns/01137.html",
   "api": "json/hymns/01137.json",
   "data": {
-    "title": "HYMN CXXXVII. Mitra-Varu&#7751;a.",
+    "key": "01137",
+    "title": "HYMN CXXXVII. Mitra-Indra.",
     "describe": "WITH stones have we pressed out: O come;",
-    "feecting": "p:WITH stones have we pressed out: O come; these gladdening drops are blent with milk, these Soma-drops which gladden you.\np: Come to us, Kings who reach to Heaven, approach us, coming hitherward. These milky drops are yours, Mitra and Varu&#7751;a, bright Soma juices blent with milk.\r\np:Here are the droppings; come ye nigh the Soma-droppings blent with curd, juices expressed and blent with curd. Now for the wakening of your Dawn together with the Sun-Deva's rays, juice waits for Mitra and for Varu&#7751;a to drink, fair juice for drink, for offering.\np:As &#146;twere a radiant-coloured cow, they milk with stones the stalk for you, with stones they milk the Soma-plant. May ye come nigh us. May ye turn hither  juice. The men pressed out this juice, Mitra and Varu&#7751;a, pressed out this Soma for your drink.",
-    "next": "01138",
-    "previous": "01136",
-    "book": "01"
+    "feecting": "p:WITH stones have we pressed out: O come; these gladdening drops are blent with milk, these Soma-drops which gladden you.\np: Come to us, Kings who reach to Heaven, approach us, coming hitherward. These milky drops are yours, Mitra and Indra, bright Soma juices blent with milk.\r\np:Here are the droppings; come ye nigh the Soma-droppings blent with curd, juices expressed and blent with curd. Now for the wakening of your Dawn together with the Sun-Deva's rays, juice waits for Mitra and for Indra to drink, fair juice for drink, for offering.\np:As ’twere a radiant-coloured cow, they milk with stones the stalk for you, with stones they milk the Soma-plant. May ye come nigh us. May ye turn hither  juice. The men pressed out this juice, Mitra and Indra, pressed out this Soma for your drink.",
+    "meta": {
+      "next": "01138",
+      "previous": "01136",
+      "book": "01",
+      "source": "https://sacred-texts.com/hin/rigveda/rv01137.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv01137.htm"
+    },
+    "deities": [
+      {
+        "name": "O come",
+        "hymns": [
+          {
+            "key": "01137",
+            "title": "HYMN CXXXVII. Mitra-Indra."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638553736047,
-  "updated": 1638792007457
+  "updated": 1638830291834
 }

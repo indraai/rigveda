@@ -5,13 +5,19 @@
   "link": "hymns/09057.html",
   "api": "json/hymns/09057.json",
   "data": {
+    "key": "09057",
     "title": "HYMN LVII. Indu.",
     "describe": "THY streams that never fail or waste flow forth like showers of rain from Heaven, to bring a thousand stores of strength.",
     "feecting": "p:THY streams that never fail or waste flow forth like showers of rain from Heaven, to bring a thousand stores of strength.\np:He flows beholding on his way all wellbeloved sacred lore, Green-tinted, brandishing his, arms.\np:He, when the people deck him like a docile king of elephants.\np: Sits as a falcon in the, wood.\r\np:So bring thou hitherward to us, indu, while thou art purified, All treasures both of Heaven and Earth.",
-    "next": "09058",
-    "previous": "09056",
-    "book": "09"
+    "meta": {
+      "next": "09058",
+      "previous": "09056",
+      "book": "09",
+      "source": "https://sacred-texts.com/hin/rigveda/rv09057.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv09057.htm"
+    },
+    "deities": []
   },
   "created": 1638557135583,
-  "updated": 1638792008245
+  "updated": 1638830292871
 }

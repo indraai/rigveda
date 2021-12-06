@@ -5,13 +5,19 @@
   "link": "hymns/01188.html",
   "api": "json/hymns/01188.json",
   "data": {
-    "title": "HYMN CLXXXVIII. &#256;pr&#299;s.",
+    "key": "01188",
+    "title": "HYMN CLXXXVIII. Indu.",
     "describe": "WINNER of thousands, kindled, thou shinest with Devas to-day.",
-    "feecting": "p:WINNER of thousands, kindled, thou shinest with Devas to-day.\np: Bear out oblations, envoy, Sage.\r\np:Child of Thyself the offering is for the righteous, presenting offerings thousandfold.\np:Invoked and worthy of our praise bring Devas whose due is offerings: Thou, Agni, givest countless gifts.\np:To seat a thousand Heroes they eastward have strewn the grass with might, Whereon, &#256;dityas, ye shine forth.\np:The sovran all-imperial Doors, wide, good, many and manifold, have poured their streams of holy oil.\np:With bright adornment, fair to see, in glorious beauty shine they forth: Let Night and Morning rest them here.\np:Let these two Sages first of all, heralds divine and eloquent, perform for us this offering.\np:You I address, Sarasvat&#299;, and Bh&#257;rat&#299;, and I&#7735;&#257;, all: Urge ye us on to glorious fame.\np:Tva&#7779;&#7789;ar the Lord hath made all forms and all the cattle of the field Cause them to multiply for us.\np:Send to the Devas, thyself, the sacred offering: Let Agni make the oblations sweet.\np:Agni is honoured with the sacred song: He glows at offerings blest with Hail!",
-    "next": "01189",
-    "previous": "01187",
-    "book": "01"
+    "feecting": "p:WINNER of thousands, kindled, thou shinest with Devas to-day.\np: Bear out oblations, envoy, Sage.\r\np:Child of Thyself the offering is for the righteous, presenting offerings thousandfold.\np:Invoked and worthy of our praise bring Devas whose due is offerings: Thou, Agni, givest countless gifts.\np:To seat a thousand Heroes they eastward have strewn the grass with might, Whereon Devas ye shine forth.\np:The sovran all-imperial Doors, wide, good, many and manifold, have poured their streams of holy oil.\np:With bright adornment, fair to see, in glorious beauty shine they forth: Let Night and Morning rest them here.\np:Let these two Sages first of all, heralds divine and eloquent, perform for us this offering.\np:You urge ye us on to glorious fame.\n\np:Send to the Devas, thyself, the sacred offering: Let Agni make the oblations sweet.\np:Agni is honoured with the sacred song: He glows at offerings blest with Hail!",
+    "meta": {
+      "next": "01189",
+      "previous": "01187",
+      "book": "01",
+      "source": "https://sacred-texts.com/hin/rigveda/rv01188.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv01188.htm"
+    },
+    "deities": []
   },
   "created": 1638554006586,
-  "updated": 1638792007516
+  "updated": 1638830291916
 }

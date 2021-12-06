@@ -5,13 +5,19 @@
   "link": "hymns/01159.html",
   "api": "json/hymns/01159.json",
   "data": {
+    "key": "01159",
     "title": "HYMN CLIX. Heaven and Earth.",
     "describe": "I PRAISE with offers mighty Heaven and Earth at festivals, the wise, the Strengtheners of Law.",
     "feecting": "p:I PRAISE with offers mighty Heaven and Earth at festivals, the wise, the Strengtheners of Law.\np: Who, having Devas for progeny, conjoined with Devas, through wonder-working wisdom bring forth choicest boons.\r\np:With invocations, on the gracious Father's mind, and on the Mother's great inherent power I muse. Prolific Parents, they have made the world of life, and for their brood all round wide immortality.\np:These Sons of yours well skilled in work, of wondrous power, brought forth to life the two great Mothers first of all. To keep the truth of all that stands and all that moves, ye guard the station of your Son who knows no guile.\np:They with surpassing skill, most wise, have measured out the Twins united in their birth and in their home. They, the refulgent Sages, weave within the sky, yea, in the depths of sea, a web forever new.\np:This is to-day the goodliest gift of Indra: this thought we have when now the Deva is furthering us. On us with loving-kindness Heaven and Earth bestow riches and various wealth and treasure hundredfold!",
-    "next": "01160",
-    "previous": "01158",
-    "book": "01"
+    "meta": {
+      "next": "01160",
+      "previous": "01158",
+      "book": "01",
+      "source": "https://sacred-texts.com/hin/rigveda/rv01159.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv01159.htm"
+    },
+    "deities": []
   },
   "created": 1638553852646,
-  "updated": 1638792007480
+  "updated": 1638830291869
 }

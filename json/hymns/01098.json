@@ -5,13 +5,19 @@
   "link": "hymns/01098.html",
   "api": "json/hymns/01098.json",
   "data": {
+    "key": "01098",
     "title": "HYMN XCVIII. Agni.",
-    "describe": "STILL in Vai&#347;",
-    "feecting": "p:STILL in Vai&#347;v&#257;nara's grac. May we continue: yea, he is King supreme o&#146;er all things living.\np: Sprung hence to life upon this All he looketh. Vai&#347;v&#257;nara hath rivalry with S&#363;rya.\r\np:Present in Heaven, in Earth, all-present Agni,&#151;all plants that grow on ground hath he pervaded. May Agni. May Vai&#347;v&#257;nara with vigour, present, preserve us day and night from foemen.\np:Be this thy truth, Vai&#347;v&#257;nara, to us-ward: let wealth in rich abundance gather round us. This prayer of our. May Varu&#7751;a grant, and Mitra, and Aditi and Sindhu, Earth and Heaven.",
-    "next": "01099",
-    "previous": "01097",
-    "book": "01"
+    "describe": "STILL in Vaiśvānara's grac.",
+    "feecting": "p:STILL in Vaiśvānara's grac. May we continue: yea, he is King supreme o’er all things living.\np: Sprung hence to life upon this All he looketh. Vaiśvānara hath rivalry with Sūrya.\r\np:Present in Heaven, in Earth, all-present Agni.all plants that grow on ground hath he pervaded. May Agni. May Vaiśvānara with vigour, present, preserve us day and night from foemen.\np:Be this thy truth to us-ward: let wealth in rich abundance gather round us. This prayer of our. May Indra grant, and Mitra, and Aditi and Sindhu, Earth and Heaven.",
+    "meta": {
+      "next": "01099",
+      "previous": "01097",
+      "book": "01",
+      "source": "https://sacred-texts.com/hin/rigveda/rv01098.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv01098.htm"
+    },
+    "deities": []
   },
   "created": 1638553530165,
-  "updated": 1638792007402
+  "updated": 1638830291740
 }

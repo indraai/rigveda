@@ -5,13 +5,33 @@
   "link": "hymns/01140.html",
   "api": "json/hymns/01140.json",
   "data": {
+    "key": "01140",
     "title": "HYMN CXL. Agni.",
-    "describe": "To splendid Agni seated by the altar, loving well his home, I bring the food as &#146;",
-    "feecting": "p:To splendid Agni seated by the altar, loving well his home, I bring the food as &#146;twere his place of birth.\np: I clothe the bright One with my hymn as with a robe, him with the car of light, bright-hued, dispelling gloom.\r\np:Child of a double birth he grasps at triple food; in the year's course what he hath swallowed grows anew. He, by another's mouth and tongue a noble Bull, with other, as an elephant, consumes the trees.\np:The pair who dwell together, moving in the dark bestir themselves: both parents hasten to the babe, Impetuous-tongued, destroying, springing swiftly forth, one to be watched and cherished, strengthener of his sire.\np:For man, thou Friend of men, these steeds of thine are yoked, impatient, lightly running, ploughing blackened lines, Discordant-minded, fleet, gliding with easy speed, urged onward by the wind and rapid in their course.\np:Dispelling on their way the horror of black gloom, making a glorious show these flames of his fly forth, when o&#146;er the spacious tract he spreads himself abroad, and rushes panting on with thunder and with roar.\np:Amid brown plants he stoops as if adorning them, and rushes bellowing like a bull upon his wives. Proving his might, he decks the glory of his form, and shakes his horns like one terrific, hard to stay.\np:Now covered, now displayed he grasps as one who knows his resting-place in those who know him well. A second time they wax and gather Godlike power, and blending both together change their Parents' form.\np:The maidens with long, tresses hold him in embrace; dead, they rise up again to meet the Living One. Releasing them from age with a loud roar he comes, filling them with new spirit, living, unsubdued.\np:Licking the mantle of the Mother, far and wide he wanders over fields with beasts that flee apace. Strengthening all that walk, licking up all around, a blackened path, forsooth, he leaves where&#146;er he goes.\np:O Agni, shine resplendent with our wealthy chiefs, like a loud-snorting bull, accustomed to the house. Thou casting off thine infant wrappings blazest forth as though thou hadst put on a coat of mail for war.\np:May this our perfect prayer be dearer unto thee than an imperfect prayer although it please thee well. With the pure brilliancy that radiates from thy form. Mayest thou grant to us abundant store of wealth.\np:Grant to our chariot, to our house, O Agni, a boat with moving feet and constant oarage, One tha. May further well our wealthy princes and all the folk, and be our certain refuge.\np:Welcome our laud with thine approval, Agni. May Earth and Heaven and freely flowing rivers Yield us long life and food and corn and cattle, an. May the red Dawns choose for us their choicest.",
-    "next": "01141",
-    "previous": "01139",
-    "book": "01"
+    "describe": "To splendid Agni seated by the altar, loving well his home, I bring the food as ’twere his place of birth.",
+    "feecting": "p:To splendid Agni seated by the altar, loving well his home, I bring the food as ’twere his place of birth.\np: I clothe the bright One with my hymn as with a robe, him with the car of light, bright-hued, dispelling gloom.\r\np:Child of a double birth he grasps at triple food; in the year's course what he hath swallowed grows anew. He, by another's mouth and tongue a noble Bull, with other, as an elephant, consumes the trees.\np:The pair who dwell together, moving in the dark bestir themselves: both parents hasten to the babe, Impetuous-tongued, destroying, springing swiftly forth, one to be watched and cherished, strengthener of his sire.\np:For man, thou Friend of men, these steeds of thine are yoked, impatient, lightly running, ploughing blackened lines, Discordant-minded, fleet, gliding with easy speed, urged onward by the wind and rapid in their course.\np:Dispelling on their way the horror of black gloom, making a glorious show these flames of his fly forth, when o’er the spacious tract he spreads himself abroad, and rushes panting on with thunder and with roar.\np:Amid brown plants he stoops as if adorning them, and rushes bellowing like a bull upon his wives. Proving his might, he decks the glory of his form, and shakes his horns like one terrific, hard to stay.\np:Now covered, now displayed he grasps as one who knows his resting-place in those who know him well. A second time they wax and gather Godlike power, and blending both together change their Parents' form.\np:The maidens with long, tresses hold him in embrace; dead, they rise up again to meet the Living One. Releasing them from age with a loud roar he comes, filling them with new spirit, living, unsubdued.\np:Licking the mantle of the Mother, far and wide he wanders over fields with beasts that flee apace. Strengthening all that walk, licking up all around, a blackened path, forsooth, he leaves where’er he goes.\np:O Agni, shine resplendent with our wealthy chiefs, like a loud-snorting bull, accustomed to the house. Thou casting off thine infant wrappings blazest forth as though thou hadst put on a coat of mail for war.\np:May this our perfect prayer be dearer unto thee than an imperfect prayer although it please thee well. With the pure brilliancy that radiates from thy form. Mayest thou grant to us abundant store of wealth.\np:Grant to our chariot, to our house, O Agni, a boat with moving feet and constant oarage, One tha. May further well our wealthy princes and all the folk, and be our certain refuge.\np:Welcome our laud with thine approval, Agni. May Earth and Heaven and freely flowing rivers Yield us long life and food and corn and cattle, an. May the red Dawns choose for us their choicest.",
+    "meta": {
+      "next": "01141",
+      "previous": "01139",
+      "book": "01",
+      "source": "https://sacred-texts.com/hin/rigveda/rv01140.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv01140.htm"
+    },
+    "deities": [
+      {
+        "name": "O Agni",
+        "hymns": [
+          {
+            "key": "01140",
+            "title": "HYMN CXL. Agni."
+          },
+          {
+            "key": "01140",
+            "title": "HYMN CXL. Agni."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638553751871,
-  "updated": 1638792007460
+  "updated": 1638830291841
 }

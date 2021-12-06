@@ -5,13 +5,38 @@
   "link": "hymns/06039.html",
   "api": "json/hymns/06039.json",
   "data": {
+    "key": "06039",
     "title": "HYMN XXXIX Indra.",
     "describe": "OF this our charming, our celestial Soma, eloquent, wise, Monk, with inspired devotion, Of this thy close attendant, hast thou drunken.",
-    "feecting": "p:OF this our charming, our celestial Soma, eloquent, wise, Monk, with inspired devotion, Of this thy close attendant, hast thou drunken. Deva, send the singer food with milk to grace it.\np:Craving the kine, rushing against the mountain led on by Law, with holyminded comrades. He broke the never-broken ridge of Vala. With words of might Indra subdued the Pa&#7751;is.\np:This Indu lighted darksome nights, O Indra, throughout the years, at morning and at evening.\np: Him have they stablished as the days' bright ensign. He made the Mornings to be born in splendour.\r\np:He shone and caused to shme the worlds that shone not. By Law he lighted up the host of Mornings. He moves with Steeds yoked by eternal Order, contenting men with nave that finds the sunlight.\np:Now, praised, O Ancient King! fill thou the singer with plenteous food that h. May deal forth treasures. Give waters, herbs that have no poison, forests, and kine, and steeds, and men, to him who lauds thee.",
-    "next": "06040",
-    "previous": "06038",
-    "book": "06"
+    "feecting": "p:OF this our charming, our celestial Soma, eloquent, wise, Monk, with inspired devotion, Of this thy close attendant, hast thou drunken. Deva, send the singer food with milk to grace it.\np:Craving the kine, rushing against the mountain led on by Law, with holyminded comrades. He broke the never-broken ridge of Vala. With words of might Indra subdued the Paṇis.\np:This Indu lighted darksome nights, O Indra, throughout the years, at morning and at evening.\np: Him have they stablished as the days' bright ensign. He made the Mornings to be born in splendour.\r\np:He shone and caused to shme the worlds that shone not. By Law he lighted up the host of Mornings. He moves with Steeds yoked by eternal Order, contenting men with nave that finds the sunlight.\np:Now, praised, O Ancient King! fill thou the singer with plenteous food that h. May deal forth treasures. Give waters, herbs that have no poison, forests, and kine, and steeds, and men, to him who lauds thee.",
+    "meta": {
+      "next": "06040",
+      "previous": "06038",
+      "book": "06",
+      "source": "https://sacred-texts.com/hin/rigveda/rv06039.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv06039.htm"
+    },
+    "deities": [
+      {
+        "name": "O Indra",
+        "hymns": [
+          {
+            "key": "06039",
+            "title": "HYMN XXXIX Indra."
+          }
+        ]
+      },
+      {
+        "name": "O Ancient",
+        "hymns": [
+          {
+            "key": "06039",
+            "title": "HYMN XXXIX Indra."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638555552060,
-  "updated": 1638792007895
+  "updated": 1638830292395
 }

@@ -5,13 +5,60 @@
   "link": "hymns/06005.html",
   "api": "json/hymns/06005.json",
   "data": {
+    "key": "06005",
     "title": "HYMN V. Agni.",
     "describe": "I INVOCATE your Son of Strength, the Youthful, with hymns, the Youngest Deva, whose speech is guileless;",
-    "feecting": "p:I INVOCATE your Son of Strength, the Youthful, with hymns, the Youngest Deva, whose speech is guileless; Sage who sends wealth comprising every treasure, bringer of many boons, devoid of malice.\np:At eve and morn thy pious servants bring thee their precious gifts, O Monk of many aspects, On whom, the Purifier, all things living as on firm. ground their happiness have stablished.\np:Thou from of old hast dwelt among these people, by mental power the charioteer of blessings.\np: Hence sendest thou, O sapient J&#257;tavedas, to him who serves thee treasures in succession.\r\np:Agni, whoever secretly attacks us, the neighbour, thou with Mitra's might! who harms us, Burn him with thine own Steers forever youthful, burning with burning heat, thou fiercest burner.\np:He who serves thee with offering and fuel, with hymn, O Son of Strength, and chanted praises. Shines out, Immortal! in the midst of mortals, a sage, with wealth, with splendour and with glory.\np:Do this, O Agni, when we urge thee, quickly, triumphant in thy might subdue our foemen. When thou art praised with words and decked with brightness, accept this chanted hymn, the singer's worship.\np:Help us, that we may gain this wish, O Agni, gain riches, Wealthy One! with store of heroes. Desiring strength from the, may we be strengthened, and win, Eternal! thine eternal glory.",
-    "next": "06006",
-    "previous": "06004",
-    "book": "06"
+    "feecting": "p:I INVOCATE your Son of Strength, the Youthful, with hymns, the Youngest Deva, whose speech is guileless; Sage who sends wealth comprising every treasure, bringer of many boons, devoid of malice.\np:At eve and morn thy pious servants bring thee their precious gifts, O Monk of many aspects, On whom, the Purifier, all things living as on firm. ground their happiness have stablished.\np:Thou from of old hast dwelt among these people, by mental power the charioteer of blessings.\np: Hence sendest thou, O sapient Jātavedas, to him who serves thee treasures in succession.\r\np:Agni, whoever secretly attacks us, the neighbour, thou with Mitra's might! who harms us, Burn him with thine own Steers forever youthful, burning with burning heat, thou fiercest burner.\np:He who serves thee with offering and fuel, with hymn, O Son of Strength, and chanted praises. Shines out, Immortal! in the midst of mortals, a sage, with wealth, with splendour and with glory.\np:Do this, O Agni, when we urge thee, quickly, triumphant in thy might subdue our foemen. When thou art praised with words and decked with brightness, accept this chanted hymn, the singer's worship.\np:Help us, that we may gain this wish, O Agni, gain riches, Wealthy One! with store of heroes. Desiring strength from the, may we be strengthened, and win, Eternal! thine eternal glory.",
+    "meta": {
+      "next": "06006",
+      "previous": "06004",
+      "book": "06",
+      "source": "https://sacred-texts.com/hin/rigveda/rv06005.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv06005.htm"
+    },
+    "deities": [
+      {
+        "name": "O Monk",
+        "hymns": [
+          {
+            "key": "06005",
+            "title": "HYMN V. Agni."
+          }
+        ]
+      },
+      {
+        "name": "O sapient",
+        "hymns": [
+          {
+            "key": "06005",
+            "title": "HYMN V. Agni."
+          }
+        ]
+      },
+      {
+        "name": "O Son",
+        "hymns": [
+          {
+            "key": "06005",
+            "title": "HYMN V. Agni."
+          }
+        ]
+      },
+      {
+        "name": "O Agni",
+        "hymns": [
+          {
+            "key": "06005",
+            "title": "HYMN V. Agni."
+          },
+          {
+            "key": "06005",
+            "title": "HYMN V. Agni."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638555372912,
-  "updated": 1638792007852
+  "updated": 1638830292343
 }

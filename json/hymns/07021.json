@@ -5,13 +5,46 @@
   "link": "hymns/07021.html",
   "api": "json/hymns/07021.json",
   "data": {
+    "key": "07021",
     "title": "HYMN XXI. Indra.",
     "describe": "PRESSED is the juice divine with milk commingled: thereto hath Indra ever been accustomed.",
-    "feecting": "p:PRESSED is the juice divine with milk commingled: thereto hath Indra ever been accustomed.\np: We wake thee, Lord of Bays, with offers: mark this our laud in the wild joy of Soma.\r\np:On to the rite they move, the grass they scatter, these Soma-drinkers eloquent in synod. Hither, for men to grasp, are brought the press-stones, far-thundering, famous, strong, that wait on heroes.\np:Indra, thou settest free the many waters that were encompassed. Hero, by the Dragon. Down rolled, as if on chariots borne, the rivers: through fear of thee all things created tremble.\np:Skilled in all manly deeds the Deva terrific hath with his weapons mastered these opponents. Indra in rapturous joy shook down their castles he slew them in his might, the Thunder-wielder.\np:No evil spirits have impelled us, Indra, nor fiends, O Mightiest Deva, with their devices. Let our true God subdue the hostile rabble: let not the lewd approach our holy worship.\np:Thou in thy strength surpassest Earth and Heaven: the regions comprehend not all thy greatness. With thine own power and might thou slewest V&#7771;tra: no foe hath found the end of thee in battle.\np:Even the earlier Deities submitted their powers to thy supreme divine dominion. Indra wins wealth and deals it out to other's: men in the strife for booty call on Indra.\np:The humble hath invoked thee for protection, thee, Lord of great felicity, O Indra. Thou with a hundred aids hast been our Helper: one who brings gifts like thee hath his defender.\np:May we, O Indra, be thy friends forever, eagerly, Conqueror, yielding greater homage. May, through thy grace, the strength of us who battle quell in the shock the onset of the foeman.\np:Place us by food which thou hast given, O Indra, us and the wealthy patrons who command us. Let thy great power bring good to him who lauds thee. Ye Devas, preserve us evermore with blessings.",
-    "next": "07022",
-    "previous": "07020",
-    "book": "07"
+    "feecting": "p:PRESSED is the juice divine with milk commingled: thereto hath Indra ever been accustomed.\np: We wake thee, Lord of Bays, with offers: mark this our laud in the wild joy of Soma.\r\np:On to the rite they move, the grass they scatter, these Soma-drinkers eloquent in synod. Hither, for men to grasp, are brought the press-stones, far-thundering, famous, strong, that wait on heroes.\np:Indra, thou settest free the many waters that were encompassed. Hero, by the Dragon. Down rolled, as if on chariots borne, the rivers: through fear of thee all things created tremble.\np:Skilled in all manly deeds the Deva terrific hath with his weapons mastered these opponents. Indra in rapturous joy shook down their castles he slew them in his might, the Thunder-wielder.\np:No evil spirits have impelled us, Indra, nor fiends, O Mightiest Deva, with their devices. Let our true God subdue the hostile rabble: let not the lewd approach our holy worship.\np:Thou in thy strength surpassest Earth and Heaven: the regions comprehend not all thy greatness. With thine own power and might thou slewest Vṛtra: no foe hath found the end of thee in battle.\np:Even the earlier Deities submitted their powers to thy supreme divine dominion. Indra wins wealth and deals it out to other's: men in the strife for booty call on Indra.\np:The humble hath invoked thee for protection, thee, Lord of great felicity, O Indra. Thou with a hundred aids hast been our Helper: one who brings gifts like thee hath his defender.\np:May we, O Indra, be thy friends forever, eagerly, Conqueror, yielding greater homage. May, through thy grace, the strength of us who battle quell in the shock the onset of the foeman.\np:Place us by food which thou hast given, O Indra, us and the wealthy patrons who command us. Let thy great power bring good to him who lauds thee. Ye Devas, preserve us evermore with blessings.",
+    "meta": {
+      "next": "07022",
+      "previous": "07020",
+      "book": "07",
+      "source": "https://sacred-texts.com/hin/rigveda/rv07021.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv07021.htm"
+    },
+    "deities": [
+      {
+        "name": "O Mightiest",
+        "hymns": [
+          {
+            "key": "07021",
+            "title": "HYMN XXI. Indra."
+          }
+        ]
+      },
+      {
+        "name": "O Indra",
+        "hymns": [
+          {
+            "key": "07021",
+            "title": "HYMN XXI. Indra."
+          },
+          {
+            "key": "07021",
+            "title": "HYMN XXI. Indra."
+          },
+          {
+            "key": "07021",
+            "title": "HYMN XXI. Indra."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638555853352,
-  "updated": 1638792007961
+  "updated": 1638830292512
 }

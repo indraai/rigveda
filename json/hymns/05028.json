@@ -5,13 +5,29 @@
   "link": "hymns/05028.html",
   "api": "json/hymns/05028.json",
   "data": {
+    "key": "05028",
     "title": "HYMN XXVIII. Agni.",
     "describe": "AGNI inflamed hath sent to Heaven his lustre: he shines forth widely turning unto Morning.",
     "feecting": "p:AGNI inflamed hath sent to Heaven his lustre: he shines forth widely turning unto Morning.\np: Eastward the ladle goes that brings all blessing, praising the Devaswith homage and oblation.\r\np:Enkindled, thou art King of the immortal world: him who brings offerings thou attendest for his weal. He whom thou urgest on makes all possessions his: he sets before thee, Agni, gifts that guest. May claim.\np:Show thyself strong for mighty bliss, O Agni, most excellent be thine effulgent splendours. Make easy to maintain our household lordship, and overcome the might of those who hate us.\np:Thy glory, Agni, I adore, kindled, exalted in thy strength. A Steer of brilliant splendour, thou art lighted well at sacred rites.\np:Agni, invoked and kindled, serve the Devas, thou skilled in offering: For thou art bearer of our gifts.\np:Invoke and worship Agni while the sacrificial rite proceeds: For offering-bearer choose ye him.",
-    "next": "05029",
-    "previous": "05027",
-    "book": "05"
+    "meta": {
+      "next": "05029",
+      "previous": "05027",
+      "book": "05",
+      "source": "https://sacred-texts.com/hin/rigveda/rv05028.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv05028.htm"
+    },
+    "deities": [
+      {
+        "name": "O Agni",
+        "hymns": [
+          {
+            "key": "05028",
+            "title": "HYMN XXVIII. Agni."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638555033149,
-  "updated": 1638792007775
+  "updated": 1638830292243
 }

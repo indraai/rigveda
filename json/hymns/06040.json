@@ -5,13 +5,37 @@
   "link": "hymns/06040.html",
   "api": "json/hymns/06040.json",
   "data": {
+    "key": "06040",
     "title": "HYMN XL. Indra",
     "describe": "DRINK, Indra;",
-    "feecting": "p:DRINK, Indra; juice is shed to make thee joyful: loose thy Bay Steeds and give thy friends their freedom.\np: Begin the song, seated in our assembly. Give strength for offering to him who singeth.\r\np:Drink thou of this whereof at birth, O Indra, thou drankest, Mighty One for power and rapture. The men, the pressing-stones, the cows, the waters have made this Soma ready for thy drinking.\np:The fire is kindled, Soma pressed, O Indra: let thy Bays, best to draw, convey thee hither. With mind devoted, Indra, I invoke thee. Come, for our great prosperity approach us.\np:Indra, come hither: evermore thou camest through our great strong desire . Listen and hear the prayers which now we offer, and let this offering increase thy vigour.\np:Mayst thou, O Indra, on the day of trial, present or absent, wheresoe&#8217;er thou dwellest, thence, with thy team, accordant with the Devas, Song-lover! guard our offering, to help us.  \n<div class=\"filenav\">",
-    "next": "06041",
-    "previous": "06039",
-    "book": "06"
+    "feecting": "p:DRINK, Indra; juice is shed to make thee joyful: loose thy Bay Steeds and give thy friends their freedom.\np: Begin the song, seated in our assembly. Give strength for offering to him who singeth.\r\np:Drink thou of this whereof at birth, O Indra, thou drankest, Mighty One for power and rapture. The men, the pressing-stones, the cows, the waters have made this Soma ready for thy drinking.\np:The fire is kindled, Soma pressed, O Indra: let thy Bays, best to draw, convey thee hither. With mind devoted, Indra, I invoke thee. Come, for our great prosperity approach us.\np:Indra, come hither: evermore thou camest through our great strong desire . Listen and hear the prayers which now we offer, and let this offering increase thy vigour.\np:Mayst thou, O Indra, on the day of trial, present or absent, wheresoe’er thou dwellest, thence, with thy team, accordant with the Devas, Song-lover! guard our offering, to help us.  \n<div class=\"filenav\">",
+    "meta": {
+      "next": "06041",
+      "previous": "06039",
+      "book": "06",
+      "source": "https://sacred-texts.com/hin/rigveda/rv06040.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv06040.htm"
+    },
+    "deities": [
+      {
+        "name": "O Indra",
+        "hymns": [
+          {
+            "key": "06040",
+            "title": "HYMN XL. Indra"
+          },
+          {
+            "key": "06040",
+            "title": "HYMN XL. Indra"
+          },
+          {
+            "key": "06040",
+            "title": "HYMN XL. Indra"
+          }
+        ]
+      }
+    ]
   },
   "created": 1638555557316,
-  "updated": 1638792007895
+  "updated": 1638830292396
 }

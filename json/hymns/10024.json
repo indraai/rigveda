@@ -5,13 +5,38 @@
   "link": "hymns/10024.html",
   "api": "json/hymns/10024.json",
   "data": {
-    "title": "HYMN XXIV. Indra. A&#347;vins.",
+    "key": "10024",
+    "title": "HYMN XXIV. Indra. Aśvins.",
     "describe": "O INDRA, drink this Soma, pressed out in the mortar, full of sweets.",
-    "feecting": "p:O INDRA, drink this Soma, pressed out in the mortar, full of sweets.\np: Send down to us great riches,&#151;at your glad carouse-in thousands, O Most healthy. Thou art waxing great.\r\np:To thee with offeringss, with oblations, and with lauds we come. Lord of all strength and power, grant-at your glad carouse-the best choiceworthy treasure. Thou art waxing great.\np:Thou who art Lord of precious boons, inciter even of the churl. Guardian of singers, Indra,&#151;at your glad carouse-save us from woe and hatred. Thou art waxing great.\np:Strong, Lords of Magic power, ye Twain churned the united worlds apart, when ye, implored by Vimada, N&#257;satyas, forced apart the pair.\np:When the united pair were rent asunder all the Devas complained. The Devas to the N&#257;satyas cried, Bring these together once again.\np:Sweet be my going forth, and rich in sweets be my approach to home. So, through your Deity, both Devas, enrich us with all pleasantness.",
-    "next": "10025",
-    "previous": "10023",
-    "book": "10"
+    "feecting": "p:O INDRA, drink this Soma, pressed out in the mortar, full of sweets.\np: Send down to us great riches.at your glad carouse-in thousands, O Most healthy. Thou art waxing great.\r\np:To thee with offeringss, with oblations, and with lauds we come. Lord of all strength and power, grant-at your glad carouse-the best choiceworthy treasure. Thou art waxing great.\np:Thou who art Lord of precious boons, inciter even of the churl. Guardian of singers, Indra.at your glad carouse-save us from woe and hatred. Thou art waxing great.\np:Strong, Lords of Magic power, ye Twain churned the united worlds apart, when ye, implored by Vimada, Nāsatyas, forced apart the pair.\np:When the united pair were rent asunder all the Devas complained. The Devas to the Nāsatyas cried, Bring these together once again.\np:Sweet be my going forth, and rich in sweets be my approach to home. So, through your Deity, both Devas, enrich us with all pleasantness.",
+    "meta": {
+      "next": "10025",
+      "previous": "10023",
+      "book": "10",
+      "source": "https://sacred-texts.com/hin/rigveda/rv10024.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv10024.htm"
+    },
+    "deities": [
+      {
+        "name": "O INDRA",
+        "hymns": [
+          {
+            "key": "10024",
+            "title": "HYMN XXIV. Indra. Aśvins."
+          }
+        ]
+      },
+      {
+        "name": "O Most",
+        "hymns": [
+          {
+            "key": "10024",
+            "title": "HYMN XXIV. Indra. Aśvins."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638557563035,
-  "updated": 1638792008385
+  "updated": 1638830292998
 }

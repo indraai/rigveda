@@ -5,13 +5,42 @@
   "link": "hymns/04015.html",
   "api": "json/hymns/04015.json",
   "data": {
+    "key": "04015",
     "title": "HYMN XV. Agni.",
     "describe": "AGNI the Herald, like a horse, is led forth at our solemn rite, God among Devas adorable.",
-    "feecting": "p:AGNI the Herald, like a horse, is led forth at our solemn rite, God among Devas adorable.\np:Three times unto our solemn rite comes Agni like a charioteer, bearing the offerings to the Devas.\np:Round the oblations hath he paced, Agni the Wise, the Lord of Strength, giving the offerer precious boons.\np:He who is kindled eastward for S&#7771;&ntilde;jaya, Dev&#257;vata's son, Resplendent, tamer of the foe.\np:So mighty be the Agni whom the mortal hero shall command, with sharpened teeth and bountiful.\np:Day after day they dress him, as they clean a horse who wins the prize.\np: Dress the red Scion of the Sky.\r\np:When Sahadeva's princely son with two bay horses thought of me, Summoned by him I drew not back.\np:And truly those two noble bays I straightway took when offered me, From Sahadeva's princely son.\np:Long, O ye A&#347;vins. May he live, your care, ye Devas, the princely son. Of Sahadeva, Somaka.\np:Cause him the youthful prince, the son of Sahadeva, to enjoy Long life, O A&#347;vins, O ye Devas.",
-    "next": "04016",
-    "previous": "04014",
-    "book": "04"
+    "feecting": "p:AGNI the Herald, like a horse, is led forth at our solemn rite, God among Devas adorable.\np:Three times unto our solemn rite comes Agni like a charioteer, bearing the offerings to the Devas.\np:Round the oblations hath he paced, Agni the Wise, the Lord of Strength, giving the offerer precious boons.\np:He who is kindled eastward for Sṛñjaya, Devāvata's son, Resplendent, tamer of the foe.\np:So mighty be the Agni whom the mortal hero shall command, with sharpened teeth and bountiful.\np:Day after day they dress him, as they clean a horse who wins the prize.\np: Dress the red Scion of the Sky.\r\np:When Sahadeva's princely son with two bay horses thought of me, Summoned by him I drew not back.\np:And truly those two noble bays I straightway took when offered me, From Sahadeva's princely son.\np:Long, O ye Aśvins. May he live, your care, ye Devas, the princely son. Of Sahadeva, Somaka.\np:Cause him the youthful prince, the son of Sahadeva, to enjoy Long life, O Aśvins, O ye Devas.",
+    "meta": {
+      "next": "04016",
+      "previous": "04014",
+      "book": "04",
+      "source": "https://sacred-texts.com/hin/rigveda/rv04015.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv04015.htm"
+    },
+    "deities": [
+      {
+        "name": "O ye ",
+        "hymns": [
+          {
+            "key": "04015",
+            "title": "HYMN XV. Agni."
+          },
+          {
+            "key": "04015",
+            "title": "HYMN XV. Agni."
+          }
+        ]
+      },
+      {
+        "name": "O Aśvins",
+        "hymns": [
+          {
+            "key": "04015",
+            "title": "HYMN XV. Agni."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638554657314,
-  "updated": 1638792007684
+  "updated": 1638830292138
 }

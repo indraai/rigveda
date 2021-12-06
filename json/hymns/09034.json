@@ -5,13 +5,19 @@
   "link": "hymns/09034.html",
   "api": "json/hymns/09034.json",
   "data": {
+    "key": "09034",
     "title": "HYMN XXXIV. Indu.",
     "describe": "THE drop of Soma juice effused flows onward with this stream impelled.",
-    "feecting": "p:THE drop of Soma juice effused flows onward with this stream impelled.\np: Rending strong places with its might.\r\np:Poured forth to Indra, Varu&#7751;a, to V&#257;yu and the Marut hosts, to Vi&#7779;&#7751;u, flows the Soma juice.\np:With stones they press the Soma forth, the Strong conducted by the strong: They milk the liquor out with skill.\np:&#146;Tis he whom Trita must refine, &#146;tis he who shall make Indra glad: The Tawny One is decked with tints.\np:Him do the Sons of P&#7771;&#347;ni milk, the dwelling-place of offering, Oblation lovely and most dear.\np:To him in one unitcd stream th-,se songs flow on straight forward. he, Loud voiced, hath made the milch-kine low.",
-    "next": "09035",
-    "previous": "09033",
-    "book": "09"
+    "feecting": "p:THE drop of Soma juice effused flows onward with this stream impelled.\np: Rending strong places with its might.\r\np:Poured forth to Indra, Indra, to Soma and the Marut hosts, to Indra, flows the Soma juice.\np:With stones they press the Soma forth, the Strong conducted by the strong: They milk the liquor out with skill.\np:’Tis he whom Trita must refine, ’tis he who shall make Indra glad: The Tawny One is decked with tints.\np:Him do the Sons of Pṛśni milk, the dwelling-place of offering, Oblation lovely and most dear.\np:To him in one unitcd stream th-,se songs flow on straight forward. he, Loud voiced, hath made the milch-kine low.",
+    "meta": {
+      "next": "09035",
+      "previous": "09033",
+      "book": "09",
+      "source": "https://sacred-texts.com/hin/rigveda/rv09034.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv09034.htm"
+    },
+    "deities": []
   },
   "created": 1638557014592,
-  "updated": 1638792008228
+  "updated": 1638830292850
 }

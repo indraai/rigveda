@@ -5,13 +5,19 @@
   "link": "hymns/01070.html",
   "api": "json/hymns/01070.json",
   "data": {
+    "key": "01070",
     "title": "HYMN LXX. Agni.",
     "describe": "MAY we, the pious, win much food by prayer.",
-    "feecting": "p:MAY we, the pious, win much food by prayer. May Agni with fair light pervade each act,&#151; He the observer of the heavenly laws of Devas, and of the race of mortal man.\np:He who is germ of waters, germ of woods, germ of all things that move not and that move,&#151; To him even in the rock and in the house: Immortal One, he cares for all mankind.\np:Agni is Lord of riches for the man who serves him readily with sacred songs.\np: Protect these beings thou with careful thought, knowing the races both of Devas and men.\r\np:Whom many dawns and nights, unlike, make strong, whom, born in Law, all things that move and stand,&#151; He hath been won. Herald who sits in light, making effectual all our holy works.\np:Thou settest value on our cows and woods: all shall bring tribute to us to the light. Men have served thee in many and sundry spots, parting, as &#146;twere, an aged father's wealth.\np:Like a brave archer, like one skilled and bold, a fierce avenger, so he shines in fight.",
-    "next": "01071",
-    "previous": "01069",
-    "book": "01"
+    "feecting": "p:MAY we, the pious, win much food by prayer. May Agni with fair light pervade each act. He the observer of the heavenly laws of Devas, and of the race of mortal man.\np:He who is germ of waters, germ of woods, germ of all things that move not and that move. To him even in the rock and in the house: Immortal One, he cares for all mankind.\np:Agni is Lord of riches for the man who serves him readily with sacred songs.\np: Protect these beings thou with careful thought, knowing the races both of Devas and men.\r\np:Whom many dawns and nights, unlike, make strong, whom, born in Law, all things that move and stand. He hath been won. Herald who sits in light, making effectual all our holy works.\np:Thou settest value on our cows and woods: all shall bring tribute to us to the light. Men have served thee in many and sundry spots, parting, as ’twere, an aged father's wealth.\np:Like a brave archer, like one skilled and bold, a fierce avenger, so he shines in fight.",
+    "meta": {
+      "next": "01071",
+      "previous": "01069",
+      "book": "01",
+      "source": "https://sacred-texts.com/hin/rigveda/rv01070.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv01070.htm"
+    },
+    "deities": []
   },
   "created": 1638553382479,
-  "updated": 1638792007370
+  "updated": 1638830291690
 }

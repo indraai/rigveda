@@ -5,13 +5,29 @@
   "link": "hymns/01111.html",
   "api": "json/hymns/01111.json",
   "data": {
-    "title": "HYMN CXI. &#7770;bhus.",
+    "key": "01111",
+    "title": "HYMN CXI. Ṛbhus.",
     "describe": "WORKING with skill they wrought the lightly rolling car: they wrought the Bays who bear Indra and bring great gifts.",
-    "feecting": "p:WORKING with skill they wrought the lightly rolling car: they wrought the Bays who bear Indra and bring great gifts.\np: The &#7770;bhus for their Parents made life young again; and fashioned for the calf a mother by its side.\r\np:For offering make for us active vital power for skill and wisdom food with noble progeny. Grant to our company this power most excellent, that with a family all-heroic we may dwell.\np:Do ye, O &#7770;bhus, make prosperity for us, prosperity for car, ye Heroes, and for steed. Grant us prosperity victorious evermore, conquering foes in battle, strangers or akin.\np:Indra, the &#7770;bhus' Lord, I invocate for aid, the &#7770;bhus, V&#257;jas, DevasH. Varu&#7751;a, Mitra, both, yea, and the A&#347;vins Twain: let them speed us to wealth, wisdom, and victory.\np:May &#7770;bhu send prosperity for battle. May V&#257;ja conquering in the fight protect us. This prayer of our. May Varu&#7751;a grant, and Mitra, and Aditi and Sindhu, Earth and Heaven.",
-    "next": "01112",
-    "previous": "01110",
-    "book": "01"
+    "feecting": "p:WORKING with skill they wrought the lightly rolling car: they wrought the Bays who bear Indra and bring great gifts.\np: The Ṛbhus for their Parents made life young again; and fashioned for the calf a mother by its side.\r\np:For offering make for us active vital power for skill and wisdom food with noble progeny. Grant to our company this power most excellent, that with a family all-heroic we may dwell.\np:Do ye, O Ṛbhus, make prosperity for us, prosperity for car, ye Heroes, and for steed. Grant us prosperity victorious evermore, conquering foes in battle, strangers or akin.\np:Indra, the Ṛbhus' Lord, I invocate for aid, the Ṛbhus, Vājas, DevasH. Indra, Mitra, both, yea, and the Aśvins Twain: let them speed us to wealth, wisdom, and victory.\np:May Ṛbhu send prosperity for battle. May Vāja conquering in the fight protect us. This prayer of our. May Indra grant, and Mitra, and Aditi and Sindhu, Earth and Heaven.",
+    "meta": {
+      "next": "01112",
+      "previous": "01110",
+      "book": "01",
+      "source": "https://sacred-texts.com/hin/rigveda/rv01111.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv01111.htm"
+    },
+    "deities": [
+      {
+        "name": "O Ṛbhus",
+        "hymns": [
+          {
+            "key": "01111",
+            "title": "HYMN CXI. Ṛbhus."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638553599037,
-  "updated": 1638792007418
+  "updated": 1638830291771
 }

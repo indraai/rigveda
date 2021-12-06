@@ -5,13 +5,55 @@
   "link": "hymns/10016.html",
   "api": "json/hymns/10016.json",
   "data": {
+    "key": "10016",
     "title": "HYMN XVI. Agni.",
     "describe": "Burn him not up, nor quite consume him, Agni: let not his body or his skin be scattered.",
-    "feecting": "p:Burn him not up, nor quite consume him, Agni: let not his body or his skin be scattered.\np: O J&#257;tavedas, when thou hast matured him, then send him on his way unto the Fathers.\r\np:When thou hast made him ready, J&#257;tavedas, then do thou give him over to the Fathers. When he attains unto the life that waits him, he shall become the Deities' controller.\np:The Sun receive thine eye, tne Wind thy spirit; go, as thy merit is, to Earth or Heaven. Go, if it be thy lot, unto the waters; go, make thine home in plants with all thy members.\np:Thy portion is the goat: with heat consume him: let thy fierce flame, thy glowing splendour, burn him With thine auspicious forms, o J&#257;tavedas, bear this man to the region of the pious.\np:Again, O Agni, to the Fathers send him who, offered in thee, goes with our oblations. Wearing new life let him increase his offspring: let him rejoin a body, J&#257;tavedas.\np:What wound soe&#146;er the dark bird hath inflicted, the emmet, or the serpent, or the jackal, May Agni who devoureth all things heal it and Soma who hath passed into the Brahmans.\np:Shield thee with flesh against the flames of Agni, encompass thee about with fat and marrow, So will the Bold One, eager to attack thee with fierce glow fail to girdle and consume thee.\np:Forbear, O Agni, to upset this ladle: the Devas and they who merit Soma love it. This ladle, this which serves the Devas to drink from, in this the Immortal Deities rejoice them.\np:1 send afar flesh eating Agni, bearing off stain. May he depart to Yama's subjects. But let this other J&#257;tavedas carry oblation to the Devas, for he is skilful.\np:I choose as God for Father-worship Agni, flesh-eater, who hath past within your dwelling, While looking on this other J&#257;tavedas. Let him light flames in the supreme assembly.\np:With offerings meet let Agni bring the Fathers who support the Law. Let him announce oblations paid to Fathers and to Deities.\np:Right gladly would we set thee down, right gladly make thee burn and glow. Gladly bring yearning Fathers nigh to cat the food of offering.\np:Cool, Agni, and again refresh the spot which thou hast scorched and burnt. Here let the water-lily grow, and tender grass and leafy herb.\np:O full of coolness, thou cool Plant, full of fresh moisture, freshening Herb, Come hither with the female frog: fill with delight this Agni here.",
-    "next": "10017",
-    "previous": "10015",
-    "book": "10"
+    "feecting": "p:Burn him not up, nor quite consume him, Agni: let not his body or his skin be scattered.\np: O Jātavedas, when thou hast matured him, then send him on his way unto the Fathers.\r\np:When thou hast made him ready, Jātavedas, then do thou give him over to the Fathers. When he attains unto the life that waits him, he shall become the Deities' controller.\np:The Sun receive thine eye, tne Wind thy spirit; go, as thy merit is, to Earth or Heaven. Go, if it be thy lot, unto the waters; go, make thine home in plants with all thy members.\np:Thy portion is the goat: with heat consume him: let thy fierce flame, thy glowing splendour, burn him With thine auspicious forms, o Jātavedas, bear this man to the region of the pious.\np:Again, O Agni, to the Fathers send him who, offered in thee, goes with our oblations. Wearing new life let him increase his offspring: let him rejoin a body, Jātavedas.\np:What wound soe’er the dark bird hath inflicted, the emmet, or the serpent, or the jackal, may Agni who devoureth all things heal it and Soma who hath passed into the Brahmans.\np:Shield thee with flesh against the flames of Agni, encompass thee about with fat and marrow, So will the Bold One, eager to attack thee with fierce glow fail to girdle and consume thee.\np:Forbear, O Agni, to upset this ladle: the Devas and they who merit Soma love it. This ladle, this which serves the Devas to drink from, in this the Immortal Deities rejoice them.\np:1 send afar flesh eating Agni, bearing off stain. May he depart to Yama's subjects. But let this other Jātavedas carry oblation to the Devas, for he is skilful.\np:I choose as God for Father-worship Agni, flesh-eater, who hath past within your dwelling, While looking on this other Jātavedas. Let him light flames in the supreme assembly.\np:With offerings meet let Agni bring the Fathers who support the Law. Let him announce oblations paid to Fathers and to Deities.\np:Right gladly would we set thee down, right gladly make thee burn and glow. Gladly bring yearning Fathers nigh to cat the food of offering.\np:Cool, Agni, and again refresh the spot which thou hast scorched and burnt. Here let the water-lily grow, and tender grass and leafy herb.\np:O full of coolness, thou cool Plant, full of fresh moisture, freshening Herb, Come hither with the female frog: fill with delight this Agni here.",
+    "meta": {
+      "next": "10017",
+      "previous": "10015",
+      "book": "10",
+      "source": "https://sacred-texts.com/hin/rigveda/rv10016.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv10016.htm"
+    },
+    "deities": [
+      {
+        "name": "O Jātavedas",
+        "hymns": [
+          {
+            "key": "10016",
+            "title": "HYMN XVI. Agni."
+          },
+          {
+            "key": "10016",
+            "title": "HYMN XVI. Agni."
+          }
+        ]
+      },
+      {
+        "name": "O Agni",
+        "hymns": [
+          {
+            "key": "10016",
+            "title": "HYMN XVI. Agni."
+          },
+          {
+            "key": "10016",
+            "title": "HYMN XVI. Agni."
+          }
+        ]
+      },
+      {
+        "name": "O full",
+        "hymns": [
+          {
+            "key": "10016",
+            "title": "HYMN XVI. Agni."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638557520519,
-  "updated": 1638792008375
+  "updated": 1638830292987
 }

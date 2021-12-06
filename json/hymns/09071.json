@@ -5,13 +5,19 @@
   "link": "hymns/09071.html",
   "api": "json/hymns/09071.json",
   "data": {
+    "key": "09071",
     "title": "HYMN LXXI. Indu,",
     "describe": "THE guerdon is bestowed: the Mighty takes his Seat, and, ever-Watchful, guards from fiend and evil sprite.",
-    "feecting": "p:THE guerdon is bestowed: the Mighty takes his Seat, and, ever-Watchful, guards from fiend and evil sprite.\np: Gold-hued, he makes the cloud his diadem, the milk his carpet in both worlds, and prayer his robe of state.\r\np:Strong, bellowing, he goes, like one who subdues the folk; he lets this hue of Devass flow off from him, Throws off his covering, seeks his father's meeting-place, and thus makes for himself the bright robe he assumes.\np:Onward he flows, from both the hands, pressed out with stones: excited by the prayer, the water makes him wild. He frolics and draws near, completes his work with song, and bathes in streams to satisfy the worshipper.\np:They pour out meath around the Master of the house, Celestial Strengthener of the mountain that gives might; In whom, through his great powers, oblation-eating cows in their uplifted udder mix their choicest milk.\np:They, the ten sisters, on the lap of Aditi, have sent him forward like a car from both the arms. He wanders and comes near the Cow's mysterious place, even the place which his inventions have produced.\np:Like as a falcon to his home, so speeds the Deva to his own golden wisely-tashioned place to rest. With song they urge the darling to the sacred grass: the Holy One goes like a courser to the Devas.\np:From far away, from Heaven, the redhued noted Sage, Steer of the triple height, hath sung unto the kine. With thousand guidings he, leading this way and that, shines, as a singer, splendidly through many a morn.\np:His covering assumes a radiant hue; where&#146;er he comes into the fight he drives the foe afar. The Winner of the Floods, with food he seeks the host of Heaven, he comes to praises glorified with milk.\np:Like a bull roaming round the herds he bellows: he hath assumed the brilliancy of S&#363;rya. Down to the Earth hath looked the heavenly Falcon: Soma with wisdom views all living creatures.",
-    "next": "09072",
-    "previous": "09070",
-    "book": "09"
+    "feecting": "p:THE guerdon is bestowed: the Mighty takes his Seat, and, ever-Watchful, guards from fiend and evil sprite.\np: Gold-hued, he makes the cloud his diadem, the milk his carpet in both worlds, and prayer his robe of state.\r\np:Strong, bellowing, he goes, like one who subdues the folk; he lets this hue of Devass flow off from him, Throws off his covering, seeks his father's meeting-place, and thus makes for himself the bright robe he assumes.\np:Onward he flows, from both the hands, pressed out with stones: excited by the prayer, the water makes him wild. He frolics and draws near, completes his work with song, and bathes in streams to satisfy the worshipper.\np:They pour out meath around the Master of the house, Celestial Strengthener of the mountain that gives might; In whom, through his great powers, oblation-eating cows in their uplifted udder mix their choicest milk.\np:They, the ten sisters, on the lap of Aditi, have sent him forward like a car from both the arms. He wanders and comes near the Cow's mysterious place, even the place which his inventions have produced.\np:Like as a falcon to his home, so speeds the Deva to his own golden wisely-tashioned place to rest. With song they urge the darling to the sacred grass: the Holy One goes like a courser to the Devas.\np:From far away, from Heaven, the redhued noted Sage, Steer of the triple height, hath sung unto the kine. With thousand guidings he, leading this way and that, shines, as a singer, splendidly through many a morn.\np:His covering assumes a radiant hue; where’er he comes into the fight he drives the foe afar. The Winner of the Floods, with food he seeks the host of Heaven, he comes to praises glorified with milk.\np:Like a bull roaming round the herds he bellows: he hath assumed the brilliancy of Sūrya. Down to the Earth hath looked the heavenly Falcon: Soma with wisdom views all living creatures.",
+    "meta": {
+      "next": "09072",
+      "previous": "09070",
+      "book": "09",
+      "source": "https://sacred-texts.com/hin/rigveda/rv09071.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv09071.htm"
+    },
+    "deities": []
   },
   "created": 1638557209178,
-  "updated": 1638792008264
+  "updated": 1638830292899
 }

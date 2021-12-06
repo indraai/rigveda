@@ -5,13 +5,37 @@
   "link": "hymns/09004.html",
   "api": "json/hymns/09004.json",
   "data": {
+    "key": "09004",
     "title": "HYMN IV. Indu.",
     "describe": "O Indu, flowing on thy way.",
     "feecting": "p:O Indu, flowing on thy way. Make us better than we are.\np:Win thou the light, win heavenly light. Make us better than we are.\np:Win skilful strength and mental power, O Indu. Make us better than we are.\np:Ye purifiers for his drink. Make us better than we are.\np:Give us our portion in the Sun. Make us better than we are.\np:Through thine own mental power. Make us better than we are.\np:Pour to us a stream of riches doubly great renown. Make us better than we are.\np:As one victorious unsubdued in battle. Make us better than we are.\np:With offerings, indu! men have strengthened thee to prop the Law. Make us better than we are.\np:O Indu, bring us true wealth, manifold, quickening all life. Make us better than we are.",
-    "next": "09005",
-    "previous": "09003",
-    "book": "09"
+    "meta": {
+      "next": "09005",
+      "previous": "09003",
+      "book": "09",
+      "source": "https://sacred-texts.com/hin/rigveda/rv09004.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv09004.htm"
+    },
+    "deities": [
+      {
+        "name": "O Indu",
+        "hymns": [
+          {
+            "key": "09004",
+            "title": "HYMN IV. Indu."
+          },
+          {
+            "key": "09004",
+            "title": "HYMN IV. Indu."
+          },
+          {
+            "key": "09004",
+            "title": "HYMN IV. Indu."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638556856223,
-  "updated": 1638792008199
+  "updated": 1638830292821
 }

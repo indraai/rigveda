@@ -5,13 +5,29 @@
   "link": "hymns/10023.html",
   "api": "json/hymns/10023.json",
   "data": {
+    "key": "10023",
     "title": "HYMN XXIII. Indra.",
     "describe": "INDRA, whose right hand wields the bolt, we worship, driver of Bay Steeds seeking sundered courses.",
-    "feecting": "p:INDRA, whose right hand wields the bolt, we worship, driver of Bay Steeds seeking sundered courses.\np: Shaking his beard with might he hath arisen, casting his weapons forth and dealing bounties.\r\np:The treasure which his Bay Steeds found at offering,&#151;this wealth made opulent Indra slayer of the foe. &#7770;bhu, &#7770;bhuk&#7779;an, V&#257;ja-he is Lord of Might. The D&#257;sa's very name I utterly destroy.\np:When, with the Princes, Maghavari, famed of old, comes nigh the thunderbolt of gold, and the Controller's car Which his two Tawny Coursers draw, then Indra is the Sovran Lord of power whose glory spreads afar.\np:With him too is this rain of his that comes like herds: Indra throws drops of moisture on his yellow beard. When the sweet juice is shed he seeks the pleasant place, and stirs the worshipper as wind disturbs the wood.\np:We laud and praise his several deeds of valour who, fatherlike, with power hath made us stronger. Who with his voice slew many thousand wicked ones who spake in varied manners with contemptuous cries.\np:Indra, the Vimadas have formed for thee a laud, copious, unparalleled, for thee Most Bountiful. We know the good we gain from him the Mighty One when we attract him as a herdsman calls the kine.\np:Ne&#146;e. May this bond of friendship be dissevered, the &#7770;&#7779;i Vimada's and thine, O Indra. We know thou carest for us as a brother with us, be thine auspicious friendship.",
-    "next": "10024",
-    "previous": "10022",
-    "book": "10"
+    "feecting": "p:INDRA, whose right hand wields the bolt, we worship, driver of Bay Steeds seeking sundered courses.\np: Shaking his beard with might he hath arisen, casting his weapons forth and dealing bounties.\r\np:The treasure which his Bay Steeds found at offering.this wealth made opulent Indra slayer of the foe. Ṛbhu, Ṛbhukṣan, Vāja-he is Lord of Might. The Dāsa's very name I utterly destroy.\np:When, with the Princes, Maghavari, famed of old, comes nigh the thunderbolt of gold, and the Controller's car Which his two Tawny Coursers draw, then Indra is the Sovran Lord of power whose glory spreads afar.\np:With him too is this rain of his that comes like herds: Indra throws drops of moisture on his yellow beard. When the sweet juice is shed he seeks the pleasant place, and stirs the worshipper as wind disturbs the wood.\np:We laud and praise his several deeds of valour who, fatherlike, with power hath made us stronger. Who with his voice slew many thousand wicked ones who spake in varied manners with contemptuous cries.\np:Indra, the Vimadas have formed for thee a laud, copious, unparalleled, for thee Most Bountiful. We know the good we gain from him the Mighty One when we attract him as a herdsman calls the kine.\np:Ne’e. May this bond of friendship be dissevered, the Ṛṣi Vimada's and thine, O Indra. We know thou carest for us as a brother with us, be thine auspicious friendship.",
+    "meta": {
+      "next": "10024",
+      "previous": "10022",
+      "book": "10",
+      "source": "https://sacred-texts.com/hin/rigveda/rv10023.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv10023.htm"
+    },
+    "deities": [
+      {
+        "name": "O Indra",
+        "hymns": [
+          {
+            "key": "10023",
+            "title": "HYMN XXIII. Indra."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638557557757,
-  "updated": 1638792008384
+  "updated": 1638830292997
 }

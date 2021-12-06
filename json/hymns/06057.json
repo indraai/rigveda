@@ -5,13 +5,19 @@
   "link": "hymns/06057.html",
   "api": "json/hymns/06057.json",
   "data": {
-    "title": "HYMN LVII. Indra and P&#363;&#7779;an.",
-    "describe": "INDRA and P&#363;",
-    "feecting": "p:INDRA and P&#363;&#7779;an will we call for friend ship and prosperity And for the winning of the spoil.\np:One by the Soma sits to drink juice which the mortar hath expressed: The other longs for curd and meal.\np:Goats are the team that draws the one: the other hath Bay Steeds at hand; With both of these he subdues the fiends.\np:When Indra, wondrous strong, brought down the streams, the mighty waterfloods, P&#363;&#7779;an was standing by his side.\np:To this, to P&#363;&#7779;an's favouring love, and Indra's. May we closely cling, as to a tree's extended bough.\np:As one who drives a car draws in his reins. May we draw P&#363;&#7779;an near, and Indra, for our great success.",
-    "next": "06058",
-    "previous": "06056",
-    "book": "06"
+    "key": "06057",
+    "title": "HYMN LVII. Indra and Pūṣan.",
+    "describe": "INDRA and Pūṣan will we call for friend ship and prosperity And for the winning of the spoil.",
+    "feecting": "p:INDRA and Pūṣan will we call for friend ship and prosperity And for the winning of the spoil.\np:One by the Soma sits to drink juice which the mortar hath expressed: The other longs for curd and meal.\np:Goats are the team that draws the one: the other hath Bay Steeds at hand; With both of these he subdues the fiends.\np:When Indra, wondrous strong, brought down the streams, the mighty waterfloods, Pūṣan was standing by his side.\np:To this, to Pūṣan's favouring love, and Indra's. May we closely cling, as to a tree's extended bough.\np:As one who drives a car draws in his reins. May we draw Pūṣan near, and Indra, for our great success.",
+    "meta": {
+      "next": "06058",
+      "previous": "06056",
+      "book": "06",
+      "source": "https://sacred-texts.com/hin/rigveda/rv06057.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv06057.htm"
+    },
+    "deities": []
   },
   "created": 1638555646957,
-  "updated": 1638792007918
+  "updated": 1638830292428
 }

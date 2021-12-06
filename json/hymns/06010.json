@@ -5,13 +5,33 @@
   "link": "hymns/06010.html",
   "api": "json/hymns/06010.json",
   "data": {
+    "key": "06010",
     "title": "HYMN X. Agni.",
     "describe": "INSTALL at offering, while the rite advances, your pleasant, heavenly Agni, meet for praises.",
-    "feecting": "p:INSTALL at offering, while the rite advances, your pleasant, heavenly Agni, meet for praises.\np: With hymns-for he illumines us-install him. He, J&#257;tavedas, makes our rites successful.\r\np:Hear this laud, Radiant Monk of many aspects, O Agni with the fires of man enkindled, Laud which bards send forth pure as sacred butter, strength to this man, as &#146;twere for self-advantage.\np:Mid mortal men that singer thrives in glory who offers gifts with hymns of praise to Agni, and the Deva, wondrous bright, with wondrous succours helps him to win a stable filled with cattle.\np:He, at his birth, whose path is black behind him, filled Heaven and Earth with far-apparent splendour: And he himself hath been. through night's thick darkness, made manifest by light, the Purifier.\np:With thy most mighty aid, confer, O Agni, wonderful wealth on us and on our princes, who stand preeminent, surpassing others in liberal gifts, in fame, and hero virtues.\np:Agni, accept this offering with gladness, which, seated here, the worshipper presenteth. Fair hymns hadst thou among the Bharadv&#257;jas, and holpest them to gain abundant vigour.\np:Scatter our foes, increase our store. May we he glad a hundred winters with brave sons.",
-    "next": "06011",
-    "previous": "06009",
-    "book": "06"
+    "feecting": "p:INSTALL at offering, while the rite advances, your pleasant, heavenly Agni, meet for praises.\np: With hymns-for he illumines us-install him. He, Jātavedas, makes our rites successful.\r\np:Hear this laud, Radiant Monk of many aspects, O Agni with the fires of man enkindled, Laud which bards send forth pure as sacred butter, strength to this man, as ’twere for self-advantage.\np:Mid mortal men that singer thrives in glory who offers gifts with hymns of praise to Agni, and the Deva, wondrous bright, with wondrous assists helps him to win a stable filled with cattle.\np:He, at his birth, whose path is black behind him, filled Heaven and Earth with far-apparent splendour: And he himself hath been. through night's thick darkness, made manifest by light, the Purifier.\np:With thy most mighty aid, confer, O Agni, wonderful wealth on us and on our princes, who stand preeminent, surpassing others in liberal gifts, in fame, and hero virtues.\np:Agni, accept this offering with gladness, which, seated here, the worshipper presenteth. Fair hymns hadst thou among the Bharadvājas, and holpest them to gain abundant vigour.\np:Scatter our foes, increase our store. May we he glad a hundred winters with brave sons.",
+    "meta": {
+      "next": "06011",
+      "previous": "06009",
+      "book": "06",
+      "source": "https://sacred-texts.com/hin/rigveda/rv06010.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv06010.htm"
+    },
+    "deities": [
+      {
+        "name": "O Agni",
+        "hymns": [
+          {
+            "key": "06010",
+            "title": "HYMN X. Agni."
+          },
+          {
+            "key": "06010",
+            "title": "HYMN X. Agni."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638555399178,
-  "updated": 1638792007857
+  "updated": 1638830292350
 }

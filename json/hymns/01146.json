@@ -5,13 +5,19 @@
   "link": "hymns/01146.html",
   "api": "json/hymns/01146.json",
   "data": {
+    "key": "01146",
     "title": "HYMN CXLVI. Agni.",
-    "describe": "I LAUD the seven-rayed, the triple-headed, Agni all-perfect in his Parents&#146;",
-    "feecting": "p:I LAUD the seven-rayed, the triple-headed, Agni all-perfect in his Parents&#146; bosom, Sunk in the lap of all that moves and moves not, him who hath filled all luminous realms of Heaven.\np:As a great Steer he grew to these his Parents; sublime he stands, untouched by eld, far-reaching.\np: He plants his footsteps on the lofty ridges of the broad Earth: his red flames lick the udder.\r\np:Coming together to their common youngling both Cows, fairshaped, spread forth in all directions, Measuring out the paths that must be travelled, entrusting all desires to him the Mighty.\np:The prudent sages lead him to his dwelling, guarding with varied skill the Ever-Youthful. Longing, they turned their eyes unto the River: to these the Sun of men was manifested.\np:Born noble in the regions, aim of all mens&#146; eyes to be implored for life by great and small alike, Far as the Wealthy One hath spread himself abroad, he is the Sire all-visible of this progeny.",
-    "next": "01147",
-    "previous": "01145",
-    "book": "01"
+    "describe": "I LAUD the seven-rayed, the triple-headed, Agni all-perfect in his Parents’ bosom, Sunk in the lap of all that moves and moves not, him who hath filled all luminous realms of Heaven.",
+    "feecting": "p:I LAUD the seven-rayed, the triple-headed, Agni all-perfect in his Parents’ bosom, Sunk in the lap of all that moves and moves not, him who hath filled all luminous realms of Heaven.\np:As a great Steer he grew to these his Parents; sublime he stands, untouched by eld, far-reaching.\np: He plants his footsteps on the lofty ridges of the broad Earth: his red flames lick the udder.\r\np:Coming together to their common youngling both Cows, fairshaped, spread forth in all directions, Measuring out the paths that must be travelled, entrusting all desires to him the Mighty.\np:The prudent sages lead him to his dwelling, guarding with varied skill the Ever-Youthful. Longing, they turned their eyes unto the River: to these the Sun of men was manifested.\np:Born noble in the regions, aim of all mens’ eyes to be implored for life by great and small alike, Far as the Wealthy One hath spread himself abroad, he is the Sire all-visible of this progeny.",
+    "meta": {
+      "next": "01147",
+      "previous": "01145",
+      "book": "01",
+      "source": "https://sacred-texts.com/hin/rigveda/rv01146.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv01146.htm"
+    },
+    "deities": []
   },
   "created": 1638553783746,
-  "updated": 1638792007468
+  "updated": 1638830291852
 }

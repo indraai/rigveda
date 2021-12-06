@@ -5,13 +5,19 @@
   "link": "hymns/10136.html",
   "api": "json/hymns/10136.json",
   "data": {
+    "key": "10136",
     "title": "HYMN CXXXVI. Kesins.",
     "describe": "HE with the long loose locks supports Agni, and moisture.",
-    "feecting": "p:HE with the long loose locks supports Agni, and moisture. Heaven, and Earth: He is all sky to look upon: he with long hair is called this light.\np:The Munis, girdled with the wind, wear garments soiled of yellow hue.\np: They, following the wind's swift course go where the Devas have gone before.\r\np:Transported with our Munihood we have pressed on into the winds: You therefore, mortal men. behold our natural bodies and no more.\np:The Muni, made associate in the holy work of every Deva, Looking upon all varied forms flies through the region of the air.\np:The Steed of V&#257;ta, V&#257;yu's friend, the Muni, by the Devas impelled, in both the oceans hath his home, in eastern and in western sea.\np:Treading the path of sylvan beasts, Gandharvas, and Apsarases. He with long locks, who knows the wish, is a sweet most delightful friend\np:V&#257;yu hath churned for him: for him he poundeth things most hard to bend, when he with long loose locks hath drunk, with Soma, water from the cup.",
-    "next": "10137",
-    "previous": "10135",
-    "book": "10"
+    "feecting": "p:HE with the long loose locks supports Agni, and moisture. Heaven, and Earth: He is all sky to look upon: he with long hair is called this light.\np:The Munis, girdled with the wind, wear garments soiled of yellow hue.\np: They, following the wind's swift course go where the Devas have gone before.\r\np:Transported with our Munihood we have pressed on into the winds: You therefore, mortal men. behold our natural bodies and no more.\np:The Muni, made associate in the holy work of every Deva, Looking upon all varied forms flies through the region of the air.\np:The Steed of Vāta, Soma's friend, the Muni, by the Devas impelled, in both the oceans hath his home, in eastern and in western sea.\np:Treading the path of sylvan beasts, Gandharvas, and Apsarases. He with long locks, who knows the wish, is a sweet most delightful friend\np:Soma hath churned for him: for him he poundeth things most hard to bend, when he with long loose locks hath drunk, with Soma, water from the cup.",
+    "meta": {
+      "next": "10137",
+      "previous": "10135",
+      "book": "10",
+      "source": "https://sacred-texts.com/hin/rigveda/rv10136.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv10136.htm"
+    },
+    "deities": []
   },
   "created": 1638558157795,
-  "updated": 1638792008575
+  "updated": 1638830293222
 }

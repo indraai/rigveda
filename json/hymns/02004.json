@@ -5,13 +5,33 @@
   "link": "hymns/02004.html",
   "api": "json/hymns/02004.json",
   "data": {
+    "key": "02004",
     "title": "HYMN IV Agni.",
-    "describe": "FOR you I call the glorious refulgent Agni, the guest of men, rich in oblations Whom all must strive to win even as a lover, God among godly people, J&#257;",
-    "feecting": "p:FOR you I call the glorious refulgent Agni, the guest of men, rich in oblations Whom all must strive to win even as a lover, God among godly people, J&#257;tavedas.\np:Bh&#7771;gus who served him in the home of waters set him of old in houses of the living.\np: Over all worlds let Agni be the Sovran, the messenger of Devas with rapid coursers.\r\np:Among the tribes of men the Devas placed Agni as a dear Friend when they would dwell among them. Against the longing night. May he shine brightly, and show the offerer in the house his vigour.\np:Sweet is his growth as of one's own possessions; his look when rushing fain to burn is lovely. He darts his tongue forth, like a harnessed courser who shakes his flowing tail, among the bushes.\np:Since they who honour me have praised my greatness,&#151;he gave, as &#146;twere, his hue to those who love him. Known is he by his bright delightful splendour, and waxing old renews his youth forever.\np:Like one athirst, he lighteth up the forests; like water down the chariot ways he roareth. On his black path he shines in burning beauty, marked as it were the Heaven that smiles through vapour.\np:Around, consuming the broad Earth, he wanders, free roaming like an ox without a herdsman,&#151; Agni refulgent, burning up the bushes, with blackened lines, as though the Earth he seasoned.\np:I, in remembrance of thine ancient favour have sung my hymn in this our third assembly. O Agni, give us wealth with store of heroes and mighty strength in food and noble offspring.\np:May the G&#7771;tsamadas, serving in secret, through thee, O Agni, overcome their neighbours, Rich in good heroes and subduing foemen. That vital power give thou to chiefs and singers.",
-    "next": "02005",
-    "previous": "02003",
-    "book": "02"
+    "describe": "FOR you I call the glorious refulgent Agni, the guest of men, rich in oblations Whom all must strive to win even as a lover, God among godly people, Jātavedas.",
+    "feecting": "p:FOR you I call the glorious refulgent Agni, the guest of men, rich in oblations Whom all must strive to win even as a lover, God among godly people, Jātavedas.\np:Bhṛgus who served him in the home of waters set him of old in houses of the living.\np: Over all worlds let Agni be the Sovran, the messenger of Devas with rapid coursers.\r\np:Among the tribes of men the Devas placed Agni as a dear Friend when they would dwell among them. Against the longing night. May he shine brightly, and show the offerer in the house his vigour.\np:Sweet is his growth as of one's own possessions; his look when rushing fain to burn is lovely. He darts his tongue forth, like a harnessed courser who shakes his flowing tail, among the bushes.\np:Since they who honour me have praised my greatness.he gave, as ’twere, his hue to those who love him. Known is he by his bright delightful splendour, and waxing old renews his youth forever.\np:Like one athirst, he lighteth up the forests; like water down the chariot ways he roareth. On his black path he shines in burning beauty, marked as it were the Heaven that smiles through vapour.\np:Around, consuming the broad Earth, he wanders, free roaming like an ox without a herdsman. Agni refulgent, burning up the bushes, with blackened lines, as though the Earth he seasoned.\np:I, in remembrance of thine ancient favour have sung my hymn in this our third assembly. O Agni, give us wealth with store of heroes and mighty strength in food and noble offspring.\np:May the Gṛtsamadas, serving in secret, through thee, O Agni, overcome their neighbours, Rich in good heroes and subduing foemen. That vital power give thou to chiefs and singers.",
+    "meta": {
+      "next": "02005",
+      "previous": "02003",
+      "book": "02",
+      "source": "https://sacred-texts.com/hin/rigveda/rv02004.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv02004.htm"
+    },
+    "deities": [
+      {
+        "name": "O Agni",
+        "hymns": [
+          {
+            "key": "02004",
+            "title": "HYMN IV Agni."
+          },
+          {
+            "key": "02004",
+            "title": "HYMN IV Agni."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638554044032,
-  "updated": 1638792007527
+  "updated": 1638830291931
 }

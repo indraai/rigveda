@@ -5,13 +5,19 @@
   "link": "hymns/09089.html",
   "api": "json/hymns/09089.json",
   "data": {
+    "key": "09089",
     "title": "HYMN LXXXIX. Indu.",
     "describe": "THIS Chariot-horse hath moved along the pathways, and Indu flowed like rain from Heaven.",
     "feecting": "p:THIS Chariot-horse hath moved along the pathways, and Indu flowed like rain from Heaven.\np: With us hath Soma with a thousand currents sunk in the wood, upon his Mother's bosom.\r\np:King, he hath clothed him in the robe of rivers, mounted the straightest-going ship of Order. Sped by the Hawk the drop hath waxed in waters: the father drains it, drains the Father's offspring.\np:They come to him, red, tawny, Lord of Heaven, the watchful Guardian of the meath, the Lion. First. Hero in the fight, he seeks the cattle, and with his eye the Steer is our protector.\np:They harness to the broad-wheeled car the mighty Courser whose back bears meath, unwearied, awful. The twins, the sisters brighten him, and strengthen-these children of one damethe vigorous Racer.\np:Four pouring out the holy oil attend him, sitting together in the same container. To him they flow, when purified, with homage, and still, from every side, are first about him.\np:He is the buttress of the heavens, supporter of Earth, and in his hand are all the people. Be the team's Lord a well to thee the singer: cleansed is the sweet plant's stalk for deed of glory.\np:Fighting, uninjured come where Devas are feasted; Soma, as Vitra-slayer flow for Indra. Vouchsafe us ample riches very splendi. May we be masters of heroic vigour.",
-    "next": "09090",
-    "previous": "09088",
-    "book": "09"
+    "meta": {
+      "next": "09090",
+      "previous": "09088",
+      "book": "09",
+      "source": "https://sacred-texts.com/hin/rigveda/rv09089.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv09089.htm"
+    },
+    "deities": []
   },
   "created": 1638557304111,
-  "updated": 1638792008287
+  "updated": 1638830292926
 }

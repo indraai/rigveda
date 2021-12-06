@@ -5,13 +5,29 @@
   "link": "hymns/07055.html",
   "api": "json/hymns/07055.json",
   "data": {
+    "key": "07055",
     "title": "HYMN LV. Vastospati.",
     "describe": "VASTOSPATI, who killest all disease and wearest every form, be an auspicious Friend to us.",
-    "feecting": "p:VASTOSPATI, who killest all disease and wearest every form, be an auspicious Friend to us.\np:When, O bright Son of Saram&#257;, thou showest, tawny-hued! thy teeth, they gleam like lances' points within thy mouth when thou wouldst bite; go thou to steep.\np:Saram&#257;'s Son, retrace thy way: bark at the robber and the thief.\np: At Indra's singers barkest thou? Why dust thou seek to terrify us? Go to sleep.\r\np:Be on thy guard against the boar, and let the boar beware of thee. At Indra's singers barkest thou? Why dost thou seek to terrify us? Go to sleep.\np:Sleep mother, let the father sleep, sleep dog and master of the house. Let all the kinsmen sleep, sleep all the people who are round about.\np:The man who sits, the man who walks, and whosoever looks on us, Of these we closely shut the eyes, even as we closely shut this house.\np:The Bull who hath a thousand horns, who rises up from out the sea,&#151; By him the Strong and Mighty One we lull and make the people sleep.\np:The women sleeping in the court, lying without, or stretched on beds, the matrons with their odorous sweetsthese, one and all, we lull to sleep.",
-    "next": "07056",
-    "previous": "07054",
-    "book": "07"
+    "feecting": "p:VASTOSPATI, who killest all disease and wearest every form, be an auspicious Friend to us.\np:When, O bright Son of Saramā, thou showest, tawny-hued! thy teeth, they gleam like lances' points within thy mouth when thou wouldst bite; go thou to steep.\np:Saramā's Son, retrace thy way: bark at the robber and the thief.\np: At Indra's singers barkest thou? Why dust thou seek to terrify us? Go to sleep.\r\np:Be on thy guard against the boar, and let the boar beware of thee. At Indra's singers barkest thou? Why dost thou seek to terrify us? Go to sleep.\np:Sleep mother, let the father sleep, sleep dog and master of the house. Let all the kinsmen sleep, sleep all the people who are round about.\np:The man who sits, the man who walks, and whosoever looks on us, Of these we closely shut the eyes, even as we closely shut this house.\np:The Bull who hath a thousand horns, who rises up from out the sea. By him the Strong and Mighty One we lull and make the people sleep.\np:The women sleeping in the court, lying without, or stretched on beds, the matrons with their odorous sweetsthese, one and all, we lull to sleep.",
+    "meta": {
+      "next": "07056",
+      "previous": "07054",
+      "book": "07",
+      "source": "https://sacred-texts.com/hin/rigveda/rv07055.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv07055.htm"
+    },
+    "deities": [
+      {
+        "name": "O bright",
+        "hymns": [
+          {
+            "key": "07055",
+            "title": "HYMN LV. Vastospati."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638556033000,
-  "updated": 1638792007997
+  "updated": 1638830292570
 }

@@ -5,13 +5,29 @@
   "link": "hymns/07079.html",
   "api": "json/hymns/07079.json",
   "data": {
+    "key": "07079",
     "title": "HYMN LXXIX. Dawn.",
     "describe": "ROUSING the lands where men's Five Tribes are settled, Dawn hath disclosed the pathways of the people.",
-    "feecting": "p:ROUSING the lands where men's Five Tribes are settled, Dawn hath disclosed the pathways of the people.\np: She hath sent out her sheen with beauteous oxen. The Sun with light hath opened Earth and Heaven.\r\np:They paint their bright rays on the sky's far limits. the Dawns come on like tribes arrayed for battle. Thy cattle, closely shutting up the darkness, as Indra spreads his arms, give forth their lustre.\np:Wealthy, most like to Indra, Dawn hath risen, and brought forth lauds that shall promote our welfare. Daughter of Heaven, a Goddess, she distributes, best of A&#7749;girases, treasures to the pious.\np:Bestow on us, O Dawn, that ample bounty which thou didst send to those who sang thy praises; Thou whom with bellowings of a bull they quickened: thou didst unbar the firm-set mountain's portals.\np:Impelling every God to grant his bounty sending to us the charm of pleasant voices, vouchsafe us thoughts, for profit, as thou breakest. Preserve us evermore, ye Devas, with blessings.",
-    "next": "07080",
-    "previous": "07078",
-    "book": "07"
+    "feecting": "p:ROUSING the lands where men's Five Tribes are settled, Dawn hath disclosed the pathways of the people.\np: She hath sent out her sheen with beauteous oxen. The Sun with light hath opened Earth and Heaven.\r\np:They paint their bright rays on the sky's far limits. the Dawns come on like tribes arrayed for battle. Thy cattle, closely shutting up the darkness, as Indra spreads his arms, give forth their lustre.\np:Wealthy, most like to Indra, Dawn hath risen, and brought forth lauds that shall promote our welfare. Daughter of Heaven, a Goddess, she distributes, best of Aṅgirases, treasures to the pious.\np:Bestow on us, O Dawn, that ample bounty which thou didst send to those who sang thy praises; Thou whom with bellowings of a bull they quickened: thou didst unbar the firm-set mountain's portals.\np:Impelling every God to grant his bounty sending to us the charm of pleasant voices, vouchsafe us thoughts, for profit, as thou breakest. Preserve us evermore, ye Devas, with blessings.",
+    "meta": {
+      "next": "07080",
+      "previous": "07078",
+      "book": "07",
+      "source": "https://sacred-texts.com/hin/rigveda/rv07079.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv07079.htm"
+    },
+    "deities": [
+      {
+        "name": "O Dawn",
+        "hymns": [
+          {
+            "key": "07079",
+            "title": "HYMN LXXIX. Dawn."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638556159517,
-  "updated": 1638792008022
+  "updated": 1638830292604
 }

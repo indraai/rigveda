@@ -5,13 +5,46 @@
   "link": "hymns/01131.html",
   "api": "json/hymns/01131.json",
   "data": {
+    "key": "01131",
     "title": "HYMN CXXXI. Indra.",
     "describe": "To Indra Devas the Devas hath bowed him down, to Indra mighty Earth with wide-extending tracts, to win the light, with wide-spread tracts.",
     "feecting": "p:To Indra Devas the Devas hath bowed him down, to Indra mighty Earth with wide-extending tracts, to win the light, with wide-spread tracts.\np: All Devas of one accord have set Indra in front preeminent. For Indra all libations must be set apart, all man's libations set apart.\r\np:In all libations men with hero spirit urge the Universal One, each seeking several light, each fain to win the light apart. Thee, furthering like a ship, will we set to the chariot-pole of strength, as men who win with offers Indra's thought, men who win Indra with their lauds.\np:Couples desirous of thine aid are storming thee, pouring their presents forth to win a stall of kine, pouring gifts, Indra, seeking thee. When two men seeking spoil or Heaven thou bringest face to face in war, Thou showest, Indra, then the bolt thy constant friend, the Bull that ever waits on thee.\np:This thine heroic power men of old time have known, wherewith thou breakest down, Indra, autumnal forts, breakest them down with conquering might. Thou hast chastised, O Indra, Lord of Strength, the man who worships not, and made thine own this great Earth and these water-floods; with joyous heart these water-floods.\np:And they have bruited far this hero-might when thou, O Strong One, in thy joy helpest thy suppliants, who sought to win thee for their Friend. Their battle-cry thou madest sound victorious in the shocks of war. One stream after another have they gained from thee, eager for glory have they gained.\np:Also this mor. May he be well inclined to us, mark at our call our offerings and our song of praise, our call that we may win the light. As thou, O Indra Thunder-armed, wilt, as the Strong One, subdue the foe, Listen thou to the prayer of me a later sage, hear thou a later sage's prayer.\np:O Indra, waxen strong and well-inclined to us, thou very mighty, subdue the man that is our foe, subdue the man. Hero! with thy bolt. Slay thou the man who injures us: hear thou, as readiest, to hear. Far be malignity, like mischief on the march, afar be all malignity.",
-    "next": "01132",
-    "previous": "01130",
-    "book": "01"
+    "meta": {
+      "next": "01132",
+      "previous": "01130",
+      "book": "01",
+      "source": "https://sacred-texts.com/hin/rigveda/rv01131.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv01131.htm"
+    },
+    "deities": [
+      {
+        "name": "O Indra",
+        "hymns": [
+          {
+            "key": "01131",
+            "title": "HYMN CXXXI. Indra."
+          },
+          {
+            "key": "01131",
+            "title": "HYMN CXXXI. Indra."
+          },
+          {
+            "key": "01131",
+            "title": "HYMN CXXXI. Indra."
+          }
+        ]
+      },
+      {
+        "name": "O Strong",
+        "hymns": [
+          {
+            "key": "01131",
+            "title": "HYMN CXXXI. Indra."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638553704401,
-  "updated": 1638792007449
+  "updated": 1638830291824
 }

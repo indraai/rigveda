@@ -5,13 +5,47 @@
   "link": "hymns/10019.html",
   "api": "json/hymns/10019.json",
   "data": {
+    "key": "10019",
     "title": "HYMN XIX. Waters or Cows.",
     "describe": "TURN, go not farther on your way: visit us, O ye Wealthy Ones.",
     "feecting": "p:TURN, go not farther on your way: visit us, O ye Wealthy Ones.\np: Agni and Soma, ye who bring riches again, secure us wealth.\r\np:Make these return to us again, bring them beside us once again. May. Indra give them back to us, and Agni drive them hither-ward.\np:Let them return to us again: under this herdsman let them feed. Do thou, O Agni, keep them here, and let the wealth we have remain.\np:1 call upon their herdsman, him who knoweth well their coming nigh, their parting and their home-return, and watcheth their approach and rest.\np:Yea, let the herdsman, too, return, who marketh well their driving-forth; Marketh their wandering away, their turning back and coming home.\np:Home-leader, lead them home to us; Indra, restore to us our kine: We will rejoice in them alive.\np:1 offer you on every side butter and milk and strengthening food. May all the Holy Deities pour down on us a flood of wealth.\np:O thou Home-leader, lead them home, restore them thou who bringest home. Four are the quarters of the Earth; from these bring back to us our kine,",
-    "next": "10020",
-    "previous": "10018",
-    "book": "10"
+    "meta": {
+      "next": "10020",
+      "previous": "10018",
+      "book": "10",
+      "source": "https://sacred-texts.com/hin/rigveda/rv10019.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv10019.htm"
+    },
+    "deities": [
+      {
+        "name": "O ye ",
+        "hymns": [
+          {
+            "key": "10019",
+            "title": "HYMN XIX. Waters or Cows."
+          }
+        ]
+      },
+      {
+        "name": "O Agni",
+        "hymns": [
+          {
+            "key": "10019",
+            "title": "HYMN XIX. Waters or Cows."
+          }
+        ]
+      },
+      {
+        "name": "O thou",
+        "hymns": [
+          {
+            "key": "10019",
+            "title": "HYMN XIX. Waters or Cows."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638557536376,
-  "updated": 1638792008379
+  "updated": 1638830292991
 }

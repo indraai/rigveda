@@ -5,13 +5,42 @@
   "link": "hymns/08063.html",
   "api": "json/hymns/08063.json",
   "data": {
+    "key": "08063",
     "title": "HYMN LXIII. Agni.",
     "describe": "EXERTING all our strength with thoughts of power we glorify in speech Agni your dear familiar Friend, the darling Guest in every home.",
-    "feecting": "p:EXERTING all our strength with thoughts of power we glorify in speech Agni your dear familiar Friend, the darling Guest in every home.\np:Whom, served with sacrificial oil like Mitra, men presenting gifts Eulogize with their songs of praise\np:Much-lauded J&#257;tavedas, him who bears oblations up to Heaven Prepared in service of the Devas.\np:To noblest Agni, Friend of man, best V&#7771;tra-slayer, are we come, him in whose presence Rksa's son, mighty Srutarvan, waxes great;\np:To deathless J&#257;tavedas, meet for praise, adored, with sacred oil, Visible through the gloom of night\np:Even Agni whom these priestly men worship with sacrificial gifts, with lifted ladles offering them.\np:O Agni, this our newest hymn hath been addressed from us to thee, O cheerful Guest, well-born, most wise, worker of wonders, ne&#146;er deceived.\np:Agni. May it be dear to thee, most grateful, and exceeding sweet: Grow mightier, eulogized therewith.\np:Splendid with splendour. May it be, and in the battle with the foe Add loftier glory to thy fame.\np:Steed, cow, a lord of heroes, bright like Indra, who shall fill the car.\np: Whose high renown ye celebrate, and people praise each glorious deed.\r\np:Thou whom Gopavana made glad with song, O Agni A&#7749;giras. Hear this my call, thou Holy One.\np:Thou whom the priestly folk implore to aid the gathering of the spoil, Such be thou in the fight with foes.\np:I, called to him who reels with joy, Srutarvan, Rksa's son, shall stroke The heads of four presented steeds, like the long wool of fleecy rams.\np:Four coursers with a splendid car, Savistha's horses, fleet of foot, Shall bring me to the sacred feast, as flying steeds brought Tugra's son.\np:The very truth do I declare to thee, Paru&#7779;&#7751;&#299;, mighty flood. Waters! no man is there who gives more horses than Savistha gives.",
-    "next": "08064",
-    "previous": "08062",
-    "book": "08"
+    "feecting": "p:EXERTING all our strength with thoughts of power we glorify in speech Agni your dear familiar Friend, the darling Guest in every home.\np:Whom, served with sacrificial oil like Mitra, men presenting gifts Eulogize with their songs of praise\np:Much-lauded Jātavedas, him who bears oblations up to Heaven Prepared in service of the Devas.\np:To noblest Agni, Friend of man, best Vṛtra-slayer, are we come, him in whose presence Rksa's son, mighty Srutarvan, waxes great;\np:To deathless Jātavedas, meet for praise, adored, with sacred oil, Visible through the gloom of night\np:Even Agni whom these priestly men worship with sacrificial gifts, with lifted ladles offering them.\np:O Agni, this our newest hymn hath been addressed from us to thee, O cheerful Guest, well-born, most wise, worker of wonders, ne’er deceived.\np:Agni. May it be dear to thee, most grateful, and exceeding sweet: Grow mightier, eulogized therewith.\np:Splendid with splendour. May it be, and in the battle with the foe Add loftier glory to thy fame.\np:Steed, cow, a lord of heroes, bright like Indra, who shall fill the car.\np: Whose high renown ye celebrate, and people praise each glorious deed.\r\np:Thou whom Gopavana made glad with song, O Agni Aṅgiras. Hear this my call, thou Holy One.\np:Thou whom the priestly folk implore to aid the gathering of the spoil, Such be thou in the fight with foes.\np:I, called to him who reels with joy, Srutarvan, Rksa's son, shall stroke The heads of four presented steeds, like the long wool of fleecy rams.\np:Four coursers with a splendid car, Savistha's horses, fleet of foot, Shall bring me to the sacred feast, as flying steeds brought Tugra's son.\np:The very truth do I declare to thee, Paruṣṇī, mighty flood. Waters! no man is there who gives more horses than Savistha gives.",
+    "meta": {
+      "next": "08064",
+      "previous": "08062",
+      "book": "08",
+      "source": "https://sacred-texts.com/hin/rigveda/rv08063.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv08063.htm"
+    },
+    "deities": [
+      {
+        "name": "O Agni",
+        "hymns": [
+          {
+            "key": "08063",
+            "title": "HYMN LXIII. Agni."
+          },
+          {
+            "key": "08063",
+            "title": "HYMN LXIII. Agni."
+          }
+        ]
+      },
+      {
+        "name": "O cheerful",
+        "hymns": [
+          {
+            "key": "08063",
+            "title": "HYMN LXIII. Agni."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638556624018,
-  "updated": 1638792008147
+  "updated": 1638830292765
 }

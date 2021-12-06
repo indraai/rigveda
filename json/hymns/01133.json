@@ -5,13 +5,64 @@
   "link": "hymns/01133.html",
   "api": "json/hymns/01133.json",
   "data": {
+    "key": "01133",
     "title": "HYMN CXXXIII. Indra.",
     "describe": "WITH offering I purge both Earth and Heaven: I burn up great she-fiends who serve not Indra, Where throttled by thy hand the foes were slaughtered, and in the pit of death lay pierced and mangled.",
-    "feecting": "p:WITH offering I purge both Earth and Heaven: I burn up great she-fiends who serve not Indra, Where throttled by thy hand the foes were slaughtered, and in the pit of death lay pierced and mangled.\np:O thou who castest forth the stones crushing the sorceresses&#146; heads, Break them with thy wide-spreading foot, with thy wide-spreading mighty foot.\np:Do thou, O Indra, beat off these sorceresses' daring strength.\np: Cast them within the narrow pit. within the deep and narrow pit.\r\np:Of whom thou hast ere now conquered thrice-fifty with thy fierce attacks. That deed they count a glorious deed, though small to thee, a glorious deed.\np:O Indra, crush and bray to bits the fearful fiery-weaponed fiend: Strike every demon to the ground.\np:Tear down the mighty ones. O Indra, hear thou us. For Heaven hath glowed like Earth in fear, O Thunder-armed, as dreading fierce heat, Thunder-armed! Most Mighty mid the Mighty Ones thou speedest with strong bolts of death, Not subduing men, unconquered Hero with the brave, O Hero, with the thrice-seven brave.\np:The pourer of libations gains the home of wealth, pouring his gift conciliates hostilities, yea, the hostilities of Devas. Pouring, he strives, unchecked and strong, to win him riches thousandfold. Indra gives lasting wealth to him who pours forth gifts, yea, wealth he gives that long shall last.",
-    "next": "01134",
-    "previous": "01132",
-    "book": "01"
+    "feecting": "p:WITH offering I purge both Earth and Heaven: I burn up great she-fiends who serve not Indra, Where throttled by thy hand the foes were slaughtered, and in the pit of death lay pierced and mangled.\np:O thou who castest forth the stones crushing the sorceresses’ heads, Break them with thy wide-spreading foot, with thy wide-spreading mighty foot.\np:Do thou, O Indra, beat off these sorceresses' daring strength.\np: Cast them within the narrow pit. within the deep and narrow pit.\r\np:Of whom thou hast ere now conquered thrice-fifty with thy fierce attacks. That deed they count a glorious deed, though small to thee, a glorious deed.\np:O Indra, crush and bray to bits the fearful fiery-weaponed fiend: Strike every demon to the ground.\np:Tear down the mighty ones. O Indra, hear thou us. For Heaven hath glowed like Earth in fear, O Thunder-armed, as dreading fierce heat, Thunder-armed! Most Mighty mid the Mighty Ones thou speedest with strong bolts of death, Not subduing men, unconquered Hero with the brave, O Hero, with the thrice-seven brave.\np:The pourer of libations gains the home of wealth, pouring his gift conciliates hostilities, yea, the hostilities of Devas. Pouring, he strives, unchecked and strong, to win him riches thousandfold. Indra gives lasting wealth to him who pours forth gifts, yea, wealth he gives that long shall last.",
+    "meta": {
+      "next": "01134",
+      "previous": "01132",
+      "book": "01",
+      "source": "https://sacred-texts.com/hin/rigveda/rv01133.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv01133.htm"
+    },
+    "deities": [
+      {
+        "name": "O thou",
+        "hymns": [
+          {
+            "key": "01133",
+            "title": "HYMN CXXXIII. Indra."
+          }
+        ]
+      },
+      {
+        "name": "O Indra",
+        "hymns": [
+          {
+            "key": "01133",
+            "title": "HYMN CXXXIII. Indra."
+          },
+          {
+            "key": "01133",
+            "title": "HYMN CXXXIII. Indra."
+          },
+          {
+            "key": "01133",
+            "title": "HYMN CXXXIII. Indra."
+          }
+        ]
+      },
+      {
+        "name": "O Thunder",
+        "hymns": [
+          {
+            "key": "01133",
+            "title": "HYMN CXXXIII. Indra."
+          }
+        ]
+      },
+      {
+        "name": "O Hero",
+        "hymns": [
+          {
+            "key": "01133",
+            "title": "HYMN CXXXIII. Indra."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638553714941,
-  "updated": 1638792007451
+  "updated": 1638830291827
 }

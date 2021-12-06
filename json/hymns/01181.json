@@ -5,13 +5,33 @@
   "link": "hymns/01181.html",
   "api": "json/hymns/01181.json",
   "data": {
-    "title": "HYMN CLXXXI. A&#347;vins",
+    "key": "01181",
+    "title": "HYMN CLXXXI. Aśvins",
     "describe": "WHAT, dearest Pair, is this in strength and riches that ye as Monks are bring from the waters?",
-    "feecting": "p:WHAT, dearest Pair, is this in strength and riches that ye as Monks are bring from the waters? This offering is your glorification, ye who protect mankind and give them treasures.\np:May your pure steeds, rain-drinkers, bring you hither, swift as the tempest, your celestial coursers, Rapid as thought, with fair backs, full of vigour, resplendent in their native light, O A&#347;vins.\np:Your car is like a torrent rushing downward. May it come nigh, broad-seated, for our welfare,&#151; Car holy, strong, that ever would be foremost, thought-swift, which ye, for whom we long, have mounted.\np:Here sprung to life, they both have sung together, with bodies free from stain, with signs that mark them; One of you Prince of Offering, the Victor, the other counts as Heaven's auspicious offspring.\np:May your car-seat, down-gliding, golden-coloured, according to your wish approach our dwellings.\np: Men shall feed full the bay steeds of the other, and, A&#347;vins they with roars shall stir the regions.\r\np:Forth comes your strong Bull like a cloud of autumn, sending abundant food of liquid sweetness. Let them feed with the other's ways and vigour: the upper streams have come and do us service.\np:Your constant song hath been sent forth, Disposers! that flows threefold in mighty strength, O A&#347;vins. Thus lauded, give the suppliant protection moving or resting hear mine invocation.\np:This song of bright contents for you is swelling in the men's hall where three-fold grass is ready. Your strong rain-cloud, ye Mighty Ones, hath swollen, honouring men as &#146;twere with milk's outpouring.\np:The prudent worshipper, like P&#363;&#7779;an, A&#347;vins! praises you as he praises Dawn and Agni, when, singing with devotion, he invokes you. May we find strengthening food in full abundance.",
-    "next": "01182",
-    "previous": "01180",
-    "book": "01"
+    "feecting": "p:WHAT, dearest Pair, is this in strength and riches that ye as Monks are bring from the waters? This offering is your glorification, ye who protect mankind and give them treasures.\np:May your pure steeds, rain-drinkers, bring you hither, swift as the tempest, your celestial coursers, Rapid as thought, with fair backs, full of vigour, resplendent in their native light, O Aśvins.\np:Your car is like a torrent rushing downward. May it come nigh, broad-seated, for our welfare. Car holy, strong, that ever would be foremost, thought-swift, which ye, for whom we long, have mounted.\np:Here sprung to life, they both have sung together, with bodies free from stain, with signs that mark them; One of you Prince of Offering, the Victor, the other counts as Heaven's auspicious offspring.\np:May your car-seat, down-gliding, golden-coloured, according to your wish approach our dwellings.\np: Men shall feed full the bay steeds of the other, and, Aśvins they with roars shall stir the regions.\r\np:Forth comes your strong Bull like a cloud of autumn, sending abundant food of liquid sweetness. Let them feed with the other's ways and vigour: the upper streams have come and do us service.\np:Your constant song hath been sent forth, Disposers! that flows threefold in mighty strength, O Aśvins. Thus lauded, give the suppliant protection moving or resting hear mine invocation.\np:This song of bright contents for you is swelling in the men's hall where three-fold grass is ready. Your strong rain-cloud, ye Mighty Ones, hath swollen, honouring men as ’twere with milk's outpouring.\np:The prudent worshipper praises you as he praises Dawn and Agni, when, singing with devotion, he invokes you. May we find strengthening food in full abundance.",
+    "meta": {
+      "next": "01182",
+      "previous": "01180",
+      "book": "01",
+      "source": "https://sacred-texts.com/hin/rigveda/rv01181.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv01181.htm"
+    },
+    "deities": [
+      {
+        "name": "O Aśvins",
+        "hymns": [
+          {
+            "key": "01181",
+            "title": "HYMN CLXXXI. Aśvins"
+          },
+          {
+            "key": "01181",
+            "title": "HYMN CLXXXI. Aśvins"
+          }
+        ]
+      }
+    ]
   },
   "created": 1638553969673,
-  "updated": 1638792007508
+  "updated": 1638830291908
 }

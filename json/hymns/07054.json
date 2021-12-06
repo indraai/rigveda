@@ -5,13 +5,38 @@
   "link": "hymns/07054.html",
   "api": "json/hymns/07054.json",
   "data": {
+    "key": "07054",
     "title": "HYMN LIV. Vastospati.",
     "describe": "ACKNOWLEDGE us, O Guardian of the Homestead: bring no disease, and give us happy entrance.",
-    "feecting": "p:ACKNOWLEDGE us, O Guardian of the Homestead: bring no disease, and give us happy entrance.\np: Whate&#146;er we ask of thee, be pleased to grant it, and prosper thou quadrupeds and bipeds.\r\np:Protector of the Home, be our promoter: increase our wealth in kine and steeds, O Indu. May we be ever-youthful in thy friendship: be pleased in us as in his sons a father.\np:Through thy dear fellowship that bringeth welfare. May we be victors, Guardian of the Dwelling! Protect our happiness in rest and labour. Preserve us evermore, ye Devas, with blessings.",
-    "next": "07055",
-    "previous": "07053",
-    "book": "07"
+    "feecting": "p:ACKNOWLEDGE us, O Guardian of the Homestead: bring no disease, and give us happy entrance.\np: Whate’er we ask of thee, be pleased to grant it, and prosper thou quadrupeds and bipeds.\r\np:Protector of the Home, be our promoter: increase our wealth in kine and steeds, O Indu. May we be ever-youthful in thy friendship: be pleased in us as in his sons a father.\np:Through thy dear fellowship that bringeth welfare. May we be victors, Guardian of the Dwelling! Protect our happiness in rest and labour. Preserve us evermore, ye Devas, with blessings.",
+    "meta": {
+      "next": "07055",
+      "previous": "07053",
+      "book": "07",
+      "source": "https://sacred-texts.com/hin/rigveda/rv07054.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv07054.htm"
+    },
+    "deities": [
+      {
+        "name": "O Guardian",
+        "hymns": [
+          {
+            "key": "07054",
+            "title": "HYMN LIV. Vastospati."
+          }
+        ]
+      },
+      {
+        "name": "O Indu",
+        "hymns": [
+          {
+            "key": "07054",
+            "title": "HYMN LIV. Vastospati."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638556027745,
-  "updated": 1638792007996
+  "updated": 1638830292569
 }

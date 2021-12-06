@@ -5,13 +5,38 @@
   "link": "hymns/06028.html",
   "api": "json/hymns/06028.json",
   "data": {
+    "key": "06028",
     "title": "HYMN XXVIII. Cows.",
     "describe": "THE Kine have come and brought good fortune: let them rest in the cow-pen and be happy near us.",
-    "feecting": "p:THE Kine have come and brought good fortune: let them rest in the cow-pen and be happy near us.\np: Here let them stay prolific, many-coloured, and yield through many morns their milk for Indra.\r\np:Indra aids him who offers offering and gifts: he takes not what is his, and gives him more thereto. Increasing ever more and ever more his wealth, he makes the pious dwell within unbroken bounds.\np:These are ne&#146;er lost, no robber ever injures them: no evil-minded foe attempts to harass them. The master of the Kine lives many a year with these, the Cows whereby he pours his gifts and serves the Devas.\np:The charger with his dusty brow o&#146;ertakes them not, and never to the shambles do they take their way. These Cows, the cattle of the pious worshipper, roam over widespread pasture where no danger is.\np:To me the Cows seem Bhaga, they seem Indra, they seem a portion of the first-poured Soma. These present Cows, they, O ye Indra. I long for Indra with my heart and spirit.\np:O Cows, ye fatten e&#146;en the worn and wasted, and make the unlovely beautiful tolook on. Prosper my house, ye with auspicious voices. Your power is glorified in our assemblies.\np:Crop goodly pasturage and be prolific drink pure sweet water at good drinking places. Never be thief or sinful man your matter, an. May the dart of Soma still avoid you.\np:Now let this close admixture be close intermigled with these Cows, Mixt with the Steer's prolific flow, and, Indra, with thy hero might.",
-    "next": "06029",
-    "previous": "06027",
-    "book": "06"
+    "feecting": "p:THE Kine have come and brought good fortune: let them rest in the cow-pen and be happy near us.\np: Here let them stay prolific, many-coloured, and yield through many morns their milk for Indra.\r\np:Indra aids him who offers offering and gifts: he takes not what is his, and gives him more thereto. Increasing ever more and ever more his wealth, he makes the pious dwell within unbroken bounds.\np:These are ne’er lost, no robber ever injures them: no evil-minded foe attempts to harass them. The master of the Kine lives many a year with these, the Cows whereby he pours his gifts and serves the Devas.\np:The charger with his dusty brow o’ertakes them not, and never to the shambles do they take their way. These Cows, the cattle of the pious worshipper, roam over widespread pasture where no danger is.\np:To me the Cows seem Bhaga, they seem Indra, they seem a portion of the first-poured Soma. These present Cows, they, O ye Indra. I long for Indra with my heart and spirit.\np:O Cows, ye fatten e’en the worn and wasted, and make the unlovely beautiful tolook on. Prosper my house, ye with auspicious voices. Your power is glorified in our assemblies.\np:Crop goodly pasturage and be prolific drink pure sweet water at good drinking places. Never be thief or sinful man your matter, an. May the dart of Soma still avoid you.\np:Now let this close admixture be close intermigled with these Cows, Mixt with the Steer's prolific flow, and, Indra, with thy hero might.",
+    "meta": {
+      "next": "06029",
+      "previous": "06027",
+      "book": "06",
+      "source": "https://sacred-texts.com/hin/rigveda/rv06028.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv06028.htm"
+    },
+    "deities": [
+      {
+        "name": "O ye ",
+        "hymns": [
+          {
+            "key": "06028",
+            "title": "HYMN XXVIII. Cows."
+          }
+        ]
+      },
+      {
+        "name": "O Cows",
+        "hymns": [
+          {
+            "key": "06028",
+            "title": "HYMN XXVIII. Cows."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638555494258,
-  "updated": 1638792007884
+  "updated": 1638830292383
 }

@@ -5,13 +5,47 @@
   "link": "hymns/10093.html",
   "api": "json/hymns/10093.json",
   "data": {
-    "title": "HYMN XCIII. Vi&#347;vedevas.",
+    "key": "10093",
+    "title": "HYMN XCIII. Devas.",
     "describe": "MIGHTY are ye, and far-extended.",
-    "feecting": "p:MIGHTY are ye, and far-extended. Heaven and Earth: both Worlds are evermore to us like two young Dames.\np: Guard us thereby from stronger foe; guard us hereby to give us strength.\r\np:In each succeeding offering that mortal honoureth the Devas. He who, most widely known and famed for happiness, inviteth them.\np:Ye who are Rulers over all, great is your sovran power as Devas. Ye all possess all majesty: all must be served in offering.\np:These are the joyous Kings of Immortality, Parijman, Mitra, Aryaman, and Varu&#7751;a. What else is Soma, praised of men? the Devas, Bhaga, P&#363;&#7779;a&#7751;a?\np:Come also to our dwelling, Lords of ample wealth, common partakers of our waters, Sun and Moon, when the great Dragon of the Deep hath settled down upon their floors.\np:And let the A&#347;vins, Lords of splendour, set us free,&#151;both Devas, and, with their Laws, Mitra and Varu&#7751;a. Through woes, as over desert lands, he speeds to ample opulence.\np:Yea, let the A&#347;vins Twain he gracious unto us, even Somas, and all Devas, Bhaga, Rathaspati; Parijman, &#7770;bhu, V&#257;ja, O Lords of all wealth &#7770;bhuk&#7779;a&#7751;as.\np:Prompt is &#7770;bhuk&#7779;an, prompt the worshipper's strong drink. May thy fleet Bay Steeds, thine who speedest on, approach. Not mans but Deva's is offering whose psalm is unassailable.\np:O God Indra, harmed by none, lauded, give us a place among wealthy princes. With his Car-steeds at once 'hath our Indra guided the reins and the car of these men.\np:To these men present here, O Heaven and Earth, to us grant lofty fame extending over all mankind. Give us a steed to win us strength, a steed with wealth for victory.\np:This speaker, Indra&#151;for thou art our Friend&#151;wherever h. May be, guard thou, Victor! for help, ever for help Thy wisdom, Vasu! prosper him.\np:So have they strengthened this mine hymn which seems to take its bright path to the Sun, and reconciles the men: Thus forms a carpenter the yoke of horses, not to be displaced.\np:Whose chariot-seat hath come again laden with wealth and bright with gold, Lightly, with piercing ends, as &#146;twere two ranks of heroes ranged for fight.\np:This to Du&#7717;&#347;&#299;ma P&#7771;thav&#257;na have I sung, to Vena, Rama, to the nobles, and the King. They yoked five hundred, and their love of us was famed upon their way.\np:Besides, they showed us seven-and-seventy horses here. T&#257;nva at once displayed his gift, P&#257;rthya at once displayed his gift; and straightway M&#257;yava showed his.",
-    "next": "10094",
-    "previous": "10092",
-    "book": "10"
+    "feecting": "p:MIGHTY are ye, and far-extended. Heaven and Earth: both Worlds are evermore to us like two young Dames.\np: Guard us thereby from stronger foe; guard us hereby to give us strength.\r\np:In each succeeding offering that mortal honoureth the Devas. He who, most widely known and famed for happiness, inviteth them.\np:Ye who are Rulers over all, great is your sovran power as Devas. Ye all possess all majesty: all must be served in offering.\np:These are the joyous Kings of Immortality, Parijman, Mitra, Aryaman, and Indra. What else is Soma, praised of men? the Devas, Bhaga, Pūṣaṇa?\np:Come also to our dwelling, Lords of ample wealth, common partakers of our waters, Sun and Moon, when the great Dragon of the Deep hath settled down upon their floors.\np:And let the Aśvins, Lords of splendour, set us free.both Devas, and, with their Laws, Mitra and Indra. Through woes, as over desert lands, he speeds to ample opulence.\np:Yea, let the Aśvins Twain he gracious unto us, even Somas, and all Devas, Bhaga, Rathaspati; Parijman, Ṛbhu, Vāja, O Lords of all wealth Ṛbhukṣaṇas.\np:Prompt is Ṛbhukṣan, prompt the worshipper's strong drink. May thy fleet Bay Steeds, thine who speedest on, approach. Not mans but Deva's is offering whose psalm is unassailable.\np:O God Indra, harmed by none, lauded, give us a place among wealthy princes. With his Car-steeds at once 'hath our Indra guided the reins and the car of these men.\np:To these men present here, O Heaven and Earth, to us grant lofty fame extending over all mankind. Give us a steed to win us strength, a steed with wealth for victory.\np:This speaker, Indra—for thou art our Friend—wherever h. May be, guard thou, Victor! for help, ever for help Thy wisdom, Vasu! prosper him.\np:So have they strengthened this mine hymn which seems to take its bright path to the Sun, and reconciles the men: Thus forms a carpenter the yoke of horses, not to be displaced.\np:Whose chariot-seat hath come again laden with wealth and bright with gold, Lightly, with piercing ends, as ’twere two ranks of heroes ranged for fight.\np:This to Duḥśīma Pṛthavāna have I sung, to Vena, Rama, to the nobles, and the King. They yoked five hundred, and their love of us was famed upon their way.\np:Besides, they showed us seven-and-seventy horses here. Tānva at once displayed his gift, Pārthya at once displayed his gift; and straightway Māyava showed his.",
+    "meta": {
+      "next": "10094",
+      "previous": "10092",
+      "book": "10",
+      "source": "https://sacred-texts.com/hin/rigveda/rv10093.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv10093.htm"
+    },
+    "deities": [
+      {
+        "name": "O Lords",
+        "hymns": [
+          {
+            "key": "10093",
+            "title": "HYMN XCIII. Devas."
+          }
+        ]
+      },
+      {
+        "name": "O God",
+        "hymns": [
+          {
+            "key": "10093",
+            "title": "HYMN XCIII. Devas."
+          }
+        ]
+      },
+      {
+        "name": "O Heaven",
+        "hymns": [
+          {
+            "key": "10093",
+            "title": "HYMN XCIII. Devas."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638557930541,
-  "updated": 1638792008521
+  "updated": 1638830293155
 }

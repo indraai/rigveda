@@ -5,13 +5,47 @@
   "link": "hymns/10044.html",
   "api": "json/hymns/10044.json",
   "data": {
+    "key": "10044",
     "title": "HYMN XLIV. Indra.",
     "describe": "MAY Sovran Indra come to the carousal, he who by Holy Law is strong and active, the overcomer of all conquering forces with his great steer-like power that hath no limit.",
-    "feecting": "p:MAY Sovran Indra come to the carousal, he who by Holy Law is strong and active, the overcomer of all conquering forces with his great steer-like power that hath no limit.\np:Firm-seated is thy car, thy Steeds are docile; thy hand, O King, holds, firmly grasped, the thunder.\np: On thy fair path, O Lord of men, come quickly: we will increase thy powers when thou hast drunken.\r\np:Let strong and mighty Steeds who bear this Mighty Indra, the Lord of men, whose arm wields thunder, Bring unto us, as sharers of our banquet, the Steer of conquering might, of real vigour.\np:So like a Bull thou rushest to the Lord who loves the trough, the Sage, the prop of vigour, in the vat, Prepare thine energies, collect them in thyself: be for our profit as the Master of the wise.\np:May precious treasures come to us-so will I pray. Come to the votary's gift offered with beauteous laud. Thou art the Lord, as such sit on this holy grass: thy vessels are inviolate as Law commands.\np:Far went our earlist invocation of the Devas, and won us glories that can never be surpassed. They who could not ascend the ship of offering, sink down in desolation, trembling with alarm.\np:So be the others, evil-hearted, far away, whose horses, difficult to harness, have been yoked. Here in advance men stand anear to offer gifts, by whom full many a work that brings reward is done.\np:He firmly fixed the plains and mountains as they shook. Devas thundered forth and made the air's mid-region quake. He stays apart the two confronting bowls; he sings lauds in the potent Soma's joy when he hath drunk.\np:I bear this deftly-fashioned goad of thine, wherewith thou, Indra, shalt break the strikers with the hoof. At this libatio. Mayst thou be well satisfied. Partake the juice, partake the worship, Indra.\np:O Much-invoked. May we subdue all famine and evil want with store of grain and cattle. May we allied, as first in rank, with princes obtain possessions by our own exertion.\np:B&#7771;haspati protect us from the rearward, and from above, and from below, from sinners. May Indra from the front and from the centre, as Friend to friends, vouchsafe us room and freedom.",
-    "next": "10045",
-    "previous": "10043",
-    "book": "10"
+    "feecting": "p:MAY Sovran Indra come to the carousal, he who by Holy Law is strong and active, the overcomer of all conquering forces with his great steer-like power that hath no limit.\np:Firm-seated is thy car, thy Steeds are docile; thy hand, O King, holds, firmly grasped, the thunder.\np: On thy fair path, O Lord of men, come quickly: we will increase thy powers when thou hast drunken.\r\np:Let strong and mighty Steeds who bear this Mighty Indra, the Lord of men, whose arm wields thunder, Bring unto us, as sharers of our banquet, the Steer of conquering might, of real vigour.\np:So like a Bull thou rushest to the Lord who loves the trough, the Sage, the prop of vigour, in the vat, Prepare thine energies, collect them in thyself: be for our profit as the Master of the wise.\np:May precious treasures come to us-so will I pray. Come to the votary's gift offered with beauteous laud. Thou art the Lord, as such sit on this holy grass: thy vessels are inviolate as Law commands.\np:Far went our earlist invocation of the Devas, and won us glories that can never be surpassed. They who could not ascend the ship of offering, sink down in desolation, trembling with alarm.\np:So be the others, evil-hearted, far away, whose horses, difficult to harness, have been yoked. Here in advance men stand anear to offer gifts, by whom full many a work that brings reward is done.\np:He firmly fixed the plains and mountains as they shook. Devas thundered forth and made the air's mid-region quake. He stays apart the two confronting bowls; he sings lauds in the potent Soma's joy when he hath drunk.\np:I bear this deftly-fashioned goad of thine, wherewith thou, Indra, shalt break the strikers with the hoof. At this libatio. Mayst thou be well satisfied. Partake the juice, partake the worship, Indra.\np:O Much-invoked. May we subdue all famine and evil want with store of grain and cattle. May we allied, as first in rank, with princes obtain possessions by our own exertion.\np:Soma protect us from the rearward, and from above, and from below, from sinners. May Indra from the front and from the centre, as Friend to friends, vouchsafe us room and freedom.",
+    "meta": {
+      "next": "10045",
+      "previous": "10043",
+      "book": "10",
+      "source": "https://sacred-texts.com/hin/rigveda/rv10044.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv10044.htm"
+    },
+    "deities": [
+      {
+        "name": "O King",
+        "hymns": [
+          {
+            "key": "10044",
+            "title": "HYMN XLIV. Indra."
+          }
+        ]
+      },
+      {
+        "name": "O Lord",
+        "hymns": [
+          {
+            "key": "10044",
+            "title": "HYMN XLIV. Indra."
+          }
+        ]
+      },
+      {
+        "name": "O Much",
+        "hymns": [
+          {
+            "key": "10044",
+            "title": "HYMN XLIV. Indra."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638557670893,
-  "updated": 1638792008447
+  "updated": 1638830293032
 }

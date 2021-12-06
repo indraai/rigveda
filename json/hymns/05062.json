@@ -5,13 +5,42 @@
   "link": "hymns/05062.html",
   "api": "json/hymns/05062.json",
   "data": {
-    "title": "HYMN LXII. Mitra-Varu&#7751;a",
-    "describe": "BY your high Law firm order is established there where they loose for travel S&#363;",
-    "feecting": "p:BY your high Law firm order is established there where they loose for travel S&#363;rya's horses.\np: Ten hundred stood together: there I looked on this the most marvellous Deities' one chief glory.\r\np:This, Mitra-Varu&#7751;a, is your special greatness: floods that stood there they with the days attracted. Ye cause to flow all voices of the cowpen: your single chariotfelly hath rolled hither.\np:O Mitra-Varu&#7751;a, ye by your greatness, both Kings, have firmly stablished Earth and Heaven, Ye caused the cows to stream, the plants to flourish, and, scattering swift drops, sent down the rain-flood.\np:Let your well-harnessed horses bear you hither: hitherward let them come with reins drawn tightly. A covering cloud of sacred oil attends you, and your streams flow to us from days aforetime.\np:To make the lustre wider and more famous, guarding the sacred grass with veneration, Ye, Mitra-Varu&#7751;a, firm, strong, awe-inspiring, are seated on a throne amid oblations.\np:With hands that shed no blood, guarding the pious, whom, Varuni3, ye save amid oblations. Ye Twain, together, Kings of willing spirit, uphold dominion based on thousand pillars.\np:Adorned with gold, its columns are of iron. in Heaven it glitters like a whip for horses; Or stablished on a field deep-spoiled and fruitful. May we share the meath that loads your car-seat.\np:Ye mount your car gold-hued at break of morning, and iron-pillared when the Sun is setting, and from that place, O Varu&#7751;a and Mitra, behold infinity and limit~tion.\np:Bountiful guardians of the world! the shelter that is impenetrable, strongest, flawless, Aid us with that, O Varu&#7751;a and Mitra, and when we long to wi. May we be victors.",
-    "next": "05063",
-    "previous": "05061",
-    "book": "05"
+    "key": "05062",
+    "title": "HYMN LXII. Mitra-Indra",
+    "describe": "BY your high Law firm order is established there where they loose for travel Sūrya's horses.",
+    "feecting": "p:BY your high Law firm order is established there where they loose for travel Sūrya's horses.\np: Ten hundred stood together: there I looked on this the most marvellous Deities' one chief glory.\r\np:This is your special greatness: floods that stood there they with the days attracted. Ye cause to flow all voices of the cowpen: your single chariotfelly hath rolled hither.\np:O Mitra-Indra, ye by your greatness, both Kings, have firmly stablished Earth and Heaven, Ye caused the cows to stream, the plants to flourish, and, scattering swift drops, sent down the rain-flood.\np:Let your well-harnessed horses bear you hither: hitherward let them come with reins drawn tightly. A covering cloud of sacred oil attends you, and your streams flow to us from days aforetime.\np:To make the lustre wider and more famous, guarding the sacred grass with veneration, Ye firm, strong, awe-inspiring, are seated on a throne amid oblations.\np:With hands that shed no blood, guarding the pious, whom, Varuni3, ye save amid oblations. Ye Twain, together, Kings of willing spirit, uphold dominion based on thousand pillars.\np:Adorned with gold, its columns are of iron. in Heaven it glitters like a whip for horses; Or stablished on a field deep-spoiled and fruitful. May we share the meath that loads your car-seat.\np:Ye mount your car gold-hued at break of morning, and iron-pillared when the Sun is setting, and from that place, O Indra and Mitra, behold infinity and limit~tion.\np:Bountiful guardians of the world! the shelter that is impenetrable, strongest, flawless, Aid us with that, O Indra and Mitra, and when we long to wi. May we be victors.",
+    "meta": {
+      "next": "05063",
+      "previous": "05061",
+      "book": "05",
+      "source": "https://sacred-texts.com/hin/rigveda/rv05062.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv05062.htm"
+    },
+    "deities": [
+      {
+        "name": "O Mitra",
+        "hymns": [
+          {
+            "key": "05062",
+            "title": "HYMN LXII. Mitra-Indra"
+          }
+        ]
+      },
+      {
+        "name": "O Indra",
+        "hymns": [
+          {
+            "key": "05062",
+            "title": "HYMN LXII. Mitra-Indra"
+          },
+          {
+            "key": "05062",
+            "title": "HYMN LXII. Mitra-Indra"
+          }
+        ]
+      }
+    ]
   },
   "created": 1638555213809,
-  "updated": 1638792007821
+  "updated": 1638830292302
 }

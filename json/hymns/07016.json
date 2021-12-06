@@ -5,13 +5,47 @@
   "link": "hymns/07016.html",
   "api": "json/hymns/07016.json",
   "data": {
+    "key": "07016",
     "title": "HYMN XVI. Agni.",
     "describe": "WITH this my reverent hymn I call Agni for you, the Son of Strength, Dear, wisest envoy, served with noble offering, immortal messenger of all.",
-    "feecting": "p:WITH this my reverent hymn I call Agni for you, the Son of Strength, Dear, wisest envoy, served with noble offering, immortal messenger of all.\np:His two red horses, all-supporting, let him yoke: let him, well-worshipped, urge them fast.\np: Then hath the offering good prayers and happy end, and heavenly gift of wealth to men.\r\np:The flame of him the Bountiful, the Much-invoked, hath mounted up, and his red-coloured smoke-clouds reach and touch the sky: the men are kindling Agni well.\np:Thee, thee Most Glorious One we make our messenger. Bring the Devas hither to the feast. Give us, O Son of Strength, all food that fcedeth man: give that for which we pray to thee.\np:Thou, Agni, art the homestead's Lord, our Herald at the offering. Lord of all boons, thou art the Cleanser and a Sage. Pay worship, and enjoy the good.\np:Give riches to the offeringr, O Most Wise, for thou art he who granteth wealth. Inspire with zeal each priest at this our solemn rite; all who are skilled in singing praise.\np:O Agni who art worshipped well, dear let our princes he to thee, Our wealthy patrons who are governors of men, who part, as gifts, their stalls of kine.\np:They in whose home, her hand bearing the sacred oil, I&#7735;&#257; sits down well-satisfied- Guard them, Victorious Deva, from slander and from harm. give us a refuge famed afar.\np:Do thou, a Monk with pleasant tongue, most wise, and very near to us, Agni, bring riches hither to our liberal chiefs, and speed the oflering of our gifts.\np:They who bestow as bounty plenteous wealth of steeds, moved by desire of great renown- Do thou with saving help preserve them from distress, most Youthful! with a hundred forts.\np:The Deva who gives your wealth demands a full libation poured to him. Pour ye it forth, then fill the vessel full again: then doth the Deva pay heed to you.\np:Him have the Devas appointed Monk of offering, oblation-bearer, passing wise. Agni gives wealth and valour to the worshipper, to folk who offer up their gifts.",
-    "next": "07017",
-    "previous": "07015",
-    "book": "07"
+    "feecting": "p:WITH this my reverent hymn I call Agni for you, the Son of Strength, Dear, wisest envoy, served with noble offering, immortal messenger of all.\np:His two red horses, all-supporting, let him yoke: let him, well-worshipped, urge them fast.\np: Then hath the offering good prayers and happy end, and heavenly gift of wealth to men.\r\np:The flame of him the Bountiful, the Much-invoked, hath mounted up, and his red-coloured smoke-clouds reach and touch the sky: the men are kindling Agni well.\np:Thee, thee Most Glorious One we make our messenger. Bring the Devas hither to the feast. Give us, O Son of Strength, all food that fcedeth man: give that for which we pray to thee.\np:Thou, Agni, art the homestead's Lord, our Herald at the offering. Lord of all boons, thou art the Cleanser and a Sage. Pay worship, and enjoy the good.\np:Give riches to the offeringr, O Most Wise, for thou art he who granteth wealth. Inspire with zeal each priest at this our solemn rite; all who are skilled in singing praise.\np:O Agni who art worshipped well, dear let our princes he to thee, Our wealthy patrons who are governors of men, who part, as gifts, their stalls of kine.\np:They in whose home, her hand bearing the sacred oil, Iḷā sits down well-satisfied- Guard them, Victorious Deva, from slander and from harm. give us a refuge famed afar.\np:Do thou, a Monk with pleasant tongue, most wise, and very near to us, Agni, bring riches hither to our liberal chiefs, and speed the oflering of our gifts.\np:They who bestow as bounty plenteous wealth of steeds, moved by desire of great renown- Do thou with saving help preserve them from distress, most Youthful! with a hundred forts.\np:The Deva who gives your wealth demands a full libation poured to him. Pour ye it forth, then fill the vessel full again: then doth the Deva pay heed to you.\np:Him have the Devas appointed Monk of offering, oblation-bearer, passing wise. Agni gives wealth and valour to the worshipper, to folk who offer up their gifts.",
+    "meta": {
+      "next": "07017",
+      "previous": "07015",
+      "book": "07",
+      "source": "https://sacred-texts.com/hin/rigveda/rv07016.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv07016.htm"
+    },
+    "deities": [
+      {
+        "name": "O Son",
+        "hymns": [
+          {
+            "key": "07016",
+            "title": "HYMN XVI. Agni."
+          }
+        ]
+      },
+      {
+        "name": "O Most",
+        "hymns": [
+          {
+            "key": "07016",
+            "title": "HYMN XVI. Agni."
+          }
+        ]
+      },
+      {
+        "name": "O Agni",
+        "hymns": [
+          {
+            "key": "07016",
+            "title": "HYMN XVI. Agni."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638555827011,
-  "updated": 1638792007954
+  "updated": 1638830292501
 }

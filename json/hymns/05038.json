@@ -5,13 +5,56 @@
   "link": "hymns/05038.html",
   "api": "json/hymns/05038.json",
   "data": {
+    "key": "05038",
     "title": "HYMN XXXVIII. Indra.",
-    "describe": "WIDE, Indra &#346;",
-    "feecting": "p:WIDE, Indra &#346;atakratu, spreads the bounty of thine ample grace: So, Lord of fair dominion, Friend of all men, give us splendid wealth.\np:The food which, Mightiest Indra, thou possessest worthy of renown Is bruited as most widely famed, invincible, O Golden-hued!\np:O Darter of the Stone, the powers which readily obey thy will,&#151; Divinities, both thou and they, ye rule, to guard them, Earth and Heaven.\np:And from whatever power of thine, O V&#7771;tra-slayer, i. May be, Bring thou to us heroic strength: thou hast a man's regard for us.\np:In thy protection, with these aids of thine, O Lord of Hundred Powers, Indra, may we be guarded well. Hero. May we be guarded well.",
-    "next": "05039",
-    "previous": "05037",
-    "book": "05"
+    "describe": "WIDE, Indra Śatakratu, spreads the bounty of thine ample grace: So, Lord of fair dominion, Friend of all men, give us splendid wealth.",
+    "feecting": "p:WIDE, Indra Śatakratu, spreads the bounty of thine ample grace: So, Lord of fair dominion, Friend of all men, give us splendid wealth.\np:The food which, Mightiest Indra, thou possessest worthy of renown Is bruited as most widely famed, invincible, O Golden-hued!\np:O Darter of the Stone, the powers which readily obey thy will. Divinities, both thou and they, ye rule, to guard them, Earth and Heaven.\np:And from whatever power of thine, O Indra, i. May be, Bring thou to us heroic strength: thou hast a man's regard for us.\np:In thy protection, with these aids of thine, O Lord of Hundred Powers, Indra, may we be guarded well. Hero. May we be guarded well.",
+    "meta": {
+      "next": "05039",
+      "previous": "05037",
+      "book": "05",
+      "source": "https://sacred-texts.com/hin/rigveda/rv05038.htm",
+      "sanskrit": "https://sacred-texts.com/hin/rvsan/rv05038.htm"
+    },
+    "deities": [
+      {
+        "name": "O Golden",
+        "hymns": [
+          {
+            "key": "05038",
+            "title": "HYMN XXXVIII. Indra."
+          }
+        ]
+      },
+      {
+        "name": "O Darter",
+        "hymns": [
+          {
+            "key": "05038",
+            "title": "HYMN XXXVIII. Indra."
+          }
+        ]
+      },
+      {
+        "name": "O Indra",
+        "hymns": [
+          {
+            "key": "05038",
+            "title": "HYMN XXXVIII. Indra."
+          }
+        ]
+      },
+      {
+        "name": "O Lord",
+        "hymns": [
+          {
+            "key": "05038",
+            "title": "HYMN XXXVIII. Indra."
+          }
+        ]
+      }
+    ]
   },
   "created": 1638555086428,
-  "updated": 1638792007791
+  "updated": 1638830292259
 }
