@@ -119,11 +119,11 @@ section.twitter {
   box-shadow: 0 0px 1px rgba(0,0,0,.5);
 }
 
-.feecting-box.hymn .number-item {
+.feecting-box.book .number-item {
   padding: 5px 0;
 }
 
-.feecting-box.hymn .number-item::before {
+.feecting-box.book .number-item::before {
   content: attr(data-label);
   display: inline-block;
   min-width: 50px;
