@@ -8,12 +8,12 @@
     "key": "07025",
     "title": "HYMN XXV. Indra.",
     "describe": false,
-    "feecting": "WHEN with thy mighty help, O potent Indra, the armies rush together in their fury.\np: When from the strong man's arm the lightning flieth, let not the mind go forth to side with others.\r\np:O Indra, where the ground is hard to traverse, smite down our foes, the mortals who assail us, Keep far from us the curse of the reviler: bring us accumulated store of treasures.\np:God of the fair helm, give Sudās a hundred assists, a thousand blessings, and thy bounty. Strike down the weapon of our mortal foeman: bestow upon us splendid fame and riches.\np:I wait the power of one like thee, O Indra, gifts of a Helper such as thou art. Hero. Strong, Mighty Deva, dwell with me now and ever: Lord of Bay Horses, do not thou desert us.\np:Here are the Kutsas supplicating Indra for might, the Lord of Bays for God-sent conquest. Make our foes ever easy to be vanquished. May we, victorious, win the spoil, O Hero.\np:With precious things, O Indra, thus content us. May we attain to thine exalted favour. Send our chiefs plenteous food with hero children. Preserve us evermore, ye Devas, with blessings.",
+    "feecting": "WHEN with thy mighty help, O potent Indra, the armies rush together in their fury.\np: When from the strong man's arm the lightning flieth, let not the mind go forth to side with others.\r\np:O Indra, where the ground is hard to traverse, smite down our foes, the mortals who assail us, Keep far from us the curse of the reviler: bring us accumulated store of treasures.\np:Deva of the fair helm, give Sudās a hundred assists, a thousand blessings, and thy bounty. Strike down the weapon of our mortal foeman: bestow upon us splendid fame and riches.\np:I wait the power of one like thee, O Indra, gifts of a Helper such as thou art. Hero. Strong, Mighty Deva, dwell with me now and ever: Lord of Bay Horses, do not thou desert us.\np:Here are the Kutsas supplicating Indra for might, the Lord of Bays for Deva-sent conquest. Make our foes ever easy to be vanquished. May we, victorious, win the spoil, O Hero.\np:With precious things, O Indra, thus content us. May we attain to thine exalted favour. Send our chiefs plenteous food with hero children. Preserve us evermore, ye Devas, with blessings.",
     "meta": {
       "next": "07026",
       "previous": "07024",
       "book": "07",
-      "source": "https://sacred-texts.com/hin/rigveda/rv07025.htm",
+      "original": "https://sacred-texts.com/hin/rigveda/rv07025.htm",
       "sanskrit": "https://sacred-texts.com/hin/rvsan/rv07025.htm"
     },
     "deities": [
@@ -55,5 +55,5 @@
     ]
   },
   "created": 1638555874505,
-  "updated": 1638830292518
+  "updated": 1639023784796
 }

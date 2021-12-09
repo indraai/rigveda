@@ -8,12 +8,12 @@
     "key": "06014",
     "title": "HYMN XIV. Agni.",
     "describe": "WHOSO to Agni hath endeared his thought and service by his hymns, that mortal cats before the rest, and finds sufficiency of food.",
-    "feecting": "p:WHOSO to Agni hath endeared his thought and service by his hymns, that mortal cats before the rest, and finds sufficiency of food.\np:Agni, in truth, is passing wise, most skilled in ordering, a Seer.\np: At offers Manus' sons glorify Agni as their Monk.\r\np:The foeman's wealth in many a place, Agni, is emulous to help. Men fight the fiend, and seek by rites to overcome the riteless foe.\np:Agni bestows the hero chief, winner of waters, firm in fray. Soon as they look upon his might his enemies tremble in alarm.\np:For with his wisdom Agni, Deva, protects the mortal from reproach, whose conquering wealth is never checked, is never checked in deeds of might.\np:O Agni, God with Mitra's might call hither the favour of the Devas from Earth and Heaven. Bring weal from Heaven that me. May dwell securely. May we o’ercome the foe's malign oppressions. May we o’ercome them, through thy help o’ercome them.",
+    "feecting": "p:WHOSO to Agni hath endeared his thought and service by his hymns, that mortal cats before the rest, and finds sufficiency of food.\np:Agni, in truth, is passing wise, most skilled in ordering, a Seer.\np: At offers Manus' sons glorify Agni as their Monk.\r\np:The foeman's wealth in many a place, Agni, is emulous to help. Men fight the fiend, and seek by rites to overcome the riteless foe.\np:Agni bestows the hero chief, winner of waters, firm in fray. Soon as they look upon his might his enemies tremble in alarm.\np:For with his wisdom Agni, Deva, protects the mortal from reproach, whose conquering wealth is never checked, is never checked in deeds of might.\np:O Agni, Deva with Mitra's might call hither the favour of the Devas from Earth and Heaven. Bring weal from Heaven that me. May dwell securely. May we o’ercome the foe's malign oppressions. May we o’ercome them, through thy help o’ercome them.",
     "meta": {
       "next": "06015",
       "previous": "06013",
       "book": "06",
-      "source": "https://sacred-texts.com/hin/rigveda/rv06014.htm",
+      "original": "https://sacred-texts.com/hin/rigveda/rv06014.htm",
       "sanskrit": "https://sacred-texts.com/hin/rvsan/rv06014.htm"
     },
     "deities": [
@@ -29,5 +29,5 @@
     ]
   },
   "created": 1638555420467,
-  "updated": 1638830292356
+  "updated": 1639023784617
 }

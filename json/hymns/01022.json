@@ -6,23 +6,23 @@
   "api": "json/hymns/01022.json",
   "data": {
     "key": "01022",
-    "title": "HYMN XXII. Aśvins and Others",
+    "title": "HYMN XXII. Indra and Others",
     "describe": "WAKEN the Aśvin Pair who yoke their car at early morn.",
-    "feecting": "p:WAKEN the Aśvin Pair who yoke their car at early morn. May they Approach to drink this Soma juice.\np:We call the Aśvins Twains borne in a noble car, the best of charioteers, who reach the heavens.\np:Dropping with honey is your whip, Aśvins, and full of pleasantness Sprinkle therewith the offering.\np:As ye go thither in your car, not far, O Aśvins, is the home Of him who offers.\np:For my protection I invoke the golden-handed Indra.\np: He knoweth the place.\r\np:That h. May send us assist, praise the Waters’ Offspring Indra: Fain are we for his holy ways.\np:We call on him. On Indra who looks on men.\np:Come hither friends, and seat yourselves, Indra, to be praised by us, giving good gifts is beautiful.\np:O Agni.\np:Most youthful Agni for aid.\n\n\np:May Heaven and Earth, the Mighty Pair, bedew for us our offering, and feed us full with nourishments.\np:Their water rich with fatness, there in the Gandharva's steadfast place, the singers taste through sacred songs.\np:Thornless be thou, O Earth, spread wide before us for a dwelling-place: Vouchsafe us shelter broad and sure.\np:The Devas be gracious unto us even from the place whence Indra strode Through the seven regions of the Earth!\np:Through all this world strode Indra; thrice his foot he planted, and the  gathered in his footstep's dust.\np:Indra, the Guardian, he whom none deceiveth, made three steps; thenceforth establishing his high decrees.\np:Look ye on Indra's works, whereby the Friend of Indra, close-allied, Hath let his holy ways be seen.\np:The princes evermore behold that loftiest place where Indra is, laid as it were an eye in Heaven.\np:This, Indra's station most sublime, the singers, ever vigilant. Lovers of holy song, light up.",
+    "feecting": "p:WAKEN the Aśvin Pair who yoke their car at early morn. May they Approach to drink this Soma juice.\np:We call the Indra Twains borne in a noble car, the best of charioteers, who reach the heavens.\np:Dropping with honey is your whip, Indra, and full of pleasantness Sprinkle therewith the offering.\np:As ye go thither in your car, not far, O Indra, is the home Of him who offers.\np:For my protection I invoke the golden-handed Indra.\np: He knoweth the place.\r\np:That h. May send us assist, praise the Waters’ Offspring Indra: Fain are we for his holy ways.\np:We call on him. On Indra who looks on men.\np:Come hither friends, and seat yourselves, Indra, to be praised by us, giving good gifts is beautiful.\np:O Agni.\np:Most youthful Agni for aid.\n\n\np:May Heaven and Earth, the Mighty Pair, bedew for us our offering, and feed us full with nourishments.\np:Their water rich with fatness, there in the Gandharva's steadfast place, the singers taste through sacred songs.\np:Thornless be thou, O Earth, spread wide before us for a dwelling-place: Vouchsafe us shelter broad and sure.\np:The Devas be gracious unto us even from the place whence Indra strode Through the seven regions of the Earth!\np:Through all this world strode Indra; thrice his foot he planted, and the  gathered in his footstep's dust.\np:Indra, the Guardian, he whom none deceiveth, made three steps; thenceforth establishing his high decrees.\np:Look ye on Indra's works, whereby the Friend of Indra, close-allied, Hath let his holy ways be seen.\np:The princes evermore behold that loftiest place where Indra is, laid as it were an eye in Heaven.\np:This, Indra's station most sublime, the singers, ever vigilant. Lovers of holy song, light up.",
     "meta": {
       "next": "01023",
       "previous": "01021",
       "book": "01",
-      "source": "https://sacred-texts.com/hin/rigveda/rv01022.htm",
+      "original": "https://sacred-texts.com/hin/rigveda/rv01022.htm",
       "sanskrit": "https://sacred-texts.com/hin/rvsan/rv01022.htm"
     },
     "deities": [
       {
-        "name": "O Aśvins",
+        "name": "O Indra",
         "hymns": [
           {
             "key": "01022",
-            "title": "HYMN XXII. Aśvins and Others"
+            "title": "HYMN XXII. Indra and Others"
           }
         ]
       },
@@ -31,7 +31,7 @@
         "hymns": [
           {
             "key": "01022",
-            "title": "HYMN XXII. Aśvins and Others"
+            "title": "HYMN XXII. Indra and Others"
           }
         ]
       },
@@ -40,12 +40,12 @@
         "hymns": [
           {
             "key": "01022",
-            "title": "HYMN XXII. Aśvins and Others"
+            "title": "HYMN XXII. Indra and Others"
           }
         ]
       }
     ]
   },
   "created": 1638553128706,
-  "updated": 1638830291608
+  "updated": 1639023783584
 }

@@ -324,11 +324,12 @@
     },
     {
       "key": "02039",
-      "title": "HYMN XXXIX Aśvins.",
+      "title": "HYMN XXXIX Indra.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv02039.htm",
       "link": "hymns/02039.html",
       "api": "json/hymns/02039.json",
-      "created": 1638549617309
+      "created": 1638549617309,
+      "updated": 1639023783506
     },
     {
       "key": "02040",

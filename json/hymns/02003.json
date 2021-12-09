@@ -8,12 +8,12 @@
     "key": "02003",
     "title": "HYMN III. Indu.",
     "describe": "AGNI is set upon the Earth well kindled;",
-    "feecting": "p:AGNI is set upon the Earth well kindled; he standeth in the presence of all beings.\np: Wise, ancient, Deva, the Monk and Purifier, let Agni serve the Devas for he is worthy.\r\np:May Narāśaṁsa lighting up the chambers, bright in his majesty through threefold Heaven, Steeping the gift with oil diffusing purpose, bedew the Devas at chiefest time of worship.\np:Adored in heart, as is thy right, O Agni, serve the Devas first to-day before the mortal. Bring thou the Marut host. Ye men do worship to Indra seated on the grass, eternal.\np:O Grass divine, increasing, rich in heroes, strewn for wealth's sake, well laid upon this altar. On this bedewed with oil sit ye, O Devas, sit all ye Devas, ye Holy, ye Ādityas.\np:Wide be the Doorsdesses, thrown open, easy to pass, invoked, through adorations, Let them unfold, expansive, everlasting, that sanctify the class famed, rich in heroes.\np:Good work for us, the glorious Night and Morning, like female weavers, waxen from aforetime, Yielders of rich milk, interweave in concert the long-extended thread, the web of worship.\np:Let the two heavenly Heralds, first, most wise, most fair, present oblation duly with the sacred verse, worshipping God at ordered seasons decking them at three high places at the centre of the Earth.\np:Sarasvatī who perfects our devotion, Iḷā divine, Bhāratī all surpassing. Three Goddesses, with power inherent, seated, protect this holy Grass, our flawless refuge!\np:Born is the pious hero swift of hearing, like gold in hue, well formed, and full of vigour. May Tvaṣṭar lengthen our line and kindred, an. May they reach the place which Devas inhabit.\np:Vanaspati shall stand anear and start us, and Agni with his arts prepare oblation. Let the skilled heavenly Immolator forward unto the Devas the offering thrice anointed.\np:Oil has been mixt: oil is his habitation. In oil he rests: oil is his proper province. Come as thy wont is: O thou Steer, rejoice thee; bear off the oblation duly consecrated.",
+    "feecting": "p:AGNI is set upon the Earth well kindled; he standeth in the presence of all beings.\np: Wise, ancient, Deva, the Monk and Purifier, let Agni serve the Devas for he is worthy.\r\np:Bright in his majesty through threefold Heaven bedew the Devas at chiefest time of worship.\np:Adored in heart, O Agni, serve the Devas first to-day before the mortal. ,Ye men do worship to Indra seated on the grass, eternal.\np:O Indra, increasing, rich in heroes, strewn for wealth's sake, well laid upon this altar. On this bedewed with oil sit ye, O Devas, sit all ye Devas, ye Holy, ye Ādityas.\np:Wide be the door, thrown open, easy to pass, invoked, through adorations, Let them unfold, expansive, everlasting, that sanctify the class famed, rich in heroes.\np:Good work for us, the glorious Night and Morning, like female weavers, waxen from aforetime, Yielders of rich milk, interweave in concert the long-extended thread, the web of worship.\np:Let the two heavenly Heralds, first, most wise, most fair, present oblation duly with the sacred verse, worshipping Deva at ordered seasons decking them at three high places at the centre of the Earth.\np:Sarasvatī who perfects our devotion, Iḷā divine, Bhāratī all surpassing. Three Goddesses, with power inherent, seated, protect this holy Grass, our flawless refuge!\np:Born is the pious hero swift of hearing, like gold in hue, well formed, and full of vigour. May Tvaṣṭar lengthen our line and kindred, an. May they reach the place which Devas inhabit.\np:Vanaspati shall stand anear and start us, and Agni with his arts prepare oblation. Let the skilled heavenly Immolator forward unto the Devas the offering thrice anointed.\np:Oil has been mixt: oil is his habitation. In oil he rests: oil is his proper province. Come as thy wont is: O thou Steer, rejoice thee; bear off the oblation duly consecrated.",
     "meta": {
       "next": "02004",
       "previous": "02002",
       "book": "02",
-      "source": "https://sacred-texts.com/hin/rigveda/rv02003.htm",
+      "original": "https://sacred-texts.com/hin/rigveda/rv02003.htm",
       "sanskrit": "https://sacred-texts.com/hin/rvsan/rv02003.htm"
     },
     "deities": [
@@ -27,7 +27,7 @@
         ]
       },
       {
-        "name": "O Grass",
+        "name": "O Indra",
         "hymns": [
           {
             "key": "02003",
@@ -56,5 +56,5 @@
     ]
   },
   "created": 1638554038763,
-  "updated": 1638830291928
+  "updated": 1639023783973
 }

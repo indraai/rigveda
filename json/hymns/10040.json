@@ -6,43 +6,43 @@
   "api": "json/hymns/10040.json",
   "data": {
     "key": "10040",
-    "title": "HYMN XL. Aśvins.",
+    "title": "HYMN XL. Indra.",
     "describe": "YOUR radiant Chariot-whither goes it on its way?",
-    "feecting": "p:YOUR radiant Chariot-whither goes it on its way?-who decks it for you. Heroes, for its happy course, Starting at daybreak, visiting each morning every house, borne hitherward through prayer unto the offering?\np:Where are ye, Aśvins, in the evening, where at morn? Where is your haltingplace, where rest ye for the night? Who brings you homeward, as the widow bedward draws his brother, as the bride attracts the groom?\np:Early ye sing forth praise as with a herald's voice, and, meet for worship, go each morning to the house.\np: Whom do ye ever bring to ruin? Unto whose libations come ye. Heroes, like two Sons of Kings?\r\np:Even as hunters follow two wild elephants, we with oblations call you down at morn and eve. To folk who pay you offierings at appointed times, Chiefs, Lords of splendour, ye bring food to strengthen them.\np:To you, O Aśvins, came the daughter of a King, Ghoṣā, and said, O Heroes, this I beg of you: Be near me in the day, he near me in the night: help me to gain a car-borne chieftain rich in steeds.\np:O Aśvins, ye are wise: as Kutsa comes to men, bring your car nigh the folk of him who sings your praise. The bee, O Aśvins, bears your honey in her mouth, as the maid carries it purified in her hand.\np:To Bhujyu and to Vaśa ye come near with help, O Aśvins, to Sinjara and to Uśanā. Your worshipper secures your friendship for himself. Through your protection I desire felicity.\np:Krsa and Śayu ye protect, ye Aśvins Twain: ye Two assist the widow and the worshipper; And ye throw open, Aśvins, unto those who win the cattle-stall that thunders with its serenfold mouth.\np:The Woman hath brought forth, the Infant hath appeared, the plants of wondrous beauty straightway have sprung up. To him the rivers run as down a deep descent, and he this day becomes their master and their lord.\np:They mourn the living, cry aloud, at offering: the men have set their thoughts upon a distant cast. A lovely thing for fathers who have gathered here.a joy to husbands.are the wives their arms shall clasp\np:Of this we have no knowledge. Tall it forth to us, now the youth rests within the chambers of the bride. Fain would we reach the dwelling of the vigorous Steer who loves the kine, O Aśvins: this is our desire.\np:Your favouring grace hath come, ye Lords of ample wealth: Aśvins, our longings are stored up within your hearts. Ye, Lords of splendour, have become our twofold guard. May we as welcome friends reach Aryaman's abode.\np:Even so, rejoicing in the dwelling-place of man, give hero sons and riches to the eloquent. Make a ford, Lords of splendour, where men wel. May drink: remove the spiteful tree-stump standing in the path.\np:O Aśvins, Wonder-Workers, Lords of lustre, where and with what folk do ye delight yourselves to-day? Who hath detained them with him? Whither are they gone? Unto what sage's or what worshipper's abode?",
+    "feecting": "p:YOUR radiant Chariot-whither goes it on its way?-who decks it for you. Heroes, for its happy course, Starting at daybreak, visiting each morning every house, borne hitherward through prayer unto the offering?\np:Where are ye, Indra, in the evening, where at morn? Where is your haltingplace, where rest ye for the night? Who brings you homeward, as the widow bedward draws his brother, as the bride attracts the groom?\np:Early ye sing forth praise as with a herald's voice, and, meet for worship, go each morning to the house.\np: Whom do ye ever bring to ruin? Unto whose libations come ye. Heroes, like two Sons of Kings?\r\np:Even as hunters follow two wild elephants, we with oblations call you down at morn and eve. To folk who pay you offierings at appointed times, Chiefs ye bring food to strengthen them.\np:To you, O Indra, came the daughter of a King, Ghoṣā, and said, O Heroes, this I beg of you: Be near me in the day, he near me in the night: help me to gain a car-borne chieftain rich in steeds.\np:O Indra, ye are wise: as Kutsa comes to men, bring your car nigh the folk of him who sings your praise. The bee, O Indra, bears your honey in her mouth, as the maid carries it purified in her hand.\np:To Bhujyu and to Vaśa ye come near with help, O Indra, to Sinjara and to Uśanā. Your worshipper secures your friendship for himself. Through your protection I desire felicity.\np:Krsa and Śayu ye protect, ye Indra Twain: ye Two assist the widow and the worshipper; And ye throw open, Indra, unto those who win the cattle-stall that thunders with its serenfold mouth.\np:The Woman hath brought forth, the Infant hath appeared, the plants of wondrous beauty straightway have sprung up. To him the rivers run as down a deep descent, and he this day becomes their master and their lord.\np:They mourn the living, cry aloud, at offering: the men have set their thoughts upon a distant cast. A lovely thing for fathers who have gathered here.a joy to husbands.are the wives their arms shall clasp\np:Of this we have no knowledge. Tall it forth to us, now the youth rests within the chambers of the bride. Fain would we reach the dwelling of the vigorous Steer who loves the kine, O Indra: this is our desire.\np:Your favouring grace hath come, ye Lords of ample wealth: Indra, our longings are stored up within your hearts. Ye have become our twofold guard. May we as welcome friends reach Aryaman's abode.\np:Even so, rejoicing in the dwelling-place of man, give hero sons and riches to the eloquent. Make a ford where men wel. May drink: remove the spiteful tree-stump standing in the path.\np:O Indra, Wonder-Workers, Lords of lustre, where and with what folk do ye delight yourselves to-day? Who hath detained them with him? Whither are they gone? Unto what sage's or what worshipper's abode?",
     "meta": {
       "next": "10041",
       "previous": "10039",
       "book": "10",
-      "source": "https://sacred-texts.com/hin/rigveda/rv10040.htm",
+      "original": "https://sacred-texts.com/hin/rigveda/rv10040.htm",
       "sanskrit": "https://sacred-texts.com/hin/rvsan/rv10040.htm"
     },
     "deities": [
       {
-        "name": "O Aśvins",
+        "name": "O Indra",
         "hymns": [
           {
             "key": "10040",
-            "title": "HYMN XL. Aśvins."
+            "title": "HYMN XL. Indra."
           },
           {
             "key": "10040",
-            "title": "HYMN XL. Aśvins."
+            "title": "HYMN XL. Indra."
           },
           {
             "key": "10040",
-            "title": "HYMN XL. Aśvins."
+            "title": "HYMN XL. Indra."
           },
           {
             "key": "10040",
-            "title": "HYMN XL. Aśvins."
+            "title": "HYMN XL. Indra."
           },
           {
             "key": "10040",
-            "title": "HYMN XL. Aśvins."
+            "title": "HYMN XL. Indra."
           },
           {
             "key": "10040",
-            "title": "HYMN XL. Aśvins."
+            "title": "HYMN XL. Indra."
           }
         ]
       },
@@ -51,12 +51,12 @@
         "hymns": [
           {
             "key": "10040",
-            "title": "HYMN XL. Aśvins."
+            "title": "HYMN XL. Indra."
           }
         ]
       }
     ]
   },
   "created": 1638557649855,
-  "updated": 1638830293025
+  "updated": 1639023785538
 }

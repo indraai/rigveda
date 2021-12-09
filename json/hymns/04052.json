@@ -8,12 +8,12 @@
     "key": "04052",
     "title": "HYMN LII. Dawn.",
     "describe": "THIS Lady, giver of delight, after her Sister shining forth, Daughter of Heaven, hath shown herself.",
-    "feecting": "p:THIS Lady, giver of delight, after her Sister shining forth, Daughter of Heaven, hath shown herself.-\np:Unfailing, Mother of the Kine, in colour like a bright red mare, the Dawn became the Aśvins' Friend.\np:Yea, and thou art the Aśvins' Friend, the Mother of the Kine art thou: O Dawn thou rulest over wealth.\np:Thinking of thee, O joyous One, as her who driveth hate away, We woke to meet thee with our lauds.\np:Our eyes behold thy blessed rays like troops of cattle loosed to feed.\np: Dawn hath filled full the wide expanse.\r\np:When thou hast filled it, Fulgent One! thou layest bare the gloom with light. After thy nature aid us, Dawn.\np:Thou overspreadest Heaven with rays, the dear wide region of mid-air. With thy bright shining lustre, Dawn.",
+    "feecting": "p:THIS Lady, giver of delight, after her Sister shining forth, Daughter of Heaven, hath shown herself.-\np:Unfailing, Mother of the Kine, in colour like a bright red mare, the Dawn became the Indra' Friend.\np:Yea, and thou art the Indra' Friend, the Mother of the Kine art thou: O Dawn thou rulest over wealth.\np:Thinking of thee, O joyous One, as her who driveth hate away, We woke to meet thee with our lauds.\np:Our eyes behold thy blessed rays like troops of cattle loosed to feed.\np: Dawn hath filled full the wide expanse.\r\np:When thou hast filled it, Fulgent One! thou layest bare the gloom with light. After thy nature aid us, Dawn.\np:Thou overspreadest Heaven with rays, the dear wide region of mid-air. With thy bright shining lustre, Dawn.",
     "meta": {
       "next": "04053",
       "previous": "04051",
       "book": "04",
-      "source": "https://sacred-texts.com/hin/rigveda/rv04052.htm",
+      "original": "https://sacred-texts.com/hin/rigveda/rv04052.htm",
       "sanskrit": "https://sacred-texts.com/hin/rvsan/rv04052.htm"
     },
     "deities": [
@@ -38,5 +38,5 @@
     ]
   },
   "created": 1638554852831,
-  "updated": 1638830292199
+  "updated": 1639023784407
 }

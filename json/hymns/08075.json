@@ -6,18 +6,18 @@
   "api": "json/hymns/08075.json",
   "data": {
     "key": "08075",
-    "title": "HYMN LXXV. Aśvins.",
+    "title": "HYMN LXXV. Indra.",
     "describe": "YE Twain are wondrous strong, well-skilled in arts that heal, both bringers of delight, ye both won Dakṣa's praise.",
     "feecting": "p:YE Twain are wondrous strong, well-skilled in arts that heal, both bringers of delight, ye both won Dakṣa's praise.\np: Viśvaka calls on you as such to save his life. Break ye not off our friendship, come and set me free.\r\np:How shall he praise you now who is distraught in mind? Ye Twain give wisdom for the gainof what is good. Viśvaka calls on you as such to save his life. Break ye not off our friendship, come and set me free.\np:Already have ye Twain, possessors of great wealth, prospered Viṣṇāpū thus for gain of what is good. Viśvaka calls on you as such to save his life. Break ye not off our friendship, come and set me free.\np:And that Impetuous Hero, winner of the spoil, though he is far away, we call to assist us, whose gracious favour, like a father's, is most sweet. Break ye not off our friendship, come and set me free.\np:About the holy Law toils Indra the Deva the horn of holy Law hath he spread far and wide. The holy Law hath quelled even mighty men of war. Break ye not off our ftiendship, come and act me free.",
     "meta": {
       "next": "08076",
       "previous": "08074",
       "book": "08",
-      "source": "https://sacred-texts.com/hin/rigveda/rv08075.htm",
+      "original": "https://sacred-texts.com/hin/rigveda/rv08075.htm",
       "sanskrit": "https://sacred-texts.com/hin/rvsan/rv08075.htm"
     },
     "deities": []
   },
   "created": 1638556687197,
-  "updated": 1638830292777
+  "updated": 1639023785132
 }

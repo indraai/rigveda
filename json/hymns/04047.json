@@ -8,12 +8,12 @@
     "key": "04047",
     "title": "HYMN XLVIL Soma. Indra-Soma.",
     "describe": "Soma, the bright is offered thee, best of the meath at holy rites.",
-    "feecting": "p:Soma, the bright is offered thee, best of the meath at holy rites.\np: Come thou  juice, Deva, longed-for, on thy team-drawn car.\r\np:O Soma, thou and Indra are meet drinkers of these Soma-draughts, for unto you the drops proceed as waters gather to the vale.\np:O Indra-Soma, mighty Twain, speeding together, Lords of Strength, Come to our assist with your team, that y. May drink the Soma juice.\np:The longed-for teams which ye possess, O Heroes, for the worshipper, Turn to us, Indra-Soma, ye to whom the offering is paid.",
+    "feecting": "p:Soma, the bright is offered thee, best of the meath at holy rites.\np: Come thou  juice, Deva, longed-for, on thy team-drawn car.\r\np:O Soma, thou and Indra are meet drinkers of these Soma-draughts, for unto you the drops proceed as waters gather to the vale.\np:O Indra and Soma, mighty Twain, speeding together, Lords of Strength, Come to our assist with your team, that y. May drink the Soma juice.\np:The longed-for teams which ye possess, O Heroes, for the worshipper, Turn to us, Indra and Soma, ye to whom the offering is paid.",
     "meta": {
       "next": "04048",
       "previous": "04046",
       "book": "04",
-      "source": "https://sacred-texts.com/hin/rigveda/rv04047.htm",
+      "original": "https://sacred-texts.com/hin/rigveda/rv04047.htm",
       "sanskrit": "https://sacred-texts.com/hin/rvsan/rv04047.htm"
     },
     "deities": [
@@ -47,5 +47,5 @@
     ]
   },
   "created": 1638554826238,
-  "updated": 1638830292192
+  "updated": 1639023784400
 }

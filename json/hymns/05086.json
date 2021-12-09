@@ -6,18 +6,18 @@
   "api": "json/hymns/05086.json",
   "data": {
     "key": "05086",
-    "title": "HYMN LXXXVI. Indra-Agni.",
+    "title": "HYMN LXXXVI. Indra and Agni.",
     "describe": "THE mortal man whom ye, the Twain, Indra and Agni, help in fight, Breaks through e’en strongly-guarded wealth as Tṛta burst his way through reeds.",
-    "feecting": "p:THE mortal man whom ye, the Twain, Indra and Agni, help in fight, Breaks through e’en strongly-guarded wealth as Tṛta burst his way through reeds.\np:The Twain invincible in war, worthy to be renowned in frays, Lords of the Fivefold. People, these, Indra and Agni, we invoke.\np:Impetuous is their strength, and keen the lightning of the mighty Pair, Which from their arms speeds with the car to Vṛtra's slayer for the kine.\np:Indra and Agni, we invoke you both, as such, to send your cars: Lords of quick-coming bounty, ye who know, chief lovers of the song.\np:These who give increase day by day, Devas without guile for mortal man, Worthy themselves, I honour most, Two Devas as partners, for my horse.\np:The strength-bestowing offering thus to Indra-Agni hath been paid, as butter, purified by stones.\np: Deal to our princes high renown, deal wealth to those who sing your praise, deal food to those who sing your praise.",
+    "feecting": "p:THE mortal man whom ye, the Twain, Indra and Agni, help in fight, Breaks through e’en strongly-guarded wealth as Tṛta burst his way through reeds.\np:The Twain invincible in war, worthy to be renowned in frays, Lords of the Fivefold. People, these, Indra and Agni, we invoke.\np:Impetuous is their strength, and keen the lightning of the mighty Pair, Which from their arms speeds with the car to Vṛtra's slayer for the kine.\np:Indra and Agni, we invoke you both, as such, to send your cars: Lords of quick-coming bounty, ye who know, chief lovers of the song.\np:These who give increase day by day, Devas without guile for mortal man, Worthy themselves, I honour most, Two Devas as partners, for my horse.\np:The strength-bestowing offering thus to Indra and Agni hath been paid, as butter, purified by stones.\np: Deal to our princes high renown, deal wealth to those who sing your praise, deal food to those who sing your praise.",
     "meta": {
       "next": "05087",
       "previous": "05085",
       "book": "05",
-      "source": "https://sacred-texts.com/hin/rigveda/rv05086.htm",
+      "original": "https://sacred-texts.com/hin/rigveda/rv05086.htm",
       "sanskrit": "https://sacred-texts.com/hin/rvsan/rv05086.htm"
     },
     "deities": []
   },
   "created": 1638555341313,
-  "updated": 1638830292333
+  "updated": 1639023784587
 }

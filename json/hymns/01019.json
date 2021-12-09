@@ -8,12 +8,12 @@
     "key": "01019",
     "title": "HYMN XIX. Agni.",
     "describe": "To this fair offerings thou art invoked: O Agni, with the Devas come.",
-    "feecting": "p:To this fair offerings thou art invoked: O Agni, with the Devas come.\np:No mortal man, no God exceeds thy mental power, O Mighty one: O Agni, with the Devas come:\np:All Devas devoid of guile, who know the mighty region of mid-air: O Agni, with those Devas come.\np:The terrible, who sing their song, not to be overcome by might: O Agni, with those Devas come.\np:Brilliant, mighty, O Agni, with those Devas come.\np:Who sit as Deities in Heaven, above the sky-vault's luminous sphere: O Agni, with those Devas come.\np:Who scatter clouds about the sky, away over the billowy sea: O Agni, with those Devas come.\np:Who with their bright beams spread them forth over the ocean in their might O Agni, with those Devas come.\np:For thee, to be thine early draught, O Agni, with the Devas come.",
+    "feecting": "p:To this fair offerings thou art invoked: O Agni, with the Devas come.\np:No mortal man, no Deva exceeds thy mental power, O Mighty one: O Agni, with the Devas come:\np:All Devas devoid of guile, who know the mighty region of mid-air: O Agni, with those Devas come.\np:The terrible, who sing their song, not to be overcome by might: O Agni, with those Devas come.\np:Brilliant, mighty, O Agni, with those Devas come.\np:Who sit as Deities in Heaven, above the sky-vault's luminous sphere: O Agni, with those Devas come.\np:Who scatter clouds about the sky, away over the billowy sea: O Agni, with those Devas come.\np:Who with their bright beams spread them forth over the ocean in their might O Agni, with those Devas come.\np:For thee, to be thine early draught, O Agni, with the Devas come.",
     "meta": {
       "next": "01020",
       "previous": "01018",
       "book": "01",
-      "source": "https://sacred-texts.com/hin/rigveda/rv01019.htm",
+      "original": "https://sacred-texts.com/hin/rigveda/rv01019.htm",
       "sanskrit": "https://sacred-texts.com/hin/rvsan/rv01019.htm"
     },
     "deities": [
@@ -70,5 +70,5 @@
     ]
   },
   "created": 1638553112938,
-  "updated": 1638830291602
+  "updated": 1639023783577
 }

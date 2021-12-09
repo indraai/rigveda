@@ -96,11 +96,12 @@
     },
     {
       "key": "03012",
-      "title": "HYMN XII. Indra-Agni.",
+      "title": "HYMN XII. Indra and Agni.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv03012.htm",
       "link": "hymns/03012.html",
       "api": "json/hymns/03012.json",
-      "created": 1638549618876
+      "created": 1638549618876,
+      "updated": 1639023783509
     },
     {
       "key": "03013",
@@ -468,11 +469,12 @@
     },
     {
       "key": "03058",
-      "title": "HYMN LVIII. Aśvins.",
+      "title": "HYMN LVIII. Indra.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv03058.htm",
       "link": "hymns/03058.html",
       "api": "json/hymns/03058.json",
-      "created": 1638549618876
+      "created": 1638549618876,
+      "updated": 1639023783510
     },
     {
       "key": "03059",

@@ -6,14 +6,14 @@
   "api": "json/hymns/07072.json",
   "data": {
     "key": "07072",
-    "title": "HYMN LXXII. Aśvins.",
+    "title": "HYMN LXXII. Indra.",
     "describe": "COME, O Nāsatyas, on your car resplendent, rich in abundant wealth of kine and horses.",
-    "feecting": "p:COME, O Nāsatyas, on your car resplendent, rich in abundant wealth of kine and horses.\np: As harnessed steeds, all our laudations follow you whose forms shine with most delightful beauty.\r\np:Come with the Devas associate, come ye hither to us, Nāsatyas, with your car accordant. 'Twixt you and us there is ancestral friendship and common kin: remember and regard it.\np:Awakened are the songs that praise the Aśvins, the kindred prayers and the Celestial Mornings. Inviting those we long for, Earth and Heaven, the singer calleth these Nāsatyas hither.\np:What time the Dawns break forth in light, O Aśvins, to you the poets offer their devotions. God Indra hath sent aloft his splendour, and fires sing praises with the kindled fuel.\np:Come from the west, come from the cast, Nāsatyas, come, Aśvins, from below and from above us. Bring wealth from all sides for the Fivefold People. Preserve us evermore, ye Devas, with blessings.",
+    "feecting": "p:COME, O Nāsatyas, on your car resplendent, rich in abundant wealth of kine and horses.\np: As harnessed steeds, all our laudations follow you whose forms shine with most delightful beauty.\r\np:Come with the Devas associate, come ye hither to us, Nāsatyas, with your car accordant. 'Twixt you and us there is ancestral friendship and common kin: remember and regard it.\np:Awakened are the songs that praise the Indra, the kindred prayers and the Celestial Mornings. Inviting those we long for, Earth and Heaven, the singer calleth these Nāsatyas hither.\np:What time the Dawns break forth in light, O Indra, to you the poets offer their devotions. Deva Indra hath sent aloft his splendour, and fires sing praises with the kindled fuel.\np:Come from the west, come from the cast, Nāsatyas, come, Indra, from below and from above us. Bring wealth from all sides for the Fivefold People. Preserve us evermore, ye Devas, with blessings.",
     "meta": {
       "next": "07073",
       "previous": "07071",
       "book": "07",
-      "source": "https://sacred-texts.com/hin/rigveda/rv07072.htm",
+      "original": "https://sacred-texts.com/hin/rigveda/rv07072.htm",
       "sanskrit": "https://sacred-texts.com/hin/rvsan/rv07072.htm"
     },
     "deities": [
@@ -22,21 +22,21 @@
         "hymns": [
           {
             "key": "07072",
-            "title": "HYMN LXXII. Aśvins."
+            "title": "HYMN LXXII. Indra."
           }
         ]
       },
       {
-        "name": "O Aśvins",
+        "name": "O Indra",
         "hymns": [
           {
             "key": "07072",
-            "title": "HYMN LXXII. Aśvins."
+            "title": "HYMN LXXII. Indra."
           }
         ]
       }
     ]
   },
   "created": 1638556122658,
-  "updated": 1638830292595
+  "updated": 1639023784890
 }

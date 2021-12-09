@@ -7,13 +7,13 @@
   "data": {
     "key": "01150",
     "title": "HYMN CL. Agni.",
-    "describe": "AGNI, thy faithful servant I call upon thee with many a gift, as in the keeping of the great inciting God;",
-    "feecting": "p:AGNI, thy faithful servant I call upon thee with many a gift, as in the keeping of the great inciting God;\np:Thou who ne’er movest thee to aid the indolent, the godless man, him who though wealthy never brings an offering.\np:Splendid, O Singer, is that man, mightiest of the great in Heaven.\np: Agni. May we be foremost, we thy worshippers.",
+    "describe": "AGNI, thy faithful servant I call upon thee with many a gift, as in the keeping of the great inciting Deva;",
+    "feecting": "p:AGNI, thy faithful servant I call upon thee with many a gift, as in the keeping of the great inciting Deva;\np:Thou who ne’er movest thee to aid the indolent, the godless man, him who though wealthy never brings an offering.\np:Splendid, O Singer, is that man, mightiest of the great in Heaven.\np: Agni. May we be foremost, we thy worshippers.",
     "meta": {
       "next": "01151",
       "previous": "01149",
       "book": "01",
-      "source": "https://sacred-texts.com/hin/rigveda/rv01150.htm",
+      "original": "https://sacred-texts.com/hin/rigveda/rv01150.htm",
       "sanskrit": "https://sacred-texts.com/hin/rvsan/rv01150.htm"
     },
     "deities": [
@@ -29,5 +29,5 @@
     ]
   },
   "created": 1638553804859,
-  "updated": 1638830291858
+  "updated": 1639023783858
 }

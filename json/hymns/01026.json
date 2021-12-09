@@ -8,12 +8,12 @@
     "key": "01026",
     "title": "HYMN XXVI. Agni.",
     "describe": "O WORTHY of oblation, Lord of prospering powers, assume thy robes, and offer this our offering.",
-    "feecting": "p:O WORTHY of oblation, Lord of prospering powers, assume thy robes, and offer this our offering.\np:Sit ever to be chosen, as our Monk, most youthful, through our hymns, O Agni, through our heavenly word.\np:For here a Father for his son, Kinsman for kinsman worshippeth, and Friend, choice-worthy, for his friend.\np:Here let the foe-destroyers sit, Indra, Mitra, Aryaman, like men, upon our sacred grass.\np:O ancient Herald, be thou glad in this our rite and fellowship: Hearken thou well to these our songs.\np:Whate’er in this perpetual course we offering to God and Deva, that gift is offered up in thee\np:May he be our dear household Lord, Monk, pleasant and, choice-worth. May we, with bright fires, be dear to him.\np:The Devas, adored with brilliant fires. have granted precious wealth to us So, with bright fires, we pray to thee.\np:And, O Immortal One, s. May the eulogies of mortal men Belong to us and thee alike.\np:With all thy fires, O Agni, find pleasure in this our offering, and this our speech, O Son of Strength.",
+    "feecting": "p:O WORTHY of oblation, Lord of prospering powers, assume thy robes, and offer this our offering.\np:Sit ever to be chosen, as our Monk, most youthful, through our hymns, O Agni, through our heavenly word.\np:For here a Father for his son, Kinsman for kinsman worshippeth, and Friend, choice-worthy, for his friend.\np:Here let the foe-destroyers sit, Indra, Mitra, Aryaman, like men, upon our sacred grass.\np:O ancient Herald, be thou glad in this our rite and fellowship: Hearken thou well to these our songs.\np:Whate’er in this perpetual course we offering to Deva and Deva, that gift is offered up in thee\np:May he be our dear household Lord, Monk, pleasant and, choice-worth. May we, with bright fires, be dear to him.\np:The Devas, adored with brilliant fires. have granted precious wealth to us So, with bright fires, we pray to thee.\np:And, O Immortal One, s. May the eulogies of mortal men Belong to us and thee alike.\np:With all thy fires, O Agni, find pleasure in this our offering, and this our speech, O Son of Strength.",
     "meta": {
       "next": "01027",
       "previous": "01025",
       "book": "01",
-      "source": "https://sacred-texts.com/hin/rigveda/rv01026.htm",
+      "original": "https://sacred-texts.com/hin/rigveda/rv01026.htm",
       "sanskrit": "https://sacred-texts.com/hin/rvsan/rv01026.htm"
     },
     "deities": [
@@ -69,5 +69,5 @@
     ]
   },
   "created": 1638553149743,
-  "updated": 1638830291615
+  "updated": 1639023783594
 }

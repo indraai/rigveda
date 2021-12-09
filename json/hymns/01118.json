@@ -6,14 +6,14 @@
   "api": "json/hymns/01118.json",
   "data": {
     "key": "01118",
-    "title": "HYMN CXVIII. Aśvins.",
+    "title": "HYMN CXVIII. Indra.",
     "describe": "FLYING, with falcons.",
-    "feecting": "p:FLYING, with falcons. May your chariot, Aśvins, most gracious, bringing friendly help, come hither. Your chariot, swifter than the mind of mortal, fleet as the wind, three-seated O ye Mighty.\np:Come to us with your chariot triple seated, three-wheeled, of triple form, that rolleth lightly.\np: Fill full our cows, give mettle to our horses, and make each hero son grow strong, O Aśvins.\r\np:With your well-rolling car, descending swiftly, hear this the press-stone's song, ye Wonder-Workers. How then have ancient sages said, O Aśvins, that ye most swiftly come to stay affliction?\np:O Aśvins, let your falcons bear you hither, yoked to your chariot, swift, with flying pinions, Which, ever active, like the airy eagles, carry you, O Nāsatyas, to the banquet.\np:The youthful Daughter of the Sun, delighting in you, ascended there your chariot. Heroes. Borne on their swift wings let your beauteous horses, your birds of ruddy hue, convey you near us.\np:Ye raised up Vandana, strong Wonder-Workers! with great might, and with power ye rescued Rebha. From out the sea ye saved the son of Tugra, and gave his youth again unto Cyavāna.\np:To Atri, cast down to the fire that scorched him, ye gave, O Aśvins, strengthening food and favour. Accepting his fair praises with approval, ye gave his eyes again to blinded Kaṇva.\np:For ancient Śayu in his sore affliction ye caused his cow to swell with milk, O Aśvins. The quail from her great misery ye delivered, and a new leg for Viśpalā provided.\np:A white horse, Aśvins, ye bestowed on Pedu, a serpent-subduing steed sent down by Indra, Loud-neighing, conquering the foe, high-mettled, firm-limbed and vigorous, winning thousand treasures.\np:Such as ye are, O nobly born, O Heroes, we in our trouble call on you for assist. Accepting these our songs, for our wellbeing come to us on your chariot treasure-laden.\np:Come unto us combined in love, Nāsatyas come with the fresh swift vigour of the falcon. Bearing oblations I invoke you, Aśvins, at the first break of everlasting morning.",
+    "feecting": "p:FLYING, with falcons. May your chariot, Indra, most gracious, bringing friendly help, come hither. Your chariot, swifter than the mind of mortal, fleet as the wind, three-seated O ye Mighty.\np:Come to us with your chariot triple seated, three-wheeled, of triple form, that rolleth lightly.\np: Fill full our cows, give mettle to our horses, and make each hero son grow strong, O Indra.\r\np:With your well-rolling car, descending swiftly, hear this the press-stone's song, ye Wonder-Workers. How then have ancient sages said, O Indra, that ye most swiftly come to stay affliction?\np:O Indra, let your falcons bear you hither, yoked to your chariot, swift, with flying pinions, Which, ever active, like the airy eagles, carry you, O Nāsatyas, to the banquet.\np:The youthful Daughter of the Sun, delighting in you, ascended there your chariot. Heroes. Borne on their swift wings let your beauteous horses, your birds of ruddy hue, convey you near us.\np:Ye raised up Vandana, strong Wonder-Workers! with great might, and with power ye rescued Rebha. From out the sea ye saved the son of Tugra, and gave his youth again unto Cyavāna.\np:To Atri, cast down to the fire that scorched him, ye gave, O Indra, strengthening food and favour. Accepting his fair praises with approval, ye gave his eyes again to blinded Kaṇva.\np:For ancient Śayu in his sore affliction ye caused his cow to swell with milk, O Indra. The quail from her great misery ye delivered, and a new leg for Viśpalā provided.\np:A white horse, Indra, ye bestowed on Pedu, a serpent-subduing steed sent down by Indra, Loud-neighing, conquering the foe, high-mettled, firm-limbed and vigorous, winning thousand treasures.\np:Such as ye are, O nobly born, O Heroes, we in our trouble call on you for assist. Accepting these our songs, for our wellbeing come to us on your chariot treasure-laden.\np:Come unto us combined in love, Nāsatyas come with the fresh swift vigour of the falcon. Bearing oblations I invoke you, Indra, at the first break of everlasting morning.",
     "meta": {
       "next": "01119",
       "previous": "01117",
       "book": "01",
-      "source": "https://sacred-texts.com/hin/rigveda/rv01118.htm",
+      "original": "https://sacred-texts.com/hin/rigveda/rv01118.htm",
       "sanskrit": "https://sacred-texts.com/hin/rvsan/rv01118.htm"
     },
     "deities": [
@@ -22,32 +22,32 @@
         "hymns": [
           {
             "key": "01118",
-            "title": "HYMN CXVIII. Aśvins."
+            "title": "HYMN CXVIII. Indra."
           }
         ]
       },
       {
-        "name": "O Aśvins",
+        "name": "O Indra",
         "hymns": [
           {
             "key": "01118",
-            "title": "HYMN CXVIII. Aśvins."
+            "title": "HYMN CXVIII. Indra."
           },
           {
             "key": "01118",
-            "title": "HYMN CXVIII. Aśvins."
+            "title": "HYMN CXVIII. Indra."
           },
           {
             "key": "01118",
-            "title": "HYMN CXVIII. Aśvins."
+            "title": "HYMN CXVIII. Indra."
           },
           {
             "key": "01118",
-            "title": "HYMN CXVIII. Aśvins."
+            "title": "HYMN CXVIII. Indra."
           },
           {
             "key": "01118",
-            "title": "HYMN CXVIII. Aśvins."
+            "title": "HYMN CXVIII. Indra."
           }
         ]
       },
@@ -56,7 +56,7 @@
         "hymns": [
           {
             "key": "01118",
-            "title": "HYMN CXVIII. Aśvins."
+            "title": "HYMN CXVIII. Indra."
           }
         ]
       },
@@ -65,7 +65,7 @@
         "hymns": [
           {
             "key": "01118",
-            "title": "HYMN CXVIII. Aśvins."
+            "title": "HYMN CXVIII. Indra."
           }
         ]
       },
@@ -74,12 +74,12 @@
         "hymns": [
           {
             "key": "01118",
-            "title": "HYMN CXVIII. Aśvins."
+            "title": "HYMN CXVIII. Indra."
           }
         ]
       }
     ]
   },
   "created": 1638553635874,
-  "updated": 1638830291795
+  "updated": 1639023783781
 }

@@ -8,24 +8,15 @@
     "key": "01006",
     "title": "HYMN VI. Indra.",
     "describe": "They who stand round him as he moves harness the bright, the ruddy Steed.",
-    "feecting": "p:They who stand round him as he moves harness the bright, the ruddy Steed. The lights are shining in the sky.\np:On both sides to the car they yoke the two bay coursers dear to him, Bold, tawny, bearers of the Chief.\np:Thou, making light where no light was, and form, O men: where form was not.\np:Thereafter they, as is their wont, threw off the state of babes unborn.\np:Thou, Indra, with the Tempest-Devas, found the kine even in the cave.\np:Worshipping even as they list, singers laud him who findeth wealth, the far-renowned, the mighty One.\np:Mayest thou verily be seen coming by fearless Indra's side: Both joyous, equal in your sheen.\np:With Indra's well beloved hosts, hastening to Heaven.\np:Come from this place, O Wanderer, or downward from the light of Heaven: Our songs of praise all yearn for this.\np:Indra we seek to give us help, from here, from Heaven above the Earth, or from the spacious Firmament.",
+    "feecting": "p:They who stand round him as he moves harness the bright, the ruddy Steed. The lights are shining in the sky.\np:On both sides to the car they yoke the two bay coursers dear to him, Bold, tawny, bearers of the Chief.\np:Thou, making light where no light was, and form where form was not.\np:Thereafter they, as is their wont, threw off the state of babes unborn.\np:Thou, Indra, with the Tempest-Devas, found the kine even in the cave.\np:Worshipping even as they list, singers laud him who findeth wealth, the far-renowned, the mighty One.\np:Mayest thou verily be seen coming by fearless Indra's side, both joyous, equal in your sheen.\np:With Indra's well beloved hosts, hastening to Heaven.\np:Come from this place, O Wanderer, or downward from the light of Heaven. Our songs of praise all yearn for this.\np:Indra we seek to give us help, from here, from Heaven above the Earth, or from the spacious Firmament.",
     "meta": {
       "next": "01007",
       "previous": "01005",
       "book": "01",
-      "source": "https://sacred-texts.com/hin/rigveda/rv01006.htm",
+      "original": "https://sacred-texts.com/hin/rigveda/rv01006.htm",
       "sanskrit": "https://sacred-texts.com/hin/rvsan/rv01006.htm"
     },
     "deities": [
-      {
-        "name": "O men",
-        "hymns": [
-          {
-            "key": "01006",
-            "title": "HYMN VI. Indra."
-          }
-        ]
-      },
       {
         "name": "O Wanderer",
         "hymns": [
@@ -38,5 +29,5 @@
     ]
   },
   "created": 1638553043471,
-  "updated": 1638830291579
+  "updated": 1639023783551
 }

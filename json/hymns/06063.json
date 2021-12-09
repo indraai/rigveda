@@ -6,18 +6,18 @@
   "api": "json/hymns/06063.json",
   "data": {
     "key": "06063",
-    "title": "HYMN LXIII. Aśvins.",
+    "title": "HYMN LXIII. Indra.",
     "describe": "WHERE hath the hymn with reverence, like an envoy, found both fair Devas to-day, invoked of many- Hymn that hath brought the two Nāsatyas hither?",
     "feecting": "p:WHERE hath the hymn with reverence, like an envoy, found both fair Devas to-day, invoked of many- Hymn that hath brought the two Nāsatyas hither? To this man's thought be ye, both Devas, most friendly.\np:Come readily to this mine invocation, lauded with songs, that y. May drink the juices.\np: Compass this house to keep it from the foeman, that non. May force it, either near or distant.\r\np:Juice in wide room hath been prepared to feast you: for you the grass is strewn, most soft to tread on. With lifted hands your servant hath adored you. Yearningfor you the press-stones shed the liquid.\np:Agni uplifts him at your offerings: forth goes the oblation dropping oil and glowing. Up stands the grateful-minded priest, elected, appointed to invoke the two Nāsatyas.\np:Lords of great wealth! for glory, Sūrya's Daughter mounted your car that brings a hundred assists. Famed for your magic arts were ye, magicians! amid the race of Devas, ye dancing Heroes!\np:Ye Twain, with these your glories fair to look on, brought, to win victory, rich gifts for Sūrya. After you flew your birds, marvels of beauty: dear to our hearts! the song, well lauded, reached you.\np:May your winged coursers, best to draw. Nāsatyas! convey you to the object of your wishes. Swift as the thought, your car hath been sent onward to food of many a sort and dainty offerings.\np:Lords of great wealth, manifold is your bounty: ye filled our cow with food that never faileth. Lovers of sweetness! yours are praise and singers, and poured libations which have sought your favour.\np:Mine were two mares of Puraya, brown, swift-footed; a hundred with Sumidha, food with Peruk Sanda gave ten gold-decked and well-trained horses, tame and obedient and of lofty stature.\np:Nāsatyas! Purupanthas offered hundreds, thousands of steeds to him who sang your praises, Gave. Heroes! to the singer Bharadvāja. Ye-Wonder-Workers, let the fiends be slaughtered.\np:May I with princes share your bliss in freedom.",
     "meta": {
       "next": "06064",
       "previous": "06062",
       "book": "06",
-      "source": "https://sacred-texts.com/hin/rigveda/rv06063.htm",
+      "original": "https://sacred-texts.com/hin/rigveda/rv06063.htm",
       "sanskrit": "https://sacred-texts.com/hin/rvsan/rv06063.htm"
     },
     "deities": []
   },
   "created": 1638555678749,
-  "updated": 1638830292440
+  "updated": 1639023784725
 }

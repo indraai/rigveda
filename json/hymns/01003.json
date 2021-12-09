@@ -6,14 +6,14 @@
   "api": "json/hymns/01003.json",
   "data": {
     "key": "01003",
-    "title": "HYMN III. Aśvins",
-    "describe": "YE Aśvins, rich in treasure, Lords of splendour, having nimble hands, accept the sacred food.",
-    "feecting": "p:YE Aśvins, rich in treasure, Lords of splendour, having nimble hands, accept the sacred food.\np:Ye Aśvins, rich in wondrous deeds, ye heroes worthy of our praise, accept our songs with mighty thought.\np:Nāsatyas, wonder-workers, yours are these libations with clipt grass: Come ye whose paths are red with flame.\np:O Indra marvellously bright, come, these libations long for thee, thus by fine fingers purified.\np:Urged by the holy singer, sped by song, come, Indra, Of the libation-pouring priest.\np:Approach, O Indra, hasting thee, Lord of Bay Horses.\np: In our libation take delight.\r\np:Ye Devas, who protect, reward, and cherish men, approach your worshipper's drink-offering.\np:Ye Devas, swift at work, come hither quickly to the draught, as milch-kine hasten to their stalls.\np:The Devas, accept the sacred draught.\np:Wealthy in spoil, enriched with hymns, with eager love, our offering.",
+    "title": "HYMN III. Indra",
+    "describe": "YE Indra, rich in treasure having nimble hands, accept the sacred food.",
+    "feecting": "p:YE Indra, rich in treasure having nimble hands, accept the sacred food.\np:Ye Indra, rich in wondrous deeds accept our songs with mighty thought.\np:O Indra marvellously bright, come, these libations long for thee, thus by fine fingers purified.\np:Urged by the holy singer, sped by song, come, Indra. Approach, O Indra, hasting thee, Lord of Bay Horses.\np: In our libation take delight.\r\np:Ye Devas, who protect, reward, and cherish men, approach your worshipper's drink-offering.\np:Ye Devas, swift at work, come hither quickly to the draught.\np:The Devas, accept the sacred draught.\np:Wealthy in spoil, enriched with hymns, with eager love, our offering.",
     "meta": {
       "next": "01004",
       "previous": "01002",
       "book": "01",
-      "source": "https://sacred-texts.com/hin/rigveda/rv01003.htm",
+      "original": "https://sacred-texts.com/hin/rigveda/rv01003.htm",
       "sanskrit": "https://sacred-texts.com/hin/rvsan/rv01003.htm"
     },
     "deities": [
@@ -22,16 +22,16 @@
         "hymns": [
           {
             "key": "01003",
-            "title": "HYMN III. Aśvins"
+            "title": "HYMN III. Indra"
           },
           {
             "key": "01003",
-            "title": "HYMN III. Aśvins"
+            "title": "HYMN III. Indra"
           }
         ]
       }
     ]
   },
   "created": 1638553027707,
-  "updated": 1638830291570
+  "updated": 1639023783540
 }

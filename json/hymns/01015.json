@@ -8,12 +8,12 @@
     "key": "01015",
     "title": "HYMN XV. Ṛtu.",
     "describe": "O Indra with Ṛtu.",
-    "feecting": "p:O Indra with Ṛtu.\np:Devas, with Ṛtu; sanctify the rite, for ye give precious gifts.\np:Accept our offering; with Ṛtu, for thou art he who giveth wealth.\np:Bring the Devas, in the three appointed places set them down: Surround them, and with Ṛtu.\np:Ṛtus, undissolved, O Indra, is thy friendship's bond.\np:Mitra, Indra, ye whose ways are firm—a Power that none deceives—, with Ṛtu ye have reached the rite.\np:Praise the Wealth-giver in the rite, in offerings praise the Deva.\np:May the Wealth-giver grant to us riches that shall be far renowned.\np: These things we gain, among the Devas.\r\np:He with the Ṛtu.\np:Wealth-giver, honour thee with the Ṛtus, be A Giver bountiful to us.\np:Whose acts are pure, who with Ṛtus accept the offering.\np:With Ṛtu, kind Giver, guidest offering: Worship the Devas for the pious man.",
+    "feecting": "p:O Indra with Ṛtu.\np:Devas, with Ṛtu; sanctify the rite, for ye give precious gifts.\np:Accept our offering; with Ṛtu, for thou art he who giveth wealth.\np:Bring the Devas, in the three appointed places set them down: Surround them, and with Ṛtu.\np:Ṛtus, undissolved, O Indra, is thy friendship's bond.\np:Mitra, Indra, ye whose ways are firm—a Power that none deceives—, with Ṛtu ye have reached the rite.\np:Praise the Wealth-giver in the rite, in offerings praise the Deva.\np:May the Wealth-giver grant to us riches that shall be far renowned.\np: These things we gain, among the Devas.\r\np:He with the Ṛtu.\np:Wealth-giver, honour thee with the Ṛtus, be A Giver bountiful to us.\np:Drink ye the meath, O Indra bright with flames, whose acts are pure, who with Ṛtus accept the offering.\np:With Ṛtu, kind Giver, guidest offering: Worship the Devas for the pious man.",
     "meta": {
       "next": "01016",
       "previous": "01014",
       "book": "01",
-      "source": "https://sacred-texts.com/hin/rigveda/rv01015.htm",
+      "original": "https://sacred-texts.com/hin/rigveda/rv01015.htm",
       "sanskrit": "https://sacred-texts.com/hin/rvsan/rv01015.htm"
     },
     "deities": [
@@ -27,11 +27,15 @@
           {
             "key": "01015",
             "title": "HYMN XV. Ṛtu."
+          },
+          {
+            "key": "01015",
+            "title": "HYMN XV. Ṛtu."
           }
         ]
       }
     ]
   },
   "created": 1638553091915,
-  "updated": 1638830291597
+  "updated": 1639023783569
 }

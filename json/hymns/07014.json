@@ -8,12 +8,12 @@
     "key": "07014",
     "title": "HYMN XIV Agni.",
     "describe": "WITH reverence and with offered gifts serve we the Deva whose flame is bright: Let us bring Jātavedas fuel, and adore Agni when we invoke the Devas.",
-    "feecting": "p:WITH reverence and with offered gifts serve we the Deva whose flame is bright: Let us bring Jātavedas fuel, and adore Agni when we invoke the Devas.\np:Agni. May we perform thy rites with fuel, and honour thee, O Holy one, with praises: Honour thee, Monk of offering! with butter, thee, God of blessed light! with our oblation.\np:Come, Agni, with the Devas to our invoking, come, pleased, to offerings sanctified with Vaṣaṭ.\np: May we be his who pays thee, Deva, due honour. Ye Devas, preserve us evermore with blessings.",
+    "feecting": "p:WITH reverence and with offered gifts serve we the Deva whose flame is bright: Let us bring Jātavedas fuel, and adore Agni when we invoke the Devas.\np:Agni. May we perform thy rites with fuel, and honour thee, O Holy one, with praises: Honour thee, Monk of offering! with butter, thee, Deva of blessed light! with our oblation.\np:Come, Agni, with the Devas to our invoking, come, pleased, to offerings sanctified with Vaṣaṭ.\np: May we be his who pays thee, Deva, due honour. Ye Devas, preserve us evermore with blessings.",
     "meta": {
       "next": "07015",
       "previous": "07013",
       "book": "07",
-      "source": "https://sacred-texts.com/hin/rigveda/rv07014.htm",
+      "original": "https://sacred-texts.com/hin/rigveda/rv07014.htm",
       "sanskrit": "https://sacred-texts.com/hin/rvsan/rv07014.htm"
     },
     "deities": [
@@ -29,5 +29,5 @@
     ]
   },
   "created": 1638555816472,
-  "updated": 1638830292495
+  "updated": 1639023784773
 }

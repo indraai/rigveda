@@ -6,14 +6,14 @@
   "api": "json/hymns/01047.json",
   "data": {
     "key": "01047",
-    "title": "HYMN XLVII. Aśvins.",
+    "title": "HYMN XLVII. Indra.",
     "describe": "AŚVINS, for you who strengthen Law this sweetest Soma hath been shed.",
-    "feecting": "p:AŚVINS, for you who strengthen Law this sweetest Soma hath been shed.\np: Drink this expressed ere yesterday and give riches to him who offers it.\r\np:Come, O ye Aśvins, mounted on your triple car three-seated, beautiful of form To you at offerings the Kaṇvas send the prayer: graciously listen to their call.\np:O Aśvins, ye who strengthen Law, drink ye this sweetest Soma juice. Borne on your wealth-fraught car come ye this day to him who offers, ye of wondrous deeds.\np:Omniscient Aśvins, on the thrice-heaped grass bedew with the sweet juice the offering. The sons of Kaṇva, striving heavenward, call on you with draughts of Soma juice out-poured.\np:O Aśvins, with those aids wherewith ye guarded Kaṇva carefully, Keep us, O Lords of Splendour: drink the Soma juice, ye strengtheners of holy law.\np:O Mighty Ones, ye gave Sudās abundant food, brought on your treasure-laden car; So now vouchsafe to us the wealth which many crave, either from Heaven or from the sea.\np:Nāsatyas, whether ye be far away or close to Turvaśa, Borne on your lightly-rolling chariot come to us, together with the sunbeams come.\np:So let your coursers bring you to our libations here. Bestowing food on him who acts and gives aright, sit, Chiefs, upon the sacred grass.\np:Come, O Nāsatyas, on your car decked with a sunbright canopy, Whereon ye ever bring wealth to the worshipper, 's pleasant juice.\np:With lauds and songs of praise we call them down to us, that they, most rich. May assist us; For ye have ever in the Kaṇvas' well-loved house, O Aśvins.",
+    "feecting": "p:AŚVINS, for you who strengthen Law this sweetest Soma hath been shed.\np: Drink this expressed ere yesterday and give riches to him who offers it.\r\np:Come, O ye Indra, mounted on your triple car three-seated, beautiful of form To you at offerings the Kaṇvas send the prayer: graciously listen to their call.\np:O Indra, ye who strengthen Law, drink ye this sweetest Soma juice. Borne on your wealth-fraught car come ye this day to him who offers, ye of wondrous deeds.\np:Omniscient Indra, on the thrice-heaped grass bedew with the sweet juice the offering. The sons of Kaṇva, striving heavenward, call on you with draughts of Soma juice out-poured.\np:O Indra, with those aids wherewith ye guarded Kaṇva carefully, Keep us, O Lords of Splendour: drink the Soma juice, ye strengtheners of holy law.\np:O Mighty Ones, ye gave Sudās abundant food, brought on your treasure-laden car; So now vouchsafe to us the wealth which many crave, either from Heaven or from the sea.\np:Nāsatyas, whether ye be far away or close to Turvaśa, Borne on your lightly-rolling chariot come to us, together with the sunbeams come.\np:So let your coursers bring you to our libations here. Bestowing food on him who acts and gives aright, sit, Chiefs, upon the sacred grass.\np:Come, O Nāsatyas, on your car decked with a sunbright canopy, Whereon ye ever bring wealth to the worshipper, 's pleasant juice.\np:With lauds and songs of praise we call them down to us, that they, most rich. May assist us; For ye have ever in the Kaṇvas' well-loved house, O Indra.",
     "meta": {
       "next": "01048",
       "previous": "01046",
       "book": "01",
-      "source": "https://sacred-texts.com/hin/rigveda/rv01047.htm",
+      "original": "https://sacred-texts.com/hin/rigveda/rv01047.htm",
       "sanskrit": "https://sacred-texts.com/hin/rvsan/rv01047.htm"
     },
     "deities": [
@@ -22,24 +22,24 @@
         "hymns": [
           {
             "key": "01047",
-            "title": "HYMN XLVII. Aśvins."
+            "title": "HYMN XLVII. Indra."
           }
         ]
       },
       {
-        "name": "O Aśvins",
+        "name": "O Indra",
         "hymns": [
           {
             "key": "01047",
-            "title": "HYMN XLVII. Aśvins."
+            "title": "HYMN XLVII. Indra."
           },
           {
             "key": "01047",
-            "title": "HYMN XLVII. Aśvins."
+            "title": "HYMN XLVII. Indra."
           },
           {
             "key": "01047",
-            "title": "HYMN XLVII. Aśvins."
+            "title": "HYMN XLVII. Indra."
           }
         ]
       },
@@ -48,7 +48,7 @@
         "hymns": [
           {
             "key": "01047",
-            "title": "HYMN XLVII. Aśvins."
+            "title": "HYMN XLVII. Indra."
           }
         ]
       },
@@ -57,7 +57,7 @@
         "hymns": [
           {
             "key": "01047",
-            "title": "HYMN XLVII. Aśvins."
+            "title": "HYMN XLVII. Indra."
           }
         ]
       },
@@ -66,12 +66,12 @@
         "hymns": [
           {
             "key": "01047",
-            "title": "HYMN XLVII. Aśvins."
+            "title": "HYMN XLVII. Indra."
           }
         ]
       }
     ]
   },
   "created": 1638553261293,
-  "updated": 1638830291654
+  "updated": 1639023783641
 }

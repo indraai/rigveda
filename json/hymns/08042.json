@@ -8,12 +8,12 @@
     "key": "08042",
     "title": "HYMN XLII Indra.",
     "describe": "LORD of all wealth, the Devas propped the heavens, and measured out the broad Earth's wide expanses.",
-    "feecting": "p:LORD of all wealth, the Devas propped the heavens, and measured out the broad Earth's wide expanses.\np: He, King supreme, approached all living creatures. All these are Indra's holy operations.\r\np:So humbly worship Indra the Mighty revere the wise Guard of World Immortal. May he vouchsafe us triply-barred protection. O Earth and Heaven, within your lap preserve us.\np:Sharpen this song of him who strives his utmost, sharpen, God Indra, his strength and insight; May we ascend the ship that bears us safely, whereby we may pass over all misfortune.\np:Aśvins, with songs the singer stones have made you hasten hitherward, Nāsatyas, to the Soma-draught. Let all the others die away.\np:As the sage Atri with his hymns, O Aśvins, called you eagerly, Nāsatyas, to the Soma-draught. Let all the others die away.\np:So have I called you to our aid, even as the wise have called of old, Nāsatyas, to the Soma-draught. Let all the others die away.",
+    "feecting": "p:LORD of all wealth, the Devas propped the heavens, and measured out the broad Earth's wide expanses.\np: He, King supreme, approached all living creatures. All these are Indra's holy operations.\r\np:So humbly worship Indra the Mighty revere the wise Guard of World Immortal. May he vouchsafe us triply-barred protection. O Earth and Heaven, within your lap preserve us.\np:Sharpen this song of him who strives his utmost, sharpen, Deva Indra, his strength and insight; May we ascend the ship that bears us safely, whereby we may pass over all misfortune.\np:Indra, with songs the singer stones have made you hasten hitherward, Nāsatyas, to the Soma-draught. Let all the others die away.\np:As the sage Atri with his hymns, O Indra, called you eagerly, Nāsatyas, to the Soma-draught. Let all the others die away.\np:So have I called you to our aid, even as the wise have called of old, Nāsatyas, to the Soma-draught. Let all the others die away.",
     "meta": {
       "next": "08043",
       "previous": "08041",
       "book": "08",
-      "source": "https://sacred-texts.com/hin/rigveda/rv08042.htm",
+      "original": "https://sacred-texts.com/hin/rigveda/rv08042.htm",
       "sanskrit": "https://sacred-texts.com/hin/rvsan/rv08042.htm"
     },
     "deities": [
@@ -27,7 +27,7 @@
         ]
       },
       {
-        "name": "O Aśvins",
+        "name": "O Indra",
         "hymns": [
           {
             "key": "08042",
@@ -38,5 +38,5 @@
     ]
   },
   "created": 1638556512692,
-  "updated": 1638830292722
+  "updated": 1639023785063
 }

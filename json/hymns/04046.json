@@ -8,12 +8,12 @@
     "key": "04046",
     "title": "HYMN XLVI. Soma. Indra-Soma",
     "describe": "DRINK the best draught of Soma-juice, O Soma, at our holy rites: For thou art he who drinketh first.",
-    "feecting": "p:DRINK the best draught of Soma-juice, O Soma, at our holy rites: For thou art he who drinketh first.\np:Come, team-drawn, with thy hundred helps, with Indra, seated in the car, Soma, and drink your fill of juice.\np:May steeds a thousand bring you both, Indra. and Soma, hitherward Soma, to the feast.\np:For ye, O Indra-Soma, mount the golden-seated car that aids The offering, that reaches Heaven.\np:On far-refulgent chariot come unto the man who offers gifts: Come, Indra-Soma, hitherward.\np:Here, Indra-Soma, is the juice: drink it, accordant with the Devas, within the giver's dwelling-place.\np:Hither, O Indra-Soma, be your journey here unyoke your steeds. Here for your draught of Soma juice.",
+    "feecting": "p:DRINK the best draught of Soma-juice, O Soma, at our holy rites: For thou art he who drinketh first.\np:Come, team-drawn, with thy hundred helps, with Indra, seated in the car, Soma, and drink your fill of juice.\np:May steeds a thousand bring you both, Indra. and Soma, hitherward Soma, to the feast.\np:For ye, O Indra and Soma, mount the golden-seated car that aids The offering, that reaches Heaven.\np:On far-refulgent chariot come unto the man who offers gifts: Come, Indra and Soma, hitherward.\np:Here, Indra and Soma, is the juice: drink it, accordant with the Devas, within the giver's dwelling-place.\np:Hither, O Indra and Soma, be your journey here unyoke your steeds. Here for your draught of Soma juice.",
     "meta": {
       "next": "04047",
       "previous": "04045",
       "book": "04",
-      "source": "https://sacred-texts.com/hin/rigveda/rv04046.htm",
+      "original": "https://sacred-texts.com/hin/rigveda/rv04046.htm",
       "sanskrit": "https://sacred-texts.com/hin/rvsan/rv04046.htm"
     },
     "deities": [
@@ -42,5 +42,5 @@
     ]
   },
   "created": 1638554820953,
-  "updated": 1638830292191
+  "updated": 1639023784399
 }

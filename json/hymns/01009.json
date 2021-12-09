@@ -7,13 +7,13 @@
   "data": {
     "key": "01009",
     "title": "HYMN IX. Indra.",
-    "describe": "COME, Indra, and delight thee with the juice at all the Soma feasts, Protector, mighty in thy strength.",
-    "feecting": "p:COME, Indra, and delight thee with the juice at all the Soma feasts, Protector, mighty in thy strength.\np:To Indra the gladdening, omnific God.\np:O Lord of all men, fair of cheek, rejoice thee in the gladdening lauds, present at these water-offerings.\np:Songs have outpoured themselves to thee, Indra, the strong, the guardian Lord, and raised themselves unsatisfied.\np:Send to us bounty manifold, O Indra, worthy of our wish, for power supreme is only thine.\np:O Indra, O most splendid One.\np:Give, Indra, wide and lofty fame, wealthy in strength, lasting our life-time.\np:Grant us high fame, O Indra, grant riches, those fair fruits of Earth borne home in wains.\np:Praising with songs the praise-worthy who cometh to our aid, we call Indra, the Treasure-Lord of wealth.\np:To lofty Indra, dweller by each libation, the pious man sings forth aloud a strengthening hymn.",
+    "describe": "COME, Indra, Protector, mighty in thy strength.",
+    "feecting": "p:COME, Indra, Protector, mighty in thy strength.\n\np:O Lord of all men, fair of cheek, rejoice thee in the gladdening lauds, present at these water-offerings.\np:Songs have outpoured themselves to thee, Indra, the strong, the guardian Lord, and raised themselves unsatisfied.\np:Send to us bounty manifold, O Indra, worthy of our wish, for power supreme is only thine.\np:O Indra, O most splendid One.\np:Give, Indra, wide and lofty fame, wealthy in strength, lasting our life-time.\np:Grant us high fame, O Indra, grant riches, those fair fruits of Earth borne home in wains.\np:Praising with songs, we call Indra, the Treasure-Lord of wealth.\np:To lofty Indra, dweller by each libation, the pious man sings forth aloud a strengthening hymn.",
     "meta": {
       "next": "01010",
       "previous": "01008",
       "book": "01",
-      "source": "https://sacred-texts.com/hin/rigveda/rv01009.htm",
+      "original": "https://sacred-texts.com/hin/rigveda/rv01009.htm",
       "sanskrit": "https://sacred-texts.com/hin/rvsan/rv01009.htm"
     },
     "deities": [
@@ -55,5 +55,5 @@
     ]
   },
   "created": 1638553060075,
-  "updated": 1638830291585
+  "updated": 1639023783556
 }

@@ -8,12 +8,12 @@
     "key": "02037",
     "title": "HYMN XXXVII. Various Gods.",
     "describe": "Enjoy thy fill of meath out of the Hotar's cup: Adhvaryus he desires a full draught poured for him.",
-    "feecting": "p:Enjoy thy fill of meath out of the Hotar's cup: Adhvaryus he desires a full draught poured for him.\np: Bring it him: seeking this he gives. Granter of Wealth, drink Soma with the Ṛtus from the Hotar's cup.\r\np:He whom of old I called on, him I call on now. He is to be invoked; his name is He who Gives. Here brought by monks is Soma meath. Granter of Wealth, drink Soma with the Ṛtus from the Potar's cup.\np:Fa. May the horses be wherewith thou speedest on: Lord of the Wood, unharming, strengthen thou thyself. Drawing and seizing, Bold One, thou who grantest wealth, drink Soma with the Ṛtus from the Neṣṭar's cup.\np:From Hotar's cup and Potar's he hath drunk and joyed: the proffered food hath pleased him from the Neṣṭar's bowl. The fourth cup undisturbed, immortal, let him drink who giveth wealth, the cup of the wealth-giving God.\np:Yoke, O ye Twain, to-day your hero-bearing car, swift-moving hitherward: your loosing-place is here. Mix the oblations, then come hither with the meath, and drink the Soma, ye rich in abundant strength.\np:Agni, accept the fuel and our offered gift: accept the prayer of man, accept our eulogy, Do thou with all, with Ṛtu, O thou Excellent, fain, make the great Devas all fain taste the gift we bring.",
+    "feecting": "p:Enjoy thy fill of meath out of the Hotar's cup: Adhvaryus he desires a full draught poured for him.\np: Bring it him: seeking this he gives. Granter of Wealth, drink Soma with the Ṛtus from the Hotar's cup.\r\np:He whom of old I called on, him I call on now. He is to be invoked; his name is He who Gives. Here brought by monks is Soma meath. Granter of Wealth, drink Soma with the Ṛtus from the Potar's cup.\np:Fa. May the horses be wherewith thou speedest on: Lord of the Wood, unharming, strengthen thou thyself. Drawing and seizing, Bold One, thou who grantest wealth, drink Soma with the Ṛtus from the Neṣṭar's cup.\np:From Hotar's cup and Potar's he hath drunk and joyed: the proffered food hath pleased him from the Neṣṭar's bowl. The fourth cup undisturbed, immortal, let him drink who giveth wealth, the cup of the wealth-giving Deva.\np:Yoke, O ye Twain, to-day your hero-bearing car, swift-moving hitherward: your loosing-place is here. Mix the oblations, then come hither with the meath, and drink the Soma, ye rich in abundant strength.\np:Agni, accept the fuel and our offered gift: accept the prayer of man, accept our eulogy, Do thou with all, with Ṛtu, O thou Excellent, fain, make the great Devas all fain taste the gift we bring.",
     "meta": {
       "next": "02038",
       "previous": "02036",
       "book": "02",
-      "source": "https://sacred-texts.com/hin/rigveda/rv02037.htm",
+      "original": "https://sacred-texts.com/hin/rigveda/rv02037.htm",
       "sanskrit": "https://sacred-texts.com/hin/rvsan/rv02037.htm"
     },
     "deities": [
@@ -38,5 +38,5 @@
     ]
   },
   "created": 1638554218796,
-  "updated": 1638830291989
+  "updated": 1639023784136
 }

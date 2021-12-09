@@ -13,11 +13,11 @@
       "next": "07103",
       "previous": "07101",
       "book": "07",
-      "source": "https://sacred-texts.com/hin/rigveda/rvfalse.htm",
+      "original": "https://sacred-texts.com/hin/rigveda/rvfalse.htm",
       "sanskrit": "https://sacred-texts.com/hin/rvsan/rvfalse.htm"
     },
     "deities": []
   },
   "created": 1638556280732,
-  "updated": 1638830292628
+  "updated": 1639023784941
 }

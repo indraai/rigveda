@@ -8,12 +8,12 @@
     "key": "05023",
     "title": "HYMN XXIII. Agni.",
     "describe": "By thy fair splendour's mighty power, O Agni, bring victorious wealth, Wealth that o’ercometh all mankind, and, near us, conquereth in fight.",
-    "feecting": "p:By thy fair splendour's mighty power, O Agni, bring victorious wealth, Wealth that o’ercometh all mankind, and, near us, conquereth in fight.\np:Victorious Agni, bring to us the wealth that vanquisheth in war; For thou art wonderful and true, giver of strength in herds of kine.\np:For all the folk with one accord, whose sacred grass is trimmed and strewn, invite thee to their worship-halls, as a dear Monk, for choicest wealth.\np:For he of all men, hath gotten him might that quelleth foes.\np: O Agni, in these homes shine forth, bright God! for our prosperity, shine, Purifier! splendidly.",
+    "feecting": "p:By thy fair splendour's mighty power, O Agni, bring victorious wealth, Wealth that o’ercometh all mankind, and, near us, conquereth in fight.\np:Victorious Agni, bring to us the wealth that vanquisheth in war; For thou art wonderful and true, giver of strength in herds of kine.\np:For all the folk with one accord, whose sacred grass is trimmed and strewn, invite thee to their worship-halls, as a dear Monk, for choicest wealth.\np:For he of all men, hath gotten him might that quelleth foes.\np: O Agni, in these homes shine forth, bright Deva! for our prosperity, shine, Purifier! splendidly.",
     "meta": {
       "next": "05024",
       "previous": "05022",
       "book": "05",
-      "source": "https://sacred-texts.com/hin/rigveda/rv05023.htm",
+      "original": "https://sacred-texts.com/hin/rigveda/rv05023.htm",
       "sanskrit": "https://sacred-texts.com/hin/rvsan/rv05023.htm"
     },
     "deities": [
@@ -33,5 +33,5 @@
     ]
   },
   "created": 1638555006573,
-  "updated": 1638830292239
+  "updated": 1639023784458
 }

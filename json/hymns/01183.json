@@ -6,28 +6,28 @@
   "api": "json/hymns/01183.json",
   "data": {
     "key": "01183",
-    "title": "HYMN CLXXXIII. Aśvins.",
+    "title": "HYMN CLXXXIII. Indra.",
     "describe": "MAKE ready that which passes thought in swiftness, that hath three wheels and triple seat, ye Mighty, Whereon ye seek the dwelling of the pious, whereon, threefold, ye fly like birds with pinions.",
-    "feecting": "p:MAKE ready that which passes thought in swiftness, that hath three wheels and triple seat, ye Mighty, Whereon ye seek the dwelling of the pious, whereon, threefold, ye fly like birds with pinions.\np:Light rolls your easy chariot faring earthward, what time, for food, ye, full of wisdom, mount it.\np: May this song, wondrous fair, attend your glory: ye, as ye travel, wait on Dawn Heaven's Daughter.\r\np:Ascend your lightly rolling car, approaching the worshipper who turns him to his duties. Whereon ye come unto the house to quicken man and his offspring.\np: Here stands your share, here is your hymn, ye Mighty: yours are these vessels, full of pleasant juices.\np:Bringing oblations all invoke you for protection. Like one who goes straight to the point directed, to mine invocation.\np:We have passed o’er the limit of this darkness: our praise hath been bestowed on you, O Aśvins. Come hitherward by paths which Devas have travelled. May we find strengthening food in full abundance.",
+    "feecting": "p:MAKE ready that which passes thought in swiftness, that hath three wheels and triple seat, ye Mighty, Whereon ye seek the dwelling of the pious, whereon, threefold, ye fly like birds with pinions.\np:Light rolls your easy chariot faring earthward, what time, for food, ye, full of wisdom, mount it.\np: May this song, wondrous fair, attend your glory: ye, as ye travel, wait on Dawn Heaven's Daughter.\r\np:Ascend your lightly rolling car, approaching the worshipper who turns him to his duties. Whereon ye come unto the house to quicken man and his offspring.\np: Here stands your share, here is your hymn, ye Mighty: yours are these vessels, full of pleasant juices.\np:Bringing oblations all invoke you for protection. Like one who goes straight to the point directed, to mine invocation.\np:We have passed o’er the limit of this darkness: our praise hath been bestowed on you, O Indra. Come hitherward by paths which Devas have travelled. May we find strengthening food in full abundance.",
     "meta": {
       "next": "01184",
       "previous": "01182",
       "book": "01",
-      "source": "https://sacred-texts.com/hin/rigveda/rv01183.htm",
+      "original": "https://sacred-texts.com/hin/rigveda/rv01183.htm",
       "sanskrit": "https://sacred-texts.com/hin/rvsan/rv01183.htm"
     },
     "deities": [
       {
-        "name": "O Aśvins",
+        "name": "O Indra",
         "hymns": [
           {
             "key": "01183",
-            "title": "HYMN CLXXXIII. Aśvins."
+            "title": "HYMN CLXXXIII. Indra."
           }
         ]
       }
     ]
   },
   "created": 1638553980228,
-  "updated": 1638830291910
+  "updated": 1639023783942
 }

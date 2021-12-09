@@ -6,18 +6,18 @@
   "api": "json/hymns/05077.json",
   "data": {
     "key": "05077",
-    "title": "HYMN LXXVII. Aśvins.",
+    "title": "HYMN LXXVII. Indra.",
     "describe": "FIRST worship those who come at early morning: let the Twain drink before the giftless niggard.",
-    "feecting": "p:FIRST worship those who come at early morning: let the Twain drink before the giftless niggard.\np: The Aśvins claim the offering at daybreak: the sages yielding the first share extol them.\r\np:Worship at dawn and instigate the Aśvins: nor is the worshipper at eve rejected. Besides ourselves another craves and worships: each first in worship is most highly favoured.\np:Covered with gold, meath-tinted, dropping fatness, your chariot with its freight of food comes hither, Swift as thought, Aśvins, rapid as the tempest, wherewith ye travel over all obstructions.\np:He who hath served most often the Nāsatyas, and gives the sweetest food at distribution, Furthers with his own holy works his offspring, and ever passes those whose flames ascend not.\np:May we obtain the Aśvins' newest favour, and gain their health-bestowing happy guidance. Bring riches hither unto us, and heroes, and all felicity and joy, Immortals!",
+    "feecting": "p:FIRST worship those who come at early morning: let the Twain drink before the giftless niggard.\np: The Indra claim the offering at daybreak: the sages yielding the first share extol them.\r\np:Worship at dawn and instigate the Indra: nor is the worshipper at eve rejected. Besides ourselves another craves and worships: each first in worship is most highly favoured.\np:Covered with gold, meath-tinted, dropping fatness, your chariot with its freight of food comes hither, Swift as thought, Indra, rapid as the tempest, wherewith ye travel over all obstructions.\np:He who hath served most often the Nāsatyas, and gives the sweetest food at distribution, Furthers with his own holy works his offspring, and ever passes those whose flames ascend not.\np:May we obtain the Indra' newest favour, and gain their health-bestowing happy guidance. Bring riches hither unto us, and heroes, and all felicity and joy, Immortals!",
     "meta": {
       "next": "05078",
       "previous": "05076",
       "book": "05",
-      "source": "https://sacred-texts.com/hin/rigveda/rv05077.htm",
+      "original": "https://sacred-texts.com/hin/rigveda/rv05077.htm",
       "sanskrit": "https://sacred-texts.com/hin/rvsan/rv05077.htm"
     },
     "deities": []
   },
   "created": 1638555293616,
-  "updated": 1638830292323
+  "updated": 1639023784573
 }

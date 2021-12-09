@@ -7,13 +7,13 @@
   "data": {
     "key": "08011",
     "title": "HYMN XI. Agni.",
-    "describe": "THOU Agni, God mid mortal men, art guard of sacred rites, thou art To be adored at offerings.",
-    "feecting": "p:THOU Agni, God mid mortal men, art guard of sacred rites, thou art To be adored at offerings.\np:O Mighty Agni, thou must be glorified at our festivals, bearing our offerings to the Devas.\np:O Jātavedas Agni, fight and drive our foes afar from us, themand their godless enmities.\np:Thou, Jātavedas, seekest not the worship of a hostile man, However nigh itbe to thee.\np:We sages, mortals as we are, adore the mighty name oof thee, Immortal Jātavedas' name.\np:Sages, we call the Sage to help, mortals, we call the Deva to aid: We call on Agni with our songs.\np:May Vatsa draw- thy mind away even from thy loftiest dwelling-place, Agni, with song that yearns for thee.\np:Thou art the same in many a place: mid all the people thou art Lord.\np: In fray and fightt we call on thee.\r\np:When we are seeking strength we call Agni to help us in the strife, the giver of rich gifts in war.\np:Ancient, adorablie at offers, Monk from of old, meet for our praise, thou sittest. Fill full and satisfy thy body, Agni, and win us happiness by offering worship.",
+    "describe": "THOU Agni, Deva mid mortal men, art guard of sacred rites, thou art To be adored at offerings.",
+    "feecting": "p:THOU Agni, Deva mid mortal men, art guard of sacred rites, thou art To be adored at offerings.\np:O Mighty Agni, thou must be glorified at our festivals, bearing our offerings to the Devas.\np:O Jātavedas Agni, fight and drive our foes afar from us, themand their godless enmities.\np:Thou, Jātavedas, seekest not the worship of a hostile man, However nigh itbe to thee.\np:We sages, mortals as we are, adore the mighty name oof thee, Immortal Jātavedas' name.\np:Sages, we call the Sage to help, mortals, we call the Deva to aid: We call on Agni with our songs.\np:May Vatsa draw- thy mind away even from thy loftiest dwelling-place, Agni, with song that yearns for thee.\np:Thou art the same in many a place: mid all the people thou art Lord.\np: In fray and fightt we call on thee.\r\np:When we are seeking strength we call Agni to help us in the strife, the giver of rich gifts in war.\np:Ancient, adorablie at offers, Monk from of old, meet for our praise, thou sittest. Fill full and satisfy thy body, Agni, and win us happiness by offering worship.",
     "meta": {
       "next": "08012",
       "previous": "08010",
       "book": "08",
-      "source": "https://sacred-texts.com/hin/rigveda/rv08011.htm",
+      "original": "https://sacred-texts.com/hin/rigveda/rv08011.htm",
       "sanskrit": "https://sacred-texts.com/hin/rvsan/rv08011.htm"
     },
     "deities": [
@@ -38,5 +38,5 @@
     ]
   },
   "created": 1638556349624,
-  "updated": 1638830292660
+  "updated": 1639023784982
 }

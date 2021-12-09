@@ -6,14 +6,14 @@
   "api": "json/hymns/07073.json",
   "data": {
     "key": "07073",
-    "title": "HYMN LXXIII. Aśvins.",
+    "title": "HYMN LXXIII. Indra.",
     "describe": "WE have o’erpassed the limit of this darkness while, worshipping the Devas, we sang their praises.",
-    "feecting": "p:WE have o’erpassed the limit of this darkness while, worshipping the Devas, we sang their praises.\np: The song invoketh both Immortal Aśvins far-reaching, born of old, great WonderWorkers.\r\np:And, O Nāsatyas, man's dear Monk is seated, who brings to offering and offers worship, be near and taste the pleasant juice, O Aśvins: with food, I call you to the offerings.\np:We choosing you, have let our worship follow its course: ye Steers, accept this hymn with favour. Obeying you as your appointed servant, Vasiṣṭha singing hath with lauds aroused you.\np:And these Two Monks come nigh unto our people, united, demon-slayers, mighty-handed. The juices that exhilarate are mingled. Injure us not, but come with happy fortune.\np:Come from the west, come from the cast, Nāsatyas, come, Aśvins, from below and from above us. Bring wealth from all sides for the Fivefold People. Preserve us evermore, ye Devas, with blessings.",
+    "feecting": "p:WE have o’erpassed the limit of this darkness while, worshipping the Devas, we sang their praises.\np: The song invoketh both Immortal Indra far-reaching, born of old, great WonderWorkers.\r\np:And, O Nāsatyas, man's dear Monk is seated, who brings to offering and offers worship, be near and taste the pleasant juice, O Indra: with food, I call you to the offerings.\np:We choosing you, have let our worship follow its course: ye Steers, accept this hymn with favour. Obeying you as your appointed servant, Vasiṣṭha singing hath with lauds aroused you.\np:And these Two Monks come nigh unto our people, united, demon-slayers, mighty-handed. The juices that exhilarate are mingled. Injure us not, but come with happy fortune.\np:Come from the west, come from the cast, Nāsatyas, come, Indra, from below and from above us. Bring wealth from all sides for the Fivefold People. Preserve us evermore, ye Devas, with blessings.",
     "meta": {
       "next": "07074",
       "previous": "07072",
       "book": "07",
-      "source": "https://sacred-texts.com/hin/rigveda/rv07073.htm",
+      "original": "https://sacred-texts.com/hin/rigveda/rv07073.htm",
       "sanskrit": "https://sacred-texts.com/hin/rvsan/rv07073.htm"
     },
     "deities": [
@@ -22,21 +22,21 @@
         "hymns": [
           {
             "key": "07073",
-            "title": "HYMN LXXIII. Aśvins."
+            "title": "HYMN LXXIII. Indra."
           }
         ]
       },
       {
-        "name": "O Aśvins",
+        "name": "O Indra",
         "hymns": [
           {
             "key": "07073",
-            "title": "HYMN LXXIII. Aśvins."
+            "title": "HYMN LXXIII. Indra."
           }
         ]
       }
     ]
   },
   "created": 1638556127917,
-  "updated": 1638830292596
+  "updated": 1639023784891
 }

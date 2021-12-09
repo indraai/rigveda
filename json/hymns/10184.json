@@ -8,12 +8,12 @@
     "key": "10184",
     "title": "HYMN CLXXXIV.",
     "describe": "MAY Indra form and mould the womb.",
-    "feecting": "p:MAY Indra form and mould the womb. May Tvaṣṭar duly shape the forms, Prajāpati infuse the stream, and Dhātar lay the germ for thee.\np:O Sinīvālī, set the germ, set thou the germ, Sarasvatī: May the Twain Devas bestow the germ, the Aśvins crowned with lotuses.\np:That which the Aśvins Twain rub forth with the attrition-sticks of gold. That germ of thine we invocate, that in the tenth month tho. Mayst bear.",
+    "feecting": "p:MAY Indra form and mould the womb. May Tvaṣṭar duly shape the forms, Prajāpati infuse the stream, and Dhātar lay the germ for thee.\np:O Sinīvālī, set the germ, set thou the germ, Sarasvatī: May the Twain Devas bestow the germ, the Indra crowned with lotuses.\np:That which the Indra Twain rub forth with the attrition-sticks of gold. That germ of thine we invocate, that in the tenth month tho. Mayst bear.",
     "meta": {
       "next": "10185",
       "previous": "10183",
       "book": "10",
-      "source": "https://sacred-texts.com/hin/rigveda/rv10184.htm",
+      "original": "https://sacred-texts.com/hin/rigveda/rv10184.htm",
       "sanskrit": "https://sacred-texts.com/hin/rvsan/rv10184.htm"
     },
     "deities": [
@@ -29,5 +29,5 @@
     ]
   },
   "created": 1638558412636,
-  "updated": 1638830293267
+  "updated": 1639023785927
 }

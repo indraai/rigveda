@@ -7,28 +7,23 @@
   "data": {
     "key": "01005",
     "title": "HYMN V. Indra.",
-    "describe": "O COME ye hither, sit ye down: to Indra sing ye forth, your song, companions, bringing hymns of praise.",
-    "feecting": "p:O COME ye hither, sit ye down: to Indra sing ye forth, your song, companions, bringing hymns of praise.\np:To him the richest of the rich, the Lord of treasures excellent, Indra, with Soma.\np:May he stand by us in our need and in abundance for our wealth: May he come nigh us with his strength.\np:Whose pair of tawny horses yoked in battles foemen challenge not: To him, to Indra sing your song.\np:Nigh to Soma come, for his enjoyment, these pure drops.\np:Thou, grown at once to perfect strength, Strong Indra, for preëminence.\np:O Indra, lover of the song. May they bring bliss to thee the Sage.\np:Our chants of praise have strengthened thee. So strengthen thee the songs we sing.\np:Indra, accept these offerings thousandfold.\np:O Indra, thou who lovest song.",
+    "describe": "O Indra, sit ye down, Indra sing your song, companions, bringing hymns of praise.",
+    "feecting": "p:O Indra, sit ye down, Indra sing your song, companions, bringing hymns of praise.\np:To him the richest of the rich, the Lord of treasures excellent, Indra.\np:May he stand by us in our need and in abundance for our wealth: May he come nigh us with his strength.\np:To him, to Indra sing your song.\np:For his enjoyment, these pure drops.\np:Thou, grown at once to perfect strength, Strong Indra, for preëminence.\np:O Indra, lover of the song, may they bring bliss to thee the Sage.\np:Our chants of praise have strengthened thee. So strengthen thee the songs we sing.\np:Indra, accept these offerings thousandfold.\np:O Indra, thou who lovest song.",
     "meta": {
       "next": "01006",
       "previous": "01004",
       "book": "01",
-      "source": "https://sacred-texts.com/hin/rigveda/rv01005.htm",
+      "original": "https://sacred-texts.com/hin/rigveda/rv01005.htm",
       "sanskrit": "https://sacred-texts.com/hin/rvsan/rv01005.htm"
     },
     "deities": [
       {
-        "name": "O COME",
+        "name": "O Indra",
         "hymns": [
           {
             "key": "01005",
             "title": "HYMN V. Indra."
-          }
-        ]
-      },
-      {
-        "name": "O Indra",
-        "hymns": [
+          },
           {
             "key": "01005",
             "title": "HYMN V. Indra."
@@ -42,5 +37,5 @@
     ]
   },
   "created": 1638553038207,
-  "updated": 1638830291574
+  "updated": 1639023783543
 }

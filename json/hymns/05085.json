@@ -13,7 +13,7 @@
       "next": "05086",
       "previous": "05084",
       "book": "05",
-      "source": "https://sacred-texts.com/hin/rigveda/rv05085.htm",
+      "original": "https://sacred-texts.com/hin/rigveda/rv05085.htm",
       "sanskrit": "https://sacred-texts.com/hin/rvsan/rv05085.htm"
     },
     "deities": [
@@ -29,5 +29,5 @@
     ]
   },
   "created": 1638555336048,
-  "updated": 1638830292332
+  "updated": 1639023784585
 }

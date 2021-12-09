@@ -477,19 +477,21 @@
     },
     {
       "key": "06059",
-      "title": "HYMN LIX. Indra-Agni.",
+      "title": "HYMN LIX. Indra and Agni.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv06059.htm",
       "link": "hymns/06059.html",
       "api": "json/hymns/06059.json",
-      "created": 1638549623597
+      "created": 1638549623597,
+      "updated": 1639023783515
     },
     {
       "key": "06060",
-      "title": "HYMN LX. Indra-Agni.",
+      "title": "HYMN LX. Indra and Agni.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv06060.htm",
       "link": "hymns/06060.html",
       "api": "json/hymns/06060.json",
-      "created": 1638549623597
+      "created": 1638549623597,
+      "updated": 1639023783515
     },
     {
       "key": "06061",
@@ -501,19 +503,21 @@
     },
     {
       "key": "06062",
-      "title": "HYMN LXII. Aśvins.",
+      "title": "HYMN LXII. Indra.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv06062.htm",
       "link": "hymns/06062.html",
       "api": "json/hymns/06062.json",
-      "created": 1638549623597
+      "created": 1638549623597,
+      "updated": 1639023783515
     },
     {
       "key": "06063",
-      "title": "HYMN LXIII. Aśvins.",
+      "title": "HYMN LXIII. Indra.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv06063.htm",
       "link": "hymns/06063.html",
       "api": "json/hymns/06063.json",
-      "created": 1638549623597
+      "created": 1638549623597,
+      "updated": 1639023783515
     },
     {
       "key": "06064",

@@ -193,11 +193,12 @@
     },
     {
       "key": "10024",
-      "title": "HYMN XXIV. Indra. Aśvins.",
+      "title": "HYMN XXIV. Indra. Indra.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv10024.htm",
       "link": "hymns/10024.html",
       "api": "json/hymns/10024.json",
-      "created": 1638549635838
+      "created": 1638549635838,
+      "updated": 1639023783525
     },
     {
       "key": "10025",
@@ -314,27 +315,30 @@
     },
     {
       "key": "10039",
-      "title": "HYMN XXXIX. Aśvins.",
+      "title": "HYMN XXXIX. Indra.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv10039.htm",
       "link": "hymns/10039.html",
       "api": "json/hymns/10039.json",
-      "created": 1638549635838
+      "created": 1638549635838,
+      "updated": 1639023783525
     },
     {
       "key": "10040",
-      "title": "HYMN XL. Aśvins.",
+      "title": "HYMN XL. Indra.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv10040.htm",
       "link": "hymns/10040.html",
       "api": "json/hymns/10040.json",
-      "created": 1638549635838
+      "created": 1638549635838,
+      "updated": 1639023783525
     },
     {
       "key": "10041",
-      "title": "HYMN XLI. Aśvins.",
+      "title": "HYMN XLI. Indra.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv10041.htm",
       "link": "hymns/10041.html",
       "api": "json/hymns/10041.json",
-      "created": 1638549635838
+      "created": 1638549635838,
+      "updated": 1639023783525
     },
     {
       "key": "10042",
@@ -855,11 +859,12 @@
     },
     {
       "key": "10106",
-      "title": "HYMN CVI. Aśvins.",
+      "title": "HYMN CVI. Indra.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv10106.htm",
       "link": "hymns/10106.html",
       "api": "json/hymns/10106.json",
-      "created": 1638549635838
+      "created": 1638549635838,
+      "updated": 1639023783526
     },
     {
       "key": "10107",
@@ -1154,11 +1159,12 @@
     },
     {
       "key": "10143",
-      "title": "HYMN CXLIII. Aśvins.",
+      "title": "HYMN CXLIII. Indra.",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv10143.htm",
       "link": "hymns/10143.html",
       "api": "json/hymns/10143.json",
-      "created": 1638549635838
+      "created": 1638549635838,
+      "updated": 1639023783526
     },
     {
       "key": "10144",

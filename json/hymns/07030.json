@@ -8,12 +8,12 @@
     "key": "07030",
     "title": "HYMN XXX. Indra.",
     "describe": "WITH power and strength, O Mighty Deva, approach us: be the augmenter, Indra, of these riches;",
-    "feecting": "p:WITH power and strength, O Mighty Deva, approach us: be the augmenter, Indra, of these riches; Strong Thunderer, Lord of men, for potent valour, for manly exploit and for high dominion.\np:Thee, worth invoking, in the din of battle, heroes invoke in fray for life and sunlight.\np: Among all people thou art foremost fighter: give up our enemies to easy slaughter.\r\np:When fair bright days shall dawn on us, O Indra, and thou shalt bring thy banner near in battle, Agni the Devas shall sit as Herald, calling Devas hither for our great good fortune.\np:Thine are we, Indra, thine, both these who praise thee, and those who give rich gifts, O God and Hero. Grant to our princes excellent protection. May they wax old and still be strong and happy.\np:We will address this liberal Lord, this Indra that h. May grant us gifts of ample riches: Best favourer of the singer's prayer and praises. Preserve us evermore, ye Devas, with blessings.",
+    "feecting": "p:WITH power and strength, O Mighty Deva, approach us: be the augmenter, Indra, of these riches; Strong Thunderer, Lord of men, for potent valour, for manly exploit and for high dominion.\np:Thee, worth invoking, in the din of battle, heroes invoke in fray for life and sunlight.\np: Among all people thou art foremost fighter: give up our enemies to easy slaughter.\r\np:When fair bright days shall dawn on us, O Indra, and thou shalt bring thy banner near in battle, Agni the Devas shall sit as Herald, calling Devas hither for our great good fortune.\np:Thine are we, Indra, thine, both these who praise thee, and those who give rich gifts, O Deva and Hero. Grant to our princes excellent protection. May they wax old and still be strong and happy.\np:We will address this liberal Lord, this Indra that h. May grant us gifts of ample riches: Best favourer of the singer's prayer and praises. Preserve us evermore, ye Devas, with blessings.",
     "meta": {
       "next": "07031",
       "previous": "07029",
       "book": "07",
-      "source": "https://sacred-texts.com/hin/rigveda/rv07030.htm",
+      "original": "https://sacred-texts.com/hin/rigveda/rv07030.htm",
       "sanskrit": "https://sacred-texts.com/hin/rvsan/rv07030.htm"
     },
     "deities": [
@@ -36,7 +36,7 @@
         ]
       },
       {
-        "name": "O God",
+        "name": "O Deva",
         "hymns": [
           {
             "key": "07030",
@@ -47,5 +47,5 @@
     ]
   },
   "created": 1638555900812,
-  "updated": 1638830292525
+  "updated": 1639023784802
 }

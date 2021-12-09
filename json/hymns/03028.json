@@ -8,12 +8,12 @@
     "key": "03028",
     "title": "HYMN XXVIII. Agni.",
     "describe": "AGNI who knowest all, accept our offering and the cake of meal, At dawn's libation, rich in meditation!",
-    "feecting": "p:AGNI who knowest all, accept our offering and the cake of meal, At dawn's libation, rich in meditation!\np:Agni, the sacrificial cake hath been prepared and dressed for thee: Accept it, O Most Youthful God.\np:Agni, enjoy the cake of meal and our oblation three days old: Thou, Son of Strength, art stablished at our offering.\np:Here at the midday offering enjoy thou the sacrificial cake, wise, Jātavedas! Agni, the sages in assemblies never minish the portion due to thee the Mighty.\np:O Agni, at the third libation takewith joy the offered cake of offering Son of Strength.\np: Through skill in song bear to the Devas our offering, watchful and fraught with riches, to Immortal God.\r\np:O waxing Agni, knower of all, accept our gifts, the cake, and that prepared ere yesterday.",
+    "feecting": "p:AGNI who knowest all, accept our offering and the cake of meal, At dawn's libation, rich in meditation!\np:Agni, the sacrificial cake hath been prepared and dressed for thee: Accept it, O Most Youthful Deva.\np:Agni, enjoy the cake of meal and our oblation three days old: Thou, Son of Strength, art stablished at our offering.\np:Here at the midday offering enjoy thou the sacrificial cake, wise, Jātavedas! Agni, the sages in assemblies never minish the portion due to thee the Mighty.\np:O Agni, at the third libation takewith joy the offered cake of offering Son of Strength.\np: Through skill in song bear to the Devas our offering, watchful and fraught with riches, to Immortal Deva.\r\np:O waxing Agni, knower of all, accept our gifts, the cake, and that prepared ere yesterday.",
     "meta": {
       "next": "03029",
       "previous": "03027",
       "book": "03",
-      "source": "https://sacred-texts.com/hin/rigveda/rv03028.htm",
+      "original": "https://sacred-texts.com/hin/rigveda/rv03028.htm",
       "sanskrit": "https://sacred-texts.com/hin/rvsan/rv03028.htm"
     },
     "deities": [
@@ -47,5 +47,5 @@
     ]
   },
   "created": 1638554398640,
-  "updated": 1638830292041
+  "updated": 1639023784214
 }

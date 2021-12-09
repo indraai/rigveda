@@ -8,12 +8,12 @@
     "key": "03013",
     "title": "HYMN XIII. Agni.",
     "describe": "To Agni, to this Deva of yours I sing aloud with utmost power.",
-    "feecting": "p:To Agni, to this Deva of yours I sing aloud with utmost power.\np: May he come to us with the Devas, and sit, best offerer, on the grass.\r\np:The Holy, whose are Earth and Heaven, and assist waits upon his strength; Him men who bring oblations laud, and they who wish to gain, for grace.\np:He is the Sage who guides these men, Leader of sacred rites is he. Him your own Agni, serve ye well, who winneth and bestoweth wealth.\np:May the gracious Agni grant most goodly shelter for our use; Whence in the heavens or in the floods he shall pour wealth upon our lands.\np:The singers kindle him, the Monk, Agni the Lord of tribes of men, Resplendent and without a peer through his own excellent designs.\np:Help us, thou Brahman, best of all invokers of the Devas in song. Beam, Friend of Devas, bliss on us, O Agni, a most liberal God.\np:Yea, grant us treasure thousandfold with children and with nourishment, and, Agni, splendid hero strength, exalted, wasting not away.",
+    "feecting": "p:To Agni, to this Deva of yours I sing aloud with utmost power.\np: May he come to us with the Devas, and sit, best offerer, on the grass.\r\np:The Holy, whose are Earth and Heaven, and assist waits upon his strength; Him men who bring oblations laud, and they who wish to gain, for grace.\np:He is the Sage who guides these men, Leader of sacred rites is he. Him your own Agni, serve ye well, who winneth and bestoweth wealth.\np:May the gracious Agni grant most goodly shelter for our use; Whence in the heavens or in the floods he shall pour wealth upon our lands.\np:The singers kindle him, the Monk, Agni the Lord of tribes of men, Resplendent and without a peer through his own excellent designs.\np:Help us, thou Brahman, best of all invokers of the Devas in song. Beam, Friend of Devas, bliss on us, O Agni, a most liberal Deva.\np:Yea, grant us treasure thousandfold with children and with nourishment, and, Agni, splendid hero strength, exalted, wasting not away.",
     "meta": {
       "next": "03014",
       "previous": "03012",
       "book": "03",
-      "source": "https://sacred-texts.com/hin/rigveda/rv03013.htm",
+      "original": "https://sacred-texts.com/hin/rigveda/rv03013.htm",
       "sanskrit": "https://sacred-texts.com/hin/rvsan/rv03013.htm"
     },
     "deities": [
@@ -29,5 +29,5 @@
     ]
   },
   "created": 1638554319253,
-  "updated": 1638830292024
+  "updated": 1639023784190
 }

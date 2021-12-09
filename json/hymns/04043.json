@@ -6,14 +6,14 @@
   "api": "json/hymns/04043.json",
   "data": {
     "key": "04043",
-    "title": "HYMN XLIII. Aśvins.",
+    "title": "HYMN XLIII. Indra.",
     "describe": "WHO will hear, who of those who merit worship, which of all Devas take pleasure in our homage?",
-    "feecting": "p:WHO will hear, who of those who merit worship, which of all Devas take pleasure in our homage? On whose heart shall we lay this laud celestial, rich with fair offerings, dearest to Immortals?\np:Who will be gracious? Who will come most quickly of all the Devas? Who will bring bliss most largely? What car do they call swift with rapid coursers? That which the Daughter of the Sun elected.\np:So many days do ye come swiftly hither, as Indra to give help in stress of battle.\np: Descended from the sky, divine, strong-pinioned, by which of all your powers are ye most mighty?\r\np:What is the prayer that we should bring you, Aśvins, whereby ye come to us when invocated? Whether of you confronts e’en great betrayal? Lovers of sweetness, Dasras, help and save us.\np:In the wide space your chariot reacheth Heaven, what time it turneth hither from the ocean. Sweets from your sweet shall drop, lovers of sweetness! These have they dressed for you as dainty offerings.\np:Let Sindhu with his wave bedew your horses: in fiery glow have the red birds come hither. Observed of all was that your rapid going, whereby ye were the Lords of Sūrya's Daughter.\np:Whene’er I gratified you here together, your grace was given us, O ye rich in booty. Protect, ye Twain, the singer of your praises: to you, Nāsatyas, is my wish directed.",
+    "feecting": "p:WHO will hear, who of those who merit worship, which of all Devas take pleasure in our homage? On whose heart shall we lay this laud celestial, rich with fair offerings, dearest to Immortals?\np:Who will be gracious? Who will come most quickly of all the Devas? Who will bring bliss most largely? What car do they call swift with rapid coursers? That which the Daughter of the Sun elected.\np:So many days do ye come swiftly hither, as Indra to give help in stress of battle.\np: Descended from the sky, divine, strong-pinioned, by which of all your powers are ye most mighty?\r\np:What is the prayer that we should bring you, Indra, whereby ye come to us when invocated? Whether of you confronts e’en great betrayal? Lovers of sweetness, Dasras, help and save us.\np:In the wide space your chariot reacheth Heaven, what time it turneth hither from the ocean. Sweets from your sweet shall drop, lovers of sweetness! These have they dressed for you as dainty offerings.\np:Let Sindhu with his wave bedew your horses: in fiery glow have the red birds come hither. Observed of all was that your rapid going, whereby ye were the Lords of Sūrya's Daughter.\np:Whene’er I gratified you here together, your grace was given us, O ye rich in booty. Protect, ye Twain, the singer of your praises: to you, Nāsatyas, is my wish directed.",
     "meta": {
       "next": "04044",
       "previous": "04042",
       "book": "04",
-      "source": "https://sacred-texts.com/hin/rigveda/rv04043.htm",
+      "original": "https://sacred-texts.com/hin/rigveda/rv04043.htm",
       "sanskrit": "https://sacred-texts.com/hin/rvsan/rv04043.htm"
     },
     "deities": [
@@ -22,12 +22,12 @@
         "hymns": [
           {
             "key": "04043",
-            "title": "HYMN XLIII. Aśvins."
+            "title": "HYMN XLIII. Indra."
           }
         ]
       }
     ]
   },
   "created": 1638554804742,
-  "updated": 1638830292187
+  "updated": 1639023784394
 }

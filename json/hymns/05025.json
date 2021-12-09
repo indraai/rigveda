@@ -7,13 +7,13 @@
   "data": {
     "key": "05025",
     "title": "HYMN XXV. Agni.",
-    "describe": "I WILL sing near, for grace, your God Agni, for he is good to us.",
-    "feecting": "p:I WILL sing near, for grace, your God Agni, for he is good to us.\np: Son of the Brands. May he give gifts, and, righteous, save us from the foe.\r\np:For he is true, whom men of old enkindled, and the Devas themselves, the Monk with the delicious tongue, rich with the light of glorious beams.\np:With wisdom that surpasseth all, with gracious will most excellent, O Agni, worthy of our choice, shine wealth on us through hymns of praise.\np:Agni is King, for he extends to mortals and to Devas alike. Agni is bearer of our gifts. Worship ye Agni with your thoughts.\np:Agni gives to the worshipper a son, the best, of mightiest fame, Of deep devotion, ne’er subdued, bringer of glory to his sire.\np:Agni bestows the hero-lord who conquers with the men in fight. Agni bestows the fleet-foot steed, the victor never overcome.\np:The mightiest song is Agni's: shine on high, thou who art rich in light. Like the Chief Consort of a King, riches and strength proceed from thee.\np:Resplendent are thy rays of light: loud is thy voice like pressing-stones. Yea, of itself thy thunder goes forth like the roaring of the Heaven.\np:Thus, seeking riches, have we paid homage to Agni Conqueror. May he, most wise, as with a ship, carry us over all our foes.",
+    "describe": "I WILL sing near, for grace, your Deva Agni, for he is good to us.",
+    "feecting": "p:I WILL sing near, for grace, your Deva Agni, for he is good to us.\np: Son of the Brands. May he give gifts, and, righteous, save us from the foe.\r\np:For he is true, whom men of old enkindled, and the Devas themselves, the Monk with the delicious tongue, rich with the light of glorious beams.\np:With wisdom that surpasseth all, with gracious will most excellent, O Agni, worthy of our choice, shine wealth on us through hymns of praise.\np:Agni is King, for he extends to mortals and to Devas alike. Agni is bearer of our gifts. Worship ye Agni with your thoughts.\np:Agni gives to the worshipper a son, the best, of mightiest fame, Of deep devotion, ne’er subdued, bringer of glory to his sire.\np:Agni bestows the hero-lord who conquers with the men in fight. Agni bestows the fleet-foot steed, the victor never overcome.\np:The mightiest song is Agni's: shine on high, thou who art rich in light. Like the Chief Consort of a King, riches and strength proceed from thee.\np:Resplendent are thy rays of light: loud is thy voice like pressing-stones. Yea, of itself thy thunder goes forth like the roaring of the Heaven.\np:Thus, seeking riches, have we paid homage to Agni Conqueror. May he, most wise, as with a ship, carry us over all our foes.",
     "meta": {
       "next": "05026",
       "previous": "05024",
       "book": "05",
-      "source": "https://sacred-texts.com/hin/rigveda/rv05025.htm",
+      "original": "https://sacred-texts.com/hin/rigveda/rv05025.htm",
       "sanskrit": "https://sacred-texts.com/hin/rvsan/rv05025.htm"
     },
     "deities": [
@@ -29,5 +29,5 @@
     ]
   },
   "created": 1638555017105,
-  "updated": 1638830292240
+  "updated": 1639023784461
 }

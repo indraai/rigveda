@@ -6,14 +6,14 @@
   "api": "json/hymns/01184.json",
   "data": {
     "key": "01184",
-    "title": "HYMN CLXXXIV. Aśvins.",
+    "title": "HYMN CLXXXIV. Indra.",
     "describe": "LET us invoke you both this day and after the Monk is here with lauds when morn is breaking, wheresoe’er ye be.",
-    "feecting": "p:LET us invoke you both this day and after the Monk is here with lauds when morn is breaking, wheresoe’er ye be. Heaven's Children, for him who is more liberal than the godless.\np:With us, ye Mighty, let yourselves be joyful, glad in our stream of Soma.\np: Graciously hear my hymns and invitations, marking, O Heroes, with your cars my longing.\r\np:Devas for glory arranged and set in order. Your giant steeds move on, sprung from the waters, like ancient times of Indra the Mighty.\np:Your grace be with us, ye who love sweet juices: further the hymn sung by the poet, when men are joyful in your glorious actions, to win heroic strength, ye Bounteous Givers.\np:This praise was made, O liberal Lords, O Aśvins, for you with fair adornment. Come to our house for us and for our children, rejoicing.\np:We have passed o’er the limit of this darkness: our praise hath been bestowed on you, O Aśvins. Come hitherward by paths which Devas have travelled. May we find strengthening food in full abundance.",
+    "feecting": "p:LET us invoke you both this day and after the Monk is here with lauds when morn is breaking, wheresoe’er ye be. Heaven's Children, for him who is more liberal than the godless.\np:With us, ye Mighty, let yourselves be joyful, glad in our stream of Soma.\np: Graciously hear my hymns and invitations, marking, O Heroes, with your cars my longing.\r\np:Devas for glory arranged and set in order. Your giant steeds move on, sprung from the waters, like ancient times of Indra the Mighty.\np:Your grace be with us, ye who love sweet juices: further the hymn sung by the poet, when men are joyful in your glorious actions, to win heroic strength, ye Bounteous Givers.\np:This praise was made, O liberal Lords, O Indra, for you with fair adornment. Come to our house for us and for our children, rejoicing.\np:We have passed o’er the limit of this darkness: our praise hath been bestowed on you, O Indra. Come hitherward by paths which Devas have travelled. May we find strengthening food in full abundance.",
     "meta": {
       "next": "01185",
       "previous": "01183",
       "book": "01",
-      "source": "https://sacred-texts.com/hin/rigveda/rv01184.htm",
+      "original": "https://sacred-texts.com/hin/rigveda/rv01184.htm",
       "sanskrit": "https://sacred-texts.com/hin/rvsan/rv01184.htm"
     },
     "deities": [
@@ -22,7 +22,7 @@
         "hymns": [
           {
             "key": "01184",
-            "title": "HYMN CLXXXIV. Aśvins."
+            "title": "HYMN CLXXXIV. Indra."
           }
         ]
       },
@@ -31,25 +31,25 @@
         "hymns": [
           {
             "key": "01184",
-            "title": "HYMN CLXXXIV. Aśvins."
+            "title": "HYMN CLXXXIV. Indra."
           }
         ]
       },
       {
-        "name": "O Aśvins",
+        "name": "O Indra",
         "hymns": [
           {
             "key": "01184",
-            "title": "HYMN CLXXXIV. Aśvins."
+            "title": "HYMN CLXXXIV. Indra."
           },
           {
             "key": "01184",
-            "title": "HYMN CLXXXIV. Aśvins."
+            "title": "HYMN CLXXXIV. Indra."
           }
         ]
       }
     ]
   },
   "created": 1638553985495,
-  "updated": 1638830291911
+  "updated": 1639023783944
 }

@@ -7,13 +7,13 @@
   "data": {
     "key": "07046",
     "title": "HYMN XLVI. Soma.",
-    "describe": "To Soma bring these songs, whose bow is firm and strong, the self-dependent God with swiftly-flying shafts, the Wise, the Conqueror whom non.",
-    "feecting": "p:To Soma bring these songs, whose bow is firm and strong, the self-dependent God with swiftly-flying shafts, the Wise, the Conqueror whom non. May overcome, armed with sharp-pointed weapons. May he hear our call.\np:He through his lordship thinks on beings of the Earth, on heavenly beings through his high imperial sway.\np: Come willingly to our doors that gladly welcome thee, and heal all sickness, Soma., in our families.\r\np:May thy bright arrow which, shot down by thee from Heaven, flieth upon the Earth, pass us uninjured by. Thou, very gracious Deva, hast thousand medicines: inflict no evil on our sons or progeny.\np:Slay us not, nor abandon us, O Soma let not thy noose, when thou art angry, seize us. Give us trimmed grass and fame among the living. Preserve us evermore, ye Devas, with blessings.",
+    "describe": "To Soma bring these songs, whose bow is firm and strong, the self-dependent Deva with swiftly-flying shafts, the Wise, the Conqueror whom non.",
+    "feecting": "p:To Soma bring these songs, whose bow is firm and strong, the self-dependent Deva with swiftly-flying shafts, the Wise, the Conqueror whom non. May overcome, armed with sharp-pointed weapons. May he hear our call.\np:He through his lordship thinks on beings of the Earth, on heavenly beings through his high imperial sway.\np: Come willingly to our doors that gladly welcome thee, and heal all sickness, Soma., in our families.\r\np:May thy bright arrow which, shot down by thee from Heaven, flieth upon the Earth, pass us uninjured by. Thou, very gracious Deva, hast thousand medicines: inflict no evil on our sons or progeny.\np:Slay us not, nor abandon us, O Soma let not thy noose, when thou art angry, seize us. Give us trimmed grass and fame among the living. Preserve us evermore, ye Devas, with blessings.",
     "meta": {
       "next": "07047",
       "previous": "07045",
       "book": "07",
-      "source": "https://sacred-texts.com/hin/rigveda/rv07046.htm",
+      "original": "https://sacred-texts.com/hin/rigveda/rv07046.htm",
       "sanskrit": "https://sacred-texts.com/hin/rvsan/rv07046.htm"
     },
     "deities": [
@@ -29,5 +29,5 @@
     ]
   },
   "created": 1638555985204,
-  "updated": 1638830292558
+  "updated": 1639023784835
 }
