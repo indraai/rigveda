@@ -146,6 +146,10 @@ section.twitter {
 section.share {
   padding-top: 2rem;
 }
+section.share .discord {
+  visibility: hidden;
+  display: none;
+}
 section.info p {
   text-align: left;
   font-size: 1.25rem;
