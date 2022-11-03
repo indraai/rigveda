@@ -1,10 +1,11 @@
 :root {
-  --font-size: 14px;
+  --font-size: 20px;
   --font-family: 'brandon-grotesque', arial, helvetica, serif;
   --color-baby-blue: #5aa9f8;
   --color-red: #ff4b4b;
+  --color-grey-light: #cccccc;
   --color-grey: #9c9c9c;
-  --color-grey-dark: #333333;
+  --color-grey-dark: #212121;
   --color-green: #93d14a;
   --color-white: #ffffff;
   --max-width: 600px
@@ -14,15 +15,17 @@ body, div, header, main, footer, h1, h2, h3, h4, h5 {
 }
 
 body {
-  background-image: url(../img/background.jpg);
+  background-image: url(../img/background.png);
   background-position: top center;
   background-attachment: fixed;
-  background-size: 600px auto;
+  background-size: auto;
   background-repeat: no-repeat;
   font-family: var(--font-family);
   font-size: var(--font-size);
-  margin: 0
-  height: 0
+  background-color: var(--color-grey-dark);
+  color: var(--color-grey-light);
+  margin: 0;
+  height: 100%;
 }
 
 h1 {

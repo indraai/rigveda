@@ -366,7 +366,6 @@ const RIGVEDA = new Deva({
         `</head>`,
         `<body>`,
         `<header>`,
-        `<a href="index.html"><img src="img/title.png" alt="indra.ai is the place to learn the #rigveda." /></a>`,
         `<h2>${data.title}</h2>`,
         `</header>`,
         `<section class="info">`,
