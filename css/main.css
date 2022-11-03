@@ -48,6 +48,16 @@ section {
 header img {
   max-width: 100%;
 }
+
+menu {
+  padding: 0;
+  margin: 0;
+  text-align: center;
+  font-size: 1.5rem;
+}
+menu a {
+  margin: 0 .5rem;
+}
 main {
   font-size: calc(var(--font-size) + 6px);
   max-width: var(--max-width);
@@ -65,7 +75,7 @@ section.twitter {
   padding: 1rem
 }
 
-.feecting-box.books {
+.box.books {
   display: flex;
   flex-flow: row wrap;
   justify-content: center;
@@ -74,7 +84,7 @@ section.twitter {
 }
 
 
-.feecting-box.nav {
+.box.nav {
   display: flex;
   flex-flow: row nowrap;
   border-radius: .5rem;
@@ -82,18 +92,18 @@ section.twitter {
   gap: 3px;
 }
 
-.feecting-box.books .href {
+.box.books .href {
   flex: 1 30%;
   padding: 2rem 0;
 }
-.feecting-box.nav .href {
+.box.nav .href {
   flex: 1;
   padding: 1rem 0;
   padding: .5rem;
   font-size: 1rem;
 }
-.feecting-box.books .href,
-.feecting-box.nav .href {
+.box.books .href,
+.box.nav .href {
   text-align: center;
   border: 1px solid var(--color-grey);
   background-color:transparent;
@@ -101,31 +111,31 @@ section.twitter {
   box-shadow: 0 1px 1px rgba(0,0,0,.15);
 }
 
-.feecting-box.books .href:visited,
-.feecting-box.nav .href:visited {
+.box.books .href:visited,
+.box.nav .href:visited {
   color: var(--color-red);
 }
 
-.feecting-box.books .href:hover,
-.feecting-box.nav .href:hover {
+.box.books .href:hover,
+.box.nav .href:hover {
   color: var(--color-green);
   border-color: var(--color-grey-dark);
   box-shadow: 0 3px 4px rgba(0,0,0,.25);
 }
 
-.feecting-box.books .href:active,
-.feecting-box.nav .href:active {
+.box.books .href:active,
+.box.nav .href:active {
   color: var(--color-red);
   box-shadow: 0 0px 1px rgba(0,0,0,.5);
 }
 
-.feecting-box.book .number-item {
+.box.book .number-item {
   display: flex;
   flex: row nowrap;
   padding: 5px 0;
 }
 
-.feecting-box.book .number-item::before {
+.box.book .number-item::before {
   content: attr(data-label);
   display: inline-block;
   min-width: 50px;
