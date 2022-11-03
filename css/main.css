@@ -25,6 +25,7 @@ body {
   background-color: var(--color-grey-dark);
   color: var(--color-grey-light);
   margin: 0;
+  padding: 1rem;
   height: 100%;
 }
 
