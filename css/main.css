@@ -1,11 +1,12 @@
 :root {
   --font-size: 20px;
   --font-family: 'brandon-grotesque', arial, helvetica, serif;
-  --color-baby-blue: #5aa9f8;
+  --color-blue: #5aa9f8;
   --color-red: #ff4b4b;
   --color-grey-light: #cccccc;
   --color-grey: #9c9c9c;
   --color-grey-dark: #212121;
+  --color-grey-darkest: #181818;
   --color-green: #93d14a;
   --color-white: #ffffff;
   --max-width: 600px
@@ -71,7 +72,7 @@ main {
 a {
   transition: all .25s linear;
   text-decoration: none;
-  color: var(--color-baby-blue);
+  color: var(--color-blue);
   text-shadow: 0 1px 2px rgba(0,0,0,.35);
 }
 
@@ -108,29 +109,27 @@ section.twitter {
 }
 .box.books .href,
 .box.nav .href {
+  color: var(--color-grey);
   text-align: center;
-  border: 1px solid var(--color-grey);
-  background-color:transparent;
+  background-color: var(--color-grey-darkest);
+  border: 1px solid var(--color-grey-dark);
   border-radius: .5rem;
   box-shadow: 0 1px 1px rgba(0,0,0,.15);
 }
 
-.box.books .href:visited,
-.box.nav .href:visited {
-  color: var(--color-red);
-}
-
 .box.books .href:hover,
 .box.nav .href:hover {
-  color: var(--color-green);
-  border-color: var(--color-grey-dark);
-  box-shadow: 0 3px 4px rgba(0,0,0,.25);
+  background-color: var(--color-grey-dark);
+  border: 1px solid var(--color-grey-darkest);
+  box-shadow: 0 0 9px var(--color-blue);
+  color: var(--color-blue);
+  cursor: pointer;
 }
 
 .box.books .href:active,
 .box.nav .href:active {
   color: var(--color-red);
-  box-shadow: 0 0px 1px rgba(0,0,0,.5);
+  box-shadow: 0 0 3px var(--color-red);
 }
 
 .box.book .number-item {
