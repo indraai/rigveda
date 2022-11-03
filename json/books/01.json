@@ -177,12 +177,12 @@
     },
     {
       "key": "01022",
-      "title": "HYMN XXII. Indra and Others",
+      "title": "HYMN XXII. Indra",
       "orig": "https://www.sacred-texts.com/hin/rigveda/rv01022.htm",
       "link": "hymns/01022.html",
       "api": "json/hymns/01022.json",
       "created": 1638559869751,
-      "updated": 1639023783499
+      "updated": 1667439485798
     },
     {
       "key": "01023",

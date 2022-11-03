@@ -1,0 +1,108 @@
+{
+  "name": ":name: Data File",
+  "describe": "The main Data file for :name:",
+  "copyright": "Copyright (c)2022 Quinn Michaels. All rights reserved.",
+  "data": {
+
+    "client": {
+      "id": 1539551216544,
+      "key": "RIG",
+      "name": "rigveda",
+      "describe": "Rigveda Client",
+      "prompt": {
+        "emoji": "🧢",
+        "text": "rig",
+        "colors": {
+          "label": {
+            "R": 255,
+            "G": 163,
+            "B": 41
+          },
+          "text": {
+            "R": 255,
+            "G": 173,
+            "B": 67
+          }
+        }
+      },
+      "profile": {
+        "emoji": "/public/img/user/emoji.png",
+        "avatar": "/public/img/user/avatar.png",
+        "background": "background-image-url",
+        "name": "Rigveda Client",
+        "describe": "The Rigveda Client",
+        "gender": "Greatness",
+        "lang": "en"
+      }
+    },
+    "agent": {
+      "id": 1539551216545,
+      "key": "rigveda",
+      "name": "#rigveda",
+      "describe": "#rigveda Agent",
+      "prompt": {
+        "emoji": "⊙",
+        "text": "#rigveda",
+        "colors": {
+          "label": {
+            "R": 0,
+            "G": 150,
+            "B": 255
+          },
+          "text": {
+            "R": 101,
+            "G": 192,
+            "B": 255
+          }
+        }
+      },
+      "voice": {
+        "speech": "Brian",
+        "speed": 1
+      },
+      "profile": {
+        "avatar": "",
+        "background": "",
+        "describe": "",
+        "gender": "N"
+      }
+    },
+    "vars": {
+      "messages": {
+        "init": "🟠 INIT",
+        "start": "🔵 START",
+        "enter": "🟢 ENTER",
+        "stop": "🔴 STOP",
+        "exit": "🟡 EXIT",
+        "done": "🟣 DONE",
+        "error": "💣 ERROR!",
+        "crawl": "🕷 AGENT IS CRAWLING FOR RESOURCES.",
+        "cleaner": "🧹 THE CLEANER IS DONE.",
+        "buildindex": "📚 INDEX >",
+        "buildindexdone": "✅ INDEX DONE",
+        "buildbooks": "📘 BOOK >",
+        "buildbooksdone": "✅ BOOKs DONE",
+        "buildhymns": "🖋 HYMN >",
+        "buildhymnsdone": "✅ HYMNs DONE",
+        "notfound": "📜 HYMN NOT FOUND.",
+        "devainit": "✨ DEVA INIT"
+      },
+      "timer": {
+        "cleaner": 5000,
+        "crawl": 1000
+      },
+      "crawling": false,
+      "que": [],
+      "build": [],
+      "deities": [],
+      "paths": {
+        "api": "https://www.sacred-texts.com/hin/rigveda/",
+        "skrit": "https://www.sacred-texts.com/hin/rvsan/",
+        "sync": "/Users/quinn/Dev/IndraAI/repo/rigveda/",
+        "archive": "/Users/quinn/Dev/IndraAI/repo/rigveda/json/",
+        "church": "https://indra.ai/rigveda/"
+      },
+      "describe": "The RigVeda is one of the most ancient texts known to man. Inside are stories, lessons, and knowledge to be found. Where Vamraka, Indu, Indra, Soma, Agni, Yama, and all the best ancient Devas live."
+    }
+  }
+}

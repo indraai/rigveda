@@ -1,0 +1,32 @@
+{
+  "name": "rigveda",
+  "version": "0.0.1",
+  "description": "The #rigveda builder",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/indraai/rigveda.git"
+  },
+  "keywords": [
+    "rigveda",
+    "deva",
+    "indra"
+  ],
+  "author": "Quinn Michaels",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/indraai/rigveda/issues"
+  },
+  "homepage": "https://github.com/indraai/rigveda#readme",
+  "devDependencies": {
+    "@fastify/static": "^6.5.0",
+    "@indra.ai/feectingdeva": "^0.0.11",
+    "chalk": "^5.1.2",
+    "fastify": "^4.9.2",
+    "he": "^1.2.0"
+  }
+}
